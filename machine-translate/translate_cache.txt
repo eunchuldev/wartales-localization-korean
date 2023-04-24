@@ -11674,7 +11674,7 @@
 0/cdb/11/sheet/68/MischiefMakerCritical/1/desc/0/#text¬The troop's [CritHitDamageBonusPercent] is increased by [ATTR_0]%¬부대의 <_e121>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/69/Doped/0/name/0/#text¬Drugged Up¬약에 취한
 0/cdb/11/sheet/69/Doped/1/desc/0/#text¬The unit ignores their next injury.¬부대가 다음 부상을 무시합니다.
-0/cdb/11/sheet/70/Zeal/0/name/0/#text¬Zeal¬열심
+0/cdb/11/sheet/70/Zeal/0/name/0/#text¬Zeal¬열정
 0/cdb/11/sheet/70/Zeal/1/desc/0/#text¬[CritHitPercent] and [CritHitDamageBonusPercent] increased by [ATTR_0]%.¬<_e110> 및 <_e121>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/71/Frenzy/0/name/0/#text¬Frenzy¬광란
 0/cdb/11/sheet/71/Frenzy/1/desc/0/#text¬This unit's damage increases as their health decreases, and their attacks always land critical hits.¬이 유닛의 공격력이 체력이 감소할수록 증가하며, 공격 시 항상 치명타를 적중시킵니다.
