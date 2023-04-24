@@ -704,7 +704,7 @@
       <text>그들의 마지막 전투였습니다...</text>
     </UnitStatusDead>
     <UnitStatusAfraid>
-      <text>이 부대는 전투 중 부대를 이탈했습니다.</text>
+      <text>이 유닛은 전투 중 부대를 이탈했습니다.</text>
     </UnitStatusAfraid>
     <AptitudePoint>
       <text>적성 포인트</text>
@@ -715,7 +715,7 @@
     </ActivityInjuredUnit>
     <Backstab>
       <text>매복</text>
-      <desc>이 부대가 교전 중인 적을 뒤에서 공격할 때 발동합니다.</desc>
+      <desc>이 유닛이 교전 중인 적을 뒤에서 공격할 때 발동합니다.</desc>
     </Backstab>
     <DeadlyBlow>
       <text>치명타</text>
@@ -29709,7 +29709,7 @@
     </Glouton>
     <Pickpocket>
       <name>소매치기</name>
-      <desc>비용 &lt;gold&gt;+[VALUE]&lt;/gold&gt; 임금.</desc>
+      <desc>&lt;gold&gt;+[VALUE]&lt;/gold&gt; 임금을 지불합니다.</desc>
     </Pickpocket>
     <Pretending>
       <name>게으른</name>
@@ -29721,7 +29721,7 @@
     </Stupid>
     <Bootleg>
       <name>평발</name>
-      <desc>[Movement](이)가 [ATTR]% 감소합니다.</desc>
+      <desc>[Movement](이)가 [ATTR] 감소합니다.</desc>
     </Bootleg>
     <Sickly>
       <name>수척함</name>
@@ -29729,15 +29729,15 @@
     </Sickly>
     <Unlucky>
       <name>불운함</name>
-      <desc>[CritHitPercent](이)가 [ATTR] %만큼 감소합니다.</desc>
+      <desc>[CritHitPercent](이)가 [ATTR]%만큼 감소합니다.</desc>
     </Unlucky>
     <Slacker>
       <name>게으름</name>
-      <desc>[Transport](이)가 [ATTR]% 감소합니다.</desc>
+      <desc>[Transport](이)가 [ATTR] 감소합니다.</desc>
     </Slacker>
     <Depressive>
       <name>우울함</name>
-      <desc>[Willpower](이)가 [ATTR]% 감소합니다.</desc>
+      <desc>[Willpower](이)가 [ATTR] 감소합니다.</desc>
     </Depressive>
     <Alcoholic>
       <name>알콜중독자</name>
@@ -29801,7 +29801,7 @@
     </ShieldLover>
     <Silent>
       <name>조용함</name>
-      <desc>버려진 마을에서 소음이 [VALUE]% 감소합니다.</desc>
+      <desc>버려진 마을에서 소음이 [VALUE] 감소합니다.</desc>
     </Silent>
     <EyesBack>
       <name>뒤통수의 눈</name>
@@ -29841,7 +29841,7 @@
     </Brave>
     <EagleEyed>
       <name>이글아이</name>
-      <desc>[Precision](이)가 [ATTR] %만큼 증가합니다.</desc>
+      <desc>[Precision](이)가 [ATTR]%만큼 증가합니다.</desc>
     </EagleEyed>
     <Humanist>
       <name>이타적</name>
@@ -29869,7 +29869,7 @@
     </Haemophiliac>
     <Noisy>
       <name>시끄러움</name>
-      <desc>버려진 마을의 소음이 [VALUE]% 증가합니다.</desc>
+      <desc>버려진 마을의 소음이 [VALUE] 증가합니다.</desc>
     </Noisy>
     <Superstitious>
       <name>미신</name>
@@ -30059,7 +30059,7 @@
     </Strategist>
     <Desperate>
       <name>절박한</name>
-      <desc>[Willpower] [ATTR]% 감소합니다.</desc>
+      <desc>[Willpower] [ATTR] 감소합니다.</desc>
     </Desperate>
     <Cold>
       <name>분노</name>
@@ -30756,7 +30756,7 @@
       <desc>이 검의 검자루 끝에 있는 눈은 이단자들을 불태우고 싶은 참을 수 없는 충동을 불러일으킵니다.</desc>
     </SwordRareInquisition>
     <SwordRareFugitive02>
-      <name>Fervour</name>
+      <name>열정</name>
       <desc>실라는 이 울프버트를 휘둘러 모든 것을 보는 눈의 이름으로 무고한 자나 이단자나 가리지 않고 죽였습니다.</desc>
     </SwordRareFugitive02>
     <SwordRareFugitive19>
@@ -32144,8 +32144,8 @@
       <desc>이 작은 포장에 들어있는 효모는 건조한 곳에 보관해야 합니다.</desc>
     </BeltAccPrisonerWorkBrewBarrel>
     <BeltAccPrisonerWorkSkinDryingRack>
-      <name>식물 태닝</name>
-      <desc>식물에서 추출한 분말로 가죽을 태닝하는 데 사용됩니다.</desc>
+      <name>식물 무두질</name>
+      <desc>식물에서 추출한 분말로 가죽을 무두질하는 데 사용됩니다.</desc>
     </BeltAccPrisonerWorkSkinDryingRack>
     <BeltAccPrisonerWorkBeeHive>
       <name>양봉 마스크</name>
@@ -33764,15 +33764,15 @@
       <desc>[ASSIGN] 휴식할 때마다 &lt;ap&gt;&lt;good&gt;+&lt;/good&gt;&lt;/ap&gt; &lt;ap&gt;&lt;good&gt;[VALUE]&lt;/good&gt;&lt;/ap&gt;(을)를 생성합니다.</desc>
     </TentT3>
     <PonyAuge>
-      <name>히칭 포스트</name>
+      <name>마굿간</name>
       <desc>조랑말을 여물통에 배치하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.</desc>
     </PonyAuge>
     <PonyAugeT2>
-      <name>히칭 포스트</name>
+      <name>마굿간</name>
       <desc>조랑말을 여물통에 배치하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.</desc>
     </PonyAugeT2>
     <PonyAugeT3>
-      <name>히칭 포스트</name>
+      <name>마굿간</name>
       <desc>조랑말을 여물통에 배정하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.</desc>
     </PonyAugeT3>
     <CookingPot>
@@ -33914,7 +33914,7 @@
     <Banner>
       <name>깃발</name>
       <desc>
-        이 깃발은 부대와 자부심을 나타냅니다.<br/><br/>[ASSIGN] 모든 부대는 이 깃발을 자랑스럽게 달고 다닐 것입니다.
+        이 깃발은 당신의 부대와 자부심을 나타냅니다.<br/><br/>[ASSIGN] 할당된 유닛은 이 깃발을 자랑스럽게 들고 다닐 것입니다.
       </desc>
     </Banner>
     <Chest>
@@ -34068,11 +34068,11 @@
       <desc>부대는 생존을 위해 동족을 잡아먹는 것을 포함하여 무엇이든 할 준비가 되어 있습니다.</desc>
     </Cannibalism>
     <HumanTannery>
-      <name>기타 태닝</name>
+      <name>기타 가죽 무두질</name>
       <desc>동료가 더 이상 인간을 동물처럼 대하는 데 아무런 거리낌이 없습니다.</desc>
     </HumanTannery>
     <Cunning>
-      <name>교묘한 도저</name>
+      <name>솜씨좋은 도둑</name>
       <desc>동료들이 범죄 기술을 연마하고 은신 기술을 익히고 있습니다.</desc>
     </Cunning>
     <RecruitCostReduced>
@@ -34845,7 +34845,7 @@
     </Dash>
     <Taunt>
       <name>도발</name>
-      <desc>대상에게 교전을 강요하고 ::value1:: 라운드 동안 [Weakening] 피해를 입힙니다.</desc>
+      <desc>대상에게 교전을 강요하고 ::value1:: 라운드 동안 [Weakening](을)를 가합니다.</desc>
     </Taunt>
     <Aim>
       <name>조준</name>
@@ -34959,7 +34959,7 @@
     </SkillRepositioning>
     <Intervention>
       <name>개입</name>
-      <desc>이 유닛은 전투 중인 인접한 아군과 위치를 바꿀 수 있습니다. 그러면 이 부대는 교전에 참여하여 기회공격을 가합니다.</desc>
+      <desc>이 유닛은 전투 중인 인접한 아군과 위치를 바꿀 수 있습니다. 그러면 이 유닛은 교전에 참여하여 기회공격을 가합니다.</desc>
     </Intervention>
     <Anticipation>
       <name>예상</name>
@@ -34971,7 +34971,7 @@
     </DefensiveRiposte>
     <Swiftness>
       <name>민첩성</name>
-      <desc>이 부대는 ::value1::% 확률로 원거리 및 광역 공격을 회피합니다.</desc>
+      <desc>이 유닛은 ::value1::% 확률로 원거리 및 광역 공격을 회피합니다.</desc>
     </Swiftness>
     <LoneWolf>
       <name>고독한 늑대</name>
@@ -34979,7 +34979,7 @@
     </LoneWolf>
     <Unstoppable>
       <name>무적</name>
-      <desc>이 부대는 무적 상태가 되어 적 전열을 통과할 수 있습니다.</desc>
+      <desc>이 유닛은 무적 상태가 되어 적 전열을 통과할 수 있습니다.</desc>
     </Unstoppable>
     <WeaponSwapSword>
       <name>보조 무기</name>
@@ -35029,7 +35029,7 @@
     </LongTermePlan>
     <DeathLure>
       <name>무모한</name>
-      <desc>이 부대는 ::value1:: 라운드당 [Frenzy](을)를 얻습니다.</desc>
+      <desc>이 유닛은 ::value1:: 라운드당 [Frenzy](을)를 얻습니다.</desc>
     </DeathLure>
     <ClassSpecialization>
       <name>병과 전문화</name>
@@ -35037,11 +35037,11 @@
     </ClassSpecialization>
     <Bulwark>
       <name>방벽</name>
-      <desc>이 부대가 교전할 때마다 [Deflection](을)를 얻습니다.</desc>
+      <desc>이 유닛이 교전할 때마다 [Deflection](을)를 얻습니다.</desc>
       <levels>
         <line0>
           <desc>
-            이 부대가 교전에 참여할 때마다 [Deflection](을)를 획득합니다.<br/>(이)가 부대가 전투에서 벗어날 때마다 [Fury](을)를 획득합니다.
+            이 유닛이 교전에 참여할 때마다 [Deflection](을)를 획득합니다.<br/>(이)가 부대가 전투에서 벗어날 때마다 [Fury](을)를 획득합니다.
           </desc>
         </line0>
       </levels>
@@ -35102,7 +35102,7 @@
       <levels>
         <line0>
           <desc>
-            대상에게 [DMG](을)를 주고 [Riposte](을)를 획득합니다.<br/>(이)가 유닛이 이미 [Riposte](을)를 가지고 있다면 피해량이 ::value1::% 증가합니다.
+            대상에게 [DMG](을)를 주고 [Riposte](을)를 획득합니다.<br/>이 유닛이 이미 [Riposte](을)를 가지고 있다면 피해량이 ::value1::% 증가합니다.
           </desc>
         </line0>
       </levels>
@@ -35129,11 +35129,11 @@
     </CombatGrip>
     <HardTraining>
       <name>하드코어 훈련</name>
-      <desc>이 부대는 [Bleeding], [Poison] 또는 [Burning]에 면역입니다.</desc>
+      <desc>이 유닛은 [Bleeding], [Poison] 또는 [Burning]에 면역입니다.</desc>
       <levels>
         <line0>
           <desc>
-            이 부대는 [Bleeding], [Poison] 또는 [Burning]에 면역입니다.<br/>(이)가 효과의 영향을 받아야 할 때, 대신 ::value1:: [AnimalMarkedBonus](을)를 얻습니다(라운드당 효과당 한 번).
+            이 유닛은 [Bleeding], [Poison] 또는 [Burning]에 면역입니다.<br/>(이)가 효과의 영향을 받아야 할 때, 대신 ::value1:: [AnimalMarkedBonus](을)를 얻습니다(라운드당 효과당 한 번).
           </desc>
         </line0>
       </levels>
@@ -35400,7 +35400,7 @@
     <SpearThrow>
       <name>피어싱 던지기</name>
       <desc>
-        해당 지역의 모든 유닛에게 [DMG](을)를 줍니다.<br/>첫 번째 적중 유닛에게 [Bleeding] 피해를 줍니다.
+        해당 지역의 모든 유닛에게 [DMG](을)를 줍니다.<br/>첫 번째 적중 유닛에게 [Bleeding](을)를 줍니다.
       </desc>
       <levels>
         <line0>
@@ -35558,7 +35558,7 @@
     </ExceedingLimits>
     <Opportunism>
       <name>기회주의</name>
-      <desc>이 유닛으로부터 ::value2:: 미터 이내에 ::value1::% 이상의 적이 있는 한, 이 유닛은 [Protection].</desc>
+      <desc>이 유닛으로부터 ::value2:: 미터 이내에 ::value1:: 이상의 적이 있는 한, 이 유닛은 [Protection](을)를 얻습니다.</desc>
       <levels>
         <line0>
           <desc>
@@ -35573,7 +35573,7 @@
       <levels>
         <line0>
           <desc>
-            [DamageBonusPercent] 그리고 디버프가 하나 이상인 유닛에 대한 [CritHitPercent] 공격력이 ::value1::% 증가합니다.<br/>그 대신, 이 유닛에게 ::value1::% 적은 [DamageBonusPercent] 피해를 줍니다.
+            [DamageBonusPercent] 그리고 디버프가 하나 이상인 유닛에 대한 [CritHitPercent] 공격력이 ::value1::% 증가합니다.<br/>그 대신, 이 유닛에게 ::value1::% 적은 [DamageBonusPercent](을) 를 줍니다.
           </desc>
         </line0>
       </levels>
@@ -35909,12 +35909,12 @@
     <CorrosiveBomb>
       <name>부식성 액체</name>
       <desc>
-        해당 지역의 모든 적에게 [Corrosion] 피해를 줍니다.<br/>중첩 불가.
+        해당 지역의 모든 적에게 [Corrosion](을)를 줍니다.<br/>중첩 불가.
       </desc>
     </CorrosiveBomb>
     <NetThrow>
       <name>그물 던지기</name>
-      <desc>대상에게 ::value1:: 라운드 동안 [Slowdown] 피해를 줍니다.</desc>
+      <desc>대상에게 ::value1:: 라운드 동안 [Slowdown](을)를 적용합니다.</desc>
     </NetThrow>
     <Transmission>
       <name>오염</name>
@@ -35982,7 +35982,7 @@
     <OathOfTheCowards>
       <name>겁쟁이의 맹세</name>
       <desc>[DamageBonusPercent] 전투 중인 대상에게 주는 피해가 ::value1::%만큼 증가합니다.</desc>
-      <props.descPassiveGroup>[GROUPTYPE]전투 중인 대상에게 주는 [DamageBonusPercent] 피해가 ::value1::%만큼 증가합니다. 교전 중인 유닛이 우선 공격 대상이 됩니다.</props.descPassiveGroup>
+      <props.descPassiveGroup>[GROUPTYPE]: 전투 중인 대상에게 주는 [DamageBonusPercent](이)가 ::value1::%만큼 증가합니다. 교전 중인 유닛이 우선 공격 대상이 됩니다.</props.descPassiveGroup>
     </OathOfTheCowards>
     <DishonorableTechnics>
       <name>불명예스러운 속임수</name>
@@ -36079,10 +36079,10 @@
     </ShootOrder>
     <Interception>
       <name>인터셉트</name>
-      <desc>교전을 해제하고 일직선으로 돌진합니다. 경로에 있는 모든 유닛에게 [DMG](을)를 주고 ::value1:: 라운드에 [Slowdown] 피해를 줍니다.</desc>
+      <desc>교전을 해제하고 일직선으로 돌진합니다. 경로에 있는 모든 유닛에게 [DMG](을)를 주고 ::value1:: 라운드에 [Slowdown](을)를 줍니다.</desc>
     </Interception>
     <FunctionnalPairing>
-      <name>기능 듀오</name>
+      <name>기능적인 듀오</name>
       <desc>대상에게 [DMG](을)를 줍니다. 아군과 전투 중일 경우, 이 아군은 [Riposte](을)를 얻습니다.</desc>
     </FunctionnalPairing>
     <BlowsFlurry>
@@ -36100,7 +36100,7 @@
     <MilitaryChoreography>
       <name>군사 안무</name>
       <desc>
-         ::value1:: 공격할 때마다 [Fury].<br/><br/>수행한 공격의 %를 얻습니다: ::value2::
+         ::value1::번 공격할 때마다 [Fury](을)를 얻습니다.<br/><br/>수행한 공격 횟수: ::value2::
       </desc>
     </MilitaryChoreography>
     <MedicalAssistance>
@@ -36119,8 +36119,8 @@
       <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 아군 옆에서 자신의 턴을 끝낼 때마다 [Deflection](을)를 얻습니다.</props.descPassiveGroup>
     </MilitaryFormation>
     <AloneAgainstAll>
-      <name>다수 대 다수</name>
-      <desc>이 부대는 수적으로 열세일 때 [Protection] 및 [Brutality](을)를 얻습니다.</desc>
+      <name>소수 대 다수</name>
+      <desc>이 유닛은 수적으로 열세일 때 [Protection] 및 [Brutality](을)를 얻습니다.</desc>
       <props.descPassiveGroup>[GROUPTYPE]: 이 유닛은 [Protection] 및 [Brutality](을)를 가집니다.</props.descPassiveGroup>
     </AloneAgainstAll>
     <FugitivePolearmLegion>
@@ -36164,7 +36164,7 @@
     <ArmorCrushing>
       <name>갑옷 분쇄</name>
       <desc>
-        해당 지역의 모든 유닛에게 [DMG](을)를 줍니다.<br/>아군이 [Armor] 피해를 입었다면 [Bleeding] 적용합니다.
+        해당 지역의 모든 유닛에게 [DMG](을)를 줍니다.<br/> [Armor] 피해를 입혔다면 [Bleeding](을)를 적용합니다.
       </desc>
     </ArmorCrushing>
     <AttackOrder>
@@ -36203,8 +36203,8 @@
     </Exaltation>
     <ForcefulRelease>
       <name>강제 교전 해제</name>
-      <desc>이 부대가 전투 중 턴을 시작하면 턴이 끝날 때 기회공격을 실행합니다.</desc>
-      <props.descPassiveGroup>[GROUPTYPE]: 이 부대가 전투 중 턴을 종료하면 기회공격을 실행합니다.</props.descPassiveGroup>
+      <desc>이 유닛이 전투 중 턴을 시작하면 턴이 끝날 때 기회공격을 실행합니다.</desc>
+      <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 전투 중 턴을 종료하면 기회공격을 실행합니다.</props.descPassiveGroup>
     </ForcefulRelease>
     <CloseRanks>
       <name>근접 대열</name>
@@ -36213,7 +36213,7 @@
     </CloseRanks>
     <FervorOfTheLaw>
       <name>합법적 열정</name>
-      <desc>이 부대가 기회공격으로 주는 피해가 ::value1::%만큼 증가하며, ::value2:: 라운드 동안 [Confus](이)가 적용됩니다.</desc>
+      <desc>이 유닛이 기회공격으로 주는 피해가 ::value1::%만큼 증가하며, ::value2:: 라운드 동안 [Confus](이)가 적용됩니다.</desc>
       <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 기회공격으로 주는 피해가 ::value1::%만큼 증가하고 ::value2:: 라운드 동안 [Confus](이)가 적용됩니다.</props.descPassiveGroup>
     </FervorOfTheLaw>
     <FugitiveAxe2hGuard>
@@ -36268,7 +36268,7 @@
     </EagleEye>
     <AttackStrategy>
       <name>공격 전략</name>
-      <desc>이 부대와 아군은 [BrutalityLeader](을)를 가지고 있습니다.</desc>
+      <desc>이 유닛과 아군은 [BrutalityLeader](을)를 가지고 있습니다.</desc>
     </AttackStrategy>
     <EliteMercenaries>
       <name>엘리트 용병</name>
@@ -36340,13 +36340,13 @@
     </IronWill>
     <ExhilaratingFervour>
       <name>짜릿한 열정</name>
-      <desc>이 부대가 적과 직접 교전하면 기회공격을 실행합니다.</desc>
-      <props.descPassiveGroup>[GROUPTYPE]: 이 부대가 적과 직접 교전하면 기회공격을 실행합니다.</props.descPassiveGroup>
+      <desc>이 유닛이 적과 직접 교전하면 기회공격을 실행합니다.</desc>
+      <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 적과 직접 교전하면 기회공격을 실행합니다.</props.descPassiveGroup>
     </ExhilaratingFervour>
     <Penance>
       <name>참회</name>
       <desc>이 유닛이 [Health]에 피해를 받을 때마다 ::value1:: [AnimalMarkedBonus](을)를 얻습니다.</desc>
-      <props.descPassiveGroup>[GROUPTYPE]: 이 부대가 [Health]에 피해를 받을 때마다 ::value1:: [AnimalMarkedBonus](을)를 얻습니다.</props.descPassiveGroup>
+      <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 [Health]에 피해를 받을 때마다 ::value1:: [AnimalMarkedBonus](을)를 얻습니다.</props.descPassiveGroup>
     </Penance>
     <FugitiveSwordInquisition>
       <name>처벌</name>
@@ -36530,7 +36530,7 @@
     </GoodCompanion>
     <DraughtBoar>
       <name>수레 멧돼지</name>
-      <desc>[Transport] ::value1::% 증가합니다.</desc>
+      <desc>[Transport](이)가 ::value1:: 증가합니다.</desc>
     </DraughtBoar>
     <FarmedBoar>
       <name>가축 멧돼지</name>
@@ -36593,27 +36593,27 @@
     </Pack>
     <SenseOfSacrifice>
       <name>자기 희생</name>
-      <desc>이 부대가 전투에 참여하지 않고 아군 근처에 있는 동안, 이 부대는 [Fragility](을)를 얻는 대신 아군에게 [Protection](을)를 줍니다.</desc>
+      <desc>이 유닛이 전투에 참여하지 않고 아군 근처에 있는 동안, 이 유닛은 [Fragility](을)를 얻는 대신 아군에게 [Protection](을)를 줍니다.</desc>
     </SenseOfSacrifice>
     <CarnivorousDiet>
-      <name>육식 다이어트</name>
-      <desc>이 유닛이 적을 처치할 때마다 최대 생명력 회복량의 ::value1::%만큼 스스로 회복합니다 [Health].</desc>
+      <name>육식 주의 식단</name>
+      <desc>이 유닛이 적을 처치할 때마다 최대 [Health]의 ::value1::%만큼 스스로 회복합니다.</desc>
     </CarnivorousDiet>
     <LockingHisWounds>
       <name>상처 핥기</name>
-      <desc>이 유닛은 최대 생명력 회복량 [Health]의 ::value1::%만큼 생명력을 회복하고 모든 디버프가 제거됩니다.</desc>
+      <desc>이 유닛은 최대 [Health]의 ::value1::%만큼 회복하고 모든 디버프가 제거됩니다.</desc>
     </LockingHisWounds>
     <Watchwolf>
       <name>경비 늑대</name>
-      <desc>아군 부대가 휴식 중에 공격을 받으면 [Surprised]에 면역이 되고, 이 부대는 [Galvanization](을)를 얻습니다.</desc>
+      <desc>아군 부대가 휴식 중에 공격을 받으면 [Surprised]에 면역이 되고, 이 유닛은 [Galvanization](을)를 얻습니다.</desc>
     </Watchwolf>
     <BornHunter>
       <name>타고난 사냥꾼</name>
-      <desc>이 부대는 휴식 중에 야생 사냥감을 잡을 확률이 있습니다.</desc>
+      <desc>이 유닛은 휴식 중에 야생 사냥감을 잡을 확률이 있습니다.</desc>
     </BornHunter>
     <MoonHowl>
       <name>달을 향한 울부짖음</name>
-      <desc>공격 후, 이 부대는 [Frightened](을)를 적용합니다.</desc>
+      <desc>공격 후, 이 유닛은 [Frightened](을)를 적용합니다.</desc>
     </MoonHowl>
     <PrimalReflexes>
       <name>원시 반사 신경</name>
@@ -36624,12 +36624,12 @@
       <desc>대상에게 [DMG](을)를 줍니다.</desc>
     </Crush>
     <DraughtHorse>
-      <name>작업 조랑말</name>
+      <name>작업마 </name>
       <desc>[Transport](이)가 ::value1:: 만큼 증가합니다.</desc>
     </DraughtHorse>
     <WarHorse>
-      <name>전쟁 조랑말</name>
-      <desc>이 부대는 이제 전투 중에도 갑옷 도금을 착용할 수 있습니다.</desc>
+      <name>군마</name>
+      <desc>이 유닛은 이제 전투가 가능하고, 갑옷 판을 착용할 수 있습니다.</desc>
     </WarHorse>
     <Racking>
       <name>기르기</name>
@@ -36637,7 +36637,7 @@
     </Racking>
     <Vigour>
       <name>활력</name>
-      <desc>[Constitution] ::value:: %만큼 증가합니다.</desc>
+      <desc>[Constitution] ::value::%만큼 증가합니다.</desc>
     </Vigour>
     <Tireless>
       <name>지칠 줄 모르는</name>
@@ -36646,20 +36646,20 @@
     <PlainsRunner>
       <name>플레인 러너</name>
       <desc>
-        달리기 지속시간이 ::value1::%만큼 증가합니다.<br/>[Transport] ::value1:: .
+        달리기 지속시간이 ::value1::%만큼 증가합니다.<br/>[Transport](이)가 ::value1::만큼 증가합니다.
       </desc>
     </PlainsRunner>
     <KingOfGallop>
       <name>갤럽 마스터</name>
-      <desc>[Movement] ::value1:: %만큼 증가합니다.</desc>
+      <desc>[Movement](이)가 ::value1::만큼 증가합니다.</desc>
     </KingOfGallop>
     <PonyCharge>
       <name>파괴적인 돌격</name>
-      <desc>교전을 해제하고 일직선으로 돌진합니다. 도중에 있는 모든 유닛에게 [Guard](을)를 무시하고 [DMG]의 피해를 줍니다.</desc>
+      <desc>교전을 해제하고 일직선으로 돌진합니다. 도중에 있는 모든 유닛에게 [Guard](을)를 무시하고 [DMG](을)를 줍니다.</desc>
     </PonyCharge>
     <Adventurer>
       <name>모험가</name>
-      <desc>이 부대는 마치 일꾼 조랑말처럼 후미 보너스를 받습니다.</desc>
+      <desc>이 유닛은 마치 일꾼 조랑말처럼 마굿간에서 보너스를 받습니다.</desc>
     </Adventurer>
     <Traveler>
       <name>여행자</name>
@@ -36667,7 +36667,7 @@
     </Traveler>
     <Rampart>
       <name>의심</name>
-      <desc>이 부대는 ::value1:: 라운드당 [Protection] 및 [ToPosition](을)를 획득합니다.</desc>
+      <desc>이 유닛은 ::value1:: 라운드당 [Protection] 및 [ToPosition](을)를 획득합니다.</desc>
     </Rampart>
     <InfectiousBite>
       <name>감염성 물기</name>
@@ -36739,7 +36739,7 @@
     </InfectedScratch>
     <PlagueOrganism>
       <name>병든 유기체</name>
-      <desc>이 유닛은 [Pyrophobia](을)를 가지고 있으며, [Poison] 피해를 입히면 대신 [Health](을)를 회복합니다.</desc>
+      <desc>이 유닛은 [Pyrophobia](을)를 가지고 있으며, [Poison] 피해를 입으면 대신 [Health](을)를 회복합니다.</desc>
     </PlagueOrganism>
     <PutrefiedBrain>
       <name>썩은 뇌</name>
@@ -36783,7 +36783,7 @@
     </TerrorLink>
     <NightmarishApperance>
       <name>악몽의 물건</name>
-      <desc>이 유닛이 피해를 받을 때마다 공격자에게 ::value1:: [Terror] 피해를 입힙니다.</desc>
+      <desc>이 유닛이 피해를 받을 때마다 공격자에게 ::value1:: [Terror](을)를 줍니다.</desc>
     </NightmarishApperance>
     <BeastRoar>
       <name>야수의 울부짖음</name>
@@ -36865,7 +36865,7 @@
       <props.descPassiveGroup>[GROUPTYPE]: 이 유닛이 교전 중이거나 [Surrounded]에 있지 않은 한, [Fury](을)를 가집니다.</props.descPassiveGroup>
     </PrimalWrath>
     <Indomitability>
-      <name>불굴의</name>
+      <name>불굴</name>
       <desc>[Strength]와 [Constitution](이)가 ::value1::%만큼 증가합니다.</desc>
     </Indomitability>
     <KingOfTheForest>
@@ -36988,7 +36988,7 @@
     </DisturbedMind>
     <GlimmersOfMortality>
       <name>죽음의 희미한 빛</name>
-      <desc>이 부대가 피해를 받을 때마다 이 부대는 [BionnPanic](을)를 한 번 적용받습니다.</desc>
+      <desc>피해를 받을 때마다 이 유닛은 [BionnPanic](을)를 한 번씩 적용받습니다.</desc>
     </GlimmersOfMortality>
     <Transformation>
       <name>변신</name>
@@ -37345,7 +37345,7 @@
     </BeltAccBaseActionOnly>
     <BeltAccMoraleBonus>
       <name>고대 우상</name>
-      <desc>이 유닛이 적을 처치할 때마다 사기가 ::value1:: %만큼 추가로 생성됩니다.</desc>
+      <desc>이 유닛이 적을 처치할 때마다 사기가 ::value1::만큼 추가로 생성됩니다.</desc>
     </BeltAccMoraleBonus>
     <BeltAccGritEndTurn>
       <name>수놓은 문장</name>
@@ -37417,7 +37417,7 @@
     </BeltAccOilProcSlowReflexes>
     <BeltAccTerrorMax>
       <name>추적자의 매력</name>
-      <desc>동료가 받을 수 있는 최대 피해 [Terror](이)가 ::value1::% 증가합니다.</desc>
+      <desc>동료가 받을 수 있는 최대 [Terror](이)가 ::value1:: 증가합니다.</desc>
     </BeltAccTerrorMax>
     <BeltAccGoldTeeth>
       <name>포셉</name>
@@ -37513,7 +37513,7 @@
       <desc>이 유닛의 공격력이 ::value1::% [Health] 이하일 때, 이 유닛은 [Berserk](을)를 얻습니다.</desc>
     </AnimAccBerserkProc>
     <AnimAccRegen>
-      <desc>자신의 턴이 끝날 때, 이 부대는 최대 [Health]의 ::value1::%만큼 생명력을 회복합니다.</desc>
+      <desc>자신의 턴이 끝날 때, 이 유닛은 최대 [Health]의 ::value1::%만큼 생명력을 회복합니다.</desc>
     </AnimAccRegen>
     <AnimAccGuard>
       <desc>부대가 매복을 당하면 무작위 적 한 명이 부상을 입습니다.</desc>
@@ -37539,7 +37539,7 @@
     </FireZone>
     <PoisonZone>
       <name>독</name>
-      <desc>독 영역으로, 이 영역을 통과하거나 그 안에서 턴이 종료되는 모든 유닛에게 ::value1:: [Poison]%의 독이 적용됩니다.</desc>
+      <desc>독 영역으로, 이 영역을 통과하거나 그 안에서 턴이 종료되는 모든 유닛에게 ::value1:: [Poison](이)가 적용됩니다.</desc>
     </PoisonZone>
     <FogZone>
       <name>안개</name>
@@ -37629,7 +37629,7 @@
     </AIBehaviourStop>
     <AIBehaviourRunaway>
       <name>행동: 도주</name>
-      <desc>자신의 차례가 되면 이 부대는 적에게서 멀어지고 아군 유닛에게 가까이 가려고 합니다.</desc>
+      <desc>자신의 차례가 되면 이 유닛은 적에게서 멀어지고 아군 유닛에게 가까이 가려고 합니다.</desc>
     </AIBehaviourRunaway>
     <ArenaVulnerability>
       <name>압력</name>
@@ -37818,15 +37818,15 @@
     </SportDodge>
     <SportTackle>
       <name>태클</name>
-      <desc>이 부대는 범위 내로 지나가는 상대를 넘어뜨리려고 시도합니다.</desc>
+      <desc>이 유닛은 범위 내로 지나가는 상대를 기절시키려고 시도합니다.</desc>
     </SportTackle>
     <SportFendOff>
       <name>펜드 오프</name>
-      <desc>이 유닛은 경로에 있는 상대를 쓰러뜨리려고 시도합니다.</desc>
+      <desc>이 유닛은 경로에 있는 상대를 기절시키려고 시도합니다.</desc>
     </SportFendOff>
     <SportReplay>
       <name>다시 플레이</name>
-      <desc>이 부대는 공을 잡으면 다시 플레이할 수 있습니다.</desc>
+      <desc>이 유닛은 공을 잡으면 다시 플레이할 수 있습니다.</desc>
     </SportReplay>
     <SportAnimalCharge>
       <name>돌격</name>
@@ -37913,7 +37913,7 @@
     </ScaredUnit>
     <Tired>
       <name>피곤</name>
-      <desc>[Strength] [Dexterity] %만큼 감소합니다( [ATTR_0]%).</desc>
+      <desc>[Strength] [Dexterity]%만큼 감소합니다( [ATTR_0]%).</desc>
     </Tired>
     <HairGrowing>
       <name>모발 재성장</name>
@@ -37932,7 +37932,7 @@
       <desc>다음 공격의 [DamageBonusPercent](이)가 [ATTR_0]%만큼 증가합니다.</desc>
     </Fury>
     <Brutality>
-      <name>잔인성</name>
+      <name>무자비함</name>
       <desc>[DamageBonusPercent](이)가 [ATTR_0]%만큼 증가합니다.</desc>
     </Brutality>
     <Protection>
@@ -37994,7 +37994,7 @@
     <Supported>
       <name>지원</name>
       <desc>
-        이 유닛은 전투 중이며 [VALUE] 자유 아군 옆에 있습니다.<br/><br/>[DamageReducePercent] %가 [ATTR_0]%만큼 감소합니다.
+        이 유닛은 교전 중이며 [VALUE]의 프리한 아군 옆에 있습니다.<br/><br/>[DamageReducePercent](이)가 [ATTR_0]%만큼 감소합니다.
       </desc>
     </Supported>
     <CriticalLeader>
@@ -38014,7 +38014,7 @@
       <desc>[Movement] 영감이 [ATTR_0]%만큼 증가합니다.</desc>
     </InspirationLeader>
     <BrutalityLeader>
-      <name>지도자의 잔인성</name>
+      <name>지도자의 무자비함</name>
       <desc>[DamageBonusPercent](이)가 [ATTR_0]%만큼 증가합니다.</desc>
     </BrutalityLeader>
     <DmgPerBonusLeader>
@@ -38044,7 +38044,7 @@
     <Relentlessness>
       <name>무자비한</name>
       <desc>
-        공격 후, 이 유닛이 기회공격을 실행합니다.<br/>더 이상 전투에 참여하지 않으면 제거됩니다.
+        공격 후, 이 유닛이 기회공격을 실행합니다.<br/>더 이상 교전에 참여하지 않으면 제거됩니다.
       </desc>
     </Relentlessness>
     <AnimalMarkedBonus>
@@ -38055,7 +38055,7 @@
     </AnimalMarkedBonus>
     <Savagery>
       <name>야만</name>
-      <desc>전투에 참여 중인 자신의 차례가 끝나면 [Riposte] %를 얻습니다.</desc>
+      <desc>전투에 참여 중인 자신의 차례가 끝나면 [Riposte](을)를 얻습니다.</desc>
     </Savagery>
     <Rivalry>
       <name>라이벌</name>
@@ -38100,7 +38100,7 @@
     </Ratkiller>
     <Inspired>
       <name>영감</name>
-      <desc>[Willpower] [ATTR]% 증가합니다.</desc>
+      <desc>[Willpower](이)가 [ATTR] 증가합니다.</desc>
     </Inspired>
     <GoldDigger>
       <name>금 채굴자</name>
@@ -38358,7 +38358,7 @@
       <name>유혈사태</name>
       <namePlural>유혈사태</namePlural>
       <desc>
-        자신의 턴이 끝날 때마다 [Health]의 [VALUE]%를 잃고 제거됩니다.<br/>중첩 가능.
+        자신의 턴이 끝날 때마다 [Health]의 [VALUE]를 잃고 제거됩니다.<br/>중첩 가능.
       </desc>
     </Bloodshed>
     <AnimalMarked>
@@ -38403,7 +38403,7 @@
     </Exhausted>
     <Sulky>
       <name>설키</name>
-      <desc>휴식 후, 부대가 획득하는 용맹 점수가 [VALUE]% 감소합니다.</desc>
+      <desc>휴식 후, 부대가 획득하는 용맹 점수가 [VALUE] 감소합니다.</desc>
     </Sulky>
     <Fearless>
       <name>무모한</name>
@@ -38728,7 +38728,7 @@
       <desc>부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt;.</desc>
     </Happy>
     <Movement>
-      <desc>[Movement](이)가 [VALUE]% 증가합니다.</desc>
+      <desc>[Movement](이)가 [VALUE] 증가합니다.</desc>
     </Movement>
     <WalkSpeed>
       <desc>월드 내 이동 속도가 [VALUE]% 증가합니다.</desc>
@@ -38785,10 +38785,10 @@
       <desc>동료가 불행하면 부대를 더 빨리 떠납니다.</desc>
     </WillLeaveEarly>
     <TransportUnitMalus>
-      <desc>각 동료의 [Transport](이)가 &lt;img src="icon/Weight"/&gt;[VALUE]% 감소합니다.</desc>
+      <desc>각 동료의 [Transport](이)가 &lt;img src="icon/Weight"/&gt;[VALUE] 감소합니다.</desc>
     </TransportUnitMalus>
     <RestForest>
-      <desc>부대가 숲에서 휴식할 때 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt;% 증가합니다.</desc>
+      <desc>부대가 숲에서 휴식할 때 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 증가합니다.</desc>
     </RestForest>
     <CritHitMalus>
       <desc>[CritHitPercent] [VALUE]% 감소합니다.</desc>
@@ -38797,13 +38797,13 @@
       <desc>부대가 휴식할 때마다 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 감소합니다.</desc>
     </HappinessMalus>
     <FoodReduction>
-      <desc>부대가 먹는 음식이 &lt;food&gt;[VALUE]&lt;/food&gt;% 감소합니다.</desc>
+      <desc>부대가 먹는 음식이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </FoodReduction>
     <UnitSalaryReduction>
       <desc>동료에게 지급하는 임금이 [VALUE]% 감소합니다.</desc>
     </UnitSalaryReduction>
     <TransportBonus>
-      <desc>[Transport] &lt;img src="icon/Weight"/&gt;[VALUE]% 증가합니다.</desc>
+      <desc>[Transport] &lt;img src="icon/Weight"/&gt;[VALUE] 증가합니다.</desc>
     </TransportBonus>
     <InfluenceGainFight>
       <desc>전투 후 획득하는 영향력이 [VALUE]% 증가합니다.</desc>
@@ -38818,7 +38818,7 @@
       <desc>설원 전투 후 획득하는 크라운이 [VALUE]%만큼 증가합니다.</desc>
     </GoldGainFightSnow>
     <MoreContractsBoard>
-      <desc>현상금 목록에 표시되는 임무 수가 [VALUE]% 증가합니다.</desc>
+      <desc>현상금 목록에 표시되는 임무 수가 [VALUE] 증가합니다.</desc>
     </MoreContractsBoard>
     <RoadSpeedBonus>
       <desc>도로에서의 이동 속도가 [VALUE]%만큼 증가합니다.</desc>
@@ -38848,7 +38848,7 @@
       <desc>전장이 실내인 경우, 적들은 [Surprised] 로 시작합니다.</desc>
     </SurprisingFighter>
     <CanEquipArmor>
-      <desc>이 부대는 이제 갑옷을 착용할 수 있습니다.</desc>
+      <desc>이 유닛은 이제 갑옷을 착용할 수 있습니다.</desc>
     </CanEquipArmor>
     <StrategyTableUnlocked>
       <desc> &lt;b&gt;전략 표를&lt;/b&gt; 제작할 수 있습니다.</desc>
@@ -38893,7 +38893,7 @@
       <desc>보너스를 부여하는 요리법이 맛있을 확률이 [VALUE]% 증가합니다.</desc>
     </PerfectRecipe>
     <CookingPotMoreAssign>
-      <desc>동료를 지정하면 일일 음식 소비량이 &lt;food&gt;[VALUE]&lt;/food&gt;% 감소합니다.</desc>
+      <desc>동료를 지정하면 일일 음식 소비량이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </CookingPotMoreAssign>
     <FirecampFirstAssign>
       <desc>동료가 1명 이상 지정되어 있으면 휴식할 때마다 추가 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;(을)를 생성합니다.</desc>
@@ -38911,7 +38911,7 @@
       <desc>행복 관련 보너스가 크게 향상됩니다.</desc>
     </FirecampUpgrade2>
     <FirecampUpgrade2_MaxBravoure>
-      <desc>행복지수가 7을 넘으면 최대 용맹이 &lt;ap&gt;[VALUE]&lt;/ap&gt;% 증가합니다.</desc>
+      <desc>행복지수가 7을 넘으면 최대 용맹점수가 &lt;ap&gt;[VALUE]&lt;/ap&gt; 증가합니다.</desc>
     </FirecampUpgrade2_MaxBravoure>
     <FirecampUpgrade2_Influence>
       <desc>최대 행복지수에서 행복지수가 1포인트 추가될 때마다 영향력이 [VALUE] 증가합니다.</desc>
@@ -38962,13 +38962,13 @@
       <desc>지정된 동료는 휴식 중에 추가로 [VALUE]%의 경험치를 얻습니다.</desc>
     </TrainingDummyTrainingExperience>
     <PonyAugeTransport>
-      <desc>주유소에 배치된 조랑말의 수송 능력이 &lt;good&gt;[VALUE]&lt;/good&gt;% 증가합니다.</desc>
+      <desc>마굿간에 배치된 조랑말의 운반 능력이 &lt;good&gt;[VALUE]&lt;/good&gt; 증가합니다.</desc>
     </PonyAugeTransport>
     <PonyAugeTransportTrait>
-      <desc>히치 포스트에 배치된 작업용 조랑말은 &lt;good&gt;[VALUE]&lt;/good&gt; %의 추가 운반 능력을 얻습니다.</desc>
+      <desc>마굿간 배치된 작업용 조랑말은 &lt;good&gt;[VALUE]&lt;/good&gt;의 추가 운반 능력을 얻습니다.</desc>
     </PonyAugeTransportTrait>
     <PonyAugeExperienceCombat>
-      <desc>주둔지에 배치된 전투용 조랑말은 경험치를 &lt;good&gt;[VALUE]% 추가 획득합니다.</desc>
+      <desc>마굿간에 배치된 전투용 조랑말은 경험치를 &lt;good&gt;[VALUE]% 추가 획득합니다.</desc>
     </PonyAugeExperienceCombat>
     <StretcherDoped>
       <desc>들것에 배치된 건강한 유닛은&lt;/good&gt; [Doped] 상태를 얻습니다.</desc>
@@ -39280,7 +39280,7 @@
       <desc>쥐굴을 숙청하면 영향력 [VALUE](을)를 획득합니다.</desc>
     </InfluenceGainRatNest>
     <MoreSamplesRats>
-      <desc>쥐 둥지가 성장할 때마다 획득하는 역병에 감염된 파생물 샘플이 [VALUE]% 증가합니다.</desc>
+      <desc>쥐 둥지가 성장할 때마다 획득하는 역병에 감염된 파생물 샘플이 [VALUE] 증가합니다.</desc>
     </MoreSamplesRats>
     <LessInjuries>
       <desc>동료가 전투 중 부상을 입는 확률이 감소합니다.</desc>
@@ -39327,7 +39327,7 @@
       <desc>직업 경험치 획득량이 [VALUE]% 증가합니다.</desc>
     </ProfessionXp>
     <ProfessionKnowledge>
-      <desc>직업 경험치를 획득할 때 영향력도 [VALUE]% 증가합니다.</desc>
+      <desc>직업 경험치를 획득할 때 영향력도 [VALUE] 증가합니다.</desc>
     </ProfessionKnowledge>
     <ThiefStealReduction>
       <desc>도난 시 의심 획득량이 감소합니다.</desc>
@@ -39378,13 +39378,13 @@
       <desc>착용자는 [VALUE]% 확률로 부상을 회복할 수 있습니다.</desc>
     </SleepingInjury>
     <BeltAccSongSkill>
-      <desc>이 부대는 전투 중에 &lt;skill&gt;벨트악송&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
+      <desc>이 유닛은 전투 중에 &lt;skill&gt;BeltAccSong&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
     </BeltAccSongSkill>
     <RankedUnitInspiration>
-      <desc>이 유닛이 대위 또는 부관 스킬을 사용하면, 적중시킨 모든 아군에게 [VALUE] 라운드 동안 [Inspiration](을)를 적용합니다.</desc>
+      <desc>이 유닛이 대장 또는 부관 스킬을 사용하면, 적중시킨 모든 아군에게 [VALUE] 라운드 동안 [Inspiration](을)를 적용합니다.</desc>
     </RankedUnitInspiration>
     <BeltAccHuntSkill>
-      <desc>전투 중에 이 부대는 &lt;skill&gt;벨트사냥스킬&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
+      <desc>전투 중에 이 유닛은 &lt;skill&gt;BeltAccHuntSkill&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
     </BeltAccHuntSkill>
     <TradeGoodBuyInfluence>
       <desc>무역 상품을 구매하면 약간의 영향력도 생성됩니다.</desc>
@@ -39456,7 +39456,7 @@
       <desc>정식 식사 후 부대의 피로도 증가 속도가 [VALUE]% 감소합니다.</desc>
     </CookCompanion>
     <CookMaster>
-      <desc>부대가 먹는 음식이 &lt;food&gt;[VALUE]&lt;/food&gt;% 감소합니다.</desc>
+      <desc>부대가 먹는 음식이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </CookMaster>
     <TinkererApprentice>
       <desc>청사진을 배우고 견습생 캠핑 장비를 제작 및 개선할 수 있습니다.</desc>
@@ -40146,8 +40146,8 @@
     </AlliesHit>
     <NightsNearAnimal>
       <name>동물 옆에서 보낸 밤</name>
-      <props.title>짐승의 친구</props.title>
-      <props.titleWoman>짐승의 친구</props.titleWoman>
+      <props.title>동물의 친구</props.title>
+      <props.titleWoman>동물의 친구</props.titleWoman>
     </NightsNearAnimal>
     <BadDietDays>
       <name>연속으로 음식을 먹지 않은 날</name>
@@ -40159,7 +40159,7 @@
       <props.songTitle>다양한 모험</props.songTitle>
     </BaseSong>
     <JeanBon>
-      <name>멧돼지를 불러 "::name::"라는 멧돼지를 한 번 전투에서 [VALUE] 유닛을 죽이게 하세요.</name>
+      <name>"::name::"라는 멧돼지가 한 번의 전투 안에서 [VALUE] 유닛을 죽이도록 만드세요.</name>
       <props.songTitle>멧돼지 해미의 이야기</props.songTitle>
     </JeanBon>
     <NakedPeople>

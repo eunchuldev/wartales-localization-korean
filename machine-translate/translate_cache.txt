@@ -251,12 +251,12 @@
 0/cdb/0/sheet/214/UnitStatusSomeDamage/0/text/0/#text¬Damaged armour¬손상된 갑옷
 0/cdb/0/sheet/215/UnitStatusHeavyDamage/0/text/0/#text¬Damaged armour¬손상된 갑옷
 0/cdb/0/sheet/216/UnitStatusDead/0/text/0/#text¬It was their last fight...¬그들의 마지막 전투였습니다...
-0/cdb/0/sheet/217/UnitStatusAfraid/0/text/0/#text¬This unit fled the troop during combat.¬이 부대는 전투 중 부대를 이탈했습니다.
+0/cdb/0/sheet/217/UnitStatusAfraid/0/text/0/#text¬This unit fled the troop during combat.¬이 유닛은 전투 중 부대를 이탈했습니다.
 0/cdb/0/sheet/218/AptitudePoint/0/text/0/#text¬Aptitude Points¬적성 포인트
 0/cdb/0/sheet/218/AptitudePoint/1/desc/0/#text¬&lt;b&gt;Aptitude Points&lt;/b&gt; can be used to improve your Companion's attributes.¬적성<b>포인트는</b> 동료의 능력치를 향상시키는 데 사용할 수 있습니다.
 0/cdb/0/sheet/219/ActivityInjuredUnit/0/text/0/#text¬Injured¬부상자
 0/cdb/0/sheet/220/Backstab/0/text/0/#text¬Ambush¬매복
-0/cdb/0/sheet/220/Backstab/1/desc/0/#text¬Triggered when this unit attacks an engaged enemy from behind.¬이 부대가 교전 중인 적을 뒤에서 공격할 때 발동합니다.
+0/cdb/0/sheet/220/Backstab/1/desc/0/#text¬Triggered when this unit attacks an engaged enemy from behind.¬이 유닛이 교전 중인 적을 뒤에서 공격할 때 발동합니다.
 0/cdb/0/sheet/221/DeadlyBlow/0/text/0/#text¬Fatal Blow¬치명타
 0/cdb/0/sheet/221/DeadlyBlow/1/desc/0/#text¬Triggered if this ability kills the target.¬이 능력이 대상을 처치하면 발동합니다.
 0/cdb/0/sheet/222/CapaCritical/0/text/0/#text¬Critical Hit¬크리티컬 히트
@@ -7858,21 +7858,21 @@
 0/cdb/6/sheet/0/Glouton/0/name/0/#text¬Glutton¬대식가
 0/cdb/6/sheet/0/Glouton/1/desc/0/#text¬A glutton will eat &lt;food&gt;+[VALUE]&lt;/food&gt; each day. What an appetite!¬대식가는 매일 <food>+<_e5></food>(을)를 먹습니다. 식욕이 대단하군요!
 0/cdb/6/sheet/1/Pickpocket/0/name/0/#text¬Pickpocket¬소매치기
-0/cdb/6/sheet/1/Pickpocket/1/desc/0/#text¬Costs &lt;gold&gt;+[VALUE]&lt;/gold&gt; in wages.¬비용 <gold>+<_e5></gold> 임금.
+0/cdb/6/sheet/1/Pickpocket/1/desc/0/#text¬Costs &lt;gold&gt;+[VALUE]&lt;/gold&gt; in wages.¬<gold>+<_e5></gold> 임금을 지불합니다.
 0/cdb/6/sheet/2/Pretending/0/name/0/#text¬Lazy¬게으른
 0/cdb/6/sheet/2/Pretending/1/desc/0/#text¬Earns [VALUE]% less Profession experience.¬직업 경험치가 <_e5>% 감소합니다.
 0/cdb/6/sheet/3/Stupid/0/name/0/#text¬Stupid¬멍청함
 0/cdb/6/sheet/3/Stupid/1/desc/0/#text¬Gains [VALUE]% less experience.¬경험치를 <_e5>% 덜 얻습니다.
 0/cdb/6/sheet/4/Bootleg/0/name/0/#text¬Club-footed¬평발
-0/cdb/6/sheet/4/Bootleg/1/desc/0/#text¬[Movement] reduced by [ATTR].¬<_e107>(이)가 <_e108>% 감소합니다.
+0/cdb/6/sheet/4/Bootleg/1/desc/0/#text¬[Movement] reduced by [ATTR].¬<_e107>(이)가 <_e108> 감소합니다.
 0/cdb/6/sheet/5/Sickly/0/name/0/#text¬Scrawny¬수척함
 0/cdb/6/sheet/5/Sickly/1/desc/0/#text¬[Constitution] reduced by [ATTR]%.¬<_e109>(이)가 <_e108>% 감소합니다.
 0/cdb/6/sheet/6/Unlucky/0/name/0/#text¬Unlucky¬불운함
-0/cdb/6/sheet/6/Unlucky/1/desc/0/#text¬[CritHitPercent] reduced by [ATTR]%.¬<_e110>(이)가 <_e108> %만큼 감소합니다.
+0/cdb/6/sheet/6/Unlucky/1/desc/0/#text¬[CritHitPercent] reduced by [ATTR]%.¬<_e110>(이)가 <_e108>%만큼 감소합니다.
 0/cdb/6/sheet/7/Slacker/0/name/0/#text¬Loafer¬게으름
-0/cdb/6/sheet/7/Slacker/1/desc/0/#text¬[Transport] reduced by [ATTR].¬<_e111>(이)가 <_e108>% 감소합니다.
+0/cdb/6/sheet/7/Slacker/1/desc/0/#text¬[Transport] reduced by [ATTR].¬<_e111>(이)가 <_e108> 감소합니다.
 0/cdb/6/sheet/8/Depressive/0/name/0/#text¬Depressed¬우울함
-0/cdb/6/sheet/8/Depressive/1/desc/0/#text¬[Willpower] reduced by [ATTR].¬<_e112>(이)가 <_e108>% 감소합니다.
+0/cdb/6/sheet/8/Depressive/1/desc/0/#text¬[Willpower] reduced by [ATTR].¬<_e112>(이)가 <_e108> 감소합니다.
 0/cdb/6/sheet/9/Alcoholic/0/name/0/#text¬Drunkard¬알콜중독자
 0/cdb/6/sheet/9/Alcoholic/1/desc/0/#text¬Must consume alcohol with every meal to be happy.¬행복해지려면 매 끼니마다 술을 마셔야 합니다.
 0/cdb/6/sheet/10/Bloodthirsty/0/name/0/#text¬Bloodthirsty¬피에 굶주림
@@ -7904,7 +7904,7 @@
 0/cdb/6/sheet/23/ShieldLover/0/name/0/#text¬Shield connoisseur¬방패 감정가
 0/cdb/6/sheet/23/ShieldLover/1/desc/0/#text¬[ATTR]% additional [Guard] when holding a shield.¬방패를 들고 있을 때 <_e115> <_e108>%가 추가됩니다.
 0/cdb/6/sheet/24/Silent/0/name/0/#text¬Silent¬조용함
-0/cdb/6/sheet/24/Silent/1/desc/0/#text¬Noise reduced by [VALUE] in abandoned villages.¬버려진 마을에서 소음이 <_e5>% 감소합니다.
+0/cdb/6/sheet/24/Silent/1/desc/0/#text¬Noise reduced by [VALUE] in abandoned villages.¬버려진 마을에서 소음이 <_e5> 감소합니다.
 0/cdb/6/sheet/25/EyesBack/0/name/0/#text¬Eyes in the back of their head¬뒤통수의 눈
 0/cdb/6/sheet/25/EyesBack/1/desc/0/#text¬Cannot be hit by allied arrows.¬아군의 화살에 맞지 않습니다.
 0/cdb/6/sheet/26/LeaderSoul/0/name/0/#text¬Natural Born Leader¬타고난 지도자
@@ -7924,7 +7924,7 @@
 0/cdb/6/sheet/33/Brave/0/name/0/#text¬Brave¬용맹함
 0/cdb/6/sheet/33/Brave/1/desc/0/#text¬[Strength] and [Dexterity] increased by [ATTR]% if outnumbered at the beginning of a battle.¬전투 시작 시 수적으로 우세할 경우 <_e113> 및 <_e108>(이)가 <_e114>% 증가합니다.
 0/cdb/6/sheet/34/EagleEyed/0/name/0/#text¬Eagle Eye¬이글아이
-0/cdb/6/sheet/34/EagleEyed/1/desc/0/#text¬[Precision] increased by [ATTR]%.¬<_e117>(이)가 <_e108> %만큼 증가합니다.
+0/cdb/6/sheet/34/EagleEyed/1/desc/0/#text¬[Precision] increased by [ATTR]%.¬<_e117>(이)가 <_e108>%만큼 증가합니다.
 0/cdb/6/sheet/35/Humanist/0/name/0/#text¬Altruistic¬이타적
 0/cdb/6/sheet/35/Humanist/1/desc/0/#text¬Increases the chance of recruiting a nearby prisoner.¬근처에 있는 포로를 모집할 확률이 증가합니다.
 0/cdb/6/sheet/36/Nyctalope/0/name/0/#text¬Night vision¬나이트비전
@@ -7938,7 +7938,7 @@
 0/cdb/6/sheet/40/Haemophiliac/0/name/0/#text¬Haemophiliac¬혈우병
 0/cdb/6/sheet/40/Haemophiliac/1/desc/0/#text¬Bleeding inflicts [VALUE]% more damage.¬출혈이 주는 피해가 <_e5>% 증가합니다.
 0/cdb/6/sheet/41/Noisy/0/name/0/#text¬Noisy¬시끄러움
-0/cdb/6/sheet/41/Noisy/1/desc/0/#text¬Noise increased by [VALUE] in abandoned villages.¬버려진 마을의 소음이 <_e5>% 증가합니다.
+0/cdb/6/sheet/41/Noisy/1/desc/0/#text¬Noise increased by [VALUE] in abandoned villages.¬버려진 마을의 소음이 <_e5> 증가합니다.
 0/cdb/6/sheet/42/Superstitious/0/name/0/#text¬Superstitious¬미신
 0/cdb/6/sheet/42/Superstitious/1/desc/0/#text¬[Willpower] reduced by [ATTR] in the Tombs of the Ancients.¬고대인의 무덤에서 <_e112>(이)가 <_e108> 감소합니다.
 0/cdb/6/sheet/43/Delicate/0/name/0/#text¬Delicate¬섬세함
@@ -8032,7 +8032,7 @@
 0/cdb/6/sheet/87/Strategist/0/name/0/#text¬Strategist¬전략가
 0/cdb/6/sheet/87/Strategist/1/desc/0/#text¬The negative impact of the troop's retreats is reduced by [VALUE]%.¬부대의 후퇴로 인한 부정적인 영향이 <_e5>% 감소합니다.
 0/cdb/6/sheet/88/Desperate/0/name/0/#text¬Desperate¬절박한
-0/cdb/6/sheet/88/Desperate/1/desc/0/#text¬[Willpower] reduced by [ATTR].¬<_e112> <_e108>% 감소합니다.
+0/cdb/6/sheet/88/Desperate/1/desc/0/#text¬[Willpower] reduced by [ATTR].¬<_e112> <_e108> 감소합니다.
 0/cdb/6/sheet/89/Cold/0/name/0/#text¬Angry¬분노
 0/cdb/6/sheet/89/Cold/1/desc/0/#text¬The relationship with $NAME can no longer evolve.¬ <_e38> 와의 관계를 더 이상 발전시킬 수 없습니다.
 0/cdb/6/sheet/90/Horsy/0/name/0/#text¬Like a Horse¬말처럼
@@ -8355,7 +8355,7 @@
 0/cdb/8/sheet/96/SwordUncoCraftT4/1/desc/0/#text¬This weapon is so imposing and beautiful that it could belong to the General himself.¬이 무기는 장군이 직접 사용해도 될 만큼 위풍당당하고 아름답습니다.
 0/cdb/8/sheet/97/SwordRareInquisition/0/name/0/#text¬Knight of the Eye's Sword¬눈의 기사 검
 0/cdb/8/sheet/97/SwordRareInquisition/1/desc/0/#text¬The Eye on the end of this sword's pommel induces the irresistible urge to burn heretics.¬이 검의 검자루 끝에 있는 눈은 이단자들을 불태우고 싶은 참을 수 없는 충동을 불러일으킵니다.
-0/cdb/8/sheet/98/SwordRareFugitive02/0/name/0/#text¬Fervour¬Fervour
+0/cdb/8/sheet/98/SwordRareFugitive02/0/name/0/#text¬Fervour¬열정
 0/cdb/8/sheet/98/SwordRareFugitive02/1/desc/0/#text¬Sylla wielded this Ulfberht to slay innocents and heretics alike in the name of the All-seeing Eye.¬실라는 이 울프버트를 휘둘러 모든 것을 보는 눈의 이름으로 무고한 자나 이단자나 가리지 않고 죽였습니다.
 0/cdb/8/sheet/99/SwordRareFugitive19/0/name/0/#text¬Strongblade¬스트롱블레이드
 0/cdb/8/sheet/99/SwordRareFugitive19/1/desc/0/#text¬Passed from one owner to the next following some barbaric rule, this gladius is shrouded in mystery.¬야만적인 규칙에 따라 한 소유자에서 다음 소유자로 넘어간 이 글리디우스는 베일에 싸여 있습니다.
@@ -9049,8 +9049,8 @@
 0/cdb/8/sheet/443/BeltAccPrisonerWorkMeatDryer/1/desc/0/#text¬This carefully washed rag keeps one's hands clean while handling jerky.¬정성스럽게 씻은 이 걸레는 육포를 다룰 때 손을 청결하게 유지해줍니다.
 0/cdb/8/sheet/444/BeltAccPrisonerWorkBrewBarrel/0/name/0/#text¬Dry Yeast¬건조 효모
 0/cdb/8/sheet/444/BeltAccPrisonerWorkBrewBarrel/1/desc/0/#text¬The yeast in this small packet needs to be stored in a dry place.¬이 작은 포장에 들어있는 효모는 건조한 곳에 보관해야 합니다.
-0/cdb/8/sheet/445/BeltAccPrisonerWorkSkinDryingRack/0/name/0/#text¬Plant Tannin¬식물 태닝
-0/cdb/8/sheet/445/BeltAccPrisonerWorkSkinDryingRack/1/desc/0/#text¬Powder extracted from plants and used to tan leather.¬식물에서 추출한 분말로 가죽을 태닝하는 데 사용됩니다.
+0/cdb/8/sheet/445/BeltAccPrisonerWorkSkinDryingRack/0/name/0/#text¬Plant Tannin¬식물 무두질
+0/cdb/8/sheet/445/BeltAccPrisonerWorkSkinDryingRack/1/desc/0/#text¬Powder extracted from plants and used to tan leather.¬식물에서 추출한 분말로 가죽을 무두질하는 데 사용됩니다.
 0/cdb/8/sheet/446/BeltAccPrisonerWorkBeeHive/0/name/0/#text¬Beekeeper Mask¬양봉 마스크
 0/cdb/8/sheet/446/BeltAccPrisonerWorkBeeHive/1/desc/0/#text¬This mask is a necessity when working with beehives.¬이 마스크는 벌집 작업 시 필수품입니다.
 0/cdb/8/sheet/447/BeltPathTradeCorrupt/0/name/0/#text¬Loose Change¬루즈 체인지
@@ -9839,11 +9839,11 @@
 0/cdb/8/sheet/852/TentT2/1/desc/0/#text¬[ASSIGN] generates &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt; during each Rest.¬<_e126> 휴식할 때마다 <ap><good>+</good></ap> <ap><good><_e5></good></ap> <ap><good> 를</good></ap> <ap><good></good></ap> 생성합니다.
 0/cdb/8/sheet/853/TentT3/0/name/0/#text¬Tent¬텐트
 0/cdb/8/sheet/853/TentT3/1/desc/0/#text¬[ASSIGN] generates &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt; during each Rest.¬<_e126> 휴식할 때마다 <ap><good>+</good></ap> <ap><good><_e5></good></ap>(을)를 생성합니다.
-0/cdb/8/sheet/854/PonyAuge/0/name/0/#text¬Hitching Post¬히칭 포스트
+0/cdb/8/sheet/854/PonyAuge/0/name/0/#text¬Hitching Post¬마굿간
 0/cdb/8/sheet/854/PonyAuge/1/desc/0/#text¬You can assign your ponies to the trough to improve their comfort and carrying capacity.¬조랑말을 여물통에 배치하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.
-0/cdb/8/sheet/855/PonyAugeT2/0/name/0/#text¬Hitching Post¬히칭 포스트
+0/cdb/8/sheet/855/PonyAugeT2/0/name/0/#text¬Hitching Post¬마굿간
 0/cdb/8/sheet/855/PonyAugeT2/1/desc/0/#text¬You can assign your ponies to the trough to improve their comfort and carrying capacity.¬조랑말을 여물통에 배치하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.
-0/cdb/8/sheet/856/PonyAugeT3/0/name/0/#text¬Hitching Post¬히칭 포스트
+0/cdb/8/sheet/856/PonyAugeT3/0/name/0/#text¬Hitching Post¬마굿간
 0/cdb/8/sheet/856/PonyAugeT3/1/desc/0/#text¬You can assign your ponies to the trough to improve their comfort and carrying capacity.¬조랑말을 여물통에 배정하여 조랑말의 편안함과 운반 능력을 향상시킬 수 있습니다.
 0/cdb/8/sheet/857/CookingPot/0/name/0/#text¬Cooking Pot¬요리 냄비
 0/cdb/8/sheet/857/CookingPot/1/desc/0/#text¬You can cook nutritious meals that grant bonuses to the troop.<br/><br/>[JOBASSIGN] reduces the troop's daily food consumption by &lt;img src="icon/Food"/&gt;[VALUE].¬부대에 보너스를 부여하는 영양가 있는 식사를 요리할 수 있습니다.<br/><br/><_e127>(은)는 부대의 일일 식량 소비량을 <img src="icon/Food"/><_e5> 만큼 감소시킵니다.
@@ -9902,7 +9902,7 @@
 0/cdb/8/sheet/884/Trap/0/name/0/#text¬Trap¬덫
 0/cdb/8/sheet/884/Trap/1/desc/0/#text¬This tool can be used to catch small animals during a Rest. Single use.¬이 도구는 휴식 중에 작은 동물을 잡는 데 사용할 수 있습니다. 한 번만 사용할 수 있습니다.
 0/cdb/8/sheet/885/Banner/0/name/0/#text¬Banner¬깃발
-0/cdb/8/sheet/885/Banner/1/desc/0/#text¬This banner represents your troop and your pride.<br/><br/>[ASSIGN] Any assigned lieutenant will proudly carry this banner everywhere.¬이 깃발은 부대와 자부심을 나타냅니다.<br/><br/><_e126> 모든 부대는 이 깃발을 자랑스럽게 달고 다닐 것입니다.
+0/cdb/8/sheet/885/Banner/1/desc/0/#text¬This banner represents your troop and your pride.<br/><br/>[ASSIGN] Any assigned lieutenant will proudly carry this banner everywhere.¬이 깃발은 당신의 부대와 자부심을 나타냅니다.<br/><br/><_e126> 할당된 유닛은 이 깃발을 자랑스럽게 들고 다닐 것입니다.
 0/cdb/8/sheet/886/Chest/0/name/0/#text¬Camp Chest¬캠프 상자
 0/cdb/8/sheet/886/Chest/1/desc/0/#text¬Place the items you wish to keep in this chest.<br/><br/>[JOBASSIGN]: Launder the items stolen during Rests little by little.¬이 상자에 보관하고 싶은 아이템을 넣으세요.<br/><br/><_e127>: 휴식 중에 도난당한 아이템을 조금씩 세탁할 수 있습니다.
 0/cdb/8/sheet/887/BrewBarrel/0/name/0/#text¬Brewing Vat¬양조 통
@@ -9975,9 +9975,9 @@
 0/cdb/8/sheet/920/Orientation/1/desc/0/#text¬Your troop can add objective markers to the map using [RMB].¬부대는 <_e39>(을)를 사용하여 지도에 객관적인 마커를 추가할 수 있습니다.
 0/cdb/8/sheet/921/Cannibalism/0/name/0/#text¬Cannibalism¬식인 풍습
 0/cdb/8/sheet/921/Cannibalism/1/desc/0/#text¬Your troop is prepared to do anything to survive, including eating their own...¬부대는 생존을 위해 동족을 잡아먹는 것을 포함하여 무엇이든 할 준비가 되어 있습니다.
-0/cdb/8/sheet/922/HumanTannery/0/name/0/#text¬Miscellaneous Tanning¬기타 태닝
+0/cdb/8/sheet/922/HumanTannery/0/name/0/#text¬Miscellaneous Tanning¬기타 가죽 무두질
 0/cdb/8/sheet/922/HumanTannery/1/desc/0/#text¬Your Companions no longer have any qualms about treating a human like an animal.¬동료가 더 이상 인간을 동물처럼 대하는 데 아무런 거리낌이 없습니다.
-0/cdb/8/sheet/923/Cunning/0/name/0/#text¬Artful Dodgers¬교묘한 도저
+0/cdb/8/sheet/923/Cunning/0/name/0/#text¬Artful Dodgers¬솜씨좋은 도둑
 0/cdb/8/sheet/923/Cunning/1/desc/0/#text¬Your Companions are honing their criminal skills and learning to master the art of stealth.¬동료들이 범죄 기술을 연마하고 은신 기술을 익히고 있습니다.
 0/cdb/8/sheet/924/RecruitCostReduced/0/name/0/#text¬Smooth Talk¬매끄러운 대화
 0/cdb/8/sheet/924/RecruitCostReduced/1/desc/0/#text¬Your Companions become great spokespersons who can talk anyone into joining their ranks.¬동료는 누구든 자신의 대열에 합류하도록 설득할 수 있는 훌륭한 대변인이 됩니다.
@@ -10288,7 +10288,7 @@
 0/cdb/10/sheet/17/Dash/0/name/0/#text¬Run¬Run
 0/cdb/10/sheet/17/Dash/1/desc/0/#text¬Disengages and moves in a straight line up to ::value1:: metres between units.¬교전을 해제하고 유닛 사이로 최대 <_e131> 미터까지 일직선으로 이동합니다.
 0/cdb/10/sheet/18/Taunt/0/name/0/#text¬Taunt¬도발
-0/cdb/10/sheet/18/Taunt/1/desc/0/#text¬Forces the target to engage and inflicts [Weakening] to them for ::value1:: rounds.¬대상에게 교전을 강요하고 <_e131> 라운드 동안 <_e139> 피해를 입힙니다.
+0/cdb/10/sheet/18/Taunt/1/desc/0/#text¬Forces the target to engage and inflicts [Weakening] to them for ::value1:: rounds.¬대상에게 교전을 강요하고 <_e131> 라운드 동안 <_e139>(을)를 가합니다.
 0/cdb/10/sheet/19/Aim/0/name/0/#text¬Aim¬조준
 0/cdb/10/sheet/19/Aim/1/desc/0/#text¬Gains [Deftness].¬ <_e140>(을)를 획득합니다.
 0/cdb/10/sheet/20/Cleave/0/name/0/#text¬Cleave¬클리브
@@ -10338,17 +10338,17 @@
 0/cdb/10/sheet/42/SkillRepositioning/0/name/0/#text¬Reposition¬위치 변경
 0/cdb/10/sheet/42/SkillRepositioning/1/desc/0/#text¬Resets movement.<br/>This unit can no longer use skills or base actions.¬이동을 초기화합니다.<br/>(이)가 유닛은 더 이상 스킬이나 기본 행동을 사용할 수 없습니다.
 0/cdb/10/sheet/43/Intervention/0/name/0/#text¬Intervention¬개입
-0/cdb/10/sheet/43/Intervention/1/desc/0/#text¬The unit can swap places with an adjacent ally engaged in combat. The unit then becomes engaged in combat and will deal an attack of opportunity.¬이 유닛은 전투 중인 인접한 아군과 위치를 바꿀 수 있습니다. 그러면 이 부대는 교전에 참여하여 기회공격을 가합니다.
+0/cdb/10/sheet/43/Intervention/1/desc/0/#text¬The unit can swap places with an adjacent ally engaged in combat. The unit then becomes engaged in combat and will deal an attack of opportunity.¬이 유닛은 전투 중인 인접한 아군과 위치를 바꿀 수 있습니다. 그러면 이 유닛은 교전에 참여하여 기회공격을 가합니다.
 0/cdb/10/sheet/44/Anticipation/0/name/0/#text¬Anticipation¬예상
 0/cdb/10/sheet/44/Anticipation/1/desc/0/#text¬When the unit is attacked, they have a ::value1::% chance to not become engaged, and to deal their attacker an attack of opportunity.¬부대가 공격을 받으면 <_e131>%의 확률로 교전을 하지 않고 공격자에게 기회공격을 가할 수 있습니다.
 0/cdb/10/sheet/45/DefensiveRiposte/0/name/0/#text¬Defensive Riposte¬방어 리포스테
 0/cdb/10/sheet/45/DefensiveRiposte/1/desc/0/#text¬When the unit disengages, they have a ::value1::% chance to deal an attack of opportunity instead of taking one.¬부대가 교전을 해제하면 <_e131>%의 확률로 공격을 받는 대신 기회공격을 가할 수 있습니다.
 0/cdb/10/sheet/46/Swiftness/0/name/0/#text¬Alacrity¬민첩성
-0/cdb/10/sheet/46/Swiftness/1/desc/0/#text¬The unit has a ::value1::% chance to dodge ranged and AoE attacks.¬이 부대는 <_e131>% 확률로 원거리 및 광역 공격을 회피합니다.
+0/cdb/10/sheet/46/Swiftness/1/desc/0/#text¬The unit has a ::value1::% chance to dodge ranged and AoE attacks.¬이 유닛은 <_e131>% 확률로 원거리 및 광역 공격을 회피합니다.
 0/cdb/10/sheet/47/LoneWolf/0/name/0/#text¬Lone Wolf¬고독한 늑대
 0/cdb/10/sheet/47/LoneWolf/1/desc/0/#text¬As long as there are no allied units within ::value1:: meters, this unit gains the [LoneWolf] status.¬이 유닛은 <_e131> 미터 내에 아군 유닛이 없는 한 <_e147> 상태를 얻습니다.
 0/cdb/10/sheet/48/Unstoppable/0/name/0/#text¬Unstoppable¬무적
-0/cdb/10/sheet/48/Unstoppable/1/desc/0/#text¬The unit becomes unstoppable and can pass through the enemy ranks.¬이 부대는 무적 상태가 되어 적 전열을 통과할 수 있습니다.
+0/cdb/10/sheet/48/Unstoppable/1/desc/0/#text¬The unit becomes unstoppable and can pass through the enemy ranks.¬이 유닛은 무적 상태가 되어 적 전열을 통과할 수 있습니다.
 0/cdb/10/sheet/49/WeaponSwapSword/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/49/WeaponSwapSword/1/desc/0/#text¬Can equip a second sword and swap weapons in combat.¬두 번째 검을 장착하고 전투 중에 무기를 교체할 수 있습니다.
 0/cdb/10/sheet/50/WeaponSwapMace/0/name/0/#text¬Second Weapon¬세컨드 무기
@@ -10372,12 +10372,12 @@
 0/cdb/10/sheet/59/LongTermePlan/0/name/0/#text¬Decisive Manoeuvre¬결정적 기동
 0/cdb/10/sheet/59/LongTermePlan/1/desc/0/#text¬If this unit is the first to act on their side, they disengage and can act once more after all of their allies.¬이 유닛이 가장 먼저 아군 편에서 행동하면, 아군이 모두 행동한 후에 한 번 더 행동할 수 있습니다.
 0/cdb/10/sheet/60/DeathLure/0/name/0/#text¬Daredevil¬무모한
-0/cdb/10/sheet/60/DeathLure/1/desc/0/#text¬The unit gains [Frenzy] for ::value1:: rounds.¬이 부대는 <_e131> 라운드당 <_e151>(을)를 얻습니다.
+0/cdb/10/sheet/60/DeathLure/1/desc/0/#text¬The unit gains [Frenzy] for ::value1:: rounds.¬이 유닛은 <_e131> 라운드당 <_e151>(을)를 얻습니다.
 0/cdb/10/sheet/61/ClassSpecialization/0/name/0/#text¬Class Specialisation¬병과 전문화
 0/cdb/10/sheet/61/ClassSpecialization/1/desc/0/#text¬Unlocks a skill from a previous level.¬이전 레벨의 기술을 잠금 해제합니다.
 0/cdb/10/sheet/62/Bulwark/0/name/0/#text¬Bulwark¬방벽
-0/cdb/10/sheet/62/Bulwark/1/desc/0/#text¬Each time this unit engages, they gain [Deflection].¬이 부대가 교전할 때마다 <_e144>(을)를 얻습니다.
-0/cdb/10/sheet/62/Bulwark/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Deflection].<br/>Every time they disengage, they gain [Fury].¬이 부대가 교전에 참여할 때마다 <_e144>(을)를 획득합니다.<br/>(이)가 부대가 전투에서 벗어날 때마다 <_e134>(을)를 획득합니다.
+0/cdb/10/sheet/62/Bulwark/1/desc/0/#text¬Each time this unit engages, they gain [Deflection].¬이 유닛이 교전할 때마다 <_e144>(을)를 얻습니다.
+0/cdb/10/sheet/62/Bulwark/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Deflection].<br/>Every time they disengage, they gain [Fury].¬이 유닛이 교전에 참여할 때마다 <_e144>(을)를 획득합니다.<br/>(이)가 부대가 전투에서 벗어날 때마다 <_e134>(을)를 획득합니다.
 0/cdb/10/sheet/63/Counterattack/0/name/0/#text¬Counter-attack¬반격
 0/cdb/10/sheet/63/Counterattack/1/desc/0/#text¬Each time this unit engages, they gain [Riposte].¬이 유닛이 교전할 때마다 <_e152>(을)를 얻습니다.
 0/cdb/10/sheet/63/Counterattack/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Riposte].<br/>Every time they disengage, they gain [Inspiration] for ::value1:: round.¬이 유닛이 교전에 참여할 때마다 <_e152>(을)를 획득합니다.<br/>(이)가 유닛이 전투에서 해제할 때마다 <_e131> 라운드당 <_e153>(을)를 획득합니다.
@@ -10396,7 +10396,7 @@
 0/cdb/10/sheet/68/Slashes/1/desc/0/#text¬Deals [DMG] to all the units in the area  ::value1:: time(s).<br/>Usable after ::value2:: attacks.<br/><br/>Performed attacks: ::value3::/::value2::¬ <_e131> 시간 동안 해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/> <_e157> 공격 후 사용 가능<br/><br/>공격을 수행했습니다: <_e158>/<_e157>
 0/cdb/10/sheet/69/Estocade/0/name/0/#text¬Final Blow¬최종 일격
 0/cdb/10/sheet/69/Estocade/1/desc/0/#text¬Deals [DMG] to the target and gains [Riposte].¬대상에게 <_e129>(을)를 주고 <_e152>(을)를 획득합니다.
-0/cdb/10/sheet/69/Estocade/2/levels/0/line0/0/desc/0/#text¬Deals [DMG] to the target and gains [Riposte].<br/>If this unit already has [Riposte], the damage is increased by ::value1::%.¬대상에게 <_e129>(을)를 주고 <_e152>(을)를 획득합니다.<br/>(이)가 유닛이 이미 <_e152>(을)를 가지고 있다면 피해량이 <_e131>% 증가합니다.
+0/cdb/10/sheet/69/Estocade/2/levels/0/line0/0/desc/0/#text¬Deals [DMG] to the target and gains [Riposte].<br/>If this unit already has [Riposte], the damage is increased by ::value1::%.¬대상에게 <_e129>(을)를 주고 <_e152>(을)를 획득합니다.<br/>이 유닛이 이미 <_e152>(을)를 가지고 있다면 피해량이 <_e131>% 증가합니다.
 0/cdb/10/sheet/70/LastStand/0/name/0/#text¬Last Stand¬라스트 스탠드
 0/cdb/10/sheet/70/LastStand/1/desc/0/#text¬As long as this unit has no [Armor], they have [Brutality].¬이 유닛에 <_e141>(이)가 없는 한 <_e154>(이)가 있습니다.
 0/cdb/10/sheet/70/LastStand/2/levels/0/line0/0/desc/0/#text¬As long as this unit has ::value1::% [Armor] or less, they have [Brutality].¬이 유닛이 <_e131>% <_e141> 이하인 한, <_e154>(을)를 가집니다.
@@ -10404,8 +10404,8 @@
 0/cdb/10/sheet/71/CombatGrip/1/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.¬대상에게 <_e159>(을)를 적용하여 <_e131> 라운드를 진행합니다.
 0/cdb/10/sheet/71/CombatGrip/2/levels/0/line0/0/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.<br/>If the unit is already disarmed, also applies [Vulnerability].¬대상에게 <_e159>(을)를 적용하여 <_e131> 탄을 발사합니다.<br/>(이)가 유닛이 이미 무장 해제된 경우 <_e160> 도 적용합니다.
 0/cdb/10/sheet/72/HardTraining/0/name/0/#text¬Hardcore Training¬하드코어 훈련
-0/cdb/10/sheet/72/HardTraining/1/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].¬이 부대는 <_e137>, <_e136> 또는 <_e138>에 면역입니다.
-0/cdb/10/sheet/72/HardTraining/2/levels/0/line0/0/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].<br/>When they should be affected by these effects, they gain ::value1:: [AnimalMarkedBonus] instead (once per effect per round).¬이 부대는 <_e137>, <_e136> 또는 <_e138>에 면역입니다.<br/>(이)가 효과의 영향을 받아야 할 때, 대신 <_e131> <_e118>(을)를 얻습니다(라운드당 효과당 한 번).
+0/cdb/10/sheet/72/HardTraining/1/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].¬이 유닛은 <_e137>, <_e136> 또는 <_e138>에 면역입니다.
+0/cdb/10/sheet/72/HardTraining/2/levels/0/line0/0/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].<br/>When they should be affected by these effects, they gain ::value1:: [AnimalMarkedBonus] instead (once per effect per round).¬이 유닛은 <_e137>, <_e136> 또는 <_e138>에 면역입니다.<br/>(이)가 효과의 영향을 받아야 할 때, 대신 <_e131> <_e118>(을)를 얻습니다(라운드당 효과당 한 번).
 0/cdb/10/sheet/73/GreatOpportunist/0/name/0/#text¬Master Opportunist¬마스터 기회주의자
 0/cdb/10/sheet/73/GreatOpportunist/1/desc/0/#text¬Damage from dealt attacks of opportunity increased by ::value1::%.<br/>Damage from incoming attacks of opportunity reduced by ::value1::%.¬적중한 기회공격으로 받는 피해가 <_e131>%만큼 증가합니다.<br/>적중하는 기회 공격으로 받는 피해가 <_e131>%만큼 감소합니다.
 0/cdb/10/sheet/74/EternalGloryStrike/0/name/0/#text¬Eternal Glory Strike¬이터널 글로리 스트라이크
@@ -10492,7 +10492,7 @@
 0/cdb/10/sheet/105/SweetSpot/1/desc/0/#text¬Ranged attacks apply [Destabilization] for ::value1:: round.¬원거리 공격이 <_e131> 라운드 동안 <_e156>(을)를 적용합니다.
 0/cdb/10/sheet/105/SweetSpot/2/levels/0/line0/0/desc/0/#text¬Attacks apply [Destabilization] for ::value1:: round and have a ::value2::% chance to be critical hits.¬공격하면 <_e131>라운드 동안 <_e156>(을)를 적용시킵니다. <_e157>% 확률로 공격이 치명타가 됩니다.
 0/cdb/10/sheet/106/SpearThrow/0/name/0/#text¬Piercing Throw¬피어싱 던지기
-0/cdb/10/sheet/106/SpearThrow/1/desc/0/#text¬Deals [DMG] to all units in the area.<br/>Applies [Bleeding] to the first unit hit.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>첫 번째 적중 유닛에게 <_e137> 피해를 줍니다.
+0/cdb/10/sheet/106/SpearThrow/1/desc/0/#text¬Deals [DMG] to all units in the area.<br/>Applies [Bleeding] to the first unit hit.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>첫 번째 적중 유닛에게 <_e137>(을)를 줍니다.
 0/cdb/10/sheet/106/SpearThrow/2/levels/0/line0/0/desc/0/#text¬Deals [DMG] to all the units in the area and applies [Bleeding].¬해당 지역의 모든 유닛에게 <_e129>(을)를 주고 <_e137>(을)를 적용합니다.
 0/cdb/10/sheet/107/SpearsWall/0/name/0/#text¬Spear Wall¬창벽
 0/cdb/10/sheet/107/SpearsWall/1/desc/0/#text¬Targets a specific area.<br/>When an enemy enters the area, performs ::value3:: attack of opportunity and stops them in their tracks.<br/><br/>Doesn't stop Elites.¬특정 지역을 대상으로 합니다.<br/>적이 해당 지역에 진입하면 <_e158> 기회공격을 수행하여 적을 제지합니다.<br/><br/>엘리트는 제지하지 않습니다.
@@ -10545,11 +10545,11 @@
 0/cdb/10/sheet/126/ExceedingLimits/0/name/0/#text¬Limit Break¬한계 돌파
 0/cdb/10/sheet/126/ExceedingLimits/1/desc/0/#text¬[CritHitDamageBonusPercent] increased by ::value1::%.¬<_e121>(이)가 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/127/Opportunism/0/name/0/#text¬Opportunism¬기회주의
-0/cdb/10/sheet/127/Opportunism/1/desc/0/#text¬As long as there are at least ::value1:: enemies within ::value2:: metres of this unit, the unit has [Protection].¬이 유닛으로부터 <_e157> 미터 이내에 <_e131>% 이상의 적이 있는 한, 이 유닛은 <_e155>.
+0/cdb/10/sheet/127/Opportunism/1/desc/0/#text¬As long as there are at least ::value1:: enemies within ::value2:: metres of this unit, the unit has [Protection].¬이 유닛으로부터 <_e157> 미터 이내에 <_e131> 이상의 적이 있는 한, 이 유닛은 <_e155>(을)를 얻습니다.
 0/cdb/10/sheet/127/Opportunism/2/levels/0/line0/0/desc/0/#text¬As long as there are at least ::value1:: enemies within ::value2:: metres of this unit, the unit has [Protection].<br/>If there are at least ::value3:: enemies nearby, the unit also has [Brutality].¬이 유닛에서 <_e157> 미터 이내에 <_e131> 이상의 적이 있는 한, 이 유닛은 <_e155>(을)를 가집니다.<br/>근처에 <_e158> 이상의 적이 있는 경우, 이 유닛은 <_e154> 도 가집니다.
 0/cdb/10/sheet/128/Cruelty/0/name/0/#text¬Cruelty¬잔인함
 0/cdb/10/sheet/128/Cruelty/1/desc/0/#text¬[DamageBonusPercent] and [CritHitPercent] increased by ::value1::% against units with at least one debuff.¬<_e120>와 <_e110>(이)가 디버프가 하나 이상 있는 유닛에 대해 <_e131>%만큼 증가합니다.
-0/cdb/10/sheet/128/Cruelty/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] and [CritHitPercent] increased by ::value1::% against units with at least one debuff.<br/>In return, they deal ::value1::% less [DamageBonusPercent] to this unit.¬<_e120> 그리고 디버프가 하나 이상인 유닛에 대한 <_e110> 공격력이 <_e131>% 증가합니다.<br/>그 대신, 이 유닛에게 <_e131>% 적은 <_e120> 피해를 줍니다.
+0/cdb/10/sheet/128/Cruelty/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] and [CritHitPercent] increased by ::value1::% against units with at least one debuff.<br/>In return, they deal ::value1::% less [DamageBonusPercent] to this unit.¬<_e120> 그리고 디버프가 하나 이상인 유닛에 대한 <_e110> 공격력이 <_e131>% 증가합니다.<br/>그 대신, 이 유닛에게 <_e131>% 적은 <_e120>(을) 를 줍니다.
 0/cdb/10/sheet/129/ArmorBreaker/0/name/0/#text¬Armour Breaker¬갑옷 브레이커
 0/cdb/10/sheet/129/ArmorBreaker/1/desc/0/#text¬[DamageBonusPercent] inflicted to [Armor] increased by ::value1::%.¬<_e120> <_e141> 받는 피해가 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/129/ArmorBreaker/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] inflicted to [Armor] increased by ::value1::%.<br/>If an attack from this unit destroys an enemy’s [Armor], the unit gains [Brutality] and [Inspiration].¬<_e120> <_e141>에 가하는 피해가 <_e131>% 증가합니다.<br/>(이)가 유닛의 공격이 적의 <_e141>(을)를 파괴하면, 이 유닛은 <_e154> 과 <_e153>(을)를 얻습니다.
@@ -10677,9 +10677,9 @@
 0/cdb/10/sheet/187/BeeArea/0/name/0/#text¬Bee Swarm¬벌떼
 0/cdb/10/sheet/187/BeeArea/1/desc/0/#text¬Deals [VALUE]% damage to the [Health] of all units moving through the swarm or ending their turn in it.¬벌 떼를 통과하거나 그 안에서 턴이 종료되는 모든 유닛의 <_e119>에 <_e5>%만큼 피해를 줍니다.
 0/cdb/10/sheet/188/CorrosiveBomb/0/name/0/#text¬Corrosive Liquid¬부식성 액체
-0/cdb/10/sheet/188/CorrosiveBomb/1/desc/0/#text¬Applies [Corrosion] to all enemies in the area.<br/>Not stackable.¬해당 지역의 모든 적에게 <_e176> 피해를 줍니다.<br/>중첩 불가.
+0/cdb/10/sheet/188/CorrosiveBomb/1/desc/0/#text¬Applies [Corrosion] to all enemies in the area.<br/>Not stackable.¬해당 지역의 모든 적에게 <_e176>(을)를 줍니다.<br/>중첩 불가.
 0/cdb/10/sheet/189/NetThrow/0/name/0/#text¬Net Toss¬그물 던지기
-0/cdb/10/sheet/189/NetThrow/1/desc/0/#text¬Applies [Slowdown] to the target for ::value1:: round.¬대상에게 <_e131> 라운드 동안 <_e148> 피해를 줍니다.
+0/cdb/10/sheet/189/NetThrow/1/desc/0/#text¬Applies [Slowdown] to the target for ::value1:: round.¬대상에게 <_e131> 라운드 동안 <_e148>(을)를 적용합니다.
 0/cdb/10/sheet/190/Transmission/0/name/0/#text¬Contamination¬오염
 0/cdb/10/sheet/190/Transmission/1/desc/0/#text¬Applies ::value1:: [Fever] to all enemies in the area.¬범위 내의 모든 적에게 <_e131> <_e164>(을)를 적용합니다.
 0/cdb/10/sheet/191/Spraying/0/name/0/#text¬Spray¬스프레이
@@ -10707,7 +10707,7 @@
 0/cdb/10/sheet/202/RingleaderThreat/1/desc/0/#text¬This unit and their allies have [CriticalLeader].¬이 유닛과 아군은 <_e178>(을)를 가지고 있습니다.
 0/cdb/10/sheet/203/OathOfTheCowards/0/name/0/#text¬Oath of Cowards¬겁쟁이의 맹세
 0/cdb/10/sheet/203/OathOfTheCowards/1/desc/0/#text¬[DamageBonusPercent] dealt to targets engaged in combat increased by ::value1::%.¬<_e120> 전투 중인 대상에게 주는 피해가 <_e131>%만큼 증가합니다.
-0/cdb/10/sheet/203/OathOfTheCowards/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: [DamageBonusPercent] dealt to targets engaged in combat increased by ::value1::%. The units engaged become priority targets.¬<_e179>전투 중인 대상에게 주는 <_e120> 피해가 <_e131>%만큼 증가합니다. 교전 중인 유닛이 우선 공격 대상이 됩니다.
+0/cdb/10/sheet/203/OathOfTheCowards/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: [DamageBonusPercent] dealt to targets engaged in combat increased by ::value1::%. The units engaged become priority targets.¬<_e179>: 전투 중인 대상에게 주는 <_e120>(이)가 <_e131>%만큼 증가합니다. 교전 중인 유닛이 우선 공격 대상이 됩니다.
 0/cdb/10/sheet/204/DishonorableTechnics/0/name/0/#text¬Dishonourable Trick¬불명예스러운 속임수
 0/cdb/10/sheet/204/DishonorableTechnics/1/desc/0/#text¬After taking ::value1:: attacks from the same unit in a single turn, this unit gains [Fury].<br/>Once per unit turn.¬한 턴에 같은 유닛으로부터 <_e131> 공격을 받은 후, 이 유닛은 <_e134>.<br/>(을)를 유닛 턴당 한 번 얻습니다.
 0/cdb/10/sheet/204/DishonorableTechnics/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: After taking ::value1:: attacks from the same unit in a single turn, units gain [Fury].<br/>Once per unit turn.¬<_e179>: 한 턴에 같은 유닛으로부터 <_e131> 공격을 받은 후, 이 유닛은 <_e134>.<br/>유닛 턴당 한 번씩 획득합니다.
@@ -10748,8 +10748,8 @@
 0/cdb/10/sheet/221/ShootOrder/0/name/0/#text¬Shoot Order¬사격 명령
 0/cdb/10/sheet/221/ShootOrder/1/desc/0/#text¬Targets a specific area. Performs ::value1:: attack of opportunity against the first enemy entering the area.¬특정 지역을 대상으로 합니다. 해당 지역에 처음 진입하는 적에게 <_e131> 기회공격을 수행합니다.
 0/cdb/10/sheet/222/Interception/0/name/0/#text¬Interception¬인터셉트
-0/cdb/10/sheet/222/Interception/1/desc/0/#text¬Disengages and charges in a straight line. Deals [DMG] to all units in their path and applies [Slowdown] for ::value1:: round.¬교전을 해제하고 일직선으로 돌진합니다. 경로에 있는 모든 유닛에게 <_e129>(을)를 주고 <_e131> 라운드에 <_e148> 피해를 줍니다.
-0/cdb/10/sheet/223/FunctionnalPairing/0/name/0/#text¬Functional Duo¬기능 듀오
+0/cdb/10/sheet/222/Interception/1/desc/0/#text¬Disengages and charges in a straight line. Deals [DMG] to all units in their path and applies [Slowdown] for ::value1:: round.¬교전을 해제하고 일직선으로 돌진합니다. 경로에 있는 모든 유닛에게 <_e129>(을)를 주고 <_e131> 라운드에 <_e148>(을)를 줍니다.
+0/cdb/10/sheet/223/FunctionnalPairing/0/name/0/#text¬Functional Duo¬기능적인 듀오
 0/cdb/10/sheet/223/FunctionnalPairing/1/desc/0/#text¬Deals [DMG] to the target. If engaged in combat with an ally, this ally gains [Riposte].¬대상에게 <_e129>(을)를 줍니다. 아군과 전투 중일 경우, 이 아군은 <_e152>(을)를 얻습니다.
 0/cdb/10/sheet/224/BlowsFlurry/0/name/0/#text¬Flurry of Blows¬일격
 0/cdb/10/sheet/224/BlowsFlurry/1/desc/0/#text¬Deals [DMG] to the target ::value1:: time(s).¬대상에게 <_e131> 회에 걸쳐 <_e129>(을)를 줍니다.
@@ -10758,7 +10758,7 @@
 0/cdb/10/sheet/226/MartialImpact/0/name/0/#text¬Martial Impact¬무적 충격
 0/cdb/10/sheet/226/MartialImpact/1/desc/0/#text¬Deals [DMG] to the target and applies [Confus] for ::value1:: rounds.¬대상에게 <_e129>(을)를 주고 <_e131> 라운드 동안 <_e169>(을)를 적용합니다.
 0/cdb/10/sheet/227/MilitaryChoreography/0/name/0/#text¬Military Choreography¬군사 안무
-0/cdb/10/sheet/227/MilitaryChoreography/1/desc/0/#text¬Every ::value1:: attacks, gains [Fury].<br/><br/>Performed attacks: ::value2::¬ <_e131> 공격할 때마다 <_e134>.<br/><br/>수행한 공격의 %를 얻습니다: <_e157>
+0/cdb/10/sheet/227/MilitaryChoreography/1/desc/0/#text¬Every ::value1:: attacks, gains [Fury].<br/><br/>Performed attacks: ::value2::¬ <_e131>번 공격할 때마다 <_e134>(을)를 얻습니다.<br/><br/>수행한 공격 횟수: <_e157>
 0/cdb/10/sheet/228/MedicalAssistance/0/name/0/#text¬Medical Assistance¬의료 지원
 0/cdb/10/sheet/228/MedicalAssistance/1/desc/0/#text¬This unit cannot be engaged in combat.<br/><br/>At the end of their turn, heals all nearby allies for::value1::% of their max [Health].¬이 유닛은 전투에 참여할 수 없습니다.<br/><br/>자신의 턴이 끝나면, 근처의 모든 아군을 최대 생명력의<_e131>%만큼 회복시킵니다 <_e119>.
 0/cdb/10/sheet/229/TrainedToKill/0/name/0/#text¬Trained to Kill¬훈련된 사살
@@ -10766,8 +10766,8 @@
 0/cdb/10/sheet/230/MilitaryFormation/0/name/0/#text¬Military Formation¬군대 편성
 0/cdb/10/sheet/230/MilitaryFormation/1/desc/0/#text¬Every time this unit ends its turn next to an ally, they gain [Deflection].¬이 유닛이 아군 옆에서 턴을 끝낼 때마다, 아군은 <_e144>.
 0/cdb/10/sheet/230/MilitaryFormation/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: Every time a unit ends their turn next to an ally, they gain [Deflection].¬<_e179>: 이 유닛이 아군 옆에서 자신의 턴을 끝낼 때마다 <_e144>(을)를 얻습니다.
-0/cdb/10/sheet/231/AloneAgainstAll/0/name/0/#text¬One Against Many¬다수 대 다수
-0/cdb/10/sheet/231/AloneAgainstAll/1/desc/0/#text¬This unit has [Protection] and [Brutality] when their team is outnumbered.¬이 부대는 수적으로 열세일 때 <_e155> 및 <_e154>(을)를 얻습니다.
+0/cdb/10/sheet/231/AloneAgainstAll/0/name/0/#text¬One Against Many¬소수 대 다수
+0/cdb/10/sheet/231/AloneAgainstAll/1/desc/0/#text¬This unit has [Protection] and [Brutality] when their team is outnumbered.¬이 유닛은 수적으로 열세일 때 <_e155> 및 <_e154>(을)를 얻습니다.
 0/cdb/10/sheet/231/AloneAgainstAll/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: Units have [Protection] and [Brutality] when their team is outnumbered.¬<_e179>: 이 유닛은 <_e155> 및 <_e154>(을)를 가집니다.
 0/cdb/10/sheet/232/FugitivePolearmLegion/0/name/0/#text¬Victorious Strike¬승리의 일격
 0/cdb/10/sheet/232/FugitivePolearmLegion/1/desc/0/#text¬[DMG] to the target.<br/><br/>[DeadlyBlow]: Doubles the [Morale] gained from the target's death.¬대상에게 <_e129>(을)를 줍니다.<br/><br/><_e133>: 대상의 사망으로 얻는 <_e184>(이)가 두 배로 증가합니다.
@@ -10786,7 +10786,7 @@
 0/cdb/10/sheet/239/StunningAssault/0/name/0/#text¬Stunning Assault¬스턴 공격
 0/cdb/10/sheet/239/StunningAssault/1/desc/0/#text¬Deals [DMG] to the target and applies [Destabilization] for ::value1:: round if they are already engaged with an ally.¬대상에게 <_e129>(을)를 주고 아군과 이미 교전 중일 경우 <_e131> 라운드에 <_e156> 효과를 적용합니다.
 0/cdb/10/sheet/240/ArmorCrushing/0/name/0/#text¬Armour Crushing¬갑옷 분쇄
-0/cdb/10/sheet/240/ArmorCrushing/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>Applies [Bleeding] if the [Armor] sustained damage.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>아군이 <_e141> 피해를 입었다면 <_e137> 적용합니다.
+0/cdb/10/sheet/240/ArmorCrushing/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>Applies [Bleeding] if the [Armor] sustained damage.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/> <_e141> 피해를 입혔다면 <_e137>(을)를 적용합니다.
 0/cdb/10/sheet/241/AttackOrder/0/name/0/#text¬Attack Order¬공격 명령
 0/cdb/10/sheet/241/AttackOrder/1/desc/0/#text¬Deals [DMG] to the target.<br/><br/>[Backstab]: If the target is engaged in combat with an ally, this ally executes an attack of opportunity.¬대상에게 <_e129>(을)를 줍니다.<br/><br/><_e143>: 대상이 아군과 전투 중일 경우, 이 아군이 기회공격을 실행합니다.
 0/cdb/10/sheet/242/VolleyOfArrows/0/name/0/#text¬Volley of Arrows¬화살 발리
@@ -10802,13 +10802,13 @@
 0/cdb/10/sheet/247/Exaltation/0/name/0/#text¬Exaltation¬고귀함
 0/cdb/10/sheet/247/Exaltation/1/desc/0/#text¬This unit and their allies have [InspirationLeader].¬이 유닛과 아군은 <_e185>(을)를 가지고 있습니다.
 0/cdb/10/sheet/248/ForcefulRelease/0/name/0/#text¬Forced Disengagement¬강제 교전 해제
-0/cdb/10/sheet/248/ForcefulRelease/1/desc/0/#text¬If this unit starts their turn engaged in combat, they execute an attack of opportunity at the end of the turn.¬이 부대가 전투 중 턴을 시작하면 턴이 끝날 때 기회공격을 실행합니다.
-0/cdb/10/sheet/248/ForcefulRelease/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: If a unit ends their turn engaged in combat, they execute an attack of opportunity.¬<_e179>: 이 부대가 전투 중 턴을 종료하면 기회공격을 실행합니다.
+0/cdb/10/sheet/248/ForcefulRelease/1/desc/0/#text¬If this unit starts their turn engaged in combat, they execute an attack of opportunity at the end of the turn.¬이 유닛이 전투 중 턴을 시작하면 턴이 끝날 때 기회공격을 실행합니다.
+0/cdb/10/sheet/248/ForcefulRelease/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: If a unit ends their turn engaged in combat, they execute an attack of opportunity.¬<_e179>: 이 유닛이 전투 중 턴을 종료하면 기회공격을 실행합니다.
 0/cdb/10/sheet/249/CloseRanks/0/name/0/#text¬Close Ranks¬근접 대열
 0/cdb/10/sheet/249/CloseRanks/1/desc/0/#text¬[DamageBonusPercent] increased by ::value1::% for each remaining movement point.¬<_e120> 남은 이동 지점당 <_e131>% 증가합니다.
 0/cdb/10/sheet/249/CloseRanks/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: [DamageBonusPercent] increased by ::value1::% for each remaining movement point.¬<_e179> <_e120> 남은 이동 점수당 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/250/FervorOfTheLaw/0/name/0/#text¬Lawful Fervour¬합법적 열정
-0/cdb/10/sheet/250/FervorOfTheLaw/1/desc/0/#text¬Damage dealt by this unit with attacks of opportunity is increased by ::value1::% and applies [Confus] for ::value2:: round.¬이 부대가 기회공격으로 주는 피해가 <_e131>%만큼 증가하며, <_e157> 라운드 동안 <_e169>(이)가 적용됩니다.
+0/cdb/10/sheet/250/FervorOfTheLaw/1/desc/0/#text¬Damage dealt by this unit with attacks of opportunity is increased by ::value1::% and applies [Confus] for ::value2:: round.¬이 유닛이 기회공격으로 주는 피해가 <_e131>%만큼 증가하며, <_e157> 라운드 동안 <_e169>(이)가 적용됩니다.
 0/cdb/10/sheet/250/FervorOfTheLaw/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: Damage dealt by units with attacks of opportunity is increased by ::value1::% and applies [Confus] for ::value2:: round.¬<_e179>: 이 유닛이 기회공격으로 주는 피해가 <_e131>%만큼 증가하고 <_e157> 라운드 동안 <_e169>(이)가 적용됩니다.
 0/cdb/10/sheet/251/FugitiveAxe2hGuard/0/name/0/#text¬Raging Spiral¬성난 나선
 0/cdb/10/sheet/251/FugitiveAxe2hGuard/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If the attack hits at least ::value1:: units, applies [Vulnerability].¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>공격이 최소 <_e131> 유닛에게 적중하면 <_e160>(을)를 적용합니다.
@@ -10833,7 +10833,7 @@
 0/cdb/10/sheet/261/EagleEye/0/name/0/#text¬Eagle Eye¬독수리 눈
 0/cdb/10/sheet/261/EagleEye/1/desc/0/#text¬At the start of each round, applies [Vulnerability] to the enemy with the least [Health] remaining.¬각 라운드가 시작될 때, <_e119>(이)가 가장 적게 남은 적에게 <_e160>(을)를 적용합니다.
 0/cdb/10/sheet/262/AttackStrategy/0/name/0/#text¬Attack Strategy¬공격 전략
-0/cdb/10/sheet/262/AttackStrategy/1/desc/0/#text¬This unit and their allies have [BrutalityLeader].¬이 부대와 아군은 <_e187>(을)를 가지고 있습니다.
+0/cdb/10/sheet/262/AttackStrategy/1/desc/0/#text¬This unit and their allies have [BrutalityLeader].¬이 유닛과 아군은 <_e187>(을)를 가지고 있습니다.
 0/cdb/10/sheet/263/EliteMercenaries/0/name/0/#text¬Elite Mercenaries¬엘리트 용병
 0/cdb/10/sheet/263/EliteMercenaries/1/desc/0/#text¬This unit has [Rivalry] when engaged in combat.¬이 유닛은 전투 중 <_e168>(을)를 가집니다.
 0/cdb/10/sheet/263/EliteMercenaries/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: The units have [Rivalry] if they are engaged in combat.¬<_e179>: 이 유닛은 전투 중일 때 <_e168>(을)를 가집니다.
@@ -10865,11 +10865,11 @@
 0/cdb/10/sheet/276/IronWill/0/name/0/#text¬Iron Will¬강철 의지
 0/cdb/10/sheet/276/IronWill/1/desc/0/#text¬This unit and their allies have [DmgPerBonusLeader].¬이 유닛과 아군은 <_e189>(을)를 가집니다.
 0/cdb/10/sheet/277/ExhilaratingFervour/0/name/0/#text¬Exhilarating Fervour¬짜릿한 열정
-0/cdb/10/sheet/277/ExhilaratingFervour/1/desc/0/#text¬If this unit engages an opponent directly, they execute an attack of opportunity.¬이 부대가 적과 직접 교전하면 기회공격을 실행합니다.
-0/cdb/10/sheet/277/ExhilaratingFervour/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: If a unit engages an enemy directly, they execute an attack of opportunity.¬<_e179>: 이 부대가 적과 직접 교전하면 기회공격을 실행합니다.
+0/cdb/10/sheet/277/ExhilaratingFervour/1/desc/0/#text¬If this unit engages an opponent directly, they execute an attack of opportunity.¬이 유닛이 적과 직접 교전하면 기회공격을 실행합니다.
+0/cdb/10/sheet/277/ExhilaratingFervour/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: If a unit engages an enemy directly, they execute an attack of opportunity.¬<_e179>: 이 유닛이 적과 직접 교전하면 기회공격을 실행합니다.
 0/cdb/10/sheet/278/Penance/0/name/0/#text¬Penance¬참회
 0/cdb/10/sheet/278/Penance/1/desc/0/#text¬Every time this unit takes damage to their [Health], they gain ::value1:: [AnimalMarkedBonus].¬이 유닛이 <_e119>에 피해를 받을 때마다 <_e131> <_e118>(을)를 얻습니다.
-0/cdb/10/sheet/278/Penance/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: Every time a unit takes damage to their [Health], they gain ::value1:: [AnimalMarkedBonus].¬<_e179>: 이 부대가 <_e119>에 피해를 받을 때마다 <_e131> <_e118>(을)를 얻습니다.
+0/cdb/10/sheet/278/Penance/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: Every time a unit takes damage to their [Health], they gain ::value1:: [AnimalMarkedBonus].¬<_e179>: 이 유닛이 <_e119>에 피해를 받을 때마다 <_e131> <_e118>(을)를 얻습니다.
 0/cdb/10/sheet/279/FugitiveSwordInquisition/0/name/0/#text¬Punishment¬처벌
 0/cdb/10/sheet/279/FugitiveSwordInquisition/1/desc/0/#text¬Deals [DMG] to the target.<br/>The damage is increased by ::value1::% against targets without [Guard].¬대상에게 <_e129>(을)를 줍니다.<br/> <_e115>(이)가 없는 대상에 대한 피해는 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/280/FugitiveMaceInquisition/0/name/0/#text¬Eternal Youth¬영원한 젊음
@@ -10949,7 +10949,7 @@
 0/cdb/10/sheet/315/GoodCompanion/0/name/0/#text¬Good Companion¬좋은 동료
 0/cdb/10/sheet/315/GoodCompanion/1/desc/0/#text¬This unit can be assigned to the campfire.¬이 유닛은 캠프파이어에 배치할 수 있습니다.
 0/cdb/10/sheet/316/DraughtBoar/0/name/0/#text¬Cart Boar¬수레 멧돼지
-0/cdb/10/sheet/316/DraughtBoar/1/desc/0/#text¬[Transport] increased by ::value1::.¬<_e111> <_e131>% 증가합니다.
+0/cdb/10/sheet/316/DraughtBoar/1/desc/0/#text¬[Transport] increased by ::value1::.¬<_e111>(이)가 <_e131> 증가합니다.
 0/cdb/10/sheet/317/FarmedBoar/0/name/0/#text¬Livestock Boar¬가축 멧돼지
 0/cdb/10/sheet/317/FarmedBoar/1/desc/0/#text¬This unit can now be slaughtered for meat.<br/><br/>The beast eats the remains, which reduces its Food consumption by ::value1::.¬이 유닛은 이제 고기를 얻기 위해 도살할 수 있습니다.<br/><br/>(이)가 야수가 사체를 먹으면 식량 소비량이 <_e131> 만큼 감소합니다.
 0/cdb/10/sheet/318/TruffleBoar/0/name/0/#text¬Truffle Boar¬트러플 멧돼지
@@ -10978,43 +10978,43 @@
 0/cdb/10/sheet/329/Pack/0/name/0/#text¬Pack¬팩
 0/cdb/10/sheet/329/Pack/1/desc/0/#text¬If there are at least ::value1:: Wolves in the troop, this unit's [CritHitPercent] is increased by ::value2::%.¬부대에 늑대가 <_e131> 이상 있으면, 이 유닛의 <_e110>이 <_e157>%만큼 증가합니다.
 0/cdb/10/sheet/330/SenseOfSacrifice/0/name/0/#text¬Self-Sacrifice¬자기 희생
-0/cdb/10/sheet/330/SenseOfSacrifice/1/desc/0/#text¬While this unit is not engaged in combat but is near an ally, it gains [Fragility] but gives [Protection] to the ally.¬이 부대가 전투에 참여하지 않고 아군 근처에 있는 동안, 이 부대는 <_e163>(을)를 얻는 대신 아군에게 <_e155>(을)를 줍니다.
-0/cdb/10/sheet/331/CarnivorousDiet/0/name/0/#text¬Carnivore Diet¬육식 다이어트
-0/cdb/10/sheet/331/CarnivorousDiet/1/desc/0/#text¬Each time this unit kills an enemy, it heals itself for ::value1::% of its maximum [Health].¬이 유닛이 적을 처치할 때마다 최대 생명력 회복량의 <_e131>%만큼 스스로 회복합니다 <_e119>.
+0/cdb/10/sheet/330/SenseOfSacrifice/1/desc/0/#text¬While this unit is not engaged in combat but is near an ally, it gains [Fragility] but gives [Protection] to the ally.¬이 유닛이 전투에 참여하지 않고 아군 근처에 있는 동안, 이 유닛은 <_e163>(을)를 얻는 대신 아군에게 <_e155>(을)를 줍니다.
+0/cdb/10/sheet/331/CarnivorousDiet/0/name/0/#text¬Carnivore Diet¬육식 주의 식단
+0/cdb/10/sheet/331/CarnivorousDiet/1/desc/0/#text¬Each time this unit kills an enemy, it heals itself for ::value1::% of its maximum [Health].¬이 유닛이 적을 처치할 때마다 최대 <_e119>의 <_e131>%만큼 스스로 회복합니다.
 0/cdb/10/sheet/332/LockingHisWounds/0/name/0/#text¬Licking Wounds¬상처 핥기
-0/cdb/10/sheet/332/LockingHisWounds/1/desc/0/#text¬This unit is healed for ::value1::% of its max [Health] and all of its Debuffs are removed.¬이 유닛은 최대 생명력 회복량 <_e119>의 <_e131>%만큼 생명력을 회복하고 모든 디버프가 제거됩니다.
+0/cdb/10/sheet/332/LockingHisWounds/1/desc/0/#text¬This unit is healed for ::value1::% of its max [Health] and all of its Debuffs are removed.¬이 유닛은 최대 <_e119>의 <_e131>%만큼 회복하고 모든 디버프가 제거됩니다.
 0/cdb/10/sheet/333/Watchwolf/0/name/0/#text¬Guard Wolf¬경비 늑대
-0/cdb/10/sheet/333/Watchwolf/1/desc/0/#text¬If your troop is attacked during a Rest, it is immune to [Surprised], and this unit gains [Galvanization].¬아군 부대가 휴식 중에 공격을 받으면 <_e198>에 면역이 되고, 이 부대는 <_e181>(을)를 얻습니다.
+0/cdb/10/sheet/333/Watchwolf/1/desc/0/#text¬If your troop is attacked during a Rest, it is immune to [Surprised], and this unit gains [Galvanization].¬아군 부대가 휴식 중에 공격을 받으면 <_e198>에 면역이 되고, 이 유닛은 <_e181>(을)를 얻습니다.
 0/cdb/10/sheet/334/BornHunter/0/name/0/#text¬Natural Born Hunter¬타고난 사냥꾼
-0/cdb/10/sheet/334/BornHunter/1/desc/0/#text¬This unit has a chance to catch wild game during a Rest.¬이 부대는 휴식 중에 야생 사냥감을 잡을 확률이 있습니다.
+0/cdb/10/sheet/334/BornHunter/1/desc/0/#text¬This unit has a chance to catch wild game during a Rest.¬이 유닛은 휴식 중에 야생 사냥감을 잡을 확률이 있습니다.
 0/cdb/10/sheet/335/MoonHowl/0/name/0/#text¬Howling at the Moon¬달을 향한 울부짖음
-0/cdb/10/sheet/335/MoonHowl/1/desc/0/#text¬After attacking, this unit applies [Frightened].¬공격 후, 이 부대는 <_e199>(을)를 적용합니다.
+0/cdb/10/sheet/335/MoonHowl/1/desc/0/#text¬After attacking, this unit applies [Frightened].¬공격 후, 이 유닛은 <_e199>(을)를 적용합니다.
 0/cdb/10/sheet/336/PrimalReflexes/0/name/0/#text¬Primitive Reflexes¬원시 반사 신경
 0/cdb/10/sheet/336/PrimalReflexes/1/desc/0/#text¬Critical hits against this unit turn into regular hits, and the unit counters with an attack of opportunity.¬이 유닛에 대한 치명타가 일반 공격으로 바뀌고, 이 유닛은 기회공격으로 반격합니다.
 0/cdb/10/sheet/337/Crush/0/name/0/#text¬Rush¬돌진
 0/cdb/10/sheet/337/Crush/1/desc/0/#text¬Deals [DMG] to the target.¬대상에게 <_e129>(을)를 줍니다.
-0/cdb/10/sheet/338/DraughtHorse/0/name/0/#text¬Work Pony¬작업 조랑말
+0/cdb/10/sheet/338/DraughtHorse/0/name/0/#text¬Work Pony¬작업마 
 0/cdb/10/sheet/338/DraughtHorse/1/desc/0/#text¬[Transport] increased by ::value1::.¬<_e111>(이)가 <_e131> 만큼 증가합니다.
-0/cdb/10/sheet/339/WarHorse/0/name/0/#text¬War Pony¬전쟁 조랑말
-0/cdb/10/sheet/339/WarHorse/1/desc/0/#text¬This unit can now fight and wear armour plating.¬이 부대는 이제 전투 중에도 갑옷 도금을 착용할 수 있습니다.
+0/cdb/10/sheet/339/WarHorse/0/name/0/#text¬War Pony¬군마
+0/cdb/10/sheet/339/WarHorse/1/desc/0/#text¬This unit can now fight and wear armour plating.¬이 유닛은 이제 전투가 가능하고, 갑옷 판을 착용할 수 있습니다.
 0/cdb/10/sheet/340/Racking/0/name/0/#text¬Rearing¬기르기
 0/cdb/10/sheet/340/Racking/1/desc/0/#text¬Applies [Inspiration] to all allies in the area for ::value1:: rounds.¬ <_e131> 라운드 동안 해당 지역의 모든 아군에게 <_e153> 효과를 적용합니다.
 0/cdb/10/sheet/341/Vigour/0/name/0/#text¬Vigour¬활력
-0/cdb/10/sheet/341/Vigour/1/desc/0/#text¬[Constitution] increased by ::value::%.¬<_e109> <_e28> %만큼 증가합니다.
+0/cdb/10/sheet/341/Vigour/1/desc/0/#text¬[Constitution] increased by ::value::%.¬<_e109> <_e28>%만큼 증가합니다.
 0/cdb/10/sheet/342/Tireless/0/name/0/#text¬Tireless¬지칠 줄 모르는
 0/cdb/10/sheet/342/Tireless/1/desc/0/#text¬Run duration increased by ::value1::%.¬달리기 지속시간이 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/343/PlainsRunner/0/name/0/#text¬Plain Runner¬플레인 러너
-0/cdb/10/sheet/343/PlainsRunner/1/desc/0/#text¬Run duration increased by ::value1::%.<br/>[Transport] increased by ::value1::.¬달리기 지속시간이 <_e131>%만큼 증가합니다.<br/><_e111> <_e131> .
+0/cdb/10/sheet/343/PlainsRunner/1/desc/0/#text¬Run duration increased by ::value1::%.<br/>[Transport] increased by ::value1::.¬달리기 지속시간이 <_e131>%만큼 증가합니다.<br/><_e111>(이)가 <_e131>만큼 증가합니다.
 0/cdb/10/sheet/344/KingOfGallop/0/name/0/#text¬Gallop Master¬갤럽 마스터
-0/cdb/10/sheet/344/KingOfGallop/1/desc/0/#text¬[Movement] increased by ::value1::.¬<_e107> <_e131> %만큼 증가합니다.
+0/cdb/10/sheet/344/KingOfGallop/1/desc/0/#text¬[Movement] increased by ::value1::.¬<_e107>(이)가 <_e131>만큼 증가합니다.
 0/cdb/10/sheet/345/PonyCharge/0/name/0/#text¬Devastating Charge¬파괴적인 돌격
-0/cdb/10/sheet/345/PonyCharge/1/desc/0/#text¬Disengages and charges in a straight line. Deals [DMG] to all units along the way, ignoring their [Guard].¬교전을 해제하고 일직선으로 돌진합니다. 도중에 있는 모든 유닛에게 <_e115>(을)를 무시하고 <_e129>의 피해를 줍니다.
+0/cdb/10/sheet/345/PonyCharge/1/desc/0/#text¬Disengages and charges in a straight line. Deals [DMG] to all units along the way, ignoring their [Guard].¬교전을 해제하고 일직선으로 돌진합니다. 도중에 있는 모든 유닛에게 <_e115>(을)를 무시하고 <_e129>(을)를 줍니다.
 0/cdb/10/sheet/346/Adventurer/0/name/0/#text¬Adventurer¬모험가
-0/cdb/10/sheet/346/Adventurer/1/desc/0/#text¬This unit benefits from hitching post bonuses as if it were a work pony.¬이 부대는 마치 일꾼 조랑말처럼 후미 보너스를 받습니다.
+0/cdb/10/sheet/346/Adventurer/1/desc/0/#text¬This unit benefits from hitching post bonuses as if it were a work pony.¬이 유닛은 마치 일꾼 조랑말처럼 마굿간에서 보너스를 받습니다.
 0/cdb/10/sheet/347/Traveler/0/name/0/#text¬Traveller¬여행자
 0/cdb/10/sheet/347/Traveler/1/desc/0/#text¬Can use +::value1:: equipment.¬<_e131> 장비를 사용할 수 있습니다.
 0/cdb/10/sheet/348/Rampart/0/name/0/#text¬Redoubt¬의심
-0/cdb/10/sheet/348/Rampart/1/desc/0/#text¬This unit gains [Protection] and [ToPosition] for ::value1:: round.¬이 부대는 <_e131> 라운드당 <_e155> 및 <_e193>(을)를 획득합니다.
+0/cdb/10/sheet/348/Rampart/1/desc/0/#text¬This unit gains [Protection] and [ToPosition] for ::value1:: round.¬이 유닛은 <_e131> 라운드당 <_e155> 및 <_e193>(을)를 획득합니다.
 0/cdb/10/sheet/349/InfectiousBite/0/name/0/#text¬Infectious Bite¬감염성 물기
 0/cdb/10/sheet/349/InfectiousBite/1/desc/0/#text¬Deals [DMG] to the target and applies ::value1:: [Fever].¬대상에게 <_e129>(을)를 주고 <_e131> <_e164>(을)를 적용합니다.
 0/cdb/10/sheet/350/SoilTaint/0/name/0/#text¬Desecrated Ground¬더럽혀진 땅
@@ -11046,7 +11046,7 @@
 0/cdb/10/sheet/363/InfectedScratch/0/name/0/#text¬Infectious Wound¬감염성 상처
 0/cdb/10/sheet/363/InfectedScratch/1/desc/0/#text¬Deals [DMG] to the target and applies ::value1:: [Fever].¬대상에게 <_e129>(을)를 주고 <_e131> <_e164>(을)를 적용합니다.
 0/cdb/10/sheet/364/PlagueOrganism/0/name/0/#text¬Plagued Organism¬병든 유기체
-0/cdb/10/sheet/364/PlagueOrganism/1/desc/0/#text¬This unit has [Pyrophobia], and [Poison] damage restores their [Health] instead.¬이 유닛은 <_e202>(을)를 가지고 있으며, <_e136> 피해를 입히면 대신 <_e119>(을)를 회복합니다.
+0/cdb/10/sheet/364/PlagueOrganism/1/desc/0/#text¬This unit has [Pyrophobia], and [Poison] damage restores their [Health] instead.¬이 유닛은 <_e202>(을)를 가지고 있으며, <_e136> 피해를 입으면 대신 <_e119>(을)를 회복합니다.
 0/cdb/10/sheet/365/PutrefiedBrain/0/name/0/#text¬Rotten Brain¬썩은 뇌
 0/cdb/10/sheet/365/PutrefiedBrain/1/desc/0/#text¬This unit has [SlowReflexes].¬이 유닛은 <_e203>(을)를 가지고 있습니다.
 0/cdb/10/sheet/366/DeepBite/0/name/0/#text¬Deep Bite¬깊은 물기
@@ -11066,7 +11066,7 @@
 0/cdb/10/sheet/373/TerrorLink/0/name/0/#text¬Binding of Terror¬공포의 속박
 0/cdb/10/sheet/373/TerrorLink/1/desc/0/#text¬Deals [VALUE] damage to the target's [Health] and applies [TerrorLink] to the target and a random Companion.¬대상의 <_e119>에 <_e5> 피해를 입히고 대상과 무작위 동료에게 <_e205>(을)를 적용합니다.
 0/cdb/10/sheet/374/NightmarishApperance/0/name/0/#text¬Stuff of Nightmares¬악몽의 물건
-0/cdb/10/sheet/374/NightmarishApperance/1/desc/0/#text¬Every time this unit takes damage, applies ::value1:: [Terror] to the attacker.¬이 유닛이 피해를 받을 때마다 공격자에게 <_e131> <_e204> 피해를 입힙니다.
+0/cdb/10/sheet/374/NightmarishApperance/1/desc/0/#text¬Every time this unit takes damage, applies ::value1:: [Terror] to the attacker.¬이 유닛이 피해를 받을 때마다 공격자에게 <_e131> <_e204>(을)를 줍니다.
 0/cdb/10/sheet/375/BeastRoar/0/name/0/#text¬Howl of the Beast¬야수의 울부짖음
 0/cdb/10/sheet/375/BeastRoar/1/desc/0/#text¬Applies ::value1:: [Terror] to all enemies and [Fury] to all allies.¬모든 적에게 <_e131> <_e204>, 모든 아군에게 <_e134>(을)를 적용합니다.
 0/cdb/10/sheet/376/DreadfulSting/0/name/0/#text¬Terrible Sting¬끔찍한 찌르기
@@ -11102,7 +11102,7 @@
 0/cdb/10/sheet/391/PrimalWrath/0/name/0/#text¬Primal Wrath¬원초적 분노
 0/cdb/10/sheet/391/PrimalWrath/1/desc/0/#text¬As long as this unit is not [Surrounded], they have [Fury].¬이 유닛이 <_e146>(이)가 아닌 한, <_e134>(을)를 가집니다.
 0/cdb/10/sheet/391/PrimalWrath/2/props.descPassiveGroup/0/#text¬[GROUPTYPE]: As long as a unit is not engaged nor [Surrounded], they have [Fury].¬<_e179>: 이 유닛이 교전 중이거나 <_e146>에 있지 않은 한, <_e134>(을)를 가집니다.
-0/cdb/10/sheet/392/Indomitability/0/name/0/#text¬Indomitable¬불굴의
+0/cdb/10/sheet/392/Indomitability/0/name/0/#text¬Indomitable¬불굴
 0/cdb/10/sheet/392/Indomitability/1/desc/0/#text¬[Strength] and [Constitution] increased by ::value1::%.¬<_e113>와 <_e109>(이)가 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/393/KingOfTheForest/0/name/0/#text¬King of the Forest¬숲의 왕
 0/cdb/10/sheet/393/KingOfTheForest/1/desc/0/#text¬If starting a battle in a forest, this unit has [Galvanization].¬숲에서 전투를 시작할 경우, 이 유닛은 <_e181>(을)를 가집니다.
@@ -11157,7 +11157,7 @@
 0/cdb/10/sheet/418/DisturbedMind/0/name/0/#text¬Disturbed Mind¬혼란스러운 마음
 0/cdb/10/sheet/418/DisturbedMind/1/desc/0/#text¬[DamageBonusPercent] reduced by ::value1::% for each Plague-ridden unit engaged in combat.¬<_e120> 전투에 참여한 역병에 걸린 유닛 하나당 <_e131>%만큼 감소합니다.
 0/cdb/10/sheet/419/GlimmersOfMortality/0/name/0/#text¬Glimmers of Mortality¬죽음의 희미한 빛
-0/cdb/10/sheet/419/GlimmersOfMortality/1/desc/0/#text¬Each time they take damage, this unit gains one application of [BionnPanic].¬이 부대가 피해를 받을 때마다 이 부대는 <_e213>(을)를 한 번 적용받습니다.
+0/cdb/10/sheet/419/GlimmersOfMortality/1/desc/0/#text¬Each time they take damage, this unit gains one application of [BionnPanic].¬피해를 받을 때마다 이 유닛은 <_e213>(을)를 한 번씩 적용받습니다.
 0/cdb/10/sheet/420/Transformation/0/name/0/#text¬Transformation¬변신
 0/cdb/10/sheet/420/Transformation/1/desc/0/#text¬At ::value1::% of their maximum [Health], this unit transforms.¬최대 <_e119>의 <_e131>%만큼 이 유닛이 변신합니다.
 0/cdb/10/sheet/421/FenrisSeek/0/name/0/#text¬Target the Weak¬약자 표적
@@ -11314,7 +11314,7 @@
 0/cdb/10/sheet/510/BeltAccBaseActionOnly/0/name/0/#text¬Small Gauntlet¬작은 건틀렛
 0/cdb/10/sheet/510/BeltAccBaseActionOnly/1/desc/0/#text¬[DamageBonusPercent] increased by ::value1::%, but this unit can only use a [ActionBase].¬<_e120>(이)가 <_e131>%만큼 증가했지만, 이 유닛은 <_e228> 만 사용할 수 있습니다.
 0/cdb/10/sheet/511/BeltAccMoraleBonus/0/name/0/#text¬Ancient Idol¬고대 우상
-0/cdb/10/sheet/511/BeltAccMoraleBonus/1/desc/0/#text¬Every time this unit kills an enemy, they generate ::value1:: extra Morale.¬이 유닛이 적을 처치할 때마다 사기가 <_e131> %만큼 추가로 생성됩니다.
+0/cdb/10/sheet/511/BeltAccMoraleBonus/1/desc/0/#text¬Every time this unit kills an enemy, they generate ::value1:: extra Morale.¬이 유닛이 적을 처치할 때마다 사기가 <_e131>만큼 추가로 생성됩니다.
 0/cdb/10/sheet/512/BeltAccGritEndTurn/0/name/0/#text¬Sewn Crest¬수놓은 문장
 0/cdb/10/sheet/512/BeltAccGritEndTurn/1/desc/0/#text¬At the end of their turn, this unit has a ::value1::% chance to gain &lt;apt&gt;::value2::&lt;/apt&gt;.¬자신의 턴이 끝날 때, 이 유닛은 <_e131>%의 확률로 <apt><_e157></apt>(을)를 얻습니다.
 0/cdb/10/sheet/513/BeltAccOilProcTrueDmg/0/name/0/#text¬Explosive Oil Concentrate¬폭발성 기름 농축액
@@ -11350,7 +11350,7 @@
 0/cdb/10/sheet/528/BeltAccOilProcSlowReflexes/0/name/0/#text¬Exhausting Oil Concentrate¬고갈 오일 농축액
 0/cdb/10/sheet/528/BeltAccOilProcSlowReflexes/1/desc/0/#text¬Exhausting Oil has an additional ::value1::% chance to apply its effects.¬고갈된 기름이 추가로 <_e131>% 확률로 효과를 적용합니다.
 0/cdb/10/sheet/529/BeltAccTerrorMax/0/name/0/#text¬Trackers’ Charm¬추적자의 매력
-0/cdb/10/sheet/529/BeltAccTerrorMax/1/desc/0/#text¬The maximum [Terror] a Companion can suffer is increased by ::value1::.¬동료가 받을 수 있는 최대 피해 <_e204>(이)가 <_e131>% 증가합니다.
+0/cdb/10/sheet/529/BeltAccTerrorMax/1/desc/0/#text¬The maximum [Terror] a Companion can suffer is increased by ::value1::.¬동료가 받을 수 있는 최대 <_e204>(이)가 <_e131> 증가합니다.
 0/cdb/10/sheet/530/BeltAccGoldTeeth/0/name/0/#text¬Forceps¬포셉
 0/cdb/10/sheet/530/BeltAccGoldTeeth/1/desc/0/#text¬This unit has a chance to collect gold teeth at the end of a battle.¬이 유닛은 전투 종료 시 일정 확률로 금 이빨을 수집할 수 있습니다.
 0/cdb/10/sheet/531/BeltAccTerrorReduceRound/0/name/0/#text¬Fetish of the Ancients¬고대인의 페티쉬
@@ -11394,7 +11394,7 @@
 0/cdb/10/sheet/551/AnimAccObey/0/desc/0/#text¬This unit can be controlled in combat.¬이 유닛은 전투 중에 조종할 수 있습니다.
 0/cdb/10/sheet/552/AnimAccSecondLife/0/desc/0/#text¬When this unit should die, it survives and the collar is destroyed.¬이 유닛이 죽어야 할 때, 이 유닛은 살아남고 목걸이는 파괴됩니다.
 0/cdb/10/sheet/553/AnimAccBerserkProc/0/desc/0/#text¬When this unit has ::value1::% [Health] or less, it gains [Berserk].¬이 유닛의 공격력이 <_e131>% <_e119> 이하일 때, 이 유닛은 <_e191>(을)를 얻습니다.
-0/cdb/10/sheet/554/AnimAccRegen/0/desc/0/#text¬At the end of their turn, this unit heals ::value1::% of their maximum [Health].¬자신의 턴이 끝날 때, 이 부대는 최대 <_e119>의 <_e131>%만큼 생명력을 회복합니다.
+0/cdb/10/sheet/554/AnimAccRegen/0/desc/0/#text¬At the end of their turn, this unit heals ::value1::% of their maximum [Health].¬자신의 턴이 끝날 때, 이 유닛은 최대 <_e119>의 <_e131>%만큼 생명력을 회복합니다.
 0/cdb/10/sheet/555/AnimAccGuard/0/desc/0/#text¬When the troop is attacked by surprise, a random enemy starts with an injury.¬부대가 매복을 당하면 무작위 적 한 명이 부상을 입습니다.
 0/cdb/10/sheet/556/AnimAccPoison/0/desc/0/#text¬The carrier animal has a ::value1::% chance to poison its target, but starts the fight with the [Poison] status.¬운반 동물은 <_e131>%의 확률로 대상을 중독시키지만, <_e136> 상태로 전투를 시작합니다.
 0/cdb/10/sheet/557/AnimAccFire/0/desc/0/#text¬The carrier animal has a ::value1::% chance to burn its target, but starts the fight with the [Burning] status.¬운반 동물은 <_e131>%의 확률로 대상을 불태우지만 <_e138> 상태로 전투를 시작합니다.
@@ -11404,7 +11404,7 @@
 0/cdb/10/sheet/561/FireZone/0/name/0/#text¬Fire¬화염
 0/cdb/10/sheet/561/FireZone/1/desc/0/#text¬An area of fire that applies [Burning] to all the units who go through it.¬화염 영역으로, 이 영역을 통과하는 모든 유닛에게 <_e138>(이)가 적용됩니다.
 0/cdb/10/sheet/562/PoisonZone/0/name/0/#text¬Poison¬독
-0/cdb/10/sheet/562/PoisonZone/1/desc/0/#text¬An area of poison that applies ::value1:: [Poison]s to all the units moving through it or ending their turn in it.¬독 영역으로, 이 영역을 통과하거나 그 안에서 턴이 종료되는 모든 유닛에게 <_e131> <_e136>%의 독이 적용됩니다.
+0/cdb/10/sheet/562/PoisonZone/1/desc/0/#text¬An area of poison that applies ::value1:: [Poison]s to all the units moving through it or ending their turn in it.¬독 영역으로, 이 영역을 통과하거나 그 안에서 턴이 종료되는 모든 유닛에게 <_e131> <_e136>(이)가 적용됩니다.
 0/cdb/10/sheet/563/FogZone/0/name/0/#text¬Fog¬안개
 0/cdb/10/sheet/563/FogZone/1/desc/0/#text¬An area of fog that greatly reduces visibility.¬시야를 크게 감소시키는 안개 영역입니다.
 0/cdb/10/sheet/564/TerrorFogZone/0/name/0/#text¬Eerie Fog¬섬뜩한 안개
@@ -11448,7 +11448,7 @@
 0/cdb/10/sheet/583/AIBehaviourStop/0/name/0/#text¬Behaviour: Defend¬행동 방어
 0/cdb/10/sheet/583/AIBehaviourStop/1/desc/0/#text¬During their turn, this unit remains where they are and will attack nearby targets.¬자신의 턴 동안 이 유닛은 제자리에 머물며 근처의 대상을 공격합니다.
 0/cdb/10/sheet/584/AIBehaviourRunaway/0/name/0/#text¬Behaviour: Flee¬행동: 도주
-0/cdb/10/sheet/584/AIBehaviourRunaway/1/desc/0/#text¬During their turn, this unit tries to move away from the enemies and get closer to allied units.¬자신의 차례가 되면 이 부대는 적에게서 멀어지고 아군 유닛에게 가까이 가려고 합니다.
+0/cdb/10/sheet/584/AIBehaviourRunaway/1/desc/0/#text¬During their turn, this unit tries to move away from the enemies and get closer to allied units.¬자신의 차례가 되면 이 유닛은 적에게서 멀어지고 아군 유닛에게 가까이 가려고 합니다.
 0/cdb/10/sheet/585/ArenaVulnerability/0/name/0/#text¬Pressure¬압력
 0/cdb/10/sheet/585/ArenaVulnerability/1/desc/0/#text¬All the enemies start the battle with [Vulnerability].¬모든 적은 <_e160> 상태로 전투를 시작합니다.
 0/cdb/10/sheet/586/ArenaStrengthBonus/0/name/0/#text¬Improved Strength¬향상된 힘
@@ -11527,11 +11527,11 @@
 0/cdb/10/sheet/635/SportDodge/0/name/0/#text¬Dodge¬회피
 0/cdb/10/sheet/635/SportDodge/1/desc/0/#text¬This unit will try to dodge nearby opponent tackles.¬이 유닛은 주변의 상대 태클을 회피합니다.
 0/cdb/10/sheet/636/SportTackle/0/name/0/#text¬Tackle¬태클
-0/cdb/10/sheet/636/SportTackle/1/desc/0/#text¬This unit will try to knock down any opponent passing within range.¬이 부대는 범위 내로 지나가는 상대를 넘어뜨리려고 시도합니다.
+0/cdb/10/sheet/636/SportTackle/1/desc/0/#text¬This unit will try to knock down any opponent passing within range.¬이 유닛은 범위 내로 지나가는 상대를 기절시키려고 시도합니다.
 0/cdb/10/sheet/637/SportFendOff/0/name/0/#text¬Fend Off¬펜드 오프
-0/cdb/10/sheet/637/SportFendOff/1/desc/0/#text¬This unit will try to knock down an opponent in their path.¬이 유닛은 경로에 있는 상대를 쓰러뜨리려고 시도합니다.
+0/cdb/10/sheet/637/SportFendOff/1/desc/0/#text¬This unit will try to knock down an opponent in their path.¬이 유닛은 경로에 있는 상대를 기절시키려고 시도합니다.
 0/cdb/10/sheet/638/SportReplay/0/name/0/#text¬Play Again¬다시 플레이
-0/cdb/10/sheet/638/SportReplay/1/desc/0/#text¬This unit can play again if they get the ball.¬이 부대는 공을 잡으면 다시 플레이할 수 있습니다.
+0/cdb/10/sheet/638/SportReplay/1/desc/0/#text¬This unit can play again if they get the ball.¬이 유닛은 공을 잡으면 다시 플레이할 수 있습니다.
 0/cdb/10/sheet/639/SportAnimalCharge/0/name/0/#text¬Charge¬돌격
 0/cdb/10/sheet/639/SportAnimalCharge/1/desc/0/#text¬Charges in a straight line, knocking down all units in their path.¬일직선으로 돌진하여 경로에 있는 모든 유닛을 쓰러뜨립니다.
 0/cdb/10/sheet/640/SportBallDrop/0/name/0/#text¬Drop Zone¬드롭 구역
@@ -11568,7 +11568,7 @@
 0/cdb/11/sheet/13/ScaredUnit/0/name/0/#text¬Scared¬겁먹은
 0/cdb/11/sheet/13/ScaredUnit/1/desc/0/#text¬This unit is scared and can only defend or flee.¬이 유닛은 겁에 질려 방어 또는 도주만 할 수 있습니다.
 0/cdb/11/sheet/14/Tired/0/name/0/#text¬Fatigued¬피곤
-0/cdb/11/sheet/14/Tired/1/desc/0/#text¬[Strength] and [Dexterity] reduced by [ATTR_0]%.¬<_e113> <_e114> %만큼 감소합니다( <_e238>%).
+0/cdb/11/sheet/14/Tired/1/desc/0/#text¬[Strength] and [Dexterity] reduced by [ATTR_0]%.¬<_e113> <_e114>%만큼 감소합니다( <_e238>%).
 0/cdb/11/sheet/15/HairGrowing/0/name/0/#text¬Hair regrowth¬모발 재성장
 0/cdb/11/sheet/15/HairGrowing/1/desc/0/#text¬According to the label on the bottle, you need to sleep for it to take effect.¬병에 적힌 라벨에 따르면, 효과를 발휘하려면 잠을 자야 합니다.
 0/cdb/11/sheet/16/Galvanization/0/name/0/#text¬Galvanisation¬활력
@@ -11577,7 +11577,7 @@
 0/cdb/11/sheet/17/Motivation/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR_0]%.¬<_e120>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/18/Fury/0/name/0/#text¬Fury¬격노
 0/cdb/11/sheet/18/Fury/1/desc/0/#text¬[DamageBonusPercent] of the next attack increased by [ATTR_0]%.¬다음 공격의 <_e120>(이)가 <_e238>%만큼 증가합니다.
-0/cdb/11/sheet/19/Brutality/0/name/0/#text¬Brutality¬잔인성
+0/cdb/11/sheet/19/Brutality/0/name/0/#text¬Brutality¬무자비함
 0/cdb/11/sheet/19/Brutality/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR_0]%.¬<_e120>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/20/Protection/0/name/0/#text¬Protection¬보호
 0/cdb/11/sheet/20/Protection/1/desc/0/#text¬[DamageReducePercent] reduced by [ATTR_0]%.¬<_e239>(이)가 <_e238>%만큼 감소합니다.
@@ -11604,7 +11604,7 @@
 0/cdb/11/sheet/33/Wrath/0/name/0/#text¬Wrath¬분노
 0/cdb/11/sheet/33/Wrath/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR_0]%.¬<_e120>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/34/Supported/0/name/0/#text¬Supported¬지원
-0/cdb/11/sheet/34/Supported/1/desc/0/#text¬This unit is engaged in combat and next to [VALUE] free allies.<br/><br/>[DamageReducePercent] reduced by [ATTR_0]%.¬이 유닛은 전투 중이며 <_e5> 자유 아군 옆에 있습니다.<br/><br/><_e239> %가 <_e238>%만큼 감소합니다.
+0/cdb/11/sheet/34/Supported/1/desc/0/#text¬This unit is engaged in combat and next to [VALUE] free allies.<br/><br/>[DamageReducePercent] reduced by [ATTR_0]%.¬이 유닛은 교전 중이며 <_e5>의 프리한 아군 옆에 있습니다.<br/><br/><_e239>(이)가 <_e238>%만큼 감소합니다.
 0/cdb/11/sheet/35/CriticalLeader/0/name/0/#text¬Leader's Aggression¬지도자의 공격력
 0/cdb/11/sheet/35/CriticalLeader/1/desc/0/#text¬[CritHitPercent] increased by [ATTR_0]%.¬<_e110> <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/36/ProtectionLeader/0/name/0/#text¬Leader's Protection¬지도자 보호
@@ -11613,7 +11613,7 @@
 0/cdb/11/sheet/37/TrueDamageLeader/1/desc/0/#text¬This unit's attacks also deal [VALUE]% damage to the [Health] of the targets hit.¬이 유닛의 공격은 적중한 대상의 <_e119> 에게도 <_e5>%만큼 피해를 줍니다.
 0/cdb/11/sheet/38/InspirationLeader/0/name/0/#text¬Leader's Inspiration¬지도자의 영감
 0/cdb/11/sheet/38/InspirationLeader/1/desc/0/#text¬[Movement] increased by [ATTR_0]%.¬<_e107> 영감이 <_e238>%만큼 증가합니다.
-0/cdb/11/sheet/39/BrutalityLeader/0/name/0/#text¬Leader's Brutality¬지도자의 잔인성
+0/cdb/11/sheet/39/BrutalityLeader/0/name/0/#text¬Leader's Brutality¬지도자의 무자비함
 0/cdb/11/sheet/39/BrutalityLeader/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR_0]%.¬<_e120>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/40/DmgPerBonusLeader/0/name/0/#text¬Leader's Willpower¬지도자의 의지력
 0/cdb/11/sheet/40/DmgPerBonusLeader/1/desc/0/#text¬[DamageBonusPercent] increased by [VALUE]% for each Bonus applied to the target of their attacks.¬공격 대상에게 적용되는 각 보너스당 <_e120>(이)가 <_e5>%만큼 증가합니다.
@@ -11628,11 +11628,11 @@
 0/cdb/11/sheet/45/BloodReserve/0/name/0/#text¬Blood Reserve¬피 비축
 0/cdb/11/sheet/45/BloodReserve/1/desc/0/#text¬After [VALUE] applications, this unit completely regenerates their [Health].¬ <_e5> 적용 후, 이 유닛의 <_e119>(이)가 완전히 재생성됩니다.
 0/cdb/11/sheet/46/Relentlessness/0/name/0/#text¬Relentless¬무자비한
-0/cdb/11/sheet/46/Relentlessness/1/desc/0/#text¬After attacking, this unit executes an attack of opportunity.<br/>Removed if no longer engaged in combat.¬공격 후, 이 유닛이 기회공격을 실행합니다.<br/>더 이상 전투에 참여하지 않으면 제거됩니다.
+0/cdb/11/sheet/46/Relentlessness/1/desc/0/#text¬After attacking, this unit executes an attack of opportunity.<br/>Removed if no longer engaged in combat.¬공격 후, 이 유닛이 기회공격을 실행합니다.<br/>더 이상 교전에 참여하지 않으면 제거됩니다.
 0/cdb/11/sheet/47/AnimalMarkedBonus/0/name/0/#text¬Rage¬분노
 0/cdb/11/sheet/47/AnimalMarkedBonus/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable.¬<_e120>(이)가 <_e238>%만큼 증가합니다.<br/>중첩 가능합니다.
 0/cdb/11/sheet/48/Savagery/0/name/0/#text¬Savagery¬야만
-0/cdb/11/sheet/48/Savagery/1/desc/0/#text¬Gains [Riposte] if finishing their turn engaged in combat.¬전투에 참여 중인 자신의 차례가 끝나면 <_e152> %를 얻습니다.
+0/cdb/11/sheet/48/Savagery/1/desc/0/#text¬Gains [Riposte] if finishing their turn engaged in combat.¬전투에 참여 중인 자신의 차례가 끝나면 <_e152>(을)를 얻습니다.
 0/cdb/11/sheet/49/Rivalry/0/name/0/#text¬Rivalry¬라이벌
 0/cdb/11/sheet/49/Rivalry/1/desc/0/#text¬[DamageReducePercent] dealt by the engaged opponent reduced by [VALUE]%.¬<_e239> 교전 상대가 주는 피해가 <_e5>%만큼 감소합니다.
 0/cdb/11/sheet/50/BionnPanic/0/name/0/#text¬Bionn's Panic¬비온의 패닉
@@ -11653,7 +11653,7 @@
 0/cdb/11/sheet/58/Ratkiller/0/name/0/#text¬Verminator¬버미네이터
 0/cdb/11/sheet/58/Ratkiller/1/desc/0/#text¬[DamageBonusPercent] against Plague-infested outgrowths increased by [VALUE]%.<br/><br/>Status effect removed after battling rat infestations.¬전염병에 감염된 파생물에 대한 <_e120>(이)가 <_e5>%만큼 증가합니다.<br/><br/>쥐떼와 싸운 후 상태 효과가 제거되었습니다.
 0/cdb/11/sheet/59/Inspired/0/name/0/#text¬Inspired¬영감
-0/cdb/11/sheet/59/Inspired/1/desc/0/#text¬[Willpower] increased by [ATTR].¬<_e112> <_e108>% 증가합니다.
+0/cdb/11/sheet/59/Inspired/1/desc/0/#text¬[Willpower] increased by [ATTR].¬<_e112>(이)가 <_e108> 증가합니다.
 0/cdb/11/sheet/60/GoldDigger/0/name/0/#text¬Gold Digger¬금 채굴자
 0/cdb/11/sheet/60/GoldDigger/1/desc/0/#text¬The next Krown earnings are increased by [VALUE]%.¬다음 크라운 획득량이 <_e5>% 증가합니다.
 0/cdb/11/sheet/61/Unleashed/0/name/0/#text¬Unleashed¬해방
@@ -11766,7 +11766,7 @@
 0/cdb/11/sheet/114/Surprised/1/desc/0/#text¬[DamageTakenPercent] increased by [ATTR_0]%.¬<_e170> <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/115/Bloodshed/0/name/0/#text¬Bloodshed¬유혈사태
 0/cdb/11/sheet/115/Bloodshed/1/namePlural/0/#text¬Bloodshed¬유혈사태
-0/cdb/11/sheet/115/Bloodshed/2/desc/0/#text¬Loses [VALUE] [Health] per application at the end of their turn and is then removed.<br/>Stackable.¬자신의 턴이 끝날 때마다 <_e119>의 <_e5>%를 잃고 제거됩니다.<br/>중첩 가능.
+0/cdb/11/sheet/115/Bloodshed/2/desc/0/#text¬Loses [VALUE] [Health] per application at the end of their turn and is then removed.<br/>Stackable.¬자신의 턴이 끝날 때마다 <_e119>의 <_e5>를 잃고 제거됩니다.<br/>중첩 가능.
 0/cdb/11/sheet/116/AnimalMarked/0/name/0/#text¬Marked for Death¬죽음의 표식
 0/cdb/11/sheet/116/AnimalMarked/1/desc/0/#text¬Every time this unit is attacked by an animal, the damage increases.¬이 유닛이 동물에게 공격받을 때마다 피해가 증가합니다.
 0/cdb/11/sheet/117/FearPlague/0/name/0/#text¬Fear of the Plague¬전염병 공포
@@ -11786,7 +11786,7 @@
 0/cdb/11/sheet/124/Exhausted/0/name/0/#text¬Exhausted¬지친
 0/cdb/11/sheet/124/Exhausted/1/desc/0/#text¬After a Rest, the troop regenerates [VALUE]% less Fatigue.¬휴식 후, 부대의 피로가 <_e5>%만큼 회복됩니다.
 0/cdb/11/sheet/125/Sulky/0/name/0/#text¬Sulky¬설키
-0/cdb/11/sheet/125/Sulky/1/desc/0/#text¬After a Rest, the Valour Points earned by the troop are reduced by [VALUE].¬휴식 후, 부대가 획득하는 용맹 점수가 <_e5>% 감소합니다.
+0/cdb/11/sheet/125/Sulky/1/desc/0/#text¬After a Rest, the Valour Points earned by the troop are reduced by [VALUE].¬휴식 후, 부대가 획득하는 용맹 점수가 <_e5> 감소합니다.
 0/cdb/11/sheet/126/Fearless/0/name/0/#text¬Reckless¬무모한
 0/cdb/11/sheet/126/Fearless/1/desc/0/#text¬The Suspicion generated increases greatly.¬생성되는 의심이 크게 증가합니다.
 0/cdb/11/sheet/127/Nightmare/0/name/0/#text¬Nightmare¬악몽
@@ -11927,7 +11927,7 @@
 0/cdb/13/sheet/7/Willpower/0/desc/0/#text¬[Willpower] increased by [VALUE].¬<_e112>(이)가  <_e5> 증가됨.
 0/cdb/13/sheet/8/WillpowerReduced/0/desc/0/#text¬[Willpower] reduced by [VALUE].¬<_e112>(이)가 <_e5> 감소됨.
 0/cdb/13/sheet/9/Happy/0/desc/0/#text¬Increases the troop's Happiness by &lt;happy&gt;[VALUE]&lt;/happy&gt;.¬부대의 행복지수가 <happy><_e5></happy>.
-0/cdb/13/sheet/10/Movement/0/desc/0/#text¬[Movement] increased by [VALUE].¬<_e107>(이)가 <_e5>% 증가합니다.
+0/cdb/13/sheet/10/Movement/0/desc/0/#text¬[Movement] increased by [VALUE].¬<_e107>(이)가 <_e5> 증가합니다.
 0/cdb/13/sheet/11/WalkSpeed/0/desc/0/#text¬Movement speed in the world increased by [VALUE]%.¬월드 내 이동 속도가 <_e5>% 증가합니다.
 0/cdb/13/sheet/12/CanRun/0/desc/0/#text¬Hold [KEY_Sprint] to run.¬ <_e242>(을)를 길게 눌러서 달립니다.
 0/cdb/13/sheet/13/RunStamina/0/desc/0/#text¬Run duration increased by [VALUE]%.¬달리기 지속시간이 <_e5>%만큼 증가합니다.
@@ -11946,18 +11946,18 @@
 0/cdb/13/sheet/26/KnowledgeExperienceMalus/0/desc/0/#text¬Knowledge XP gained reduced by [VALUE]%.¬지식 경험치 획득량이 <_e5>% 감소합니다.
 0/cdb/13/sheet/27/RestAttackChance/0/desc/0/#text¬Danger during Rest increased by [VALUE]%.¬휴식 중 위험도가 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/28/WillLeaveEarly/0/desc/0/#text¬Your Companions will leave the troop more quickly if they are unhappy.¬동료가 불행하면 부대를 더 빨리 떠납니다.
-0/cdb/13/sheet/29/TransportUnitMalus/0/desc/0/#text¬Each Companion's [Transport] decreased by &lt;img src="icon/Weight"/&gt;[VALUE].¬각 동료의 <_e111>(이)가 <img src="icon/Weight"/><_e5>% 감소합니다.
-0/cdb/13/sheet/30/RestForest/0/desc/0/#text¬Increases the troop's Happiness by &lt;happy&gt;[VALUE]&lt;/happy&gt; when they rest in the forest.¬부대가 숲에서 휴식할 때 부대의 행복지수가 <happy><_e5></happy>% 증가합니다.
+0/cdb/13/sheet/29/TransportUnitMalus/0/desc/0/#text¬Each Companion's [Transport] decreased by &lt;img src="icon/Weight"/&gt;[VALUE].¬각 동료의 <_e111>(이)가 <img src="icon/Weight"/><_e5> 감소합니다.
+0/cdb/13/sheet/30/RestForest/0/desc/0/#text¬Increases the troop's Happiness by &lt;happy&gt;[VALUE]&lt;/happy&gt; when they rest in the forest.¬부대가 숲에서 휴식할 때 부대의 행복지수가 <happy><_e5></happy> 증가합니다.
 0/cdb/13/sheet/31/CritHitMalus/0/desc/0/#text¬[CritHitPercent] reduced by [VALUE]%.¬<_e110> <_e5>% 감소합니다.
 0/cdb/13/sheet/32/HappinessMalus/0/desc/0/#text¬Reduces the troop's Happiness by &lt;happy&gt;[VALUE]&lt;/happy&gt; during each Rest.¬부대가 휴식할 때마다 부대의 행복지수가 <happy><_e5></happy> 감소합니다.
-0/cdb/13/sheet/33/FoodReduction/0/desc/0/#text¬The troop eats &lt;food&gt;[VALUE]&lt;/food&gt; less food.¬부대가 먹는 음식이 <food><_e5></food>% 감소합니다.
+0/cdb/13/sheet/33/FoodReduction/0/desc/0/#text¬The troop eats &lt;food&gt;[VALUE]&lt;/food&gt; less food.¬부대가 먹는 음식이 <food><_e5></food> 감소합니다.
 0/cdb/13/sheet/34/UnitSalaryReduction/0/desc/0/#text¬Wages paid to Companions reduced by [VALUE]%.¬동료에게 지급하는 임금이 <_e5>% 감소합니다.
-0/cdb/13/sheet/35/TransportBonus/0/desc/0/#text¬[Transport] increased by &lt;img src="icon/Weight"/&gt;[VALUE].¬<_e111> <img src="icon/Weight"/><_e5>% 증가합니다.
+0/cdb/13/sheet/35/TransportBonus/0/desc/0/#text¬[Transport] increased by &lt;img src="icon/Weight"/&gt;[VALUE].¬<_e111> <img src="icon/Weight"/><_e5> 증가합니다.
 0/cdb/13/sheet/36/InfluenceGainFight/0/desc/0/#text¬Influence gained after a battle increased by [VALUE]%.¬전투 후 획득하는 영향력이 <_e5>% 증가합니다.
 0/cdb/13/sheet/37/GoldGainFight/0/desc/0/#text¬Krowns gained after a battle increased by [VALUE]%.¬전투 후 획득하는 크라운이 <_e5>% 증가합니다.
 0/cdb/13/sheet/38/InfluenceGainFightSnow/0/desc/0/#text¬Influence gained after a battle in the snow increased by [VALUE]%.¬눈 속에서 전투 후 획득하는 영향력이 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/39/GoldGainFightSnow/0/desc/0/#text¬Krowns gained after a battle in the snow increased by [VALUE]%.¬설원 전투 후 획득하는 크라운이 <_e5>%만큼 증가합니다.
-0/cdb/13/sheet/40/MoreContractsBoard/0/desc/0/#text¬Increases by [VALUE] the number of Missions displayed on the List of Bounties.¬현상금 목록에 표시되는 임무 수가 <_e5>% 증가합니다.
+0/cdb/13/sheet/40/MoreContractsBoard/0/desc/0/#text¬Increases by [VALUE] the number of Missions displayed on the List of Bounties.¬현상금 목록에 표시되는 임무 수가 <_e5> 증가합니다.
 0/cdb/13/sheet/41/RoadSpeedBonus/0/desc/0/#text¬Movement speed on the roads increased by [VALUE]%.¬도로에서의 이동 속도가 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/42/ForestSpeedBonus/0/desc/0/#text¬Run speed in forests increased by [VALUE]%.¬숲에서의 이동 속도가 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/43/SnowSpeedBonus/0/desc/0/#text¬Movement speed in the snow increased by [VALUE]%.¬눈 속에서의 이동 속도가 <_e5>%만큼 증가합니다.
@@ -11967,7 +11967,7 @@
 0/cdb/13/sheet/47/AnimalsDmg/0/desc/0/#text¬Damage against animals increased by [VALUE]%.¬동물에 대한 피해가 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/48/GatherBonus/0/desc/0/#text¬When the troop collects a resource in the world, they gain a [VALUE]% chance to collect another.¬부대가 세계에서 자원을 수집하면 다른 자원을 수집할 확률이 <_e5>% 증가합니다.
 0/cdb/13/sheet/49/SurprisingFighter/0/desc/0/#text¬If the battlefield is indoors, enemies start with [Surprised].¬전장이 실내인 경우, 적들은 <_e198> 로 시작합니다.
-0/cdb/13/sheet/50/CanEquipArmor/0/desc/0/#text¬This unit can now wear armour.¬이 부대는 이제 갑옷을 착용할 수 있습니다.
+0/cdb/13/sheet/50/CanEquipArmor/0/desc/0/#text¬This unit can now wear armour.¬이 유닛은 이제 갑옷을 착용할 수 있습니다.
 0/cdb/13/sheet/51/StrategyTableUnlocked/0/desc/0/#text¬You can craft the &lt;b&gt;Strategy Table&lt;/b&gt;.¬ <b>전략 표를</b> 제작할 수 있습니다.
 0/cdb/13/sheet/52/StrategyTableT2/0/desc/0/#text¬Unlocks a new strategy set. You can have up to 2 active strategies at the same time.¬새로운 전략 세트를 잠금 해제합니다. 동시에 최대 2개의 활성화 전략을 보유할 수 있습니다.
 0/cdb/13/sheet/53/StrategyTableT3/0/desc/0/#text¬Unlocks a new strategy set. You can have up to 3 active strategies at the same time.¬새로운 전략 세트를 잠금 해제합니다. 동시에 최대 3개의 활성화 전략을 보유할 수 있습니다.
@@ -11982,13 +11982,13 @@
 0/cdb/13/sheet/62/ToolProductionIncreased/0/desc/0/#text¬Increases by [VALUE] the production of all camp tools active during Rests.¬휴식 중에 활성화된 모든 야영 도구의 생산량이 <_e5> 증가합니다.
 0/cdb/13/sheet/63/CareerPlan_CostBonus/0/desc/0/#text¬The cost to buy Aptitude Points with Career Plans is reduced by [VALUE]%.¬경력 계획으로 적성 포인트 구매 비용이 <_e5>% 감소합니다.
 0/cdb/13/sheet/64/PerfectRecipe/0/desc/0/#text¬Recipes granting bonuses have a [VALUE]% chance to be delicious.¬보너스를 부여하는 요리법이 맛있을 확률이 <_e5>% 증가합니다.
-0/cdb/13/sheet/65/CookingPotMoreAssign/0/desc/0/#text¬Assigning a Companion reduces daily food consumption by &lt;food&gt;[VALUE]&lt;/food&gt;.¬동료를 지정하면 일일 음식 소비량이 <food><_e5></food>% 감소합니다.
+0/cdb/13/sheet/65/CookingPotMoreAssign/0/desc/0/#text¬Assigning a Companion reduces daily food consumption by &lt;food&gt;[VALUE]&lt;/food&gt;.¬동료를 지정하면 일일 음식 소비량이 <food><_e5></food> 감소합니다.
 0/cdb/13/sheet/66/FirecampFirstAssign/0/desc/0/#text¬Generates an extra &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt; during each Rest if at least 1 Companion is assigned.¬동료가 1명 이상 지정되어 있으면 휴식할 때마다 추가 <happy><good>+<_e5></good></happy>(을)를 생성합니다.
 0/cdb/13/sheet/67/FirecampUpgrade1/0/desc/0/#text¬Improves Happiness-related bonuses.¬행복 관련 보너스가 향상됩니다.
 0/cdb/13/sheet/68/FireCampUpgrade1_minHappiness/0/desc/0/#text¬The Happiness threshold for a Companion to leave the group is [VALUE].¬동료가 그룹을 떠나기 위한 행복 한계치는 <_e5> 입니다.
 0/cdb/13/sheet/69/FireCampUpgrade1_CombatXpHappinessMax/0/desc/0/#text¬At maximum Happiness, experience gained in battle is increased by [VALUE]%.¬최대 행복도에서 전투에서 획득하는 경험치가 <_e5>% 증가합니다.
 0/cdb/13/sheet/70/FirecampUpgrade2/0/desc/0/#text¬Greatly improves Happiness-related bonuses.¬행복 관련 보너스가 크게 향상됩니다.
-0/cdb/13/sheet/71/FirecampUpgrade2_MaxBravoure/0/desc/0/#text¬When Happiness is over 7, maximum Valour is increased by &lt;ap&gt;[VALUE]&lt;/ap&gt;.¬행복지수가 7을 넘으면 최대 용맹이 <ap><_e5></ap>% 증가합니다.
+0/cdb/13/sheet/71/FirecampUpgrade2_MaxBravoure/0/desc/0/#text¬When Happiness is over 7, maximum Valour is increased by &lt;ap&gt;[VALUE]&lt;/ap&gt;.¬행복지수가 7을 넘으면 최대 용맹점수가 <ap><_e5></ap> 증가합니다.
 0/cdb/13/sheet/72/FirecampUpgrade2_Influence/0/desc/0/#text¬At maximum Happiness, each extra Happiness point grants [VALUE] Influence.¬최대 행복지수에서 행복지수가 1포인트 추가될 때마다 영향력이 <_e5> 증가합니다.
 0/cdb/13/sheet/73/FirecampCharcoalUpgrade/0/desc/0/#text¬You can burn Wood to create Coal during a Rest.¬휴식 중에 나무를 태워 석탄을 생성할 수 있습니다.
 0/cdb/13/sheet/74/TentFirstAssign_Rest/0/desc/0/#text¬Generates an extra &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt; during each Rest if at least 1 Companion is assigned.¬동료가 1명 이상 지정되어 있으면 휴식 중에 <ap><good>+</good></ap> <ap><good><_e5></good></ap> <ap><good> 를</good></ap> <ap><good></good></ap> 추가로 생성합니다.
@@ -12005,9 +12005,9 @@
 0/cdb/13/sheet/85/Workshop_Dismantle_Common_T3/0/desc/0/#text¬You can dismantle any weapon, armour or accessory to obtain up to [VALUE] &lt;img src="item/RawMaterials"/&gt; and resources.¬무기, 방어구, 장신구를 해체하여 최대 <_e5> <img src="item/RawMaterials"/> 및 자원을 획득할 수 있습니다.
 0/cdb/13/sheet/86/TrainingDummyExperienceBonus/0/desc/0/#text¬Your human Companions gain [VALUE]% more experience in battle.¬인간 동료는 전투에서 경험치를 <_e5>% 더 획득합니다.
 0/cdb/13/sheet/87/TrainingDummyTrainingExperience/0/desc/0/#text¬Assigned Companions gain an extra [VALUE]% experience during a Rest.¬지정된 동료는 휴식 중에 추가로 <_e5>%의 경험치를 얻습니다.
-0/cdb/13/sheet/88/PonyAugeTransport/0/desc/0/#text¬Ponies assigned to the hitching post gain &lt;good&gt;[VALUE]&lt;/good&gt; carrying capacity.¬주유소에 배치된 조랑말의 수송 능력이 <good><_e5></good>% 증가합니다.
-0/cdb/13/sheet/89/PonyAugeTransportTrait/0/desc/0/#text¬Work ponies assigned to the hitching post gain &lt;good&gt;[VALUE]&lt;/good&gt; extra carrying capacity.¬히치 포스트에 배치된 작업용 조랑말은 <good><_e5></good> %의 추가 운반 능력을 얻습니다.
-0/cdb/13/sheet/90/PonyAugeExperienceCombat/0/desc/0/#text¬Battle ponies assigned to the hitching post gain &lt;good&gt;[VALUE]%&lt;/good&gt; more experience.¬주둔지에 배치된 전투용 조랑말은 경험치를 <good><_e5>% 추가 획득합니다.
+0/cdb/13/sheet/88/PonyAugeTransport/0/desc/0/#text¬Ponies assigned to the hitching post gain &lt;good&gt;[VALUE]&lt;/good&gt; carrying capacity.¬마굿간에 배치된 조랑말의 운반 능력이 <good><_e5></good> 증가합니다.
+0/cdb/13/sheet/89/PonyAugeTransportTrait/0/desc/0/#text¬Work ponies assigned to the hitching post gain &lt;good&gt;[VALUE]&lt;/good&gt; extra carrying capacity.¬마굿간 배치된 작업용 조랑말은 <good><_e5></good>의 추가 운반 능력을 얻습니다.
+0/cdb/13/sheet/90/PonyAugeExperienceCombat/0/desc/0/#text¬Battle ponies assigned to the hitching post gain &lt;good&gt;[VALUE]%&lt;/good&gt; more experience.¬마굿간에 배치된 전투용 조랑말은 경험치를 <good><_e5>% 추가 획득합니다.
 0/cdb/13/sheet/91/StretcherDoped/0/desc/0/#text¬A healthy unit assigned to the stretcher gets the [Doped] status.¬들것에 배치된 건강한 유닛은</good> <_e244> 상태를 얻습니다.
 0/cdb/13/sheet/92/STroopAdventurers/0/desc/0/#text¬Apprentice friends looking for an adventure¬모험을 찾는 견습생 친구
 0/cdb/13/sheet/93/STroopMerchants/0/desc/0/#text¬Men escorting merchants who lost their employer¬고용주를 잃은 상인을 호위하는 남자들
@@ -12117,7 +12117,7 @@
 0/cdb/13/sheet/188/DoubleJobXP/0/desc/0/#text¬Profession experience is doubled if there is a higher-level Companion with the same profession in the troop.¬부대에 같은 직업을 가진 상위 레벨 동료가 있을 경우 직업 경험치가 두 배로 증가합니다.
 0/cdb/13/sheet/189/LegendaryWeaponUpdatePriceReduction/0/desc/0/#text¬Cost for upgrading a Legendary Weapon reduced by [VALUE]%.¬전설 무기 업그레이드 비용이 <_e5>%만큼 감소합니다.
 0/cdb/13/sheet/190/InfluenceGainRatNest/0/desc/0/#text¬Purging a rat nest also grants [VALUE] Influence.¬쥐굴을 숙청하면 영향력 <_e5>(을)를 획득합니다.
-0/cdb/13/sheet/191/MoreSamplesRats/0/desc/0/#text¬Plague-infested outgrowth sample obtained from each rat nest growth increased by [VALUE].¬쥐 둥지가 성장할 때마다 획득하는 역병에 감염된 파생물 샘플이 <_e5>% 증가합니다.
+0/cdb/13/sheet/191/MoreSamplesRats/0/desc/0/#text¬Plague-infested outgrowth sample obtained from each rat nest growth increased by [VALUE].¬쥐 둥지가 성장할 때마다 획득하는 역병에 감염된 파생물 샘플이 <_e5> 증가합니다.
 0/cdb/13/sheet/192/LessInjuries/0/desc/0/#text¬Companions are less prone to be injured in battle.¬동료가 전투 중 부상을 입는 확률이 감소합니다.
 0/cdb/13/sheet/193/ProfessionExperienceBonus/0/desc/0/#text¬Experience gained for each profession increased by [VALUE]%.¬각 직업의 경험치 획득량이 <_e5>%만큼 증가합니다.
 0/cdb/13/sheet/194/AntiquitiesPriceBonus/0/desc/0/#text¬Sale price of Studied Antiquities increased by [VALUE]%.¬연구된 유물의 판매 가격이 <_e5>%만큼 증가합니다.
@@ -12132,7 +12132,7 @@
 0/cdb/13/sheet/203/MiningGreyMass/0/desc/0/#text¬Has a higher chance of finding grey clusters when mining.¬채굴 시 회색 클러스터를 발견할 확률이 높습니다.
 0/cdb/13/sheet/204/MiningGoldenMetal/0/desc/0/#text¬Has a higher chance of finding etherite when mining.¬채굴 시 에테라이트를 발견할 확률이 높아집니다.
 0/cdb/13/sheet/205/ProfessionXp/0/desc/0/#text¬Profession experience gained increased by [VALUE]%.¬직업 경험치 획득량이 <_e5>% 증가합니다.
-0/cdb/13/sheet/206/ProfessionKnowledge/0/desc/0/#text¬Also earns [VALUE] Influence when Profession experience is gained.¬직업 경험치를 획득할 때 영향력도 <_e5>% 증가합니다.
+0/cdb/13/sheet/206/ProfessionKnowledge/0/desc/0/#text¬Also earns [VALUE] Influence when Profession experience is gained.¬직업 경험치를 획득할 때 영향력도 <_e5> 증가합니다.
 0/cdb/13/sheet/207/ThiefStealReduction/0/desc/0/#text¬Reduces Suspicion gains during a theft.¬도난 시 의심 획득량이 감소합니다.
 0/cdb/13/sheet/208/ThiefLockpickDuration/0/desc/0/#text¬Increases the durability of lock-picks by [VALUE]%.¬자물쇠 따기의 내구도가 <_e5>% 증가합니다.
 0/cdb/13/sheet/209/ThiefLockpickEasy/0/desc/0/#text¬Locks are easier to pick.¬자물쇠를 따기가 더 쉬워집니다.
@@ -12149,9 +12149,9 @@
 0/cdb/13/sheet/220/ScholarKnowledgeRest/0/desc/0/#text¬Generates a small amount of Knowledge experience for each Rest.¬휴식처 하나당 소량의 지식 경험치를 생성합니다.
 0/cdb/13/sheet/221/ProfessionExperienceBonusGlobal/0/desc/0/#text¬Profession experience gained by the troop increased by [VALUE]%.¬부대가 획득하는 직업 경험치가 <_e5>% 증가합니다.
 0/cdb/13/sheet/222/SleepingInjury/0/desc/0/#text¬The wearer has a [VALUE]% chance to sleep an injury off.¬착용자는 <_e5>% 확률로 부상을 회복할 수 있습니다.
-0/cdb/13/sheet/223/BeltAccSongSkill/0/desc/0/#text¬In combat, this unit can use the &lt;skill&gt;BeltAccSong&lt;/skill&gt; Skill.¬이 부대는 전투 중에 <skill>벨트악송</skill> 스킬을 사용할 수 있습니다.
-0/cdb/13/sheet/224/RankedUnitInspiration/0/desc/0/#text¬If this unit uses a Captain or Lieutenant Skill, they apply [Inspiration] to all allies hit for [VALUE] round.¬이 유닛이 대위 또는 부관 스킬을 사용하면, 적중시킨 모든 아군에게 <_e5> 라운드 동안 <_e153>(을)를 적용합니다.
-0/cdb/13/sheet/225/BeltAccHuntSkill/0/desc/0/#text¬In combat, this unit can use the &lt;skill&gt;BeltAccHuntSkill&lt;/skill&gt; Skill.¬전투 중에 이 부대는 <skill>벨트사냥스킬</skill> 스킬을 사용할 수 있습니다.
+0/cdb/13/sheet/223/BeltAccSongSkill/0/desc/0/#text¬In combat, this unit can use the &lt;skill&gt;BeltAccSong&lt;/skill&gt; Skill.¬이 유닛은 전투 중에 <skill>BeltAccSong</skill> 스킬을 사용할 수 있습니다.
+0/cdb/13/sheet/224/RankedUnitInspiration/0/desc/0/#text¬If this unit uses a Captain or Lieutenant Skill, they apply [Inspiration] to all allies hit for [VALUE] round.¬이 유닛이 대장 또는 부관 스킬을 사용하면, 적중시킨 모든 아군에게 <_e5> 라운드 동안 <_e153>(을)를 적용합니다.
+0/cdb/13/sheet/225/BeltAccHuntSkill/0/desc/0/#text¬In combat, this unit can use the &lt;skill&gt;BeltAccHuntSkill&lt;/skill&gt; Skill.¬전투 중에 이 유닛은 <skill>BeltAccHuntSkill</skill> 스킬을 사용할 수 있습니다.
 0/cdb/13/sheet/226/TradeGoodBuyInfluence/0/desc/0/#text¬Purchasing Trade Goods also generates a little Influence.¬무역 상품을 구매하면 약간의 영향력도 생성됩니다.
 0/cdb/13/sheet/227/StrategyTableBonusesAcc/0/desc/0/#text¬As long as this unit is assigned to the Strategy Table, they generate a little combat experience, profession experience and Influence after a Rest.¬이 유닛이 전략 테이블에 배치되어 있는 한, 휴식 후 약간의 전투 경험치, 직업 경험치, 영향력을 생성합니다.
 0/cdb/13/sheet/228/AnimalStartInspiration/0/desc/0/#text¬All allied animals start the battle with [Inspiration] for [VALUE] round.¬모든 아군 동물은 <_e5> 라운드 동안 <_e153>(을)를 획득하고 전투를 시작합니다.
@@ -12175,7 +12175,7 @@
 0/cdb/13/sheet/246/CookApprentice/0/desc/0/#text¬Can learn recipes and cook Apprentice dishes.¬레시피를 배우고 견습생 요리를 요리할 수 있습니다.
 0/cdb/13/sheet/247/CookConfirme/0/desc/0/#text¬Can learn recipes and cook Experienced dishes.¬레시피를 배우고 경험자 요리를 요리할 수 있습니다.
 0/cdb/13/sheet/248/CookCompanion/0/desc/0/#text¬Reduces by [VALUE]% how fast the troop's fatigue increases after a full meal.¬정식 식사 후 부대의 피로도 증가 속도가 <_e5>% 감소합니다.
-0/cdb/13/sheet/249/CookMaster/0/desc/0/#text¬The troop eats &lt;food&gt;[VALUE]&lt;/food&gt; less food.¬부대가 먹는 음식이 <food><_e5></food>% 감소합니다.
+0/cdb/13/sheet/249/CookMaster/0/desc/0/#text¬The troop eats &lt;food&gt;[VALUE]&lt;/food&gt; less food.¬부대가 먹는 음식이 <food><_e5></food> 감소합니다.
 0/cdb/13/sheet/250/TinkererApprentice/0/desc/0/#text¬Can learn blueprints, create and improve Apprentice camping gear.¬청사진을 배우고 견습생 캠핑 장비를 제작 및 개선할 수 있습니다.
 0/cdb/13/sheet/251/TinkererConfirme/0/desc/0/#text¬Can learn blueprints, create and improve Experienced camping gear.¬청사진을 배우고 숙련된 캠핑 장비를 제작 및 개선할 수 있습니다.
 0/cdb/13/sheet/252/TinkererCompanion/0/desc/0/#text¬Can learn blueprints, create and improve Journeyman camping gear.¬청사진을 배우고, 여행자 야영 장비를 제작 및 개선할 수 있습니다.
@@ -12505,12 +12505,12 @@
 0/cdb/14/sheet/156/AlliesHit/1/props.title/0/#text¬the Cross-eyed¬십자가 눈
 0/cdb/14/sheet/156/AlliesHit/2/props.titleWoman/0/#text¬the Cross-eyed¬십자가 눈
 0/cdb/14/sheet/157/NightsNearAnimal/0/name/0/#text¬Nights spent next to an animal¬동물 옆에서 보낸 밤
-0/cdb/14/sheet/157/NightsNearAnimal/1/props.title/0/#text¬the Friend of Beasts¬짐승의 친구
-0/cdb/14/sheet/157/NightsNearAnimal/2/props.titleWoman/0/#text¬the Friend of Beasts¬짐승의 친구
+0/cdb/14/sheet/157/NightsNearAnimal/1/props.title/0/#text¬the Friend of Beasts¬동물의 친구
+0/cdb/14/sheet/157/NightsNearAnimal/2/props.titleWoman/0/#text¬the Friend of Beasts¬동물의 친구
 0/cdb/14/sheet/158/BadDietDays/0/name/0/#text¬Days in a row of unmet food requirements¬연속으로 음식을 먹지 않은 날
 0/cdb/14/sheet/159/NoDrinkingDays/0/name/0/#text¬Days in a row without drinking alcohol¬술을 마시지 않은 날 연속
 0/cdb/14/sheet/160/BaseSong/0/props.songTitle/0/#text¬Adventures Galore¬다양한 모험
-0/cdb/14/sheet/161/JeanBon/0/name/0/#text¬Have a boar called: “::name::”, and make it kill [VALUE] units in a single battle.¬멧돼지를 불러 "<_e15>"라는 멧돼지를 한 번 전투에서 <_e5> 유닛을 죽이게 하세요.
+0/cdb/14/sheet/161/JeanBon/0/name/0/#text¬Have a boar called: “::name::”, and make it kill [VALUE] units in a single battle.¬"<_e15>"라는 멧돼지가 한 번의 전투 안에서 <_e5> 유닛을 죽이도록 만드세요.
 0/cdb/14/sheet/161/JeanBon/1/props.songTitle/0/#text¬The Tale of Hammy the Boar¬멧돼지 해미의 이야기
 0/cdb/14/sheet/162/NakedPeople/0/name/0/#text¬Win a battle against at least [VALUE] units with a group bearing no equipment.¬장비가 없는 그룹으로 최소 <_e5> 유닛과 전투에서 승리하세요.
 0/cdb/14/sheet/162/NakedPeople/1/props.songTitle/0/#text¬The Ballad of the Naked Ones¬벌거벗은 자의 발라드
