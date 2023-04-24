@@ -1,0 +1,46 @@
+# script for Dune: Spice Wars .pak files
+# created by spiritovod
+# copied from https://forum.xentax.com/viewtopic.php?t=25295
+
+idstring "PAK\0"
+get BASE_OFF long
+get DATA_SIZE long
+string PATH = ""
+callfunction extract 1
+
+startfunction extract
+	get NAMEZ byte
+	getdstring NAME_P NAMEZ	
+	get TYPE byte
+	if TYPE = 1
+		math FILE = 0
+		string PATH p "%s\%s" PATH NAME_P
+		get NCOUNT long
+		for i = 0 < NCOUNT
+			callfunction extract
+		next i
+		string PATH > "\"
+	elif TYPE = 0
+		string NAME p "%s\%s" PATH NAME_P
+		get OFFSET long
+		math OFFSET + BASE_OFF
+		get SIZE long
+		get FILE_CRC long # adler32 checksum
+		log NAME OFFSET SIZE
+		
+		math OFFSET + SIZE
+		if OFFSET >= 0x80000000
+			putvarchr MEMORY_FILE 0 OFFSET longlong
+		endif
+	elif TYPE = 2
+		string NAME p "%s\%s" PATH NAME_P
+		get DUMMY_OFF longlong # actually double
+		get SIZE long
+		get FILE_CRC long # adler32 checksum
+		getvarchr OFFSET MEMORY_FILE 0 longlong
+		log NAME OFFSET SIZE
+		
+		math OFFSET + SIZE
+		putvarchr MEMORY_FILE 0 OFFSET longlong
+	endif
+endfunction

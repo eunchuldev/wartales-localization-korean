@@ -1,0 +1,21 @@
+{
+  "name": "machine-translate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepl-node": "^1.9.0",
+    "dotenv": "^16.0.3",
+    "entities": "^4.5.0",
+    "fast-xml-parser": "^4.2.2",
+    "flat": "^5.0.2",
+    "htmlparser2": "^8.0.2",
+    "is-equal": "^1.6.4",
+    "yargs": "^17.7.1"
+  }
+}
