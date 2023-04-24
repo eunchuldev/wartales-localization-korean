@@ -2,8 +2,6 @@
 
 워테일즈 한국어 번역 프로젝트입니다.
 
-게임이 패치되도 
-
 다음 링크의 데이타를 참조하였습니다: https://gall.dcinside.com/mgallery/board/view/?id=wartales&no=2404&exception_mode=recommend&page=1
 
 
