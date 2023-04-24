@@ -154,7 +154,7 @@
 0/cdb/0/sheet/134/PathCrime/0/text/0/#text¬Crime and Chaos¬범죄와 혼돈
 0/cdb/0/sheet/134/PathCrime/1/desc/0/#text¬Loathed by the gentry and cursed by the Guard, the path of Crime and Chaos will take you on a treacherous journey.<br/><br/>But through raids, thefts, caravan attacks and murder, you could well become the defenders of the common folk of the Five Kingdoms... or their persecutors.¬신사들의 미움을 받고 근위대의 저주를 받은 범죄와 혼돈의 길은 위험한 여정으로 여러분을 이끌 것입니다.<br/><br/>하지만 습격, 절도, 캐러밴 공격, 살인을 통해 여러분은 다섯 왕국의 평범한 사람들의 수호자가 될 수도 있고, 박해자가 될 수도 있습니다.
 0/cdb/0/sheet/135/PathMystery/0/text/0/#text¬Mysteries and Wisdom¬신비와 지혜
-0/cdb/0/sheet/135/PathMystery/1/desc/0/#text¬Only the most curious of adventurers dare tread the path of Mysteries and Wisdom.<br/><br/>Follow this winding road and explore uncharted lands, search the mysterious Tombs of the Ancients, uncover the best-kept secrets, and become the most knowledgeable scholars in the Five Kingdoms.¬가장 호기심 많은 모험가만이 감히 신비와 지혜의 길에 도전할 수 있습니다.<br/><br/>(이)가 구불구불한 길을 따라 미지의 땅을 탐험하고, 신비로운 고대인의 무덤을 수색하고, 가장 잘 보존된 비밀을 밝혀내고, 다섯 왕국에서 가장 지식이 풍부한 학자가 되십시오.
+0/cdb/0/sheet/135/PathMystery/1/desc/0/#text¬Only the most curious of adventurers dare tread the path of Mysteries and Wisdom.<br/><br/>Follow this winding road and explore uncharted lands, search the mysterious Tombs of the Ancients, uncover the best-kept secrets, and become the most knowledgeable scholars in the Five Kingdoms.¬가장 호기심 많은 모험가만이 감히 신비와 지혜의 길에 도전할 수 있습니다.<br/><br/>이 구불구불한 길을 따라 미지의 땅을 탐험하고, 신비로운 고대인의 무덤을 수색하고, 가장 잘 보존된 비밀을 밝혀내고, 다섯 왕국에서 가장 지식이 풍부한 학자가 되십시오.
 0/cdb/0/sheet/136/LearnPathMight/0/text/0/#text¬Learn¬학습하기
 0/cdb/0/sheet/137/LearnPathTrade/0/text/0/#text¬Learn¬학습하기
 0/cdb/0/sheet/138/LearnPathCrime/0/text/0/#text¬Learn¬학습하기
@@ -373,9 +373,9 @@
 0/cdb/0/sheet/327/WinHPaths/0/text/0/#text¬Paths¬경로
 0/cdb/0/sheet/328/WinHGrimoire/0/text/0/#text¬Compendium¬개요
 0/cdb/0/sheet/329/Gosenberg2RegionQuestAccuse/0/text/0/#text¬Accuse¬고발
-0/cdb/0/sheet/329/Gosenberg2RegionQuestAccuse/1/desc/0/#text¬Find the guilty person in the region.<br/>Do you want to accuse this person?¬<br/>(이)가 사람을 고발하시겠습니까?
+0/cdb/0/sheet/329/Gosenberg2RegionQuestAccuse/1/desc/0/#text¬Find the guilty person in the region.<br/>Do you want to accuse this person?¬<br/>이 사람을 고발하시겠습니까?
 0/cdb/0/sheet/330/Gosenberg2RegionQuestAccuseTuto/0/text/0/#text¬Accuse¬고발
-0/cdb/0/sheet/330/Gosenberg2RegionQuestAccuseTuto/1/desc/0/#text¬Search for the culprit throughout the region.<br/>Do you want to accuse this person?¬지역 전체에서 범인을 검색하세요.<br/>(이)가 사람을 고발하시겠습니까?
+0/cdb/0/sheet/330/Gosenberg2RegionQuestAccuseTuto/1/desc/0/#text¬Search for the culprit throughout the region.<br/>Do you want to accuse this person?¬지역 전체에서 범인을 검색하세요.<br/>이 사람을 고발하시겠습니까?
 0/cdb/0/sheet/331/Gosenberg2RegionQuestAsk/0/text/0/#text¬Question¬질문
 0/cdb/0/sheet/332/Gosenberg2RegionQuestAskTuto/0/text/0/#text¬Question¬질문
 0/cdb/0/sheet/333/WinHOptions/0/text/0/#text¬Options¬옵션
@@ -420,7 +420,7 @@
 0/cdb/0/sheet/354/TutoCapture/0/text/0/#text¬Capture!¬점령!
 0/cdb/0/sheet/354/TutoCapture/1/desc/0/#text¬&lt;img src="ui/tuto/capture1.jpg"/&gt; When an enemy has less than half of their Health left, use Chains or Rope to capture them!<br/><br/>&lt;img src="ui/tuto/capture2.jpg"/&gt; Place one of your units next to an engaged enemy to try and capture them.¬<img src="ui/tuto/capture1.jpg"/> 적의 생명력이 절반 이하로 남았을 때, 사슬이나 밧줄을 사용해 적을 점령하세요!<br/><br/><img src="ui/tuto/capture2.jpg"/> 교전 중인 적 옆에 부대를 배치하여 점령을 시도하세요.
 0/cdb/0/sheet/355/TutoPassiveFaction/0/text/0/#text¬Faction Passive Skills¬진영 패시브 기술
-0/cdb/0/sheet/355/TutoPassiveFaction/1/desc/0/#text¬&lt;img src="ui/tuto/factionpassive.jpg"/&gt; At this level, the enemies develop more complex and specialised battle strategies!¬<img src="ui/tuto/factionpassive.jpg"/>(이)가 레벨에서는 적들이 더욱 복잡하고 전문화된 전투 전략을 개발합니다!
+0/cdb/0/sheet/355/TutoPassiveFaction/1/desc/0/#text¬&lt;img src="ui/tuto/factionpassive.jpg"/&gt; At this level, the enemies develop more complex and specialised battle strategies!¬<img src="ui/tuto/factionpassive.jpg"/>이 레벨에서는 적들이 더욱 복잡하고 전문화된 전투 전략을 개발합니다!
 0/cdb/0/sheet/356/TutoFlee/0/text/0/#text¬Escape Mode¬탈출 모드
 0/cdb/0/sheet/356/TutoFlee/1/desc/0/#text¬&lt;img src="ui/tuto/modereach1.jpg"/&gt; In Escape Mode, you must reach the escape area and flee with all of your characters, but you can no longer Retreat!<br/><br/>&lt;img src="ui/tuto/modereach2.jpg"/&gt; Once in the target area, use the Flee skill.¬<img src="ui/tuto/modereach1.jpg"/> 탈출 모드에서는 모든 캐릭터와 함께 탈출 구역에 도달하여 도망쳐야 하지만, 더 이상 후퇴할 수 없습니다!<br/><br/><img src="ui/tuto/modereach2.jpg"/> 목표 지역에 도착하면 도주 스킬을 사용하세요.
 0/cdb/0/sheet/357/TutoForsakenWorld/0/text/0/#text¬Abandoned Village (Exploration)¬버려진 마을 (탐험)
@@ -436,7 +436,7 @@
 0/cdb/0/sheet/362/TutoSport/0/text/0/#text¬Play Rouste¬루스테 플레이
 0/cdb/0/sheet/362/TutoSport/1/desc/0/#text¬&lt;img src="ui/tuto/sport1.jpg"/&gt; Grab the ball and bring it to the opponent's end zone to score. <br/>The game is divided into 8 Rounds. All units on the ground will stand up again at the beginning of each new Round.<br/>Any unit already played who gets the ball can play again.¬<img src="ui/tuto/sport1.jpg"/> 공을 잡고 상대편 엔드존으로 가져가면 점수를 획득합니다. <br/>게임은 8라운드로 나뉩니다. 새로운 라운드가 시작될 때마다 지상에 있는 모든 유닛이 다시 일어서게 됩니다.<br/>이미 플레이한 유닛이 공을 획득하면 다시 플레이할 수 있습니다.
 0/cdb/0/sheet/363/TutoUltimate/0/text/0/#text¬Bravery!¬용맹!
-0/cdb/0/sheet/363/TutoUltimate/1/desc/0/#text¬When a Companion reaches level 12, they can choose a Bravery, a skill that unlocks new strategies in battle.<br/><br/>Make the most of these skills, as their usage is limited. Your troop can perform only one Bravery per round. Each Companion can use their Bravery only once per battle.¬동료가 12 레벨에 도달하면 전투에서 새로운 전략을 펼칠 수 있는 기술인 용맹을 선택할 수 있습니다.<br/><br/>(이)가 기술은 사용 횟수가 제한되어 있으므로 최대한 활용하세요. 부대는 한 라운드당 한 가지 용맹 기술만 사용할 수 있습니다. 각 동료는 전투당 한 번만 용맹을 사용할 수 있습니다.
+0/cdb/0/sheet/363/TutoUltimate/1/desc/0/#text¬When a Companion reaches level 12, they can choose a Bravery, a skill that unlocks new strategies in battle.<br/><br/>Make the most of these skills, as their usage is limited. Your troop can perform only one Bravery per round. Each Companion can use their Bravery only once per battle.¬동료가 12 레벨에 도달하면 전투에서 새로운 전략을 펼칠 수 있는 기술인 용맹을 선택할 수 있습니다.<br/><br/>이 기술은 사용 횟수가 제한되어 있으므로 최대한 활용하세요. 부대는 한 라운드당 한 가지 용맹 기술만 사용할 수 있습니다. 각 동료는 전투당 한 번만 용맹을 사용할 수 있습니다.
 0/cdb/0/sheet/364/TutoDifficulty/0/text/0/#text¬Difficulty Adjustment!¬난이도 조정!
 0/cdb/0/sheet/364/TutoDifficulty/1/desc/0/#text¬We have revised the difficulty level of Wartales in the latest update!<br/><br/>Having taken your feedback into consideration, the difficulty has been increased to make sure the game remains challenging past level 5. Thanks to new units and skills, enemy troops will definitely give you a run for your money. You might have to enter into battles more carefully and even rework the composition of your team. Your tactics and strategies will have an even more decisive impact.<br/><br/>You can now change the difficulty level at any time in the Options menu. If you're having a hard time, feel free to retreat and decrease the difficulty until you get the hang of things.<br/><br/>For more details, check out the latest patch notes listing all the difficulty-related changes.¬최신 업데이트에서 워테일즈의 난이도를 조정했습니다!<br/><br/>여러분의 피드백을 반영하여 5레벨 이후에도 게임을 계속 도전할 수 있도록 난이도를 높였습니다. 새로운 유닛과 스킬 덕분에 적 부대는 확실히 당신에게 도전장을 내밀 것입니다. 더 신중하게 전투에 임하고 팀 구성을 다시 조정해야 할 수도 있습니다. 전술과 전략이 훨씬 더 결정적인 영향을 미칩니다.<br/><br/>이제 옵션 메뉴에서 언제든지 난이도를 변경할 수 있습니다. 어려움을 겪고 있다면 익숙해질 때까지 후퇴하여 난이도를 낮추세요.<br/><br/>자세한 내용은 모든 난이도 관련 변경 사항이 나열된 최신 패치 노트를 확인하세요.
 0/cdb/1/sheet/0/A1HauntedCastle/0/world.name/0/#text¬Ganderwald Castle¬간더발트 성
@@ -1125,7 +1125,7 @@
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/1/Next1/0/text/0/#text¬I'm Isold! Father! Tell them!¬난 이솔드다! 아버지! 말해!
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/2/Next2/0/text/0/#text¬By Saint Eleor! Please, Father! It’s me, your daughter!¬엘레오 성녀님! 제발요, 아버지! 저예요, 따님!
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/3/Next3/0/text/0/#text¬I don't know! I can't think straight!¬모르겠어요! 정신을 차릴 수가 없어요!
-0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/4/Next4/0/text/0/#text¬I don’t know what to do!<br/>These three women claim to be my daughter Isold... And I can't tell which one is telling the truth!¬어떻게 해야할지 모르겠어요!<br/>(이)가 세 여자가 내 딸 이솔드라고 주장하는데... 누가 진실을 말하는지 알 수가 없어요!
+0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/4/Next4/0/text/0/#text¬I don’t know what to do!<br/>These three women claim to be my daughter Isold... And I can't tell which one is telling the truth!¬어떻게 해야할지 모르겠어요!<br/>이 세 여자가 내 딸 이솔드라고 주장하는데... 누가 진실을 말하는지 알 수가 없어요!
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/5/Next5/0/text/0/#text¬Oh! Good folks! I'm so ashamed that I can't even recognise my own daughter!<br/>I beg you, take pity on me! I’m but a blind beggar whose beloved child left him long ago.¬오! 좋은 분들! 내 딸도 못 알아보는 게 너무 부끄러워요!<br/>제발 불쌍히 여겨주세요! 저는 사랑하는 자식이 오래 전에 떠난 눈먼 거지일 뿐입니다.
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/6/Next6/0/text/0/#text¬If only... If only you could help me find my Isold!¬만약만... 이솔드를 찾을 수 있게 도와주세요!
 0/cdb/4/sheet/69/A1FarmFatherMan1/1/dialog/6/Next6/1/choices/0/line0/0/props.tipText/0/#text¬Identify the dark-haired Isold as the shepherd’s daughter.¬검은 머리의 이솔드가 양치기의 딸임을 알아내라.
@@ -1183,7 +1183,7 @@
 0/cdb/4/sheet/79/A1FisherySlave2/1/dialog/4/Wanted/0/text/0/#text¬You freed a slave.¬노예를 풀어줬잖아
 0/cdb/4/sheet/80/A1FisherySlave3/0/npc.name/0/#text¬Slave Caran¬노예 카란
 0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/0/Start/0/text/0/#text¬I ran away twice, and all I got out of it is this cage.¬난 두 번이나 도망쳤지만 이 감옥밖에 못 나왔어.
-0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/1/Next1/0/text/0/#text¬My brethren are coming to free us?<br/>Praise the Tules!<br/>Open this damn door, don't leave me behind!¬내 형제들이 우릴 풀어주러 온다고?<br/>툴레를 찬양하라!<br/>(이)가 빌어먹을 문을 열어, 날 두고 가지 마!
+0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/1/Next1/0/text/0/#text¬My brethren are coming to free us?<br/>Praise the Tules!<br/>Open this damn door, don't leave me behind!¬내 형제들이 우릴 풀어주러 온다고?<br/>툴레를 찬양하라!<br/>이 빌어먹을 문을 열어, 날 두고 가지 마!
 0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/2/Next2/0/text/0/#text¬I hope the Beast stomps you to death. That’s all a slaver like you deserves.¬야수가 널 밟아 죽였으면 좋겠어. 너 같은 노예는 그렇게 죽어 마땅해.
 0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/3/Notif/0/text/0/#text¬You freed a slave.¬넌 노예를 해방시켰어.
 0/cdb/4/sheet/80/A1FisherySlave3/1/dialog/4/Wanted/0/text/0/#text¬You freed a slave.¬노예를 풀어줬잖아
@@ -1234,11 +1234,11 @@
 0/cdb/4/sheet/95/A1InquisitionCampTavernKeeper/0/dialog/0/Start/0/text/0/#text¬Inquisitors say that fire doesn’t hurt true believers. I’m doing my best to pray properly before my time comes.¬종교 재판관들은 불은 참된 신자를 해치지 않는다고 하더군요. 제 때가 오기 전에 제대로 기도할 수 있도록 최선을 다하고 있습니다.
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/0/npc.name/0/#text¬High Inquisitor Dexera¬고위 인퀴지터 덱세라
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/0/Start/0/text/0/#text¬The Eye’s Reckoning is divine retribution, an answer to the worst heresies. It is the Inquisition’s duty to catch anyone who would dare escape it.<br/>No matter where it happens, the Edoranian Church is watching.¬눈의 심판은 최악의 이단에 대한 신의 응징입니다. 감히 이를 피하려는 자를 잡는 것이 종교 재판소의 의무입니다.<br/>어디서든 에도라니아 교회가 지켜보고 있습니다.
-0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/1/Tavern1/0/text/0/#text¬Who is that you are bringing, Mercenaries?<br/>This man, could he be...?¬누구를 데려오는 거지, 용병들?<br/>(이)가 남자, 혹시...?
+0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/1/Tavern1/0/text/0/#text¬Who is that you are bringing, Mercenaries?<br/>This man, could he be...?¬누구를 데려오는 거지, 용병들?<br/>이 남자, 혹시...?
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/1/Tavern1/1/choices/0/line0/0/props.tipText/0/#text¬Hand over the New-Asthel innkeeper.¬뉴-아스텔 여관 주인을 넘겨라.
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/2/Give1/0/text/0/#text¬The New-Asthel innkeeper! We’ve been trying to find him for quite some time.<br/>But tell me, Mercenaries, he seems quite calm for someone who is about to be burnt at the stake. Did you drug him?¬뉴-아스텔 여관주인! 꽤 오랫동안 찾았어요<br/>하지만 용병들, 화형당할 사람치고는 꽤 침착해 보이는데? 약을 먹였나?
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/3/Give2/0/text/0/#text¬He surrendered of his own volition? Praised be Saint Jeru. Perhaps this county isn't completely hopeless after all.¬자진해서 항복한 건가? 성 제루를 찬양하세. 이 마을이 완전히 절망적이진 않은 모양이군.
-0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/4/Give3/0/text/0/#text¬He can rejoice in the knowledge that our pyre will cleanse his soul, and that he will pass into the Light as surely as any good believer would.<br/>Please accept this reward. You have done us all a great service.¬그는 우리의 장작불이 그의 영혼을 깨끗하게 할 것이며, 선한 신자처럼 확실하게 빛으로 들어갈 것이라는 사실을 알고 기뻐할 수 있습니다.<br/>(이)가 보상을 받으세요. 여러분은 우리 모두에게 큰 봉사를 하셨습니다.
+0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/4/Give3/0/text/0/#text¬He can rejoice in the knowledge that our pyre will cleanse his soul, and that he will pass into the Light as surely as any good believer would.<br/>Please accept this reward. You have done us all a great service.¬그는 우리의 장작불이 그의 영혼을 깨끗하게 할 것이며, 선한 신자처럼 확실하게 빛으로 들어갈 것이라는 사실을 알고 기뻐할 수 있습니다.<br/>이 보상을 받으세요. 여러분은 우리 모두에게 큰 봉사를 하셨습니다.
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/5/SettingLog/0/text/0/#text¬You handed the New-Asthel innkeeper over to the Inquisition.¬뉴-아스텔 여관 주인을 종교 재판소에 넘겨주셨습니다.
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/6/Wait/0/text/0/#text¬We will prepare a special pyre for the innkeeper.¬여관 주인을 위해 특별한 장작불을 준비하겠습니다.
 0/cdb/4/sheet/96/A1InquisitionCampGreatInquisitor1/1/dialog/7/End1/0/text/0/#text¬I am pleased that you answered my call, Mercenaries.<br/>Every blade, every shield is needed in this battle that will see the forces of Light triumph over the darkness of heresy.¬용병 여러분, 제 부름에 응답해줘서 기쁩니다.<br/>빛의 세력이 이단의 어둠을 이길 이 전투에는 모든 칼날과 방패가 필요합니다.
@@ -1326,7 +1326,7 @@
 0/cdb/4/sheet/114/A1MountainCaveGreatInquisitor/0/dialog/0/Start/0/text/0/#text¬There we go, the gate is open.¬이제 문이 열렸어.
 0/cdb/4/sheet/114/A1MountainCaveGreatInquisitor/0/dialog/1/Next1/0/text/0/#text¬It was no mean feat, but nothing can stand in the way of the Inquisition’s determination.¬쉬운 일은 아니었지만 종교 재판소의 결심을 막을 수는 없지.
 0/cdb/4/sheet/114/A1MountainCaveGreatInquisitor/0/dialog/2/Next2/0/text/0/#text¬After you, Mercenaries! Let us find out what the heretics are hiding and carry out the will of the God of Light!¬용병 여러분, 먼저 가시죠! 이단자들이 무엇을 숨기고 있는지 알아내고 빛의 신의 뜻을 수행하자!
-0/cdb/4/sheet/115/A1MountainCaveInquisitorLabo/0/dialog/0/Start/0/text/0/#text¬Remember what you saw in the Sophy Adr Alazar Laboratory.<br/>This county’s Scholars know no bounds. What they’re doing up there is probably worse than you can imagine.¬소피 아드르 알라자르 연구소에서 본 것을 기억하세요.<br/>(이)가 카운티의 학자들은 한계를 모른다. 그들이 저 위에서 하는 일은 상상 이상으로 끔찍할 겁니다.
+0/cdb/4/sheet/115/A1MountainCaveInquisitorLabo/0/dialog/0/Start/0/text/0/#text¬Remember what you saw in the Sophy Adr Alazar Laboratory.<br/>This county’s Scholars know no bounds. What they’re doing up there is probably worse than you can imagine.¬소피 아드르 알라자르 연구소에서 본 것을 기억하세요.<br/>이 카운티의 학자들은 한계를 모른다. 그들이 저 위에서 하는 일은 상상 이상으로 끔찍할 겁니다.
 0/cdb/4/sheet/116/A1MountainCaveInquisitorEmeria/0/dialog/0/Start/0/text/0/#text¬Opening this gate was difficult, but I did it, as promised.¬이 문을 여는 건 어려웠지만 약속대로 해냈어요.
 0/cdb/4/sheet/117/A1MountainCaveInquisitorRuins/0/dialog/0/Start/0/text/0/#text¬Do you think they wanted to take the artefact from the Tomb atop the mountain?¬그들이 산 꼭대기에 있는 무덤에서 유물을 가져가려 했다고 생각하세요?
 0/cdb/4/sheet/118/A1MountainCaveInquisitorStables/0/dialog/0/Start/0/text/0/#text¬It is highly possible that the victims of the Eye's Reckoning in Drombach deserved their fate.¬드롬바흐의 눈의 심판의 희생자들은 그런 운명을 당해도 마땅했을 가능성이 높습니다.
@@ -1449,7 +1449,7 @@
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/4/Next4/0/text/0/#text¬Wait.<br/>What did you just say?¬잠깐만,<br/>방금 뭐라고 했어?
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/5/Next4bis/0/text/0/#text¬If this relic can be used to communicate with God, then it’s a &lt;i&gt;sacred artefact&lt;/i&gt;! Meaning it rightfully belongs to the Edoranian Church. Give it to me!¬이 유물이 신과 소통하는 데 쓰일 수 있다면 신성한 <i>유물이라고요</i>! 에도라니아 교회의 소유라는 뜻이죠. 이리 내놔!
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/6/Next5/0/text/0/#text¬Mercenaries! No!<br/>It may be our only chance to stop the Eye’s Reckoning!¬용병들이다! 안 돼!<br/>이게 눈의 심판을 막을 유일한 기회일지도 몰라!
-0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/7/Next6/0/text/0/#text¬They can't be trusted!<br/>Leaving such an artefact in the hands of heathens would only worsen the wrath of the God of Light.¬믿을 수 없어!<br/>(이)가 유물을 이교도 손에 맡기면 빛의 신의 분노를 더 키울 뿐이야.
+0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/7/Next6/0/text/0/#text¬They can't be trusted!<br/>Leaving such an artefact in the hands of heathens would only worsen the wrath of the God of Light.¬믿을 수 없어!<br/>이 유물을 이교도 손에 맡기면 빛의 신의 분노를 더 키울 뿐이야.
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/7/Next6/1/choices/0/line0/0/props.tipText/0/#text¬Give the relic to the Professor.¬유물을 교수님께 전해주자.
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/7/Next6/1/choices/0/line0/1/props.customTxt/0/#text¬Scholar¬학자
 0/cdb/4/sheet/165/A1RuinsRoom3Inquisitor1Clone2/0/dialog/7/Next6/1/choices/1/line1/0/props.tipText/0/#text¬Give the relic to the Inquisitor.¬종교 재판관에게 유물을 전달하자.
@@ -1902,7 +1902,7 @@
 0/cdb/4/sheet/265/A1SlavesGuardsLeader/1/dialog/4/Next5/0/text/0/#text¬Don't believe anything they say, Mercenaries!<br/>They can't admit that they're abducting farmers in other kingdoms!¬저들의 말을 믿지 마, 용병들!<br/>저들은 다른 왕국의 농부들을 납치하고 있다는 걸 인정할 수 없어!
 0/cdb/4/sheet/266/A1SlavesTrackersRewardLeader/0/dialog/0/Start/0/text/0/#text¬I'm sorry.<br/>We were supposed to watch your backs, but there were too many soldiers. Without your help, we would have all died.¬죄송합니다.<br/>우리가 뒤를 봐주기로 했는데 병사들이 너무 많았어요. 당신들이 도와주지 않았다면 우린 모두 죽었을 거예요.
 0/cdb/4/sheet/266/A1SlavesTrackersRewardLeader/0/dialog/1/Next1/0/text/0/#text¬This patrol was running towards the fishery. We had no choice but to attack them, or they would have caught you in the act and taken the slaves.¬이 순찰대는 어장을 향해 달려오고 있었어요. 우리는 그들을 공격할 수밖에 없었고, 그렇지 않으면 그들이 당신을 붙잡아 노예들을 데려갔을 거예요.
-0/cdb/4/sheet/266/A1SlavesTrackersRewardLeader/0/dialog/2/Next2/0/text/0/#text¬Even though it didn't exactly go as planned, what matters is the result.<br/>Please accept this reward, as well as our gratitude.¬비록 계획대로 진행되지는 않았지만 중요한 것은 결과입니다.<br/>(이)가 포상금과 감사의 마음을 받아주세요.
+0/cdb/4/sheet/266/A1SlavesTrackersRewardLeader/0/dialog/2/Next2/0/text/0/#text¬Even though it didn't exactly go as planned, what matters is the result.<br/>Please accept this reward, as well as our gratitude.¬비록 계획대로 진행되지는 않았지만 중요한 것은 결과입니다.<br/>이 포상금과 감사의 마음을 받아주세요.
 0/cdb/4/sheet/266/A1SlavesTrackersRewardLeader/0/dialog/3/Accept/0/text/0/#text¬We're going back to the camp, but as soon as the weather allows, we'll run straight to Harag.¬우린 캠프로 돌아가지만 날씨가 허락하는 대로 하라그로 곧장 달려가겠습니다.
 0/cdb/4/sheet/267/A1SlavesGuardsRewardLeader/0/dialog/0/Start/0/text/0/#text¬How stupid do you have to be to come all the way from Harag on mere rumours!¬소문만 듣고 하라그에서 여기까지 오는 게 얼마나 어리석은 짓입니까!
 0/cdb/4/sheet/267/A1SlavesGuardsRewardLeader/0/dialog/1/Next1/0/text/0/#text¬The King of Alazar makes sure that slaves from other kingdoms bear proof of their conviction. Claiming otherwise is absurd!¬알라자르 왕은 다른 왕국에서 온 노예들은 반드시 신념을 증명하도록 하고 있어. 그렇지 않다고 주장하는 것은 터무니없습니다!
@@ -1914,7 +1914,7 @@
 0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/2/Next2/0/text/0/#text¬Do not oppose the will of the God of Light! Your Prince is just a man and...¬빛의 신의 뜻을 거스르지 마라! 너희 왕자는 그냥 사람이고...
 0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/3/Next3/0/text/0/#text¬And you’re just an Inquisitor.¬넌 인퀴지터일 뿐이야
 0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/4/Next4/0/text/0/#text¬Is this funny to you?¬이게 재밌나?
-0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/5/Next5/0/text/0/#text¬Mercenaries! These soldiers are heathens!<br/>They’re trying to hide the heresy taking place in this mountain. Fight by our side!¬용병들이다! 이 병사들은 이교도들이다!<br/>(이)가 산에서 벌어지는 이단을 숨기려 하고 있다. 우리 편에서 싸워라!
+0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/5/Next5/0/text/0/#text¬Mercenaries! These soldiers are heathens!<br/>They’re trying to hide the heresy taking place in this mountain. Fight by our side!¬용병들이다! 이 병사들은 이교도들이다!<br/>이 산에서 벌어지는 이단을 숨기려 하고 있다. 우리 편에서 싸워라!
 0/cdb/4/sheet/269/A1MoutainAlazarSoldierLeader/0/dialog/6/Next6/0/text/0/#text¬Stop!<br/>Mercenaries! What’s in this mountain is beyond their understanding. The Inquisitors must not pass.¬멈춰!<br/>용병들! 이 산에 있는 것은 저들이 이해할 수 없다. 종교 재판관이 지나가면 안 된다.
 0/cdb/4/sheet/270/A1MountainInquisitionLeaderReward/0/dialog/0/Start/0/text/0/#text¬Good thing I brought reinforcements, right?¬지원군을 데려오길 잘했지?
 0/cdb/4/sheet/270/A1MountainInquisitionLeaderReward/0/dialog/1/Next1/0/text/0/#text¬Now let’s see what they’re hiding.¬이제 놈들이 뭘 숨겼는지 보자고.
@@ -1924,7 +1924,7 @@
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/2/Wolves1/0/text/0/#text¬Are those... &lt;narrator&gt;wolves&lt;/narrator&gt;?<br/> Why would the Eye punish wolves?¬저거... <narrator>늑대인가</narrator>?<br/> 왜 디 아이는 늑대를 벌하지?
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/3/Wolves2/0/text/0/#text¬It doesn't make any sense. Jeru’s precepts clearly state that animals cannot commit heresy.¬말이 안 돼요. 제루의 계율에 따르면 동물은 이단을 저지를 수 없다고 분명히 명시되어 있어요.
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/3/Wolves2/1/choices/0/line0/0/props.customTxt/0/#text¬Approve¬승인
-0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/4/Soldiers1/0/text/0/#text¬&lt;narrator&gt;Alazarian soldiers&lt;/narrator&gt;, no surprise here.<br/>These men probably blasphemed or committed some kind of crime against the Eye.¬<narrator>알라자리아 병사들</narrator>, 놀랍지도 않군.<br/>(이)가 사람들은 아마 디 아이에게 불경죄를 저질렀거나 어떤 범죄를 저질렀을 거야.
+0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/4/Soldiers1/0/text/0/#text¬&lt;narrator&gt;Alazarian soldiers&lt;/narrator&gt;, no surprise here.<br/>These men probably blasphemed or committed some kind of crime against the Eye.¬<narrator>알라자리아 병사들</narrator>, 놀랍지도 않군.<br/>이 사람들은 아마 디 아이에게 불경죄를 저질렀거나 어떤 범죄를 저질렀을 거야.
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/4/Soldiers1/1/choices/0/line0/0/props.customTxt/0/#text¬Approve¬승인
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/5/Merchants1/0/text/0/#text¬There’s nothing left of these &lt;narrator&gt;merchants’&lt;/narrator&gt; wares. They could have been slavers or fur traders for all we know...¬이 <narrator>상인들의</narrator> 물건은 아무것도 남아있지 않아요. 우리가 알기로는 노예상이나 모피 상인이었을지도 모르죠...
 0/cdb/4/sheet/271/A1MapInquisitor/0/dialog/6/Merchants2/0/text/0/#text¬That said, slavery goes against the Eye’s teachings, so it could be the reason for their death.¬하지만 노예제도는 디 아이'의 가르침에 어긋나기 때문에 그들이 죽은 이유일 수도 있겠지.
@@ -1956,7 +1956,7 @@
 0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/5/Refuse1/0/text/0/#text¬If you change your mind, I'll be on the market square.¬마음이 바뀌면 시장 광장에 있을게요.
 0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/6/MissionDesc/0/text/0/#text¬Question Inquisitor Clelia about the New-Asthel innkeeper.¬심문관 클레리아에게 뉴-아스텔 여관 주인에 대해 물어보자.
 0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/7/End1/0/text/0/#text¬Oh, I can't wait to see him. Where is he?¬빨리 만나보고 싶네요. 어디 있죠?
-0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/8/End2/0/text/0/#text¬Silric! I'm so happy! Mercenaries, you brought him back as promised!<br/>Please accept this reward.¬실릭! 정말 기뻐요! 용병 여러분, 약속대로 그를 데려왔군요!<br/>(이)가 보상을 받으세요.
+0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/8/End2/0/text/0/#text¬Silric! I'm so happy! Mercenaries, you brought him back as promised!<br/>Please accept this reward.¬실릭! 정말 기뻐요! 용병 여러분, 약속대로 그를 데려왔군요!<br/>이 보상을 받으세요.
 0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/9/EndAccept/0/text/0/#text¬Don’t worry about the village. We know how to hide our innkeeper from the Inquisition.¬마을은 걱정하지 마세요. 종교 재판소로부터 여관 주인을 숨길 방법을 알고 있으니까요.
 0/cdb/4/sheet/274/A1TavernVillagersLeader/0/dialog/10/SettingLog/0/text/0/#text¬You handed the New-Asthel innkeeper over to Lady Mayoress Gerslind.¬뉴아스텔 여관 주인을 거슬린드 부인에게 넘겼군요.
 0/cdb/4/sheet/275/A1LaboratoryScholarLeader/0/dialog/0/Start/0/text/0/#text¬It’s a disaster!¬재앙이야!
@@ -2644,9 +2644,9 @@
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/2/Next2/0/text/0/#text¬Our team won't play if there's no decent reward to be won.¬적절한 보상이 없다면 우리 팀은 게임을 하지 않을 것입니다.
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/2/Next2/1/choices/0/line0/0/props.tipText/0/#text¬Give a pony¬조랑말 주기
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/2/Next2/1/choices/0/line0/1/props.disableReason/0/#text¬Hand over the runaway pony.¬도망친 조랑말을 넘겨주세요.
-0/cdb/4/sheet/439/S1SportReferee/1/dialog/3/Pony1/0/text/0/#text¬Meadowsweet! <br/>This pony is getting on in years, but she can plough a field like no other! Farmers will fight tooth and nail to get their hands on her.¬메도우스위트! <br/>(이)가 조랑말은 몇 년이 지났지만 누구보다 밭을 잘 갈 수 있습니다! 농부들은 이 조랑말을 손에 넣기 위해 사력을 다해 싸울 것입니다.
+0/cdb/4/sheet/439/S1SportReferee/1/dialog/3/Pony1/0/text/0/#text¬Meadowsweet! <br/>This pony is getting on in years, but she can plough a field like no other! Farmers will fight tooth and nail to get their hands on her.¬메도우스위트! <br/>이 조랑말은 몇 년이 지났지만 누구보다 밭을 잘 갈 수 있습니다! 농부들은 이 조랑말을 손에 넣기 위해 사력을 다해 싸울 것입니다.
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/4/Pony2/0/text/0/#text¬If you want to challenge them, come see me and I'll sign you up.¬그들에게 도전하고 싶다면 저에게 오시면 등록해드릴게요.
-0/cdb/4/sheet/439/S1SportReferee/1/dialog/5/Rouste1/0/text/0/#text¬Are you ready to fight? The mud is perfect today!<br/>The winners of this match will earn the beautiful pony you gave us, or its worth in vegetables. Their choice.¬싸울 준비가 되셨나요? 오늘은 진흙이 완벽해요!<br/>(이)가 경기의 승자는 여러분이 주신 아름다운 조랑말을 얻거나 야채로 교환할 수 있습니다. 그들의 선택입니다.
+0/cdb/4/sheet/439/S1SportReferee/1/dialog/5/Rouste1/0/text/0/#text¬Are you ready to fight? The mud is perfect today!<br/>The winners of this match will earn the beautiful pony you gave us, or its worth in vegetables. Their choice.¬싸울 준비가 되셨나요? 오늘은 진흙이 완벽해요!<br/>이 경기의 승자는 여러분이 주신 아름다운 조랑말을 얻거나 야채로 교환할 수 있습니다. 그들의 선택입니다.
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/6/Rouste2/0/text/0/#text¬Those wretches didn't stand a chance! <br/>So, what will it be? Your pony back or its worth in vegetables?¬저 비참한 녀석들은 기회가 없었어요! <br/>그럼 어떻게 될까요? 조랑말을 돌려받을까요, 아니면 야채로 바꿀까요?
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/6/Rouste2/1/choices/0/line0/0/props.customTxt/0/#text¬Pony¬조랑말
 0/cdb/4/sheet/439/S1SportReferee/1/dialog/6/Rouste2/1/choices/1/line1/0/props.customTxt/0/#text¬Vegetables¬야채
@@ -4043,7 +4043,7 @@
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/1/Next1/0/text/0/#text¬Wine! Wine's here, lads!<br/>Let the Rouste begin!¬와인! 와인이 도착했습니다!<br/>루스테를 시작합시다!
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/2/Next2/0/text/0/#text¬Join us, Mercenaries! You'll see, our players are completely different after a drink or two!¬용병 여러분! 우리 용병들은 한두 잔 마시고 나면 완전히 달라집니다!
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/3/Rouste1/0/text/0/#text¬Our players may be vintners, but they turn into warriors the minute they set foot on the pitch. Are you ready to face them?¬우리 선수들은 와인 양조사이지만 경기장에 발을 들여놓는 순간 전사로 변합니다. 그들과 맞설 준비가 되셨나요?
-0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/4/Rouste2/0/text/0/#text¬I think we just witnessed the greatest Rouste match in Vertrusian history! <br/>This trophy is yours!¬방금 버트루시아 역사상 가장 위대한 루스테 경기를 본 것 같습니다! <br/>(이)가 트로피는 여러분의 것입니다!
+0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/4/Rouste2/0/text/0/#text¬I think we just witnessed the greatest Rouste match in Vertrusian history! <br/>This trophy is yours!¬방금 버트루시아 역사상 가장 위대한 루스테 경기를 본 것 같습니다! <br/>이 트로피는 여러분의 것입니다!
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/5/Rouste3/0/text/0/#text¬If you want a rematch, know that our vintners haven't shown you the full extent of their talent yet! After a few more drinks, you'll be facing wild beasts!¬재대결을 원하신다면, 우리 양조업자들이 아직 그들의 재능을 다 보여주지 않았다는 사실을 기억하세요! 몇 잔만 더 마시면 야생의 야수와 맞닥뜨리게 될 겁니다!
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/6/RousteDiff1/0/text/0/#text¬Our lads want a rematch and this time, they almost finished the wine you brought. There will be blood!¬우리 친구들이 재대결을 원하는데 이번에는 당신이 가져온 와인을 거의 다 마셨어요. 피가 흐를 것입니다!
 0/cdb/4/sheet/778/G1SportRefereeClone/0/dialog/6/RousteDiff1/1/choices/0/line0/0/props.tipText/0/#text¬Play Vertruse's team in Hard mode.¬하드 모드에서 버트루스 팀을 플레이하세요.
@@ -4348,7 +4348,7 @@
 0/cdb/4/sheet/859/T3ComptoirIntendant/0/dialog/2/Next2/1/choices/0/line0/1/props.disableReason/0/#text¬Build travel posts in other villages to travel there quickly.¬다른 마을에 여행 포스트를 건설하여 빠르게 이동하세요.
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/0/npc.name/0/#text¬Stewardess $NAME¬스튜어디스 <_e38>
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/0/Start/0/text/0/#text¬This piece of land is for sale, and it's a great spot for a travel post.¬이 땅은 매물로 나와 있는데 여행 포스트를 세우기에 좋은 곳이에요.
-0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/0/text/0/#text¬And as the All-Seeing Eye's generosity knows no bounds, it just so happens that I am currently unemployed!<br/>Do you want to make the most of this opportunity and build your travel post here?¬올시잉아이의 관대함에는 한계가 없는지라, 저는 현재 실업 상태입니다!<br/>(이)가 기회를 최대한 활용하여 이곳에 여행 포스트를 건설하고 싶으신가요?
+0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/0/text/0/#text¬And as the All-Seeing Eye's generosity knows no bounds, it just so happens that I am currently unemployed!<br/>Do you want to make the most of this opportunity and build your travel post here?¬올시잉아이의 관대함에는 한계가 없는지라, 저는 현재 실업 상태입니다!<br/>이 기회를 최대한 활용하여 이곳에 여행 포스트를 건설하고 싶으신가요?
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Vertruse Travel Post¬버트러스 여행 포스트 작성하기
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/1/props.customTxt/0/#text¬Build¬Build
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/2/Build/0/text/0/#text¬Don't worry, your belongings are in good hands!¬걱정하지 마세요, 소지품은 잘 보관하고 있으니까요!
@@ -4614,7 +4614,7 @@
 0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/1/Respec/0/text/0/#text¬Not bad, eh? It's from Grinmeer.¬나쁘지 않지? 그린미어에서 왔어.
 0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/2/EndSetting/0/text/0/#text¬After all you've done, I'm not sure you need anything!¬이렇게 열심히 일했는데 더 필요한 게 있나?
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/0/npc.name/0/#text¬Brother $NAME¬형제 <_e38>
-0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/0/Start/0/text/0/#text¬Mercenaries, members of the Brotherhood, thank you for heeding our call in such numbers.<br/>We will need all the help we can get for this &lt;narrator&gt;mission&lt;/narrator&gt;.¬용병 여러분, 형제단의 일원 여러분, 이렇게 많은 수의 부름에 귀 기울여 주셔서 감사합니다.<br/>(이)가 <narrator>임무를</narrator> 수행하려면 가능한 모든 도움이 필요합니다.
+0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/0/Start/0/text/0/#text¬Mercenaries, members of the Brotherhood, thank you for heeding our call in such numbers.<br/>We will need all the help we can get for this &lt;narrator&gt;mission&lt;/narrator&gt;.¬용병 여러분, 형제단의 일원 여러분, 이렇게 많은 수의 부름에 귀 기울여 주셔서 감사합니다.<br/>이 <narrator>임무를</narrator> 수행하려면 가능한 모든 도움이 필요합니다.
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/1/Next1/0/text/0/#text¬The &lt;narrator&gt;Broker Council&lt;/narrator&gt; has asked us to track down who murdered one of their own: &lt;narrator&gt;Wylla Ald Hoevendorp.&lt;/narrator&gt;¬ <narrator>브로커 협의회에서</narrator> 자기들 중 한 명을 죽인 자를 추적해 달라고 요청했습니다: <narrator>윌라 알드 호벤도르프입니다.</narrator>
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/2/Next2/0/text/0/#text¬The Broker is dead?¬브로커가 죽었다고요?
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/3/Next3/0/text/0/#text¬Good riddance!¬잘 가라!
@@ -4800,7 +4800,7 @@
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/7/End/0/text/0/#text¬No fighting today, we need to clean up the mess left by the Arena Clash.<br/>Which means you'll have time to investigate, right?¬아레나 충돌이 남긴 혼란을 정리해야 하니까 오늘은 시합은 없습니다.<br/>조사할 시간은 있겠지?
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/8/ArenaDiff/0/text/0/#text¬You're back to challenge our fighters? Ha! Just because you beat them once doesn't mean you can do it again!¬우리 파이터들에게 도전하러 돌아왔다고요? 하! 한 번 이겼다고 해서 다시 이길 수 있는 것은 아닙니다!
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/8/ArenaDiff/1/choices/0/line0/0/props.tipText/0/#text¬Take on the Arena again in Hard mode.¬하드 모드에서 아레나에 다시 도전하세요.
-0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/9/CompletedDiff1/0/text/0/#text¬All right, you did it again.<br/>Take this reward, Bernna would be proud, Champions.¬좋아, 또 해냈어<br/>(이)가 보상을 받으면 베르나가 자랑스러워할 거예요, 챔피언 여러분.
+0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/9/CompletedDiff1/0/text/0/#text¬All right, you did it again.<br/>Take this reward, Bernna would be proud, Champions.¬좋아, 또 해냈어<br/>이 보상을 받으면 베르나가 자랑스러워할 거예요, 챔피언 여러분.
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/10/CompletedDiff2/0/text/0/#text¬The arena remains open to you if you wish to fight again, but Malvina Ald Hoevendorp didn't say anything about a third reward.¬다시 싸우고 싶다면 투기장은 여전히 열려 있지만, 말비나 알드 호벤도르프는 세 번째 보상에 대해 아무 말도 하지 않았습니다.
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/11/ArenaAgain/0/text/0/#text¬Do you miss Trivette Ragnol? You can always challenge her, but know that there won't be any reward if you win.¬트리벳 라그놀을 그리워하시나요? 언제든지 그녀에게 도전할 수 있지만, 승리해도 보상은 없다는 점을 알아두세요.
 0/cdb/4/sheet/973/G2HoevendorpArenaArenaMaster/0/dialog/12/CompletedAgain/0/text/0/#text¬It's starting to get boring. If this keeps up, our champion will lose heart and leave the arena...¬지루해지기 시작하네요. 이대로 가다가는 우리 챔피언이 지쳐서 경기장을 떠나겠군요...
@@ -5090,7 +5090,7 @@
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/9/Again1/0/text/0/#text¬How about a rematch, Mercenaries?¬용병 여러분, 재대결은 어떻습니까?
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/10/Again2/0/text/0/#text¬Get in position! Our players prepared for your return.¬위치로! 우리 용병들이 여러분의 귀환을 준비했습니다.
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/10/Again2/1/choices/0/line0/0/props.tipText/0/#text¬Play Rouste again in Hard mode.¬하드 모드에서 루스테를 다시 플레이하세요.
-0/cdb/4/sheet/1061/G2SportReferee/1/dialog/11/AgainReward1/0/text/0/#text¬That was probably the most amazing match I've ever seen.<br/>This reward is yours.¬지금까지 본 경기 중 가장 멋진 경기였습니다.<br/>(이)가 보상은 여러분의 것입니다.
+0/cdb/4/sheet/1061/G2SportReferee/1/dialog/11/AgainReward1/0/text/0/#text¬That was probably the most amazing match I've ever seen.<br/>This reward is yours.¬지금까지 본 경기 중 가장 멋진 경기였습니다.<br/>이 보상은 여러분의 것입니다.
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/12/AgainReward2/0/text/0/#text¬If you want to play our local team again, I'm sorry to say you won't get a reward. You've already won everything.¬우리 지역 팀을 다시 플레이하고 싶으시다면 유감스럽게도 보상을 받을 수 없습니다. 이미 모든 것을 이겼으니까요.
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/13/Last1/0/text/0/#text¬Feel like playing Rouste? I hope your players are ready, because ours have fully recovered from their injuries!¬루스테를 플레이하고 싶으신가요? 우리 선수들은 부상에서 완전히 회복되었으니 준비되셨기를 바랍니다!
 0/cdb/4/sheet/1061/G2SportReferee/1/dialog/13/Last1/1/choices/0/line1/0/props.tipText/0/#text¬Play Rouste again in Hard mode.¬하드 모드에서 루스테를 다시 플레이하세요.
@@ -5106,7 +5106,7 @@
 0/cdb/4/sheet/1062/G2StablesChampion/1/props.goals/0/line0/0/title/0/#text¬Spiritual Heir¬정신적 계승자
 0/cdb/4/sheet/1062/G2StablesChampion/1/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Go back and talk to the former champion after winning the Arena Clash.¬투기장 결투에서 승리한 전 챔피언에게 돌아가서 이야기를 나눠보세요.
 0/cdb/4/sheet/1063/G2StablesStudent/0/dialog/0/Start/0/text/0/#text¬I failed my exams to get into university. Whatever will I make of my life now?¬저는 대학 입학 시험에 떨어졌어요. 이제 제 인생은 어떻게 될까요?
-0/cdb/4/sheet/1064/G2StableFarmer1/0/dialog/0/Start/0/text/0/#text¬Beautiful Grinmeer ponies! Stalwart beasts of the finest calibre!<br/>You can't pass up this opportunity.¬아름다운 그린미어 조랑말! 최고 수준의 용맹한 짐승들!<br/>(이)가 기회를 놓치면 안 돼요.
+0/cdb/4/sheet/1064/G2StableFarmer1/0/dialog/0/Start/0/text/0/#text¬Beautiful Grinmeer ponies! Stalwart beasts of the finest calibre!<br/>You can't pass up this opportunity.¬아름다운 그린미어 조랑말! 최고 수준의 용맹한 짐승들!<br/>이 기회를 놓치면 안 돼요.
 0/cdb/4/sheet/1064/G2StableFarmer1/0/dialog/1/Questioned/0/text/0/#text¬Oh, I don't know much about what goes on in the city... I only go there to sell meat.¬오, 난 도시에서 무슨 일이 일어나는지 잘 몰라... 난 고기를 팔러 가는 것뿐이야.
 0/cdb/4/sheet/1065/G2Tavern1Refugee/0/dialog/0/Start/0/text/0/#text¬Aren't you the mercenaries who paid my toll to Tiltren?¬틸트렌에게 내 통행료를 지불한 용병들 아니오?
 0/cdb/4/sheet/1065/G2Tavern1Refugee/0/dialog/1/Next1/0/text/0/#text¬It is you! I recognise you!<br/>Don't go anywhere - I've got something for you.¬너구나! 당신을 알아보겠어!<br/>아무데도 가지 마세요, 드릴 게 있어요.
@@ -5118,8 +5118,8 @@
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/0/Start/0/text/0/#text¬Don't trust those university folk...! &lt;i&gt;Hic!&lt;/i&gt; The Earth... is &lt;i&gt;round!&lt;/i&gt;¬대학생들 믿지 마세요...! <i>힉!</i> 지구는... <i>둥글다!</i>
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/1/Questioned/0/text/0/#text¬Broker Hoevendorp - &lt;i&gt;hic!&lt;/i&gt; - didn't want to fund my research! &lt;i&gt;Hic!&lt;/i&gt; I hate her!¬브로커 호벤도르프 - <i>힉!</i> - 내 연구에 자금을 대고 싶지 않았어! <i>힉!</i> 저 여자 미워!
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/2/Astronomer1/0/text/0/#text¬Huh? What? The astronomer from Drombach? What does he want from me?¬응? 뭐? 드롬바흐에서 온 천문학자? 나한테 뭘 원하는데?
-0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/3/Astronomer2/0/text/0/#text¬&lt;i&gt;What?&lt;/i&gt;<br/>You got this letter from him?<br/>&lt;i&gt;Hic!&lt;/i&gt; Did the Eye’s Reckoning hit him on the head?¬<i>뭐?</i><br/>(이)가 편지 받았어?<br/><i>힉!</i> 눈의 심판이 그의 머리를 때렸나?
-0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/4/Astronomer3/0/text/0/#text¬&lt;i&gt;The Earth is not flat nor round, but shaped like a rounded anvil&lt;/i&gt;...<br/>I hope you didn't –&lt;i&gt;hic&lt;/i&gt;– come all this way just for that nonsense!<br/>This reward isn't worth it.¬<i>지구는 평평하지도 둥글지도 않고 둥근 모루처럼 생겼어</i>...<br/>그런 헛소리 때문에 <i>여기까지</i>온 건 아니겠지!<br/>(이)가 보상은 그만한 가치가 없어.
+0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/3/Astronomer2/0/text/0/#text¬&lt;i&gt;What?&lt;/i&gt;<br/>You got this letter from him?<br/>&lt;i&gt;Hic!&lt;/i&gt; Did the Eye’s Reckoning hit him on the head?¬<i>뭐?</i><br/>이 편지 받았어?<br/><i>힉!</i> 눈의 심판이 그의 머리를 때렸나?
+0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/4/Astronomer3/0/text/0/#text¬&lt;i&gt;The Earth is not flat nor round, but shaped like a rounded anvil&lt;/i&gt;...<br/>I hope you didn't –&lt;i&gt;hic&lt;/i&gt;– come all this way just for that nonsense!<br/>This reward isn't worth it.¬<i>지구는 평평하지도 둥글지도 않고 둥근 모루처럼 생겼어</i>...<br/>그런 헛소리 때문에 <i>여기까지</i>온 건 아니겠지!<br/>이 보상은 그만한 가치가 없어.
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/1/dialog/5/Wait/0/text/0/#text¬Let me drink in peace.¬마음 편히 마시게 해줘요.
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/2/props.goals/0/line0/0/title/0/#text¬Transcendent Discovery¬초월적 발견
 0/cdb/4/sheet/1066/G2Tavern1ConspiracyTheorist/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Share with the drunk Scholar what her colleague in Drombach discovered.¬술에 취한 학자에게 드롬바흐의 동료가 발견한 것을 알려주세요.
@@ -5221,7 +5221,7 @@
 0/cdb/4/sheet/1082/G2TierryAbodeSettingManager/0/props.goals/0/line0/0/title/0/#text¬Maintenance Costs¬유지 비용
 0/cdb/4/sheet/1082/G2TierryAbodeSettingManager/0/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Get rid of the wolves in the Great Growler Cave for Tierry.¬티에리를 위해 그레이트 그로울러 동굴의 늑대들을 처치하세요.
 0/cdb/4/sheet/1083/G2TierryAbodeDaughter/0/npc.name/0/#text¬Hella¬헬라
-0/cdb/4/sheet/1083/G2TierryAbodeDaughter/1/dialog/0/Start/0/text/0/#text¬My father just lost his Broker title! Now we're mere citizens.<br/>Look at this ridiculous outfit!¬아버지가 방금 브로커 칭호를 잃었어요! 이제 우린 평범한 시민이 됐어요<br/>(이)가 우스꽝스러운 옷 좀 봐요!
+0/cdb/4/sheet/1083/G2TierryAbodeDaughter/1/dialog/0/Start/0/text/0/#text¬My father just lost his Broker title! Now we're mere citizens.<br/>Look at this ridiculous outfit!¬아버지가 방금 브로커 칭호를 잃었어요! 이제 우린 평범한 시민이 됐어요<br/>이 우스꽝스러운 옷 좀 봐요!
 0/cdb/4/sheet/1083/G2TierryAbodeDaughter/1/dialog/1/Questioned/0/text/0/#text¬How would I know? Commoners aren't welcome in the Brokers' Palace!¬내가 어떻게 알겠어? 평민은 브로커의 궁전에 들어올 수 없어!
 0/cdb/4/sheet/1083/G2TierryAbodeDaughter/1/dialog/2/Notif/0/text/0/#text¬Your questions made Hella cry.¬네 질문 때문에 헬라가 울었어.
 0/cdb/4/sheet/1084/G2TierryAbodeDaughterClone/0/dialog/0/Start/0/text/0/#text¬You ought to leave her be.¬그냥 놔둬요.
@@ -5638,7 +5638,7 @@
 0/cdb/4/sheet/1127/G2PurifiersLeader/1/dialog/0/Start/0/text/0/#text¬I'm ever astonished by the Merchants' persistent propensity to treat their sick.<br/>Lucky for you, I've got a few remedies left.¬병을 치료하려는 상인들의 끈질긴 성향에 놀랄 때가 많아요.<br/>다행히도 치료제가 몇 개 남아있어요.
 0/cdb/4/sheet/1127/G2PurifiersLeader/1/dialog/0/Start/1/choices/0/line0/0/props.customTxt/0/#text¬Trade¬무역
 0/cdb/4/sheet/1128/G2MercenaryLeader1/0/npc.name/0/#text¬Mercenary¬용병
-0/cdb/4/sheet/1128/G2MercenaryLeader1/1/dialog/0/Start/0/text/0/#text¬We got here first! Get out of Grinmeer or it'll be the last place you ever visit! <br/>This investigation's reward is ours!¬우리가 먼저 도착했어! 그린미어를 떠나지 않으면 마지막으로 방문하는 곳이 될 겁니다! <br/>(이)가 조사의 보상은 우리가 가져간다!
+0/cdb/4/sheet/1128/G2MercenaryLeader1/1/dialog/0/Start/0/text/0/#text¬We got here first! Get out of Grinmeer or it'll be the last place you ever visit! <br/>This investigation's reward is ours!¬우리가 먼저 도착했어! 그린미어를 떠나지 않으면 마지막으로 방문하는 곳이 될 겁니다! <br/>이 조사의 보상은 우리가 가져간다!
 0/cdb/4/sheet/1128/G2MercenaryLeader1/1/dialog/0/Start/1/choices/0/line1/0/props.tipText/0/#text¬Tell your competitors what you know.¬경쟁자들에게 당신이 아는 것을 알려주세요.
 0/cdb/4/sheet/1128/G2MercenaryLeader1/1/dialog/0/Start/1/choices/0/line1/1/props.customTxt/0/#text¬Reveal¬공개
 0/cdb/4/sheet/1128/G2MercenaryLeader1/1/dialog/1/Convinced/0/text/0/#text¬I didn't think you would stoop to investigating for us, but I'm not complaining.¬우릴 위해 조사에 응할 줄은 몰랐지만 불평은 하지 않겠어.
@@ -5797,7 +5797,7 @@
 0/cdb/4/sheet/1170/H1ArenaMaster/0/dialog/11/ArenaAgain/0/text/0/#text¬Do you miss the thrill of battle? The audience would love to watch you again.<br/>But do note that there are no rewards left to win.¬전투의 스릴이 그리우신가요? 관객들은 여러분을 다시 보고 싶어 할 것입니다.<br/>하지만 이길 수 있는 보상이 남아 있지 않다는 점에 유의하세요.
 0/cdb/4/sheet/1170/H1ArenaMaster/0/dialog/12/CompletedAgain/0/text/0/#text¬It's always a pleasure to see you in action. Feel free to come back, everyone loves you here.¬여러분의 플레이를 보는 것은 언제나 즐거운 일입니다. 언제든지 다시 오세요. 모두가 여러분을 사랑합니다.
 0/cdb/4/sheet/1170/H1ArenaMaster/1/props.goals/0/line0/0/title/0/#text¬Win the arena challenges¬아레나 챌린지에서 승리하세요
-0/cdb/4/sheet/1171/H1ArenaMerchant/0/dialog/0/Start/0/text/0/#text¬If you want me to sell you anything, you'll have to prove yourselves.<br/>This shop is for champions only.¬물건을 팔고 싶으면 스스로를 증명해야 합니다.<br/>(이)가 상점은 챔피언 전용입니다.
+0/cdb/4/sheet/1171/H1ArenaMerchant/0/dialog/0/Start/0/text/0/#text¬If you want me to sell you anything, you'll have to prove yourselves.<br/>This shop is for champions only.¬물건을 팔고 싶으면 스스로를 증명해야 합니다.<br/>이 상점은 챔피언 전용입니다.
 0/cdb/4/sheet/1171/H1ArenaMerchant/0/dialog/1/Alt/0/text/0/#text¬I like having reputable customers.¬난 평판이 좋은 손님이 좋아요.
 0/cdb/4/sheet/1172/H1BearCaveSettingManager/0/props.goals/0/line0/0/title/0/#text¬Invasive Species¬침입 종
 0/cdb/4/sheet/1172/H1BearCaveSettingManager/0/props.goals/0/line0/1/props.helpTip/0/#text¬Get rid of the bears that have made their den in this cave.¬이 동굴에 굴을 파고 들어온 곰을 제거하세요.
@@ -6277,7 +6277,7 @@
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/5/BallNope2/0/text/0/#text¬Let me know when you're ready for a match. Ludern's team will be happy to face their saviours.¬경기 준비가 되면 알려주세요. 루더른 팀은 구세주와 기꺼이 맞붙을 겁니다.
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/6/Rouste1/0/text/0/#text¬You want to play against us? I hope you've been training, because most of our players used to be Trackers.¬우리랑 한판 붙고 싶어? 우리 선수들 대부분이 트래커였으니 훈련을 많이 하셨길 바랍니다.
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/7/Rouste2/0/text/0/#text¬Match¬경기
-0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/8/Rouste3/0/text/0/#text¬A crushing victory!<br/>Take this reward, I made it myself from an old ball.¬압도적인 승리!<br/>(이)가 보상을 받으세요, 오래된 공으로 직접 만들었습니다.
+0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/8/Rouste3/0/text/0/#text¬A crushing victory!<br/>Take this reward, I made it myself from an old ball.¬압도적인 승리!<br/>이 보상을 받으세요, 오래된 공으로 직접 만들었습니다.
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/9/Rouste4/0/text/0/#text¬Come play with us whenever you want. The local team is enraged by your score, so they won't go down easy next time!¬언제든 저희와 함께 플레이하세요. 현지 팀이 당신의 점수에 분노했으니 다음번에는 쉽게 굴복하지 않을 겁니다!
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/10/RousteDiff1/0/text/0/#text¬Feel like playing again? Watch out, our players really want to win this time.¬다시 플레이하고 싶으신가요? 조심하세요, 우리 선수들은 이번엔 정말 이기고 싶어요.
 0/cdb/4/sheet/1303/H1SportRefereeClone/0/dialog/10/RousteDiff1/1/choices/0/line0/0/props.tipText/0/#text¬Play Ludern's team in Hard mode.¬하드 모드에서 루던의 팀을 플레이하세요.
@@ -6588,7 +6588,7 @@
 0/cdb/4/sheet/1370/T4ComptoirWorksiteIntendant/1/dialog/1/Next1/0/text/0/#text¬All you have to do is buy the land and pay craftsmen, and you'll soon have a travel post at your disposal in Garussa.¬땅을 구입하고 장인에게 돈을 지불하기만 하면 곧 가루사에 여행 초소를 마음대로 운영할 수 있습니다.
 0/cdb/4/sheet/1370/T4ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Ludern Travel Post.¬루던 여행 초소를 건설하세요.
 0/cdb/4/sheet/1370/T4ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/1/props.customTxt/0/#text¬Build¬건설하기
-0/cdb/4/sheet/1370/T4ComptoirWorksiteIntendant/1/dialog/2/Build/0/text/0/#text¬Don't worry, I know what I'm doing.<br/>This travel post will be up and running in no time.¬걱정하지 마세요.<br/>(이)가 여행 초소는 곧 가동될 것입니다.
+0/cdb/4/sheet/1370/T4ComptoirWorksiteIntendant/1/dialog/2/Build/0/text/0/#text¬Don't worry, I know what I'm doing.<br/>This travel post will be up and running in no time.¬걱정하지 마세요.<br/>이 여행 초소는 곧 가동될 것입니다.
 0/cdb/4/sheet/1371/T4HallSettingManager/0/props.goals/0/line0/0/title/0/#text¬Tomb Raiders¬툼 레이더
 0/cdb/4/sheet/1371/T4HallSettingManager/0/props.goals/0/line0/1/props.helpTip/0/#text¬Look for the Smugglers' hideout.¬밀수꾼의 은신처를 찾으세요.
 0/cdb/4/sheet/1372/T4HallLeader/0/npc.name/0/#text¬$NAME, leader of the Garussa Clan¬<_e38>, 가루사 부족의 지도자
@@ -7181,7 +7181,7 @@
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/1/StartCompassionate_FX/0/text/0/#text¬After my incredible performance in the last battle, the others must think I'm the best there is. And they're right!¬지난 전투에서 제가 놀라운 활약을 펼쳤으니 다른 선수들도 제가 최고라고 생각하겠죠. 그리고 그들이 맞아요!
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/2/StartPragmatic_XX/0/text/0/#text¬Why do I have to do all the killing? The others just aren't pulling their weight. I need to know I can count on them, too!¬왜 제가 모든 살인을 해야 하죠? 다른 사람들은 제 몫을 다하지 못하니까요. 나도 그들을 믿을 수 있어야 해요!
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/3/StartAggressive_MX/0/text/0/#text¬Ah, what a glorious battle that was! I truly went above and beyond!<br/>If I keep this up, I'll be able to hire my own troop soon!¬아, 정말 영광스러운 전투였어요! 정말 기대 이상이었어요!<br/>이대로만 하면 곧 내 부대를 고용할 수 있을 거예요!
-0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/4/StartAggressive_FX/0/text/0/#text¬Ah, what a glorious battle that was! I truly went above and beyond!<br/>If I keep this up, I'll be able to hire my own troop soon!¬아, 정말 영광스러운 전투였어! 정말 대단했어!<br/>(이)가 정도만 유지하면 곧 내 부대를 고용할 수 있을 거야!
+0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/4/StartAggressive_FX/0/text/0/#text¬Ah, what a glorious battle that was! I truly went above and beyond!<br/>If I keep this up, I'll be able to hire my own troop soon!¬아, 정말 영광스러운 전투였어! 정말 대단했어!<br/>이 정도만 유지하면 곧 내 부대를 고용할 수 있을 거야!
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/5/StartOptimist_MX/0/text/0/#text¬I dare say, I'm quite proud of myself. Some might even say that the troop can't do without me.¬감히 말하건대, 저는 제 자신이 자랑스럽습니다. 어떤 사람들은 저 없이는 부대가 할 수 없다고 말할 수도 있습니다.
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/6/StartOptimist_FX/0/text/0/#text¬I dare say, I'm quite proud of myself. Some might even say that the troop can't do without me.¬감히 말하건대 저는 제 자신이 꽤 자랑스럽습니다. 어떤 이들은 저 없이는 부대가 아무것도 할 수 없다고 말하기도 합니다.
 0/cdb/4/sheet/1481/ConfessionThirtyPercentKill/0/dialog/7/Choices/0/choices/0/line0/0/props.tipText/0/#text¬[XX]Retell the story of this glorious battle... again¬<_e100>영광스러운 전투의 이야기를 다시 한 번 들려주세요...
@@ -7379,7 +7379,7 @@
 0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/2/line2/1/props.customTxt/0/#text¬Announce¬발표
 0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/3/line3/0/props.tipText/0/#text¬[FX]Declare your love for ::name::¬<_e104>당신의 사랑을 선언하세요 <_e15>
 0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/3/line3/1/props.customTxt/0/#text¬Announce¬발표
-0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/4/line4/0/props.tipText/0/#text¬[XX]Wait a little longer<br/>This event will be available later<br/>¬<_e100>조금만 더 기다려주세요<br/>(이)가 이벤트는 추후 제공될 예정입니다.<br/>
+0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/4/line4/0/props.tipText/0/#text¬[XX]Wait a little longer<br/>This event will be available later<br/>¬<_e100>조금만 더 기다려주세요<br/>이 이벤트는 추후 제공될 예정입니다.<br/>
 0/cdb/4/sheet/1489/ConfessionInLove/0/dialog/24/Choices/0/choices/4/line4/1/props.customTxt/0/#text¬Wait¬Wait
 0/cdb/4/sheet/1490/ConfessionHate/0/dialog/0/StartPragmatic_MM/0/text/0/#text¬I've been dreaming of slitting ::name::'s throat in his sleep for three nights now. If I thought the others wouldn't want to avenge him, I'd have gone through with it.¬사흘째 자면서 <_e15>의 목을 베는 꿈을 꾸고 있어요. 다른 사람들이 복수를 원하지 않을 거라고 생각했다면 실행에 옮겼을 거예요.
 0/cdb/4/sheet/1490/ConfessionHate/0/dialog/1/StartPragmatic_MF/0/text/0/#text¬I've been dreaming of slitting ::name::'s throat in her sleep for three nights now. If I thought the others wouldn't want to avenge her, I'd have gone through with it.¬사흘째 자다가 <_e15>의 목을 베는 꿈을 꾸고 있어요. 다른 사람들이 그녀에게 복수하고 싶지 않을 거라고 생각했다면, 나는 그것을 해냈을 것입니다.
@@ -7879,7 +7879,7 @@
 0/cdb/6/sheet/10/Bloodthirsty/1/desc/0/#text¬[CritHitPercent] increased by [ATTR]%.¬<_e110>(이)가 <_e108>% 증가합니다.
 0/cdb/6/sheet/11/Robust/0/name/0/#text¬Brawny¬튼튼함
 0/cdb/6/sheet/11/Robust/1/desc/0/#text¬[Constitution] increased by [ATTR]%.¬<_e109>(이)가 <_e108>%만큼 증가합니다.
-0/cdb/6/sheet/12/Strong/0/name/0/#text¬Strong¬강함
+0/cdb/6/sheet/12/Strong/0/name/0/#text¬Strong¬강력함
 0/cdb/6/sheet/12/Strong/1/desc/0/#text¬[Strength] increased by [ATTR]%.¬<_e113>(이)가 <_e108>%만큼 증가합니다.
 0/cdb/6/sheet/13/Nimble/0/name/0/#text¬Nimble¬민첩함
 0/cdb/6/sheet/13/Nimble/1/desc/0/#text¬[Dexterity] increased by [ATTR]%.¬<_e114>(이)가 <_e108>%만큼 증가합니다.
@@ -7973,7 +7973,7 @@
 0/cdb/6/sheet/57/Vegetarian/1/desc/0/#text¬Must eat fruit or vegetables at every meal to be satisfied.¬매 끼니마다 과일이나 채소를 먹어야 만족합니다.
 0/cdb/6/sheet/58/Confident/0/name/0/#text¬Confident¬자신감
 0/cdb/6/sheet/58/Confident/1/desc/0/#text¬[Willpower] increased by [ATTR].¬<_e112>(이)가 <_e108> 증가합니다.
-0/cdb/6/sheet/59/Lone/0/name/0/#text¬Solitary¬Solitary
+0/cdb/6/sheet/59/Lone/0/name/0/#text¬Solitary¬고독함
 0/cdb/6/sheet/59/Lone/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR]% if not next to an ally in combat.¬전투 중 아군과 함께 있지 않을 경우 <_e120>(이)가 <_e108>% 증가합니다.
 0/cdb/6/sheet/60/Cooperative/0/name/0/#text¬Cooperative¬협동
 0/cdb/6/sheet/60/Cooperative/1/desc/0/#text¬[DamageBonusPercent] increased by [ATTR]% if next to an ally in combat.¬전투 중 아군 옆에 있을 경우 <_e120>(이)가 <_e108>%만큼 증가합니다.
@@ -7991,13 +7991,13 @@
 0/cdb/6/sheet/66/EdoranLover/1/desc/0/#text¬When this unit is on Edoran territory, their [Strength], [Dexterity] and [Constitution] are increased by [ATTR]%.¬이 유닛이 에도란 영토에 있을 때, <_e113>, <_e114>, <_e109>(이)가 <_e108>%만큼 증가합니다.
 0/cdb/6/sheet/67/HaragLover/0/name/0/#text¬Harag Enthusiast¬하라그 열광자
 0/cdb/6/sheet/67/HaragLover/1/desc/0/#text¬When this unit is on Harag territory, their [Strength], [Dexterity] and [Constitution] are increased by [ATTR]%.¬이 유닛이 하라그 영토에 있을 때 <_e113>, <_e114>, <_e109>(이)가 <_e108>%만큼 증가합니다.
-0/cdb/6/sheet/68/Secretive/0/name/0/#text¬Above Suspicion¬의심 이상
+0/cdb/6/sheet/68/Secretive/0/name/0/#text¬Above Suspicion¬의심 받지 않음
 0/cdb/6/sheet/68/Secretive/1/desc/0/#text¬Reduces fines by [VALUE]%.¬벌금이 <_e5>% 감소합니다.
-0/cdb/6/sheet/69/Fat/0/name/0/#text¬Fat¬지방
+0/cdb/6/sheet/69/Fat/0/name/0/#text¬Fat¬비만
 0/cdb/6/sheet/69/Fat/1/desc/0/#text¬This Companion has reached the ideal weight!¬이 동료가 이상적인 체중에 도달했습니다!
 0/cdb/6/sheet/70/Betrayed/0/name/0/#text¬Betrayed¬배신
 0/cdb/6/sheet/70/Betrayed/1/desc/0/#text¬This Companion feels they've been betrayed.¬이 동료가 배신당했다고 느낍니다.
-0/cdb/6/sheet/71/Infected/0/name/0/#text¬Infected¬감염된
+0/cdb/6/sheet/71/Infected/0/name/0/#text¬Infected¬감염됨
 0/cdb/6/sheet/71/Infected/1/desc/0/#text¬This unit is Plague-ridden. They could transmit the disease by Wounding someone in combat.¬이 유닛은 전염병에 감염되었습니다. 전투 중 누군가에게 부상을 입혀 전염병을 옮길 수 있습니다.
 0/cdb/6/sheet/72/Tamer/0/name/0/#text¬Beastmaster¬비스트마스터
 0/cdb/6/sheet/72/Tamer/1/desc/0/#text¬Can control animals in combat.¬전투에서 동물을 조종할 수 있습니다.
@@ -8009,7 +8009,7 @@
 0/cdb/6/sheet/75/Bellicose/1/desc/0/#text¬Earns [VALUE] experience points after slaying an enemy.¬적 처치 후 경험치를 <_e5> 획득합니다.
 0/cdb/6/sheet/76/Trader/0/name/0/#text¬Broker¬브로커
 0/cdb/6/sheet/76/Trader/1/desc/0/#text¬Generates [VALUE] more Krowns at the end of a battle.¬전투 종료 시 크라운을 <_e5> 더 많이 생성합니다.
-0/cdb/6/sheet/77/Incongruous/0/name/0/#text¬Malefactor¬말레팩터
+0/cdb/6/sheet/77/Incongruous/0/name/0/#text¬Malefactor¬범법자
 0/cdb/6/sheet/77/Incongruous/1/desc/0/#text¬Increases the chance of getting items from slain enemies.¬처치한 적에게서 아이템을 획득할 확률이 증가합니다.
 0/cdb/6/sheet/78/Educated/0/name/0/#text¬Knowledgeable¬지식
 0/cdb/6/sheet/78/Educated/1/desc/0/#text¬Increases any Knowledge experience gain by [VALUE].¬지식 경험치 획득량이 <_e5> 증가합니다.
@@ -10336,30 +10336,30 @@
 0/cdb/10/sheet/41/Repositioning/0/name/0/#text¬Repositioning¬위치 변경
 0/cdb/10/sheet/41/Repositioning/1/desc/0/#text¬Each Companion gains the &lt;skill&gt;SkillRepositioning&lt;/skill&gt; skill.¬각 동료가 위치 변경 <skill>스킬을</skill> 습득합니다.
 0/cdb/10/sheet/42/SkillRepositioning/0/name/0/#text¬Reposition¬위치 변경
-0/cdb/10/sheet/42/SkillRepositioning/1/desc/0/#text¬Resets movement.<br/>This unit can no longer use skills or base actions.¬이동을 초기화합니다.<br/>(이)가 유닛은 더 이상 스킬이나 기본 행동을 사용할 수 없습니다.
+0/cdb/10/sheet/42/SkillRepositioning/1/desc/0/#text¬Resets movement.<br/>This unit can no longer use skills or base actions.¬이동을 초기화합니다. 이 유닛은 더 이상 스킬이나 기본 행동을 사용할 수 없습니다.
 0/cdb/10/sheet/43/Intervention/0/name/0/#text¬Intervention¬개입
 0/cdb/10/sheet/43/Intervention/1/desc/0/#text¬The unit can swap places with an adjacent ally engaged in combat. The unit then becomes engaged in combat and will deal an attack of opportunity.¬이 유닛은 전투 중인 인접한 아군과 위치를 바꿀 수 있습니다. 그러면 이 유닛은 교전에 참여하여 기회공격을 가합니다.
-0/cdb/10/sheet/44/Anticipation/0/name/0/#text¬Anticipation¬예상
+0/cdb/10/sheet/44/Anticipation/0/name/0/#text¬Anticipation¬예측
 0/cdb/10/sheet/44/Anticipation/1/desc/0/#text¬When the unit is attacked, they have a ::value1::% chance to not become engaged, and to deal their attacker an attack of opportunity.¬부대가 공격을 받으면 <_e131>%의 확률로 교전을 하지 않고 공격자에게 기회공격을 가할 수 있습니다.
-0/cdb/10/sheet/45/DefensiveRiposte/0/name/0/#text¬Defensive Riposte¬방어 리포스테
+0/cdb/10/sheet/45/DefensiveRiposte/0/name/0/#text¬Defensive Riposte¬방어적 반격
 0/cdb/10/sheet/45/DefensiveRiposte/1/desc/0/#text¬When the unit disengages, they have a ::value1::% chance to deal an attack of opportunity instead of taking one.¬부대가 교전을 해제하면 <_e131>%의 확률로 공격을 받는 대신 기회공격을 가할 수 있습니다.
-0/cdb/10/sheet/46/Swiftness/0/name/0/#text¬Alacrity¬민첩성
+0/cdb/10/sheet/46/Swiftness/0/name/0/#text¬Alacrity¬기민함
 0/cdb/10/sheet/46/Swiftness/1/desc/0/#text¬The unit has a ::value1::% chance to dodge ranged and AoE attacks.¬이 유닛은 <_e131>% 확률로 원거리 및 광역 공격을 회피합니다.
 0/cdb/10/sheet/47/LoneWolf/0/name/0/#text¬Lone Wolf¬고독한 늑대
 0/cdb/10/sheet/47/LoneWolf/1/desc/0/#text¬As long as there are no allied units within ::value1:: meters, this unit gains the [LoneWolf] status.¬이 유닛은 <_e131> 미터 내에 아군 유닛이 없는 한 <_e147> 상태를 얻습니다.
-0/cdb/10/sheet/48/Unstoppable/0/name/0/#text¬Unstoppable¬무적
-0/cdb/10/sheet/48/Unstoppable/1/desc/0/#text¬The unit becomes unstoppable and can pass through the enemy ranks.¬이 유닛은 무적 상태가 되어 적 전열을 통과할 수 있습니다.
+0/cdb/10/sheet/48/Unstoppable/0/name/0/#text¬Unstoppable¬막을수 없음
+0/cdb/10/sheet/48/Unstoppable/1/desc/0/#text¬The unit becomes unstoppable and can pass through the enemy ranks.¬이 유닛은 막을수 없는 상태가 되어 적 전열을 통과할 수 있습니다.
 0/cdb/10/sheet/49/WeaponSwapSword/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/49/WeaponSwapSword/1/desc/0/#text¬Can equip a second sword and swap weapons in combat.¬두 번째 검을 장착하고 전투 중에 무기를 교체할 수 있습니다.
-0/cdb/10/sheet/50/WeaponSwapMace/0/name/0/#text¬Second Weapon¬세컨드 무기
+0/cdb/10/sheet/50/WeaponSwapMace/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/50/WeaponSwapMace/1/desc/0/#text¬Can equip a second mace and swap weapons in combat.¬두 번째 철퇴를 장착하고 전투 중 무기를 교체할 수 있습니다.
-0/cdb/10/sheet/51/WeaponSwapAxe/0/name/0/#text¬Second Weapon¬세컨드 무기
+0/cdb/10/sheet/51/WeaponSwapAxe/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/51/WeaponSwapAxe/1/desc/0/#text¬Can equip a second axe and swap weapons in combat.¬두 번째 도끼를 장착하고 전투 중 무기를 교체할 수 있습니다.
-0/cdb/10/sheet/52/WeaponSwapDagger/0/name/0/#text¬Second Weapon¬세컨드 무기
+0/cdb/10/sheet/52/WeaponSwapDagger/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/52/WeaponSwapDagger/1/desc/0/#text¬Can equip a second dagger and swap weapons in combat.¬두 번째 단검을 장착하고 전투 중 무기를 교체할 수 있습니다.
-0/cdb/10/sheet/53/WeaponSwapBow/0/name/0/#text¬Second Weapon¬세컨드 무기
+0/cdb/10/sheet/53/WeaponSwapBow/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/53/WeaponSwapBow/1/desc/0/#text¬Can equip a second bow and swap weapons in combat.¬두 번째 활을 장착하고 전투 중 무기를 교체할 수 있습니다.
-0/cdb/10/sheet/54/WeaponSwapPolearm/0/name/0/#text¬Second Weapon¬세컨드 무기
+0/cdb/10/sheet/54/WeaponSwapPolearm/0/name/0/#text¬Second Weapon¬보조 무기
 0/cdb/10/sheet/54/WeaponSwapPolearm/1/desc/0/#text¬Can equip a second polearm and swap weapons in combat.¬두 번째 장창을 장착하고 전투 중 무기를 교체할 수 있습니다.
 0/cdb/10/sheet/55/SuppressFire/0/name/0/#text¬Suppressive Fire¬억제 사격
 0/cdb/10/sheet/55/SuppressFire/1/desc/0/#text¬Deals [DMG] and applies [Slowdown] to all units in the area for ::value1:: round.¬ <_e129>(을)를 주고, 해당 지역의 모든 유닛에게 <_e148>(을)를 <_e131> 라운드 동안 적용합니다.
@@ -10367,20 +10367,20 @@
 0/cdb/10/sheet/56/nake/1/desc/0/#text¬Deals [DMG] to the target and applies [Condemn].¬대상에게 <_e129>(을)를 주고 <_e149>(을)를 적용합니다.
 0/cdb/10/sheet/57/Exhorted/0/name/0/#text¬Exhort¬권고
 0/cdb/10/sheet/57/Exhorted/1/desc/0/#text¬The unit and all allies in the area gain [Zeal] for ::value1:: rounds.¬해당 유닛과 해당 지역의 모든 아군이 <_e131> 라운드 동안 <_e150>(을)를 얻습니다.
-0/cdb/10/sheet/58/TitanicRoar/0/name/0/#text¬Deafening Roar¬귀머거리 포효
-0/cdb/10/sheet/58/TitanicRoar/1/desc/0/#text¬Knocks back all enemies in the area by ::value1:: metres.<br/>Any enemy pushed against an ally is dealt an opportunity attack by that ally.¬범위 내의 모든 적을 <_e131> 미터 밀어냅니다.<br/>아군에게 밀려난 적은 그 아군에게 기회공격을 받습니다.
+0/cdb/10/sheet/58/TitanicRoar/0/name/0/#text¬Deafening Roar¬귀먹을 정도의 포효
+0/cdb/10/sheet/58/TitanicRoar/1/desc/0/#text¬Knocks back all enemies in the area by ::value1:: metres.<br/>Any enemy pushed against an ally is dealt an opportunity attack by that ally.¬범위 내의 모든 적을 <_e131> 미터 밀어냅니다.<br/>아군을 향해 밀려난 적은 그 아군에게 기회공격을 받습니다.
 0/cdb/10/sheet/59/LongTermePlan/0/name/0/#text¬Decisive Manoeuvre¬결정적 기동
 0/cdb/10/sheet/59/LongTermePlan/1/desc/0/#text¬If this unit is the first to act on their side, they disengage and can act once more after all of their allies.¬이 유닛이 가장 먼저 아군 편에서 행동하면, 아군이 모두 행동한 후에 한 번 더 행동할 수 있습니다.
-0/cdb/10/sheet/60/DeathLure/0/name/0/#text¬Daredevil¬무모한
+0/cdb/10/sheet/60/DeathLure/0/name/0/#text¬Daredevil¬대담무쌍
 0/cdb/10/sheet/60/DeathLure/1/desc/0/#text¬The unit gains [Frenzy] for ::value1:: rounds.¬이 유닛은 <_e131> 라운드당 <_e151>(을)를 얻습니다.
 0/cdb/10/sheet/61/ClassSpecialization/0/name/0/#text¬Class Specialisation¬병과 전문화
 0/cdb/10/sheet/61/ClassSpecialization/1/desc/0/#text¬Unlocks a skill from a previous level.¬이전 레벨의 기술을 잠금 해제합니다.
 0/cdb/10/sheet/62/Bulwark/0/name/0/#text¬Bulwark¬방벽
 0/cdb/10/sheet/62/Bulwark/1/desc/0/#text¬Each time this unit engages, they gain [Deflection].¬이 유닛이 교전할 때마다 <_e144>(을)를 얻습니다.
-0/cdb/10/sheet/62/Bulwark/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Deflection].<br/>Every time they disengage, they gain [Fury].¬이 유닛이 교전에 참여할 때마다 <_e144>(을)를 획득합니다.<br/>(이)가 부대가 전투에서 벗어날 때마다 <_e134>(을)를 획득합니다.
+0/cdb/10/sheet/62/Bulwark/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Deflection].<br/>Every time they disengage, they gain [Fury].¬이 유닛이 교전에 참여할 때마다 <_e144>(을)를 획득합니다.<br/>이 부대가 전투에서 벗어날 때마다 <_e134>(을)를 획득합니다.
 0/cdb/10/sheet/63/Counterattack/0/name/0/#text¬Counter-attack¬반격
 0/cdb/10/sheet/63/Counterattack/1/desc/0/#text¬Each time this unit engages, they gain [Riposte].¬이 유닛이 교전할 때마다 <_e152>(을)를 얻습니다.
-0/cdb/10/sheet/63/Counterattack/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Riposte].<br/>Every time they disengage, they gain [Inspiration] for ::value1:: round.¬이 유닛이 교전에 참여할 때마다 <_e152>(을)를 획득합니다.<br/>(이)가 유닛이 전투에서 해제할 때마다 <_e131> 라운드당 <_e153>(을)를 획득합니다.
+0/cdb/10/sheet/63/Counterattack/2/levels/0/line0/0/desc/0/#text¬Every time this unit engages in combat, they gain [Riposte].<br/>Every time they disengage, they gain [Inspiration] for ::value1:: round.¬이 유닛이 교전에 참여할 때마다 <_e152>(을)를 획득합니다.<br/>이 유닛이 전투에서 해제할 때마다 <_e131> 라운드당 <_e153>(을)를 획득합니다.
 0/cdb/10/sheet/64/Boldness/0/name/0/#text¬Daring¬대담
 0/cdb/10/sheet/64/Boldness/1/desc/0/#text¬As long as a Bonus is active on this unit, their attacks apply [Weakening] for ::value1:: round.¬이 유닛에 보너스가 활성화되어 있는 동안, 이 유닛의 공격은 <_e131> 라운드 동안 <_e139>(을)를 적용합니다.
 0/cdb/10/sheet/64/Boldness/2/levels/0/line0/0/desc/0/#text¬As long as a Bonus is active on this unit, their attacks apply [Weakening].¬이 유닛에 보너스가 활성화되어 있는 한, 공격 시 <_e139>(이)가 적용됩니다.
@@ -10394,18 +10394,18 @@
 0/cdb/10/sheet/67/DestabilisingStrike/2/levels/0/line0/0/desc/0/#text¬Deals [DMG] to the target and applies [Destabilization] for ::value1:: rounds.<br/>Always lands a critical hit against enemies without [Guard].¬대상에게 <_e129>(을)를 주고 <_e131> 라운드 동안 <_e156>(을)를 적용합니다.<br/>적에게 항상 <_e115> 없이 치명타를 적중시킵니다.
 0/cdb/10/sheet/68/Slashes/0/name/0/#text¬Laceration¬열상
 0/cdb/10/sheet/68/Slashes/1/desc/0/#text¬Deals [DMG] to all the units in the area  ::value1:: time(s).<br/>Usable after ::value2:: attacks.<br/><br/>Performed attacks: ::value3::/::value2::¬ <_e131> 시간 동안 해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/> <_e157> 공격 후 사용 가능<br/><br/>공격을 수행했습니다: <_e158>/<_e157>
-0/cdb/10/sheet/69/Estocade/0/name/0/#text¬Final Blow¬최종 일격
+0/cdb/10/sheet/69/Estocade/0/name/0/#text¬Final Blow¬마지막 일격
 0/cdb/10/sheet/69/Estocade/1/desc/0/#text¬Deals [DMG] to the target and gains [Riposte].¬대상에게 <_e129>(을)를 주고 <_e152>(을)를 획득합니다.
 0/cdb/10/sheet/69/Estocade/2/levels/0/line0/0/desc/0/#text¬Deals [DMG] to the target and gains [Riposte].<br/>If this unit already has [Riposte], the damage is increased by ::value1::%.¬대상에게 <_e129>(을)를 주고 <_e152>(을)를 획득합니다.<br/>이 유닛이 이미 <_e152>(을)를 가지고 있다면 피해량이 <_e131>% 증가합니다.
 0/cdb/10/sheet/70/LastStand/0/name/0/#text¬Last Stand¬라스트 스탠드
-0/cdb/10/sheet/70/LastStand/1/desc/0/#text¬As long as this unit has no [Armor], they have [Brutality].¬이 유닛에 <_e141>(이)가 없는 한 <_e154>(이)가 있습니다.
+0/cdb/10/sheet/70/LastStand/1/desc/0/#text¬As long as this unit has no [Armor], they have [Brutality].¬이 유닛에게 <_e141>(이)가 없는 한 <_e154>(을)를 가집니다.
 0/cdb/10/sheet/70/LastStand/2/levels/0/line0/0/desc/0/#text¬As long as this unit has ::value1::% [Armor] or less, they have [Brutality].¬이 유닛이 <_e131>% <_e141> 이하인 한, <_e154>(을)를 가집니다.
 0/cdb/10/sheet/71/CombatGrip/0/name/0/#text¬Hand-to-hand Combat¬백병전
-0/cdb/10/sheet/71/CombatGrip/1/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.¬대상에게 <_e159>(을)를 적용하여 <_e131> 라운드를 진행합니다.
-0/cdb/10/sheet/71/CombatGrip/2/levels/0/line0/0/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.<br/>If the unit is already disarmed, also applies [Vulnerability].¬대상에게 <_e159>(을)를 적용하여 <_e131> 탄을 발사합니다.<br/>(이)가 유닛이 이미 무장 해제된 경우 <_e160> 도 적용합니다.
+0/cdb/10/sheet/71/CombatGrip/1/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.¬대상에게 <_e159>(을)를 <_e131> 라운드동안 적용합니다.
+0/cdb/10/sheet/71/CombatGrip/2/levels/0/line0/0/desc/0/#text¬Applies [Disarm] to the target for ::value1:: round.<br/>If the unit is already disarmed, also applies [Vulnerability].¬대상에게 <_e159>(을)를 적용하여 <_e131> 탄을 발사합니다.<br/>이 유닛이 이미 무장 해제된 경우 <_e160> 도 적용합니다.
 0/cdb/10/sheet/72/HardTraining/0/name/0/#text¬Hardcore Training¬하드코어 훈련
 0/cdb/10/sheet/72/HardTraining/1/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].¬이 유닛은 <_e137>, <_e136> 또는 <_e138>에 면역입니다.
-0/cdb/10/sheet/72/HardTraining/2/levels/0/line0/0/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].<br/>When they should be affected by these effects, they gain ::value1:: [AnimalMarkedBonus] instead (once per effect per round).¬이 유닛은 <_e137>, <_e136> 또는 <_e138>에 면역입니다.<br/>(이)가 효과의 영향을 받아야 할 때, 대신 <_e131> <_e118>(을)를 얻습니다(라운드당 효과당 한 번).
+0/cdb/10/sheet/72/HardTraining/2/levels/0/line0/0/desc/0/#text¬This unit is immune to [Bleeding], [Poison] or [Burning].<br/>When they should be affected by these effects, they gain ::value1:: [AnimalMarkedBonus] instead (once per effect per round).¬이 유닛은 <_e137>, <_e136> 또는 <_e138>에 면역입니다.<br/>이 효과의 영향을 받아야 할 때, 대신 <_e131> <_e118>(을)를 얻습니다(라운드당 효과당 한 번).
 0/cdb/10/sheet/73/GreatOpportunist/0/name/0/#text¬Master Opportunist¬마스터 기회주의자
 0/cdb/10/sheet/73/GreatOpportunist/1/desc/0/#text¬Damage from dealt attacks of opportunity increased by ::value1::%.<br/>Damage from incoming attacks of opportunity reduced by ::value1::%.¬적중한 기회공격으로 받는 피해가 <_e131>%만큼 증가합니다.<br/>적중하는 기회 공격으로 받는 피해가 <_e131>%만큼 감소합니다.
 0/cdb/10/sheet/74/EternalGloryStrike/0/name/0/#text¬Eternal Glory Strike¬이터널 글로리 스트라이크
@@ -10552,7 +10552,7 @@
 0/cdb/10/sheet/128/Cruelty/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] and [CritHitPercent] increased by ::value1::% against units with at least one debuff.<br/>In return, they deal ::value1::% less [DamageBonusPercent] to this unit.¬<_e120> 그리고 디버프가 하나 이상인 유닛에 대한 <_e110> 공격력이 <_e131>% 증가합니다.<br/>그 대신, 이 유닛에게 <_e131>% 적은 <_e120>(을) 를 줍니다.
 0/cdb/10/sheet/129/ArmorBreaker/0/name/0/#text¬Armour Breaker¬갑옷 브레이커
 0/cdb/10/sheet/129/ArmorBreaker/1/desc/0/#text¬[DamageBonusPercent] inflicted to [Armor] increased by ::value1::%.¬<_e120> <_e141> 받는 피해가 <_e131>%만큼 증가합니다.
-0/cdb/10/sheet/129/ArmorBreaker/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] inflicted to [Armor] increased by ::value1::%.<br/>If an attack from this unit destroys an enemy’s [Armor], the unit gains [Brutality] and [Inspiration].¬<_e120> <_e141>에 가하는 피해가 <_e131>% 증가합니다.<br/>(이)가 유닛의 공격이 적의 <_e141>(을)를 파괴하면, 이 유닛은 <_e154> 과 <_e153>(을)를 얻습니다.
+0/cdb/10/sheet/129/ArmorBreaker/2/levels/0/line0/0/desc/0/#text¬[DamageBonusPercent] inflicted to [Armor] increased by ::value1::%.<br/>If an attack from this unit destroys an enemy’s [Armor], the unit gains [Brutality] and [Inspiration].¬<_e120> <_e141>에 가하는 피해가 <_e131>% 증가합니다.<br/>이 유닛의 공격이 적의 <_e141>(을)를 파괴하면, 이 유닛은 <_e154> 과 <_e153>(을)를 얻습니다.
 0/cdb/10/sheet/130/Bash/0/name/0/#text¬Headbash¬헤드배시
 0/cdb/10/sheet/130/Bash/1/desc/0/#text¬At the end of their turn, deals [VALUE] [Health] damage to the closest target.¬자신의 턴 종료 시, 가장 가까운 대상에게 <_e5> <_e119> 피해를 줍니다.
 0/cdb/10/sheet/131/PoisonedImpact/0/name/0/#text¬Poisoned Impact¬중독 충격
@@ -10579,7 +10579,7 @@
 0/cdb/10/sheet/138/OverwhelmingPresence/1/desc/0/#text¬If this unit has more [Armor] than the engaged opponent, their attacks always land critical hits.¬이 유닛이 교전 중인 상대보다 <_e141> 수가 많으면, 이 유닛의 공격은 항상 치명타에 적중합니다.
 0/cdb/10/sheet/138/OverwhelmingPresence/2/levels/0/line0/0/desc/0/#text¬If this unit has more [Armor] than the engaged opponent, their attacks always land critical hits and apply [Confus] for ::value1:: round.¬이 유닛이 교전 중인 상대보다 <_e141> 수가 많으면, 이 유닛의 공격은 항상 치명타에 적중하고 <_e131> 라운드 동안 <_e169>(을)를 적용합니다.
 0/cdb/10/sheet/139/ErkeshetWrath/0/name/0/#text¬Wrath of Erkeshet¬에르케셋의 분노
-0/cdb/10/sheet/139/ErkeshetWrath/1/desc/0/#text¬Deals [DMG] to the target.<br/>If this unit has more [Strength] than the target, the damage dealt is doubled and a critical hit is guaranteed.¬대상에게 <_e129>(을)를 줍니다.<br/>(이)가 유닛이 대상보다 <_e113> 더 많으면 피해량이 두 배로 증가하고 치명타가 보장됩니다.
+0/cdb/10/sheet/139/ErkeshetWrath/1/desc/0/#text¬Deals [DMG] to the target.<br/>If this unit has more [Strength] than the target, the damage dealt is doubled and a critical hit is guaranteed.¬대상에게 <_e129>(을)를 줍니다.<br/>이 유닛이 대상보다 <_e113> 더 많으면 피해량이 두 배로 증가하고 치명타가 보장됩니다.
 0/cdb/10/sheet/140/InsectSmash/0/name/0/#text¬SPLAT!¬스플랫!
 0/cdb/10/sheet/140/InsectSmash/1/desc/0/#text¬Deals [DMG] to the target. If the target is a Mosquito, the damage is increased by ::value1::%.¬대상에게 <_e129>(을)를 줍니다. 대상이 모기라면 피해량이 <_e131>% 증가합니다.
 0/cdb/10/sheet/141/Protection/0/name/0/#text¬Protection¬보호
@@ -10683,7 +10683,7 @@
 0/cdb/10/sheet/190/Transmission/0/name/0/#text¬Contamination¬오염
 0/cdb/10/sheet/190/Transmission/1/desc/0/#text¬Applies ::value1:: [Fever] to all enemies in the area.¬범위 내의 모든 적에게 <_e131> <_e164>(을)를 적용합니다.
 0/cdb/10/sheet/191/Spraying/0/name/0/#text¬Spray¬스프레이
-0/cdb/10/sheet/191/Spraying/1/desc/0/#text¬Deals ::value1::% of their max [Health] as damage to all the mosquitoes in the area.<br/>If this attack should kill a mosquito, it is captured instead.¬해당 지역의 모든 모기에게 최대 <_e119>의 <_e131>%를 피해로 줍니다.<br/>(이)가 공격으로 모기가 죽으면 대신 포획됩니다.
+0/cdb/10/sheet/191/Spraying/1/desc/0/#text¬Deals ::value1::% of their max [Health] as damage to all the mosquitoes in the area.<br/>If this attack should kill a mosquito, it is captured instead.¬해당 지역의 모든 모기에게 최대 <_e119>의 <_e131>%를 피해로 줍니다.<br/>이 공격으로 모기가 죽으면 대신 포획됩니다.
 0/cdb/10/sheet/192/DamageReturn/0/desc/0/#text¬If the user still has Armour, they reflect ::value1::% of the damage sustained to the attacker.¬사용자에게 갑옷이 남아 있으면 공격자가 받은 피해의 <_e131>%를 반사합니다.
 0/cdb/10/sheet/193/ValorousAxeThrow/0/name/0/#text¬Courageous Axe Throw¬용맹한 도끼 던지기
 0/cdb/10/sheet/193/ValorousAxeThrow/1/desc/0/#text¬After using a Valour-based skill, this unit, even if they are engaged, deals [DMG] to the farthest enemy within ::value1:: metres.<br/><br/>Always lands a critical hit against the Ghost Pack.¬이 유닛은 용맹 기반 스킬을 사용한 후, 교전 중이더라도 <_e131> 미터 이내의 가장 먼 적에게 <_e129>(을)를 줍니다.<br/><br/>유령 무리에게 항상 치명타를 입힙니다.
@@ -10696,7 +10696,7 @@
 0/cdb/10/sheet/197/PerniciousEngagement/0/name/0/#text¬Pernicious Engagement¬악의적 교전
 0/cdb/10/sheet/197/PerniciousEngagement/1/desc/0/#text¬Deals [DMG] to the target.<br/>If the target is engaged in combat with this skill, [Fragility] is applied to them for ::value1:: round.¬대상에게 <_e129>(을)를 줍니다.<br/>대상이 이 스킬로 전투 중일 경우, <_e163> 라운드 동안 <_e131> 효과가 적용됩니다.
 0/cdb/10/sheet/198/SneakyWhirlwind/0/name/0/#text¬Devious Whirlwind¬사악한 회오리바람
-0/cdb/10/sheet/198/SneakyWhirlwind/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several units, creates a [PoisonCloud] under each of them.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>(이)가 공격이 여러 유닛에게 적중하면 각 유닛 아래에 <_e174>(을)를 생성합니다.
+0/cdb/10/sheet/198/SneakyWhirlwind/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several units, creates a [PoisonCloud] under each of them.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>이 공격이 여러 유닛에게 적중하면 각 유닛 아래에 <_e174>(을)를 생성합니다.
 0/cdb/10/sheet/199/TreacherousSetback/0/name/0/#text¬Treacherous Setback¬위험한 좌절
 0/cdb/10/sheet/199/TreacherousSetback/1/desc/0/#text¬Deals [DMG] to all units in the area and applies [Bleeding] if they are poisoned.¬해당 지역의 모든 유닛에게 <_e129>(을)를 주고 중독된 경우 <_e137> 효과를 적용합니다.
 0/cdb/10/sheet/200/DisgustForTheWeak/0/name/0/#text¬Disgust for the Weak¬약자에 대한 혐오
@@ -10724,7 +10724,7 @@
 0/cdb/10/sheet/210/TendonRupture/0/name/0/#text¬Tendon Rupture¬힘줄 파열
 0/cdb/10/sheet/210/TendonRupture/1/desc/0/#text¬Deals [DMG] to the target and applies [Slowdown] for ::value1:: rounds.<br/>If already affected by [Slowdown], the target suffers [Bleeding].¬대상에게 <_e129>(을)를 주고 <_e131> 라운드 동안 <_e148>(을)를 적용합니다.<br/>이미 <_e148>의 영향을 받은 경우 대상은 <_e137>의 피해를 받습니다.
 0/cdb/10/sheet/211/Annihilation/0/name/0/#text¬Annihilation¬전멸
-0/cdb/10/sheet/211/Annihilation/1/desc/0/#text¬Deals [DMG] to the target.<br/>This attack ignores [Guard].¬대상에게 <_e129>(을)를 줍니다.<br/>(이)가 공격은 <_e115>(을)를 무시합니다.
+0/cdb/10/sheet/211/Annihilation/1/desc/0/#text¬Deals [DMG] to the target.<br/>This attack ignores [Guard].¬대상에게 <_e129>(을)를 줍니다.<br/>이 공격은 <_e115>(을)를 무시합니다.
 0/cdb/10/sheet/212/SurpriseAttack/0/name/0/#text¬Surprise Attack¬매복
 0/cdb/10/sheet/212/SurpriseAttack/1/desc/0/#text¬Deals [DMG] to the target and applies a random debuff.<br/><br/>The debuff changes with each fight.¬대상에게 <_e129>(을)를 주고 무작위 디버프를 적용합니다.<br/><br/>디버프는 매 전투마다 변경됩니다.
 0/cdb/10/sheet/213/CarefulStance/0/name/0/#text¬Cautious Stance¬신중한 자세
@@ -10742,7 +10742,7 @@
 0/cdb/10/sheet/218/FugitiveMaceDeserters/0/name/0/#text¬Viciousness¬악랄함
 0/cdb/10/sheet/218/FugitiveMaceDeserters/1/desc/0/#text¬Deals [DMG] to the target.<br/>If after the attack, the target still has more than half of their [Armor], launches an attack of opportunity against them.¬대상에게 <_e129>(을)를 줍니다.<br/>공격 후에도 대상의 <_e141>(이)가 절반 이상 남아있다면, 대상에게 기회공격을 시작합니다.
 0/cdb/10/sheet/219/FugitiveAxe2HDeserters/0/name/0/#text¬Unleashed Surge¬해방된 서지
-0/cdb/10/sheet/219/FugitiveAxe2HDeserters/1/desc/0/#text¬Deals [DMG] to the target and gains [Unleashed].<br/>This attack cannot engage a duel.¬대상에게 <_e129>(을)를 주고 <_e182>(을)를 획득합니다.<br/>(이)가 공격은 결투를 일으킬 수 없습니다.
+0/cdb/10/sheet/219/FugitiveAxe2HDeserters/1/desc/0/#text¬Deals [DMG] to the target and gains [Unleashed].<br/>This attack cannot engage a duel.¬대상에게 <_e129>(을)를 주고 <_e182>(을)를 획득합니다.<br/>이 공격은 결투를 일으킬 수 없습니다.
 0/cdb/10/sheet/220/MaintainingTheLine/0/name/0/#text¬Holding the Line¬선 지키기
 0/cdb/10/sheet/220/MaintainingTheLine/1/desc/0/#text¬Deals [DMG] to the target and knocks them back by ::value1:: metres.<br/><br/>[CapaCritical]: Applies [Vulnerability].¬대상에게 <_e129>(을)를 주고 <_e131> 미터 뒤로 밀쳐냅니다.<br/><br/><_e142>: 적용 <_e160>.
 0/cdb/10/sheet/221/ShootOrder/0/name/0/#text¬Shoot Order¬사격 명령
@@ -10855,7 +10855,7 @@
 0/cdb/10/sheet/271/Hysteria/0/name/0/#text¬Frenzy¬광란
 0/cdb/10/sheet/271/Hysteria/1/desc/0/#text¬Deals [DMG] to the target. Restarts for every bonus applied to the target.¬대상에게 <_e129>(을)를 줍니다. 대상에게 적용된 보너스마다 다시 시작됩니다.
 0/cdb/10/sheet/272/ConsecratedStrike/0/name/0/#text¬Hallowed Strike¬성스러운 일격
-0/cdb/10/sheet/272/ConsecratedStrike/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several units, creates a [Fire] under each of them.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>(이)가 공격이 여러 유닛에게 적중하면 각 유닛 아래에 <_e172>(을)를 생성합니다.
+0/cdb/10/sheet/272/ConsecratedStrike/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several units, creates a [Fire] under each of them.¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>이 공격이 여러 유닛에게 적중하면 각 유닛 아래에 <_e172>(을)를 생성합니다.
 0/cdb/10/sheet/273/EyeArrow/0/name/0/#text¬Eye's Arrows¬눈의 화살
 0/cdb/10/sheet/273/EyeArrow/1/desc/0/#text¬Deals [DMG] to the target.<br/>If the target has no [Guard] or [Armor], damage is tripled.¬대상에게 <_e129>(을)를 줍니다.<br/>대상에 <_e115> 또는 <_e141>(이)가 없으면 피해가 세 배로 증가합니다.
 0/cdb/10/sheet/274/TargetsInSight/0/name/0/#text¬Targets in Sight¬시야에 있는 대상
@@ -10873,13 +10873,13 @@
 0/cdb/10/sheet/279/FugitiveSwordInquisition/0/name/0/#text¬Punishment¬처벌
 0/cdb/10/sheet/279/FugitiveSwordInquisition/1/desc/0/#text¬Deals [DMG] to the target.<br/>The damage is increased by ::value1::% against targets without [Guard].¬대상에게 <_e129>(을)를 줍니다.<br/> <_e115>(이)가 없는 대상에 대한 피해는 <_e131>%만큼 증가합니다.
 0/cdb/10/sheet/280/FugitiveMaceInquisition/0/name/0/#text¬Eternal Youth¬영원한 젊음
-0/cdb/10/sheet/280/FugitiveMaceInquisition/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several targets, this units heals themselves for ::value1::% of their max [Health].¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>(이)가 공격이 여러 대상에게 적중하면, 이 유닛은 최대 생명력의 <_e131>%만큼 생명력을 회복합니다 <_e119>.
+0/cdb/10/sheet/280/FugitiveMaceInquisition/1/desc/0/#text¬Deals [DMG] to all the units in the area.<br/>If this attack hits several targets, this units heals themselves for ::value1::% of their max [Health].¬해당 지역의 모든 유닛에게 <_e129>(을)를 줍니다.<br/>이 공격이 여러 대상에게 적중하면, 이 유닛은 최대 생명력의 <_e131>%만큼 생명력을 회복합니다 <_e119>.
 0/cdb/10/sheet/281/WildMarking/0/name/0/#text¬Wild Marking¬와일드 마킹
 0/cdb/10/sheet/281/WildMarking/1/desc/0/#text¬Deals [DMG] to the target and applies [AnimalMarked].¬대상에게 <_e129>(을)를 주고 <_e190>(을)를 적용합니다.
 0/cdb/10/sheet/282/Logging/0/name/0/#text¬Logging¬로깅
 0/cdb/10/sheet/282/Logging/1/desc/0/#text¬Deals [DMG] to the units in the area.<br/>Is cast again for every affected target that is bleeding.¬해당 지역의 유닛에게 <_e129>(을)를 줍니다.<br/>출혈 중인 모든 대상에게 다시 시전됩니다.
 0/cdb/10/sheet/283/NaturalStrike/0/name/0/#text¬Natural Strike¬자연 타격
-0/cdb/10/sheet/283/NaturalStrike/1/desc/0/#text¬Deals [DMG] to the target.<br/><br/>This attack always activates the Oil applied to it.¬대상에게 <_e129>(을)를 줍니다.<br/><br/>(이)가 공격은 항상 대상에게 적용된 기름을 활성화합니다.
+0/cdb/10/sheet/283/NaturalStrike/1/desc/0/#text¬Deals [DMG] to the target.<br/><br/>This attack always activates the Oil applied to it.¬대상에게 <_e129>(을)를 줍니다.<br/><br/>이 공격은 항상 대상에게 적용된 기름을 활성화합니다.
 0/cdb/10/sheet/284/Slaughter/0/name/0/#text¬Slaughter¬학살
 0/cdb/10/sheet/284/Slaughter/1/desc/0/#text¬Deals [DMG] to the target and gains ::value1:: [AnimalMarkedBonus].¬대상에게 <_e129>(을)를 주고 <_e131> <_e118>(을)를 획득합니다.
 0/cdb/10/sheet/285/FeralSoul/0/name/0/#text¬Feral Soul¬야수 영혼
@@ -10951,7 +10951,7 @@
 0/cdb/10/sheet/316/DraughtBoar/0/name/0/#text¬Cart Boar¬수레 멧돼지
 0/cdb/10/sheet/316/DraughtBoar/1/desc/0/#text¬[Transport] increased by ::value1::.¬<_e111>(이)가 <_e131> 증가합니다.
 0/cdb/10/sheet/317/FarmedBoar/0/name/0/#text¬Livestock Boar¬가축 멧돼지
-0/cdb/10/sheet/317/FarmedBoar/1/desc/0/#text¬This unit can now be slaughtered for meat.<br/><br/>The beast eats the remains, which reduces its Food consumption by ::value1::.¬이 유닛은 이제 고기를 얻기 위해 도살할 수 있습니다.<br/><br/>(이)가 야수가 사체를 먹으면 식량 소비량이 <_e131> 만큼 감소합니다.
+0/cdb/10/sheet/317/FarmedBoar/1/desc/0/#text¬This unit can now be slaughtered for meat.<br/><br/>The beast eats the remains, which reduces its Food consumption by ::value1::.¬이 유닛은 이제 고기를 얻기 위해 도살할 수 있습니다.<br/><br/>이 야수가 사체를 먹으면 식량 소비량이 <_e131> 만큼 감소합니다.
 0/cdb/10/sheet/318/TruffleBoar/0/name/0/#text¬Truffle Boar¬트러플 멧돼지
 0/cdb/10/sheet/318/TruffleBoar/1/desc/0/#text¬You have a chance to collect mushrooms while walking in the forest.¬숲을 걷는 동안 버섯을 채집할 수 있습니다.
 0/cdb/10/sheet/319/Jostling/0/name/0/#text¬Rush¬Rush
@@ -11040,7 +11040,7 @@
 0/cdb/10/sheet/360/Poisoned/0/name/0/#text¬Poisoned¬중독
 0/cdb/10/sheet/360/Poisoned/1/desc/0/#text¬Every incoming or outgoing attack applies ::value1:: [Poison] to the opponent.¬들어오는 공격이나 나가는 공격마다 상대에게 <_e131> <_e136>(이)가 적용됩니다.
 0/cdb/10/sheet/361/Immortal/0/name/0/#text¬Immortal¬불멸
-0/cdb/10/sheet/361/Immortal/1/desc/0/#text¬Instead of dying, this unit survives.<br/>They have a ::value1::% chance to dodge every incoming attack, otherwise they flee the battle.¬이 유닛은 죽지 않고 살아남습니다.<br/>(이)가 유닛은 모든 적의 공격을 <_e131>% 확률로 회피하며, 그렇지 않으면 전투에서 도망칩니다.
+0/cdb/10/sheet/361/Immortal/1/desc/0/#text¬Instead of dying, this unit survives.<br/>They have a ::value1::% chance to dodge every incoming attack, otherwise they flee the battle.¬이 유닛은 죽지 않고 살아남습니다.<br/>이 유닛은 모든 적의 공격을 <_e131>% 확률로 회피하며, 그렇지 않으면 전투에서 도망칩니다.
 0/cdb/10/sheet/362/Vomiting/0/name/0/#text¬Vomiting¬구토
 0/cdb/10/sheet/362/Vomiting/1/desc/0/#text¬Every time this unit engages in combat, creates a pool of [Poison] around them.¬이 유닛이 전투에 참여할 때마다 주위에 <_e136> 풀을 생성합니다.
 0/cdb/10/sheet/363/InfectedScratch/0/name/0/#text¬Infectious Wound¬감염성 상처
@@ -11070,7 +11070,7 @@
 0/cdb/10/sheet/375/BeastRoar/0/name/0/#text¬Howl of the Beast¬야수의 울부짖음
 0/cdb/10/sheet/375/BeastRoar/1/desc/0/#text¬Applies ::value1:: [Terror] to all enemies and [Fury] to all allies.¬모든 적에게 <_e131> <_e204>, 모든 아군에게 <_e134>(을)를 적용합니다.
 0/cdb/10/sheet/376/DreadfulSting/0/name/0/#text¬Terrible Sting¬끔찍한 찌르기
-0/cdb/10/sheet/376/DreadfulSting/1/desc/0/#text¬Deals [DMG] to the target's [Health].<br/>The damage ignores [Guard].<br/><br/>[CapaCritical]: Applies ::value1:: [Fever].¬대상의 <_e119>에 <_e129>(을)를 줍니다.<br/>(이)가 피해는 <_e115>(을)를 무시합니다.<br/><br/><_e142>: 적용 <_e131> <_e164>.
+0/cdb/10/sheet/376/DreadfulSting/1/desc/0/#text¬Deals [DMG] to the target's [Health].<br/>The damage ignores [Guard].<br/><br/>[CapaCritical]: Applies ::value1:: [Fever].¬대상의 <_e119>에 <_e129>(을)를 줍니다.<br/>이 피해는 <_e115>(을)를 무시합니다.<br/><br/><_e142>: 적용 <_e131> <_e164>.
 0/cdb/10/sheet/377/BloodDrinker/0/name/0/#text¬Blood Drinker¬피의 술꾼
 0/cdb/10/sheet/377/BloodDrinker/1/desc/0/#text¬Each time this unit deals damage, gains ::value1:: application of [BloodReserve].¬이 유닛이 피해를 줄 때마다 <_e206>의 <_e131> 적용을 받습니다.
 0/cdb/10/sheet/378/Lifesucker/0/name/0/#text¬Life Drain¬라이프 드레인
@@ -11094,7 +11094,7 @@
 0/cdb/10/sheet/387/WildTenacity/0/name/0/#text¬Wild Tenacity¬야생의 끈기
 0/cdb/10/sheet/387/WildTenacity/1/desc/0/#text¬When this unit should die, it gains [Berserk] and survives.<br/>If it already has [Berserk], it dies.¬이 유닛이 죽어야 할 때, <_e191>(을)를 얻고 살아남습니다.<br/>이미 <_e191>(을)를 가지고 있다면 죽습니다.
 0/cdb/10/sheet/388/RagingPawStrike/0/name/0/#text¬Angry Swipe¬성난 스와이프
-0/cdb/10/sheet/388/RagingPawStrike/1/desc/0/#text¬Deals [DMG] to the target ::value3:: times.<br/>If this unit has more than ::value1:: [AnimalMarkedBonus], they gain [Relentlessness].<br/>If they have more than ::value2::, they also gain [Berserk].¬대상에게 <_e129>(을)를 <_e158> 줍니다.<br/>(이)가 유닛이 <_e131> <_e118> 보다 많으면 <_e207>(을)를 얻습니다.<br/>(이)가 유닛이 <_e157> 보다 많으면 <_e191> 도 얻습니다.
+0/cdb/10/sheet/388/RagingPawStrike/1/desc/0/#text¬Deals [DMG] to the target ::value3:: times.<br/>If this unit has more than ::value1:: [AnimalMarkedBonus], they gain [Relentlessness].<br/>If they have more than ::value2::, they also gain [Berserk].¬대상에게 <_e129>(을)를 <_e158> 줍니다.<br/>이 유닛이 <_e131> <_e118> 보다 많으면 <_e207>(을)를 얻습니다.<br/>이 유닛이 <_e157> 보다 많으면 <_e191> 도 얻습니다.
 0/cdb/10/sheet/389/HotBlood/0/name/0/#text¬Hot-Blooded¬뜨거운 피
 0/cdb/10/sheet/389/HotBlood/1/desc/0/#text¬Every time this unit takes or deals damage, they gain ::value1:: [AnimalMarkedBonus].¬이 유닛이 피해를 받거나 피해를 줄 때마다 <_e131> <_e118>(을)를 얻습니다.
 0/cdb/10/sheet/390/NaturalSprinter/0/name/0/#text¬Natural Sprinter¬천연 단거리 선수
@@ -11163,7 +11163,7 @@
 0/cdb/10/sheet/421/FenrisSeek/0/name/0/#text¬Target the Weak¬약자 표적
 0/cdb/10/sheet/421/FenrisSeek/1/desc/0/#text¬Applies [Sentence] to the weakest enemy within range.¬범위 내의 가장 약한 적에게 <_e209>(을)를 적용합니다.
 0/cdb/10/sheet/422/FenrisElimination/0/name/0/#text¬Kill the Weak¬약자 처치
-0/cdb/10/sheet/422/FenrisElimination/1/desc/0/#text¬Deals [DMG] and forces the target to disengage.<br/>Resets this skill if the unit was already engaged to the target.¬ <_e129>(을)를 주고 대상에게 강제로 교전을 해제합니다.<br/>(이)가 유닛이 이미 대상과 교전 중이었다면 이 스킬을 초기화합니다.
+0/cdb/10/sheet/422/FenrisElimination/1/desc/0/#text¬Deals [DMG] and forces the target to disengage.<br/>Resets this skill if the unit was already engaged to the target.¬ <_e129>(을)를 주고 대상에게 강제로 교전을 해제합니다.<br/>이 유닛이 이미 대상과 교전 중이었다면 이 스킬을 초기화합니다.
 0/cdb/10/sheet/423/FenrisFreedom/0/name/0/#text¬For Freedom!¬자유를 위하여!
 0/cdb/10/sheet/423/FenrisFreedom/1/desc/0/#text¬Deals [DMG] to all units in the target area, knocks them back by ::value1:: metres and applies [Bleeding].¬대상 지역의 모든 유닛에게 <_e129>(을)를 주고 <_e131> 미터만큼 밀쳐낸 후 <_e137>(을)를 적용합니다.
 0/cdb/10/sheet/424/FenrisCourage/0/name/0/#text¬Valiant Strength¬용맹한 힘
@@ -11237,7 +11237,7 @@
 0/cdb/10/sheet/458/ThrillOfTheTrack/0/name/0/#text¬Tracker's Delight¬추적자의 기쁨
 0/cdb/10/sheet/458/ThrillOfTheTrack/1/desc/0/#text¬As long as the player's units are more than ::value1:: metres away from their allies, they gain [Inspiration] and [Brutality].¬플레이어의 유닛이 아군으로부터 <_e131> 미터 이상 떨어져 있으면 <_e153> 과 <_e154>(을)를 얻습니다.
 0/cdb/10/sheet/459/EcilaWrath/0/name/0/#text¬Ecila's Wrath¬에실라의 분노
-0/cdb/10/sheet/459/EcilaWrath/1/desc/0/#text¬Deals [DMG] to all units in the area and knocks them back by ::value1:: metres.<br/>Damage increases by ::value2::% for each allied animal killed during this fight.¬해당 지역의 모든 유닛에게 <_e129>(을)를 주고 <_e131> 미터 뒤로 밀쳐냅니다.<br/>(이)가 전투 중에 죽인 아군 동물 한 마리당 피해량이 <_e157>% 증가합니다.
+0/cdb/10/sheet/459/EcilaWrath/1/desc/0/#text¬Deals [DMG] to all units in the area and knocks them back by ::value1:: metres.<br/>Damage increases by ::value2::% for each allied animal killed during this fight.¬해당 지역의 모든 유닛에게 <_e129>(을)를 주고 <_e131> 미터 뒤로 밀쳐냅니다.<br/>이 전투 중에 죽인 아군 동물 한 마리당 피해량이 <_e157>% 증가합니다.
 0/cdb/10/sheet/460/PheromoneShooting/0/name/0/#text¬Pheromone Shot¬페로몬 샷
 0/cdb/10/sheet/460/PheromoneShooting/1/desc/0/#text¬Deals [DMG] to the target and applies [Chased] for ::value1:: round.¬대상에게 <_e129>(을)를 주고 <_e131> 라운드 동안 <_e225> 효과를 적용합니다.
 0/cdb/10/sheet/461/BestialShooting/0/name/0/#text¬Bestial Shot¬수간 샷
@@ -11434,7 +11434,7 @@
 0/cdb/10/sheet/576/BearTrap/0/name/0/#text¬Bear Trap¬곰 함정
 0/cdb/10/sheet/576/BearTrap/1/desc/0/#text¬Walking close to this trap could trigger it and deal heavy damage.¬이 함정에 가까이 다가가면 함정이 발동하여 큰 피해를 입힙니다.
 0/cdb/10/sheet/577/MosquitoZone/0/name/0/#text¬Mosquito Swarm¬모기 떼
-0/cdb/10/sheet/577/MosquitoZone/1/desc/0/#text¬Deals [VALUE]% damage to the [Health] of all units moving through the swarm or ending their turn in it.<br/><br/>These insects seem to be attracted by sweat.¬ <_e119> 모기 떼를 통과하거나 그 안에서 턴이 끝나는 모든 유닛에게 <_e5>%만큼 피해를 줍니다.<br/><br/>(이)가 벌레들은 땀에 끌린다고 합니다.
+0/cdb/10/sheet/577/MosquitoZone/1/desc/0/#text¬Deals [VALUE]% damage to the [Health] of all units moving through the swarm or ending their turn in it.<br/><br/>These insects seem to be attracted by sweat.¬ <_e119> 모기 떼를 통과하거나 그 안에서 턴이 끝나는 모든 유닛에게 <_e5>%만큼 피해를 줍니다.<br/><br/>이 벌레들은 땀에 끌린다고 합니다.
 0/cdb/10/sheet/578/Brazier/0/name/0/#text¬Brazier¬화로
 0/cdb/10/sheet/578/Brazier/1/desc/0/#text¬Fire could ignite this brazier.¬이 화로에 불이 붙을 수 있습니다.
 0/cdb/10/sheet/579/SpearWeapon/0/name/0/#text¬Spear Throw¬창 던지기
@@ -11590,7 +11590,7 @@
 0/cdb/11/sheet/24/Riposte/0/name/0/#text¬Riposte¬반격
 0/cdb/11/sheet/24/Riposte/1/desc/0/#text¬The next time this unit is attacked by their engaged opponent, they attack in return with an attack of opportunity.<br/>Cancelled if the unit moves.¬이 유닛이 교전 중인 상대에게 공격당할 때, 반격으로 기회공격을 합니다.<br/>유닛이 이동하면 취소됩니다.
 0/cdb/11/sheet/25/Dodge/0/name/0/#text¬Dodge¬회피
-0/cdb/11/sheet/25/Dodge/1/desc/0/#text¬<br/>			Fully dodges the next attack.<br/>			Cancelled if the unit moves.<br/>            ¬<br/>			다음 공격을 완전히 회피합니다.<br/>(이)가 유닛이 움직이면 취소됩니다.<br/>            
+0/cdb/11/sheet/25/Dodge/1/desc/0/#text¬<br/>			Fully dodges the next attack.<br/>			Cancelled if the unit moves.<br/>            ¬<br/>			다음 공격을 완전히 회피합니다.<br/>이 유닛이 움직이면 취소됩니다.<br/>            
 0/cdb/11/sheet/26/OilStrengthProc1/0/desc/0/#text¬[Strength] increased by [ATTR_0]%.¬<_e113>(이)가 <_e238>% 증가합니다.
 0/cdb/11/sheet/27/OilDexterityProc1/0/desc/0/#text¬[Dexterity] increased by [ATTR_0]%.¬<_e114>(이)가 <_e238>% 증가합니다.
 0/cdb/11/sheet/28/OilDamageTakenProc1/0/desc/0/#text¬[DamageReducePercent] reduced by [ATTR_0]%.¬<_e239>(이)가 <_e238>% 감소합니다.
@@ -11732,7 +11732,7 @@
 0/cdb/11/sheet/97/Stun/0/name/0/#text¬Stun¬스턴
 0/cdb/11/sheet/97/Stun/1/desc/0/#text¬Unable to perform any actions.¬어떤 행동도 할 수 없습니다.
 0/cdb/11/sheet/98/Dying/0/name/0/#text¬Dying¬사망
-0/cdb/11/sheet/98/Dying/1/desc/0/#text¬This unit can no longer use skills and moves by half of their capacity.<br/>The unit dies if they take any damage.¬이 유닛은 더 이상 스킬을 사용할 수 없고 이동 능력이 절반으로 감소합니다.<br/>(이)가 유닛이 피해를 받으면 사망합니다.
+0/cdb/11/sheet/98/Dying/1/desc/0/#text¬This unit can no longer use skills and moves by half of their capacity.<br/>The unit dies if they take any damage.¬이 유닛은 더 이상 스킬을 사용할 수 없고 이동 능력이 절반으로 감소합니다.<br/>이 유닛이 피해를 받으면 사망합니다.
 0/cdb/11/sheet/99/Surrounded/0/name/0/#text¬Surrounded¬포위
 0/cdb/11/sheet/99/Surrounded/1/desc/0/#text¬This unit is engaged in combat and next to [VALUE] free enemies.<br/><br/>[DamageTakenPercent] increased by [ATTR_0]%.¬이 유닛은 전투 중이며 옆에 <_e5> 자유 적들이 있습니다.<br/><br/><_e170>(이)가 <_e238>%만큼 증가합니다.
 0/cdb/11/sheet/100/Sentence/0/name/0/#text¬Judgement¬판단
@@ -11741,7 +11741,7 @@
 0/cdb/11/sheet/101/Fever/1/namePlural/0/#text¬Fevers¬발열
 0/cdb/11/sheet/101/Fever/2/desc/0/#text¬[DamageTakenPercent] increased by [ATTR_0]%.<br/>Stackable.¬<_e170> <_e238>%만큼 증가합니다.<br/>중첩 가능.
 0/cdb/11/sheet/102/Plagued/0/name/0/#text¬Infection¬감염
-0/cdb/11/sheet/102/Plagued/1/desc/0/#text¬This unit is sick with the Plague.<br/>They can only eat meat, and may go mad if they become famished.¬이 유닛은 페스트에 감염되었습니다.<br/>(이)가 유닛은 고기만 먹을 수 있으며, 굶주리면 미쳐버릴 수 있습니다.
+0/cdb/11/sheet/102/Plagued/1/desc/0/#text¬This unit is sick with the Plague.<br/>They can only eat meat, and may go mad if they become famished.¬이 유닛은 페스트에 감염되었습니다.<br/>이 유닛은 고기만 먹을 수 있으며, 굶주리면 미쳐버릴 수 있습니다.
 0/cdb/11/sheet/103/Plagued_Starved/0/name/0/#text¬Infection - Starving¬감염 - 굶주림
 0/cdb/11/sheet/103/Plagued_Starved/1/desc/0/#text¬This unit is now Plague-ridden and starving, as they did not eat meat during their last Rest. They have chance of going mad at the beginning of each round.¬이 유닛은 지난 휴식 동안 고기를 먹지 않아 페스트에 감염되어 굶주리고 있습니다. 이들은 매 라운드 시작 시 일정 확률로 미쳐버릴 수 있습니다.
 0/cdb/11/sheet/104/Plagued_Madness/0/name/0/#text¬Infection - Mad¬감염 - 광기
@@ -11759,7 +11759,7 @@
 0/cdb/11/sheet/111/TerrorFog/0/name/0/#text¬Eerie Fog¬섬뜩한 안개
 0/cdb/11/sheet/111/TerrorFog/1/desc/0/#text¬Applies [VALUE] [Terror] to any unit that crosses the fog or ends their turn within it.¬안개를 통과하거나 안개 속에서 턴을 종료하는 모든 유닛에게 <_e5> <_e204>(을)를 적용합니다.
 0/cdb/11/sheet/112/TerrorLink/0/name/0/#text¬Binding of Terror¬공포의 결속
-0/cdb/11/sheet/112/TerrorLink/1/desc/0/#text¬This unit takes [VALUE] [Terror] at the end of their turn.<br/>Removed when next to an ally affected by this effect.¬이 유닛은 자신의 턴이 끝날 때 <_e5> <_e204>(을)를 받습니다.<br/>(이)가 효과의 영향을 받는 아군 옆에 있으면 제거됩니다.
+0/cdb/11/sheet/112/TerrorLink/1/desc/0/#text¬This unit takes [VALUE] [Terror] at the end of their turn.<br/>Removed when next to an ally affected by this effect.¬이 유닛은 자신의 턴이 끝날 때 <_e5> <_e204>(을)를 받습니다.<br/>이 효과의 영향을 받는 아군 옆에 있으면 제거됩니다.
 0/cdb/11/sheet/113/Blind/0/name/0/#text¬Blackout¬정전
 0/cdb/11/sheet/113/Blind/1/desc/0/#text¬Has a [VALUE]% chance to miss their next attack.¬다음 공격을 놓칠 확률이 <_e5>%입니다.
 0/cdb/11/sheet/114/Surprised/0/name/0/#text¬Surprise¬서프라이즈
@@ -11849,11 +11849,11 @@
 0/cdb/11/sheet/156/StruckByTheEye/0/name/0/#text¬Struck by the Eye¬눈에 박힘
 0/cdb/11/sheet/156/StruckByTheEye/1/desc/0/#text¬This unit was stuck by the All-Seeing Eye. [MaxHealth] reduced by [ATTR]%.¬이 유닛이 모든 것을 보는 눈에 걸렸습니다. <_e123>(이)가 <_e108>%만큼 감소합니다.
 0/cdb/11/sheet/157/Arena_Dying/0/name/0/#text¬Out of Combat¬전투 불참
-0/cdb/11/sheet/157/Arena_Dying/1/desc/0/#text¬This unit is out of combat.<br/>They can no longer fight in this battle.¬이 유닛은 전투에서 벗어났습니다.<br/>(이)가 유닛은 더 이상 이 전투에서 싸울 수 없습니다.
+0/cdb/11/sheet/157/Arena_Dying/1/desc/0/#text¬This unit is out of combat.<br/>They can no longer fight in this battle.¬이 유닛은 전투에서 벗어났습니다.<br/>이 유닛은 더 이상 이 전투에서 싸울 수 없습니다.
 0/cdb/11/sheet/158/Arena_Willforce/0/name/0/#text¬Tenacity¬끈기
-0/cdb/11/sheet/158/Arena_Willforce/1/desc/0/#text¬[DamageReducePercent] reduced by [ATTR_0]%.<br/>The unit cannot be [Arena_Dying].¬<_e239>(이)가 <_e238>%만큼 감소합니다.<br/>(이)가 유닛은 <_e236>할 수 없습니다.
-0/cdb/11/sheet/159/Arena_DemandTarget/0/name/0/#text¬Requirement¬요구 조건
-0/cdb/11/sheet/159/Arena_DemandTarget/1/desc/0/#text¬This unit is part of the crowd’s requirements.¬이 유닛은 군중의 요구 조건에 속합니다.
+0/cdb/11/sheet/158/Arena_Willforce/1/desc/0/#text¬[DamageReducePercent] reduced by [ATTR_0]%.<br/>The unit cannot be [Arena_Dying].¬<_e239>(이)가 <_e238>%만큼 감소합니다.<br/>이 유닛은 <_e236>할 수 없습니다.
+0/cdb/11/sheet/159/Arena_DemandTarget/0/name/0/#text¬Requirement¬요구 사항
+0/cdb/11/sheet/159/Arena_DemandTarget/1/desc/0/#text¬This unit is part of the crowd’s requirements.¬이 유닛은 군중의 요구 사항에 속합니다.
 0/cdb/11/sheet/160/Arena_DemandAlreadyContribute/0/name/0/#text¬Requirement¬요구 사항
 0/cdb/11/sheet/160/Arena_DemandAlreadyContribute/1/desc/0/#text¬This unit has already contributed to the crowd’s requirements.¬이 유닛은 이미 군중의 요구 사항에 기여했습니다.
 0/cdb/11/sheet/161/Pyrophobia/0/name/0/#text¬Pyrophobia¬화염 공포증
