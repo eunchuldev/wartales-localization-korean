@@ -31052,27 +31052,27 @@
       <desc>이 버클러는 고스트 팩 몬스터의 발톱을 견딜 수 있도록 설계되었습니다. 이보다 더 튼튼한 것을 찾기는 어려울 것입니다.</desc>
     </ShieldUncoTrackers>
     <ShieldRareGeneric>
-      <name>베테랑 라운델</name>
+      <name>베테랑 원형방패</name>
       <desc>주인과 함께 나이를 먹도록 제작되었습니다.</desc>
     </ShieldRareGeneric>
     <ShieldRareDeserter>
-      <name>상등병의 라운델</name>
-      <desc>이 로넬의 주인이었던 상등병은 군대를 자랑스럽게 여기지 않고 탈영하여 방패를 가져갔습니다.</desc>
+      <name>상등병의 원형방패</name>
+      <desc>이 원형방패의 주인이었던 상등병은 군대를 자랑스럽게 여기지 않고 탈영하여 방패를 가져갔습니다.</desc>
     </ShieldRareDeserter>
     <ShieldRareInquisition>
-      <name>성기사의 로렐</name>
-      <desc>성기사의 필수 장비인 이 로넬은 에도란의 대성당에서 축복을 받은 것입니다.</desc>
+      <name>성기사의 원형방패</name>
+      <desc>성기사의 필수 장비인 이 원형방패은 에도란의 대성당에서 축복을 받은 것입니다.</desc>
     </ShieldRareInquisition>
     <ShieldRareLegion>
       <name>핫헤드의 스커텀</name>
       <desc>이 독특한 방패는 에도란의 전쟁에서 중요한 역할을 했습니다.</desc>
     </ShieldRareLegion>
     <ShieldRareGuard>
-      <name>수호자의 로넬</name>
-      <desc>중갑과 이 로넬로 무장한 경비병의 수호자는 그 어떤 것도 뚫지 못합니다.</desc>
+      <name>수호자의 원형방패</name>
+      <desc>중갑과 이 원형방패로 무장한 경비병의 수호자는 그 어떤 것도 뚫지 못합니다.</desc>
     </ShieldRareGuard>
     <ShieldRareCompanion>
-      <name>피스베어러의 로넬</name>
+      <name>피스베어러의 원형방패</name>
       <desc>형제들이 방패만으로 문을 부수는 모습이 목격되었다는 소문이 있습니다.</desc>
     </ShieldRareCompanion>
     <ShieldThorn>
@@ -33541,8 +33541,8 @@
       <desc>완벽하게 구운 고급 돼지고기 몇 조각.</desc>
     </GrilledPork>
     <WolfSausages>
-      <name>울프 소시지</name>
-      <desc>대담한 맛의 울프 소시지 링크.</desc>
+      <name>늑대 소시지</name>
+      <desc>강한 풍미의 늑대 소시지 조각.</desc>
     </WolfSausages>
     <MediumCookedSheep>
       <name>미디엄 레어 양고기</name>
@@ -34371,7 +34371,7 @@
       <name>수호자</name>
     </Protector>
     <Fighter>
-      <name>Fighter</name>
+      <name>전사</name>
     </Fighter>
     <Swordmaster>
       <name>소드마스터</name>
@@ -34383,7 +34383,7 @@
       <name>궁수</name>
     </Bowman>
     <Hunter>
-      <name>Hunter</name>
+      <name>사냥꾼</name>
     </Hunter>
     <BeastMaster>
       <name>비스트마스터</name>
@@ -34398,7 +34398,7 @@
       <name>레인저</name>
     </Rogue>
     <Cutthroat>
-      <name>Cutthroat</name>
+      <name>목 긋기</name>
     </Cutthroat>
     <Strategist>
       <name>전략가</name>

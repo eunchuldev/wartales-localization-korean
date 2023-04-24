@@ -8503,17 +8503,17 @@
 0/cdb/8/sheet/170/ShieldUncoBandits/1/desc/0/#text¬This shield has been amply used as a blunt weapon.¬이 방패는 둔기 무기로 많이 사용되었습니다.
 0/cdb/8/sheet/171/ShieldUncoTrackers/0/name/0/#text¬Trackers' Buckler¬추적자의 버클러
 0/cdb/8/sheet/171/ShieldUncoTrackers/1/desc/0/#text¬This buckler is designed to withstand the claws of the Ghost Pack monsters. You would be hard pushed to find a sturdier one.¬이 버클러는 고스트 팩 몬스터의 발톱을 견딜 수 있도록 설계되었습니다. 이보다 더 튼튼한 것을 찾기는 어려울 것입니다.
-0/cdb/8/sheet/172/ShieldRareGeneric/0/name/0/#text¬Veteran Roundel¬베테랑 라운델
+0/cdb/8/sheet/172/ShieldRareGeneric/0/name/0/#text¬Veteran Roundel¬베테랑 원형방패
 0/cdb/8/sheet/172/ShieldRareGeneric/1/desc/0/#text¬This roundel was made to age with its owner.¬주인과 함께 나이를 먹도록 제작되었습니다.
-0/cdb/8/sheet/173/ShieldRareDeserter/0/name/0/#text¬Corporal's Roundel¬상등병의 라운델
-0/cdb/8/sheet/173/ShieldRareDeserter/1/desc/0/#text¬Instead of doing his army proud, the corporal this roundel belonged to deserted and took the shield with him.¬이 로넬의 주인이었던 상등병은 군대를 자랑스럽게 여기지 않고 탈영하여 방패를 가져갔습니다.
-0/cdb/8/sheet/174/ShieldRareInquisition/0/name/0/#text¬Paladin's Roundel¬성기사의 로렐
-0/cdb/8/sheet/174/ShieldRareInquisition/1/desc/0/#text¬A staple of a paladin's equipment, this roundel was blessed in the cathedral of Edoran.¬성기사의 필수 장비인 이 로넬은 에도란의 대성당에서 축복을 받은 것입니다.
+0/cdb/8/sheet/173/ShieldRareDeserter/0/name/0/#text¬Corporal's Roundel¬상등병의 원형방패
+0/cdb/8/sheet/173/ShieldRareDeserter/1/desc/0/#text¬Instead of doing his army proud, the corporal this roundel belonged to deserted and took the shield with him.¬이 원형방패의 주인이었던 상등병은 군대를 자랑스럽게 여기지 않고 탈영하여 방패를 가져갔습니다.
+0/cdb/8/sheet/174/ShieldRareInquisition/0/name/0/#text¬Paladin's Roundel¬성기사의 원형방패
+0/cdb/8/sheet/174/ShieldRareInquisition/1/desc/0/#text¬A staple of a paladin's equipment, this roundel was blessed in the cathedral of Edoran.¬성기사의 필수 장비인 이 원형방패은 에도란의 대성당에서 축복을 받은 것입니다.
 0/cdb/8/sheet/175/ShieldRareLegion/0/name/0/#text¬Hothead's Scutum¬핫헤드의 스커텀
 0/cdb/8/sheet/175/ShieldRareLegion/1/desc/0/#text¬This distinctive shield played a crucial part in Edor's war.¬이 독특한 방패는 에도란의 전쟁에서 중요한 역할을 했습니다.
-0/cdb/8/sheet/176/ShieldRareGuard/0/name/0/#text¬Defender's Roundel¬수호자의 로넬
-0/cdb/8/sheet/176/ShieldRareGuard/1/desc/0/#text¬Nothing gets through defenders of the Guard equipped with heavy armour and this roundel.¬중갑과 이 로넬로 무장한 경비병의 수호자는 그 어떤 것도 뚫지 못합니다.
-0/cdb/8/sheet/177/ShieldRareCompanion/0/name/0/#text¬Peacebearer's Roundel¬피스베어러의 로넬
+0/cdb/8/sheet/176/ShieldRareGuard/0/name/0/#text¬Defender's Roundel¬수호자의 원형방패
+0/cdb/8/sheet/176/ShieldRareGuard/1/desc/0/#text¬Nothing gets through defenders of the Guard equipped with heavy armour and this roundel.¬중갑과 이 원형방패로 무장한 경비병의 수호자는 그 어떤 것도 뚫지 못합니다.
+0/cdb/8/sheet/177/ShieldRareCompanion/0/name/0/#text¬Peacebearer's Roundel¬피스베어러의 원형방패
 0/cdb/8/sheet/177/ShieldRareCompanion/1/desc/0/#text¬Rumour has it that Brothers were seen breaking down doors using only their shield as a ram.¬형제들이 방패만으로 문을 부수는 모습이 목격되었다는 소문이 있습니다.
 0/cdb/8/sheet/178/ShieldThorn/0/name/0/#text¬Bloodthirsty Heater Shield¬피에 굶주린 히터 방패
 0/cdb/8/sheet/178/ShieldThorn/1/desc/0/#text¬This shield becomes even more terrifying when parts of the wielder's opponents get stuck to it.¬이 방패는 착용자의 일부가 적의 몸에 달라붙으면 더욱 무시무시해집니다.
@@ -9732,8 +9732,8 @@
 0/cdb/8/sheet/800/BraisedChicken/1/desc/0/#text¬A lightly braised chicken, dripping with grease.¬기름이 뚝뚝 떨어지는 살짝 찐 닭고기.
 0/cdb/8/sheet/801/GrilledPork/0/name/0/#text¬Grilled Pork¬구운 돼지고기
 0/cdb/8/sheet/801/GrilledPork/1/desc/0/#text¬A few pieces of fine pork, grilled to perfection.¬완벽하게 구운 고급 돼지고기 몇 조각.
-0/cdb/8/sheet/802/WolfSausages/0/name/0/#text¬Wolf Sausage¬울프 소시지
-0/cdb/8/sheet/802/WolfSausages/1/desc/0/#text¬Wolf sausage links with a bold taste.¬대담한 맛의 울프 소시지 링크.
+0/cdb/8/sheet/802/WolfSausages/0/name/0/#text¬Wolf Sausage¬늑대 소시지
+0/cdb/8/sheet/802/WolfSausages/1/desc/0/#text¬Wolf sausage links with a bold taste.¬강한 풍미의 늑대 소시지 조각.
 0/cdb/8/sheet/803/MediumCookedSheep/0/name/0/#text¬Medium-rare Mutton¬미디엄 레어 양고기
 0/cdb/8/sheet/803/MediumCookedSheep/1/desc/0/#text¬The Edoran speciality of mutton cooked over charcoal.¬숯불에 구운 에도란 특산 양고기 요리.
 0/cdb/8/sheet/804/GameSkewers/0/name/0/#text¬Venison Skewers¬사슴고기 꼬치
@@ -10122,16 +10122,16 @@
 0/cdb/9/sheet/4/SportPlayerDexterity/0/name/0/#text¬Player¬플레이어
 0/cdb/9/sheet/5/Swordman/0/name/0/#text¬Swordsman¬검객
 0/cdb/9/sheet/6/Protector/0/name/0/#text¬Protector¬수호자
-0/cdb/9/sheet/7/Fighter/0/name/0/#text¬Fighter¬Fighter
+0/cdb/9/sheet/7/Fighter/0/name/0/#text¬Fighter¬전사
 0/cdb/9/sheet/8/Swordmaster/0/name/0/#text¬Swordmaster¬소드마스터
 0/cdb/9/sheet/9/Duellist/0/name/0/#text¬Duellist¬결투사
 0/cdb/9/sheet/10/Bowman/0/name/0/#text¬Archer¬궁수
-0/cdb/9/sheet/11/Hunter/0/name/0/#text¬Hunter¬Hunter
+0/cdb/9/sheet/11/Hunter/0/name/0/#text¬Hunter¬사냥꾼
 0/cdb/9/sheet/12/BeastMaster/0/name/0/#text¬Beastmaster¬비스트마스터
 0/cdb/9/sheet/13/Skirmisher/0/name/0/#text¬Infantryman¬보병
 0/cdb/9/sheet/14/Marksman/0/name/0/#text¬Marksman¬명사수
 0/cdb/9/sheet/15/Rogue/0/name/0/#text¬Ranger¬레인저
-0/cdb/9/sheet/16/Cutthroat/0/name/0/#text¬Cutthroat¬Cutthroat
+0/cdb/9/sheet/16/Cutthroat/0/name/0/#text¬Cutthroat¬목 긋기
 0/cdb/9/sheet/17/Strategist/0/name/0/#text¬Strategist¬전략가
 0/cdb/9/sheet/18/Poisoner/0/name/0/#text¬Poisoner¬독살자
 0/cdb/9/sheet/19/Assassin/0/name/0/#text¬Assassin¬암살자
