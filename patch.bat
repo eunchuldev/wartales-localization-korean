@@ -1,4 +1,5 @@
 @echo off
+chcp 65001
 
 SET "WARTALE_HOME=C:\Program Files (x86)\Steam\steamapps\common\Wartales"
 SET "LAST_PATCHED_TRACKER=%WARTALE_HOME%\__LAST_KR_PATCHED_AT"
@@ -40,4 +41,8 @@ echo Touch the patch time tracker..
 FOR %%a IN ("%WARTALE_HOME%\res.pak") do set "LAST_PATCHED=%%~ta"
 echo %LAST_PATCHED%> "%LAST_PATCHED_TRACKER%"
 
-echo Patch done.
+echo(
+echo Patch done!
+echo(
+
+pause
