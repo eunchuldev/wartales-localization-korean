@@ -2,8 +2,8 @@
 
 워테일즈 한국어 번역 프로젝트입니다.
 
-다음 링크의 데이타를 참조하였습니다: https://gall.dcinside.com/mgallery/board/view/?id=wartales&no=2404&exception_mode=recommend&page=1
-
+워테일즈 갤러리에서 작업해놓은 내용을 참조하였습니다([링크](https://gall.dcinside.com/mgallery/board/view/?id=wartales&no=2404&exception_mode=recommend&page=1
+))
 
 # 사용법
 
