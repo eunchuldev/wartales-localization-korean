@@ -11787,7 +11787,7 @@
 0/cdb/11/sheet/124/Exhausted/1/desc/0/#text¬After a Rest, the troop regenerates [VALUE]% less Fatigue.¬휴식 후, 부대의 피로가 <_e5>%만큼 회복됩니다.
 0/cdb/11/sheet/125/Sulky/0/name/0/#text¬Sulky¬설키
 0/cdb/11/sheet/125/Sulky/1/desc/0/#text¬After a Rest, the Valour Points earned by the troop are reduced by [VALUE].¬휴식 후, 부대가 획득하는 용맹 점수가 <_e5> 감소합니다.
-0/cdb/11/sheet/126/Fearless/0/name/0/#text¬Reckless¬무모한
+0/cdb/11/sheet/126/Fearless/0/name/0/#text¬Reckless¬경솔함
 0/cdb/11/sheet/126/Fearless/1/desc/0/#text¬The Suspicion generated increases greatly.¬생성되는 의심이 크게 증가합니다.
 0/cdb/11/sheet/127/Nightmare/0/name/0/#text¬Nightmare¬악몽
 0/cdb/11/sheet/127/Nightmare/1/desc/0/#text¬After a Rest, the Happiness earned by the troop is reduced by [VALUE].¬휴식 후 부대가 획득하는 행복이 <_e5> 만큼 감소합니다.
@@ -11801,7 +11801,7 @@
 0/cdb/11/sheet/131/NoReflexes/1/desc/0/#text¬This unit’s next attack of opportunity deals no damage.¬이 유닛의 다음 기회공격은 피해를 입히지 않습니다.
 0/cdb/11/sheet/132/KogoTarget/0/name/0/#text¬Kogo's Target¬코고의 목표
 0/cdb/11/sheet/132/KogoTarget/1/desc/0/#text¬Kogo deals [VALUE]% more damage to the target.<br/>Toro takes [VALUE]% more damage from the target.<br/>Stackable.¬코고가 대상에게 주는 피해가 <_e5>% 증가합니다.<br/>토로가 대상에게 받는 피해가 <_e5>% 증가합니다.<br/>중첩 가능.
-0/cdb/11/sheet/133/ToroTarget/0/name/0/#text¬Toro's Target¬토로의 대상
+0/cdb/11/sheet/133/ToroTarget/0/name/0/#text¬Toro's Target¬토로의 타겟
 0/cdb/11/sheet/133/ToroTarget/1/desc/0/#text¬Toro deals [VALUE]% more damage to the target.<br/>Kogo takes [VALUE]% more damage from the target.<br/>Stackable.¬토로가 대상에게 <_e5>%만큼 추가 피해를 줍니다.<br/>코고가 대상에게 <_e5>%만큼 추가 피해를 줍니다.<br/>중첩 가능.
 0/cdb/11/sheet/134/BodyParalysis/0/name/0/#text¬Physical Paralysis¬신체 마비
 0/cdb/11/sheet/134/BodyParalysis/1/desc/0/#text¬Any Debuff received by this unit is doubled.¬이 유닛이 받는 디버프가 두 배로 증가합니다.

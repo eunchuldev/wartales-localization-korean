@@ -38406,7 +38406,7 @@
       <desc>휴식 후, 부대가 획득하는 용맹 점수가 [VALUE] 감소합니다.</desc>
     </Sulky>
     <Fearless>
-      <name>무모한</name>
+      <name>경솔함</name>
       <desc>생성되는 의심이 크게 증가합니다.</desc>
     </Fearless>
     <Nightmare>
@@ -38438,7 +38438,7 @@
       </desc>
     </KogoTarget>
     <ToroTarget>
-      <name>토로의 대상</name>
+      <name>토로의 타겟</name>
       <desc>
         토로가 대상에게 [VALUE]%만큼 추가 피해를 줍니다.<br/>코고가 대상에게 [VALUE]%만큼 추가 피해를 줍니다.<br/>중첩 가능.
       </desc>
