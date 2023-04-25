@@ -2,22 +2,22 @@
 SETLOCAL enabledelayedexpansion
 CHCP 65001
 
-SET "WARTALE_HOME=%ProgramFiles(x86)%\Steam\steamapps\common\Wartales"
+SET "WARTALE_HOME=%ProgramFiles(x86)%\Steam\steamapps\common\Wartales" || goto :error
 SET "psCommand="(new-object -COM 'Shell.Application')^
 .BrowseForFolder(0,'Wartales 디렉토리를 찾을수 없습니다. Wartales가 설치된 디렉토리를 직접 선택해주세요',0,0).self.path"" || goto :error
 
 IF NOT EXIST "%WARTALE_HOME%" (
   echo Wartales 디렉토리를 찾을수 없습니다. 프롬프트에서 Wartales가 설치된 디렉토리를 직접 선택해주세요
-  FOR /f "usebackq delims=" %%I IN (`powershell %psCommand%`) DO SET "WARTALE_HOME=%%I"
+  FOR /f "usebackq delims=" %%I IN (`powershell %psCommand%`) DO SET "WARTALE_HOME=%%I" || goto :error
 ) || goto :error
 
-SET "LAST_PATCHED_TRACKER=%WARTALE_HOME%\__LAST_KR_PATCHED_AT"
+SET "LAST_PATCHED_TRACKER=%WARTALE_HOME%\__LAST_KR_PATCHED_AT" || goto :error
 
 IF EXIST "%LAST_PATCHED_TRACKER%" (
-  FOR /f "delims=" %%a in ('type "%LAST_PATCHED_TRACKER%"') DO set "LAST_PATCHED=%%a"
-)
+  FOR /f "delims=" %%a IN ('type "%LAST_PATCHED_TRACKER%"') DO SET "LAST_PATCHED=%%a" || goto :error
+) || goto :error
 
-FOR %%a IN ("%WARTALE_HOME%\res.pak") do set "LAST_MODIFIED=%%~ta" || goto :error
+FOR %%a IN ("%WARTALE_HOME%\res.pak") DO SET "LAST_MODIFIED=%%~ta" || goto :error
 
 IF "%LAST_PATCHED%" NEQ "%LAST_MODIFIED%" (
   echo(
@@ -50,7 +50,7 @@ quickbms\quickbms.exe -w -r -r dune_spice_wars_extract.bms "%WARTALE_HOME%\res.p
 
 echo(
 echo Touch the patch time tracker..
-FOR %%a IN ("%WARTALE_HOME%\res.pak") do set "LAST_PATCHED=%%~ta"
+FOR %%a IN ("%WARTALE_HOME%\res.pak") DO SET "LAST_PATCHED=%%~ta" || goto :error
 echo %LAST_PATCHED%> "%LAST_PATCHED_TRACKER%"
 
 echo(
