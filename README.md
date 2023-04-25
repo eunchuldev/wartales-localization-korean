@@ -11,7 +11,12 @@
 
 추후 원복하려면 revert.bat파일을 실행시키면 됩니다.
 
-** 주의: 본 스크립트는 C:\Program Files (x86)\Steam\steamapps\common\Wartales 에 게임이 설치되있다고 가정하고 짜여졌습니다. 다른 경로에 게임이 존재한다면 patch.bat와 revert.bat파일을 메모장으로 열어 경로를 수정 후 실행해주세요. **
+
+* 에러가 발생하거나 스크립트가 곧바로 꺼져버리는 경우, patch-workaround.bat 파일을 실행시켜보세요.
+* patch-workaround.bat을 사용할 시, 워테일즈 게임 폴더가 C:\ProgramFiles(x86)%\Steam\steamapps\common\Wartales에 있지 않을 경우 메모장 등으로 열어서 직접 수정해주셔야합니다.
+* patch-workaround.bat을 사용할 시, 추후 원복할 필요가 있을경우 직접 백업을 진행해주셔야합니다(혹은 스팀 무결성 검사로 원복).
+
+
 
 
 # 번역 현황
