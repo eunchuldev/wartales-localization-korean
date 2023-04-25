@@ -1097,7 +1097,7 @@
       <text>처음에...</text>
     </WinStartGame>
     <WinHComptoir>
-      <text>여행 게시물</text>
+      <text>여행 초소</text>
     </WinHComptoir>
     <TutoForge>
       <text>단조하는 방법을 배워보세요!</text>
@@ -1412,7 +1412,7 @@
       <world.name>마스터 아눌프의 대장간</world.name>
     </T5Forge>
     <T5Comptoir>
-      <world.name>드롬바흐 여행 안내소</world.name>
+      <world.name>드롬바흐 여행 초소</world.name>
     </T5Comptoir>
     <T5BisTavern>
       <world.name>스라소니의 발 여관</world.name>
@@ -1538,7 +1538,7 @@
       <world.name>마스터 훌란의 대장간</world.name>
     </T1Forge>
     <T1Comptoir>
-      <world.name>틸트렌 여행자 전초 기지</world.name>
+      <world.name>틸트렌 여행자 초소</world.name>
     </T1Comptoir>
     <CastleLaheartCastle>
       <world.name>라하트 백작의 성</world.name>
@@ -1811,7 +1811,7 @@
       <world.name>마스터 마스의 대장간</world.name>
     </T3Forge>
     <T3Comptoir>
-      <world.name>버트루세 여행자 전초기지</world.name>
+      <world.name>버트루세 여행자 초소</world.name>
     </T3Comptoir>
     <T3BisTavern>
       <world.name>세인트 레나이드의 여관</world.name>
@@ -1820,7 +1820,7 @@
       <world.name>마스터 레마클의 대장간</world.name>
     </T3BisForge>
     <G2Comptoir>
-      <world.name>그린미어 여행 감시초소</world.name>
+      <world.name>그린미어 여행 초소</world.name>
     </G2Comptoir>
     <G2MarketplaceFish>
       <world.name>세인트-셉티머스 지구 시장</world.name>
@@ -2093,7 +2093,7 @@
       <world.name>툴레의 손 선술집</world.name>
     </T4Tavern>
     <T4Comptoir>
-      <world.name>루던 여행 안내소</world.name>
+      <world.name>루던 여행 초소</world.name>
     </T4Comptoir>
     <T4bisTavern>
       <world.name>개비 통 선술집</world.name>
@@ -7732,7 +7732,7 @@
           <choices>
             <line0>
               <props.customTxt>여행</props.customTxt>
-              <props.disableReason>다른 마을에 여행 포스트를 건설하여 그곳으로 빠르게 이동하세요.</props.disableReason>
+              <props.disableReason>다른 마을에 여행 초소를 건설하여 그곳으로 빠르게 이동하세요.</props.disableReason>
             </line0>
           </choices>
         </Next2>
@@ -16790,7 +16790,7 @@
           </text>
           <choices>
             <line0>
-              <props.tipText>버트러스 여행 포스트 작성하기</props.tipText>
+              <props.tipText>버트러스 여행 초소 건설하기</props.tipText>
               <props.customTxt>Build</props.customTxt>
             </line0>
           </choices>
@@ -18001,7 +18001,7 @@
           <text>비용이 많이 드는 일이라는 건 알지만 여행 포스트는 장기적인 투자입니다. 여행 시간을 얼마나 절약할 수 있을지 상상해 보세요!</text>
           <choices>
             <line0>
-              <props.tipText>그린미어 여행 포스트를 만들어 보세요.</props.tipText>
+              <props.tipText>그린미어 여행 초소 건설하기</props.tipText>
               <props.customTxt>빌드</props.customTxt>
             </line0>
           </choices>

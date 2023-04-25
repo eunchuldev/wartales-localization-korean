@@ -380,7 +380,7 @@
 0/cdb/0/sheet/332/Gosenberg2RegionQuestAskTuto/0/text/0/#text¬Question¬질문
 0/cdb/0/sheet/333/WinHOptions/0/text/0/#text¬Options¬옵션
 0/cdb/0/sheet/334/WinStartGame/0/text/0/#text¬At the beginning...¬처음에...
-0/cdb/0/sheet/335/WinHComptoir/0/text/0/#text¬Travel Post¬여행 게시물
+0/cdb/0/sheet/335/WinHComptoir/0/text/0/#text¬Travel Post¬여행 초소
 0/cdb/0/sheet/336/TutoForge/0/text/0/#text¬Learn how to forge!¬단조하는 방법을 배워보세요!
 0/cdb/0/sheet/336/TutoForge/1/desc/0/#text¬&lt;img src="ui/tuto/forge1.jpg"/&gt; The metal plates are heating: press [LMB] when a plate is red hot to forge your item.<br/><br/>&lt;img src="ui/tuto/forge2.jpg"/&gt; Press [LMB] when the metal plate sparks to forge an item of superior quality!<br/><br/>&lt;img src="ui/tuto/forge3.jpg"/&gt; Hit all the plates at the right time to forge an item of exceptional quality!¬<img src="ui/tuto/forge1.jpg"/> 금속판이 가열 중입니다: 금속판이 빨갛게 뜨거워지면 <_e3>(을)를 눌러 아이템을 단조하세요.<br/><br/><img src="ui/tuto/forge2.jpg"/> 금속판에 불꽃이 튀면 <_e3>(을)를 눌러 우수한 품질의 아이템을 단조하세요!<br/><br/><img src="ui/tuto/forge3.jpg"/> 적절한 타이밍에 모든 판을 눌러 뛰어난 품질의 아이템을 위조하세요!
 0/cdb/0/sheet/337/TutoLockpick/0/text/0/#text¬Learn how to pick locks!¬자물쇠를 따는 방법을 알아보세요!
@@ -491,7 +491,7 @@
 0/cdb/1/sheet/49/T5Apothecary/0/world.name/0/#text¬Drombach Apothecary Clinic¬드롬바흐 약제상 진료소
 0/cdb/1/sheet/50/T5Tavern/0/world.name/0/#text¬Tern’s Nest Tavern¬제비갈매기 둥지 선술집
 0/cdb/1/sheet/51/T5Forge/0/world.name/0/#text¬Master Arnulf's Forge¬마스터 아눌프의 대장간
-0/cdb/1/sheet/52/T5Comptoir/0/world.name/0/#text¬Drombach Travel Post¬드롬바흐 여행 안내소
+0/cdb/1/sheet/52/T5Comptoir/0/world.name/0/#text¬Drombach Travel Post¬드롬바흐 여행 초소
 0/cdb/1/sheet/53/T5BisTavern/0/world.name/0/#text¬The Lynx’s Paw Inn¬스라소니의 발 여관
 0/cdb/1/sheet/54/T5BisForge/0/world.name/0/#text¬Master Irmi's Forge¬마스터 이르미의 대장간
 0/cdb/1/sheet/55/T5BisApothecary/0/world.name/0/#text¬Apothecary’s Office¬약제사 사무실
@@ -533,7 +533,7 @@
 0/cdb/1/sheet/91/T1Apothecary/0/world.name/0/#text¬Tiltren Apothecary Clinic¬틸트렌 약제상 진료소
 0/cdb/1/sheet/92/T1Tavern/0/world.name/0/#text¬Traveller's Feast Inn¬여행자의 잔치 여관
 0/cdb/1/sheet/93/T1Forge/0/world.name/0/#text¬Master Hulan's Forge¬마스터 훌란의 대장간
-0/cdb/1/sheet/94/T1Comptoir/0/world.name/0/#text¬Tiltren Travel Post¬틸트렌 여행자 전초 기지
+0/cdb/1/sheet/94/T1Comptoir/0/world.name/0/#text¬Tiltren Travel Post¬틸트렌 여행자 초소
 0/cdb/1/sheet/95/CastleLaheartCastle/0/world.name/0/#text¬Count Laheart's Castle¬라하트 백작의 성
 0/cdb/1/sheet/96/CastleLaheartForge/0/world.name/0/#text¬Forge¬대장간
 0/cdb/1/sheet/97/CastleVernalisCastle/0/world.name/0/#text¬Lord Vernalis' Castle¬버날리스 경의 성
@@ -624,10 +624,10 @@
 0/cdb/1/sheet/182/T3Apothecary/0/world.name/0/#text¬Vertruse Apothecary Clinic¬버트루스 약제상 진료소
 0/cdb/1/sheet/183/T3Tavern/0/world.name/0/#text¬Mother Bear Tavern¬어머니 곰 선술집
 0/cdb/1/sheet/184/T3Forge/0/world.name/0/#text¬Master Marth's Forge¬마스터 마스의 대장간
-0/cdb/1/sheet/185/T3Comptoir/0/world.name/0/#text¬Vertruse Travel Post¬버트루세 여행자 전초기지
+0/cdb/1/sheet/185/T3Comptoir/0/world.name/0/#text¬Vertruse Travel Post¬버트루세 여행자 초소
 0/cdb/1/sheet/186/T3BisTavern/0/world.name/0/#text¬Saint Lenaid's Inn¬세인트 레나이드의 여관
 0/cdb/1/sheet/187/T3BisForge/0/world.name/0/#text¬Master Remacle's Forge¬마스터 레마클의 대장간
-0/cdb/1/sheet/188/G2Comptoir/0/world.name/0/#text¬Grinmeer Travel Post¬그린미어 여행 감시초소
+0/cdb/1/sheet/188/G2Comptoir/0/world.name/0/#text¬Grinmeer Travel Post¬그린미어 여행 초소
 0/cdb/1/sheet/189/G2MarketplaceFish/0/world.name/0/#text¬Saint-Septimus District Market¬세인트-셉티머스 지구 시장
 0/cdb/1/sheet/190/G2SmallChurch/0/world.name/0/#text¬Church of the Saving Eye¬구원의 눈 교회
 0/cdb/1/sheet/191/G2SmallChurchCrypt/0/world.name/0/#text¬People's Fellowship¬인민 친목회
@@ -718,7 +718,7 @@
 0/cdb/1/sheet/276/T4Market/0/world.name/0/#text¬The Swamp Threshold Market¬늪지대 문턱 시장
 0/cdb/1/sheet/277/T4Apothecary/0/world.name/0/#text¬Ludern Apothecary Clinic¬루던 약제상 진료소
 0/cdb/1/sheet/278/T4Tavern/0/world.name/0/#text¬The Tule's Hand Tavern¬툴레의 손 선술집
-0/cdb/1/sheet/279/T4Comptoir/0/world.name/0/#text¬Ludern Travel Post¬루던 여행 안내소
+0/cdb/1/sheet/279/T4Comptoir/0/world.name/0/#text¬Ludern Travel Post¬루던 여행 초소
 0/cdb/1/sheet/280/T4bisTavern/0/world.name/0/#text¬The Gabby Cask Tavern¬개비 통 선술집
 0/cdb/1/sheet/281/T4bisHall/0/world.name/0/#text¬Town Hall¬마을 회관
 0/cdb/1/sheet/282/T4bisForge/0/world.name/0/#text¬Master Dana's Forge¬마스터 다나의 대장간
@@ -2109,7 +2109,7 @@
 0/cdb/4/sheet/311/T5ComptoirIntendante/0/dialog/1/Next1/0/text/0/#text¬Everything is ready for your convenience: a chest to store unneeded items, and stools for Companions who are... also unneeded.<br/>As for me, I will arrange journeys from one Travel Post to another.¬불필요한 물건을 보관할 수 있는 상자와... 역시 불필요한 동료를 위한 의자까지, 여러분의 편의를 위해 모든 것이 준비되어 있습니다.<br/>저는 이 여행 포스트에서 다른 여행 포스트로의 여행을 주선해 드릴게요.
 0/cdb/4/sheet/311/T5ComptoirIntendante/0/dialog/2/Next2/0/text/0/#text¬Is there somewhere you would like to go?¬가고 싶은 곳이 있나요?
 0/cdb/4/sheet/311/T5ComptoirIntendante/0/dialog/2/Next2/1/choices/0/line0/0/props.customTxt/0/#text¬Travel¬여행
-0/cdb/4/sheet/311/T5ComptoirIntendante/0/dialog/2/Next2/1/choices/0/line0/1/props.disableReason/0/#text¬Build Travel Posts in other villages to get there quickly.¬다른 마을에 여행 포스트를 건설하여 그곳으로 빠르게 이동하세요.
+0/cdb/4/sheet/311/T5ComptoirIntendante/0/dialog/2/Next2/1/choices/0/line0/1/props.disableReason/0/#text¬Build Travel Posts in other villages to get there quickly.¬다른 마을에 여행 초소를 건설하여 그곳으로 빠르게 이동하세요.
 0/cdb/4/sheet/312/T5ComptoirWorksiteIntendant/0/npc.name/0/#text¬Stewardess $NAME¬스튜어디스 <_e38>
 0/cdb/4/sheet/312/T5ComptoirWorksiteIntendant/1/dialog/0/Start/0/text/0/#text¬A small ramshackle house stood here before it fell to the Eye’s Reckoning.¬작은 허름한 집이 눈의 심판에 쓰러지기 전에 이곳에 서 있었어요.
 0/cdb/4/sheet/312/T5ComptoirWorksiteIntendant/1/dialog/1/Next1/0/text/0/#text¬It would be a shame to leave this land unused. Would you like to invest, Mercenaries?<br/>Wouldn’t it be great to have a Travel Post to journey quickly from one place to another?¬이 땅을 사용하지 않고 방치하기에는 너무 아깝습니다. 용병 여러분, 투자하시겠습니까?<br/>한 장소에서 다른 장소로 빠르게 이동할 수 있는 여행 초소가 있으면 좋지 않을까요?
@@ -4349,7 +4349,7 @@
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/0/npc.name/0/#text¬Stewardess $NAME¬스튜어디스 <_e38>
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/0/Start/0/text/0/#text¬This piece of land is for sale, and it's a great spot for a travel post.¬이 땅은 매물로 나와 있는데 여행 포스트를 세우기에 좋은 곳이에요.
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/0/text/0/#text¬And as the All-Seeing Eye's generosity knows no bounds, it just so happens that I am currently unemployed!<br/>Do you want to make the most of this opportunity and build your travel post here?¬올시잉아이의 관대함에는 한계가 없는지라, 저는 현재 실업 상태입니다!<br/>이 기회를 최대한 활용하여 이곳에 여행 포스트를 건설하고 싶으신가요?
-0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Vertruse Travel Post¬버트러스 여행 포스트 작성하기
+0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Vertruse Travel Post¬버트러스 여행 초소 건설하기
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/1/Next1/1/choices/0/line0/1/props.customTxt/0/#text¬Build¬Build
 0/cdb/4/sheet/860/T3ComptoirWorksiteIntendant/1/dialog/2/Build/0/text/0/#text¬Don't worry, your belongings are in good hands!¬걱정하지 마세요, 소지품은 잘 보관하고 있으니까요!
 0/cdb/4/sheet/861/T3Blacksmith/0/npc.name/0/#text¬Master Marth¬마스터 마스
@@ -4650,7 +4650,7 @@
 0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/0/npc.name/0/#text¬Steward $NAME¬스튜어드 <_e38>
 0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/0/Start/0/text/0/#text¬There are very few vacant lots left in Gosenberg City. If I were you, I would jump at the chance to buy this one!¬고센버그 도시에는 공터가 거의 남아 있지 않아요. 제가 당신이라면 이 집을 살 기회에 뛰어들겠어요!
 0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/1/Next1/0/text/0/#text¬I know it's a costly endeavour, but travel posts are a long-term investment. Imagine how much time you'll save travelling!¬비용이 많이 드는 일이라는 건 알지만 여행 포스트는 장기적인 투자입니다. 여행 시간을 얼마나 절약할 수 있을지 상상해 보세요!
-0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Grinmeer Travel Post.¬그린미어 여행 포스트를 만들어 보세요.
+0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/1/Next1/1/choices/0/line0/0/props.tipText/0/#text¬Build the Grinmeer Travel Post.¬그린미어 여행 초소 건설하기
 0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/1/Next1/1/choices/0/line0/1/props.customTxt/0/#text¬Build¬빌드
 0/cdb/4/sheet/934/G2ComptoirWorksiteIntendante/1/dialog/2/Build/0/text/0/#text¬I will find someone to build your travel post at once. It won't take long.¬여행 포스트를 작성해줄 사람을 바로 찾아드리겠습니다. 오래 걸리지 않을 거예요.
 0/cdb/4/sheet/935/G2CryptMerchantStartCylinderDoor/0/dialog/0/Start/0/text/0/#text¬The door is sealed shut by some sort of mechanism.¬문은 일종의 메커니즘에 의해 봉인되어 있습니다.
