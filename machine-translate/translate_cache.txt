@@ -8598,7 +8598,7 @@
 0/cdb/8/sheet/218/HaragConcoction/0/name/0/#text¬Harag Concoction¬하라그 칵테일
 0/cdb/8/sheet/218/HaragConcoction/1/desc/0/#text¬A vial containing a foul smelling liquid, designed to keep Harag swamp mosquitoes away.¬하라그 늪 모기를 쫓기 위해 고안된 악취가 나는 액체가 담긴 병입니다.
 0/cdb/8/sheet/219/ThrowingLegendaryArenaA1/0/name/0/#text¬Faithless¬믿음 없는 도끼
-0/cdb/8/sheet/219/ThrowingLegendaryArenaA1/1/desc/0/#text¬This throwing axe was custom-made for Lisbeth. It will never fit another warrior's hand as perfectly as hers. ¬리스베스를 위해 맞춤 제작된 투척 도끼입니다. 다른 전사의 손에 그녀만큼 완벽하게 맞는 도끼는 없을 것입니다.
+0/cdb/8/sheet/219/ThrowingLegendaryArenaA1/1/desc/0/#text¬This throwing axe was custom-made for Lisbeth. It will never fit another warrior's hand as perfectly as hers. ¬리스베스를 위해 맞춤 제작된 투척 도끼입니다. 다른 전사의 손에는 결코 그녀만큼 완벽하게 맞지 않을것입니다.
 0/cdb/8/sheet/220/ThrowingAxeLegendary01/0/name/0/#text¬Solar¬태양
 0/cdb/8/sheet/220/ThrowingAxeLegendary01/1/desc/0/#text¬This throwing axe was created after an encounter between the Trackers and the Beast. Rumour has it that the names engraved on its shaft are those of Mercenaries who came to their aid.¬이 던지는 도끼는 트래커와 야수가 마주친 후 만들어졌습니다. 소문에 따르면, 도끼날에 새겨진 이름들은 그들을 도왔던 용병들의 이름이라고 합니다.
 0/cdb/8/sheet/221/ThrowingAxeLegendary02/0/name/0/#text¬Progress¬진행 상황
@@ -10391,7 +10391,7 @@
 0/cdb/10/sheet/66/Encouragement/1/desc/0/#text¬The unit and all allies in the area gain <<보호력>> for 74 rounds.¬이 유닛과 해당 지역의 모든 아군이 74라운드 동안 <<보호력>>을 얻습니다.
 0/cdb/10/sheet/67/DestabilisingStrike/0/name/0/#text¬Destabilising Strike¬불안정화 일격
 0/cdb/10/sheet/67/DestabilisingStrike/1/desc/0/#text¬Deals <<피해>> to the target and applies <<불안정화>> for 74 rounds.¬대상에게 <<피해>>를 입히고 74라운드 동안 <<불안정화>> 효과를 적용합니다.
-0/cdb/10/sheet/67/DestabilisingStrike/2/levels/0/line0/0/desc/0/#text¬Deals <<피해>> to the target and applies <<불안정화>> for 74 rounds.<br/>Always lands a critical hit against enemies without <<방어막>>.¬대상에게 <<피해>>를 입히고 74라운드 동안 <<불안정화>>가 적용됩니다.<br/><<방어막>>이 없는 적에게는 항상 치명타가 적중합니다.
+0/cdb/10/sheet/67/DestabilisingStrike/2/levels/0/line0/0/desc/0/#text¬Deals <<피해>> to the target and applies <<불안정화>> for 74 rounds.<br/>Always lands a critical hit against enemies without <<방어막>>.¬대상에게 <<피해>>를 입히고 74라운드 동안 <<불안정화>>이 적용됩니다.<br/><<방어막>>이 없는 적에게는 항상 치명타가 적중합니다.
 0/cdb/10/sheet/68/Slashes/0/name/0/#text¬Laceration¬열상
 0/cdb/10/sheet/68/Slashes/1/desc/0/#text¬Deals <<피해>> to all 유닛s in the area  74 time(s).<br/>Usable after 82 attacks.<br/><br/>Performed attacks: 58/82¬해당 지역의 모든 유닛에게 74회 <<피해>>를 줍니다.<br/>82회 공격 후 사용 가능.<br/><br/>수행한 공격: 58/82
 0/cdb/10/sheet/69/Estocade/0/name/0/#text¬Final Blow¬마지막 일격
@@ -10489,8 +10489,8 @@
 0/cdb/10/sheet/104/InspiringPresence/1/desc/0/#text¬At the end of their turn, grants <<굴절>> to adjacent allies engaged in combat.¬자신의 턴 종료 시, 교전 중인 인접한 아군에게 <<굴절>> 효과를 부여합니다.
 0/cdb/10/sheet/104/InspiringPresence/2/levels/0/line0/0/desc/0/#text¬At the end of their turn, grants <<굴절>> to adjacent allies.¬자신의 턴 종료 시, 인접한 아군에게 <<굴절>> 효과를 부여합니다.
 0/cdb/10/sheet/105/SweetSpot/0/name/0/#text¬Sweet Spot¬스위트 스팟
-0/cdb/10/sheet/105/SweetSpot/1/desc/0/#text¬Ranged attacks apply <<불안정화>> for 74 round.¬원거리 공격 시 74라운드 동안 <<불안정화>>가 적용됩니다.
-0/cdb/10/sheet/105/SweetSpot/2/levels/0/line0/0/desc/0/#text¬Attacks apply <<불안정화>> for 74 round and have a 82% chance to be critical hits.¬공격은 74라운드 동안 <<불안정화>>가 적용되며, 82%의 확률로 치명타가 됩니다.
+0/cdb/10/sheet/105/SweetSpot/1/desc/0/#text¬Ranged attacks apply <<불안정화>> for 74 round.¬원거리 공격 시 74라운드 동안 <<불안정화>>이 적용됩니다.
+0/cdb/10/sheet/105/SweetSpot/2/levels/0/line0/0/desc/0/#text¬Attacks apply <<불안정화>> for 74 round and have a 82% chance to be critical hits.¬공격은 74라운드 동안 <<불안정화>>이 적용되며, 82%의 확률로 치명타가 됩니다.
 0/cdb/10/sheet/106/SpearThrow/0/name/0/#text¬Piercing Throw¬관통 투척
 0/cdb/10/sheet/106/SpearThrow/1/desc/0/#text¬Deals <<피해>> to all units in the area.<br/>Applies <<출혈>> to the first unit hit.¬범위 내 모든 유닛에게 <<피해>>를 입힙니다.<br/>첫 번째로 적중한 유닛에게 <<출혈>>이 적용됩니다.
 0/cdb/10/sheet/106/SpearThrow/2/levels/0/line0/0/desc/0/#text¬Deals <<피해>> to all 유닛s in the area and applies <<출혈>>.¬범위 내 모든 유닛에게 <<피해>>를 입히고 <<출혈>>을 적용합니다.
@@ -10701,7 +10701,7 @@
 0/cdb/10/sheet/199/TreacherousSetback/1/desc/0/#text¬Deals <<피해>> to all units in the area and applies <<출혈>> if they are poisoned.¬해당 지역의 모든 유닛에게 <<피해>>를 입히고, 중독 상태일 경우 <<출혈>>이 적용됩니다.
 0/cdb/10/sheet/200/DisgustForTheWeak/0/name/0/#text¬Disgust for the Weak¬약자에 대한 혐오
 0/cdb/10/sheet/200/DisgustForTheWeak/1/desc/0/#text¬Damage increased by 74% against bleeding, burning or poisoned units.<br/>Each status adds a stack.¬출혈, 화상, 독에 걸린 유닛에 대한 피해가 74% 증가합니다.<br/>각 상태마다 중첩이 추가됩니다.
-0/cdb/10/sheet/201/RaidExperience/0/name/0/#text¬Looting Experience¬약탈 경험치
+0/cdb/10/sheet/201/RaidExperience/0/name/0/#text¬Looting Experience¬약탈 경험
 0/cdb/10/sheet/201/RaidExperience/1/desc/0/#text¬This unit and their allies have <<약탈을 해본 경험>>.¬이 유닛과 아군은 <<약탈을 해본 경험>>가 있습니다.
 0/cdb/10/sheet/202/RingleaderThreat/0/name/0/#text¬Ringleader's Threat¬주동자의 위협
 0/cdb/10/sheet/202/RingleaderThreat/1/desc/0/#text¬This unit and their allies have <<리더의 공격성>>.¬이 유닛과 아군은 <<리더의 공격성>>을 가집니다.
@@ -10841,7 +10841,7 @@
 0/cdb/10/sheet/264/DuelScience/1/desc/0/#text¬This unit's attacks apply <<실명>> to the engaged opponent.¬이 유닛의 공격은 교전 중인 상대에게 <<실명>>을 적용합니다.
 0/cdb/10/sheet/264/DuelScience/2/props.descPassiveGroup/0/#text¬<<집단 유형>>: Units' attacks apply <<실명>> to their engaged opponents.¬<<집단 유형>>: 유닛의 공격은 교전 중인 상대에게 <<실명>> 피해를 입힙니다.
 0/cdb/10/sheet/265/FugitiveMace2HCompanions/0/name/0/#text¬Subversive Strike¬파괴적 일격
-0/cdb/10/sheet/265/FugitiveMace2HCompanions/1/desc/0/#text¬Deals <<피해>> to all 유닛s in the area.<br/>Also applies <<불안정화>> during 74 round to those who have at least 82% <<방어막>>.¬해당 지역의 모든 유닛에게 <<피해>>를 입힙니다.<br/>또한 <<방어막>>이 82% 이상인 유닛에게 74라운드 동안 <<불안정화>>가 적용됩니다.
+0/cdb/10/sheet/265/FugitiveMace2HCompanions/1/desc/0/#text¬Deals <<피해>> to all 유닛s in the area.<br/>Also applies <<불안정화>> during 74 round to those who have at least 82% <<방어막>>.¬해당 지역의 모든 유닛에게 <<피해>>를 입힙니다.<br/>또한 <<방어막>>이 82% 이상인 유닛에게 74라운드 동안 <<불안정화>>이 적용됩니다.
 0/cdb/10/sheet/266/FugitiveAxeCompanions/0/name/0/#text¬Wrist-Breaker¬손목 브레이커
 0/cdb/10/sheet/266/FugitiveAxeCompanions/1/desc/0/#text¬Deals <<피해>> to the target.<br/><br/><<치명타 적용 시>>: Applies <<무장 해제>> to the target for 74 round.¬대상에게 <<피해>>를 입힙니다.<br/><br/><<치명타 적용 시>>: 대상에게 74라운드 동안 <<무장 해제>> 효과를 적용합니다.
 0/cdb/10/sheet/267/FugitiveSword2HCompanions/0/name/0/#text¬Debilitating Stab¬약화 찌르기
@@ -10911,7 +10911,7 @@
 0/cdb/10/sheet/297/DefensivePrecision/0/name/0/#text¬Defensive Precision¬방어 정밀도
 0/cdb/10/sheet/297/DefensivePrecision/1/desc/0/#text¬Deals <<피해>> to the target.<br/><br/><<치명타 적용 시>>: Gains <<굴절>>.¬대상에게 <<피해>>를 줍니다.<br/><br/><<치명타 적용 시>>: <<굴절>>을 얻습니다.
 0/cdb/10/sheet/298/UnsettlingStrike/0/name/0/#text¬Unsettling Strike¬불안정 타격
-0/cdb/10/sheet/298/UnsettlingStrike/1/desc/0/#text¬Deals <<피해>> to the target.<br/><br/><<치명타 적용 시>>: Applies <<불안정화>> for 74 round.¬대상에게 <<피해>>를 줍니다.<br/><br/><<치명타 적용 시>>: 74라운드 동안 <<불안정화>>가 적용됩니다.
+0/cdb/10/sheet/298/UnsettlingStrike/1/desc/0/#text¬Deals <<피해>> to the target.<br/><br/><<치명타 적용 시>>: Applies <<불안정화>> for 74 round.¬대상에게 <<피해>>를 줍니다.<br/><br/><<치명타 적용 시>>: 74라운드 동안 <<불안정화>>이 적용됩니다.
 0/cdb/10/sheet/299/FortifyingStrike/0/name/0/#text¬Fortifying Strike¬강화 타격
 0/cdb/10/sheet/299/FortifyingStrike/1/desc/0/#text¬Deals <<피해>> to the target and gains 74 <<요새화>>.<br/><br/><<치명타 적용 시>>: Gains 82 additional <<요새화>>.¬대상에게 <<피해>>를 주고 74의 <<요새화>>를 얻습니다.<br/><br/><<치명타 적용 시>>: <<요새화>> 82를 추가로 획득합니다.
 0/cdb/10/sheet/300/BackEyed/0/name/0/#text¬Eyes in the back of their head¬뒤통수의 눈
@@ -11474,7 +11474,7 @@
 0/cdb/10/sheet/596/ArenaSupportBonus/0/name/0/#text¬Strength in Numbers¬숫자의 힘
 0/cdb/10/sheet/596/ArenaSupportBonus/1/desc/0/#text¬Every time a Companion is supported, they gain <<반격>>.¬동료가 지원을 받을 때마다 <<반격>>을 얻습니다.
 0/cdb/10/sheet/597/ArenaSurroundBonus/0/name/0/#text¬Intimidation¬협박
-0/cdb/10/sheet/597/ArenaSurroundBonus/1/desc/0/#text¬As long as an enemy is surrounded, they have <<불안정화>>.¬적이 포위되어 있는 한, <<불안정화>>가 발생합니다.
+0/cdb/10/sheet/597/ArenaSurroundBonus/1/desc/0/#text¬As long as an enemy is surrounded, they have <<불안정화>>.¬적이 포위되어 있는 한, <<불안정화>>이 발생합니다.
 0/cdb/10/sheet/598/ArenaEngageBonus/0/name/0/#text¬Joust¬마상
 0/cdb/10/sheet/598/ArenaEngageBonus/1/desc/0/#text¬As long as an enemy is engaged, they have <<연약함>>.¬적이 교전 중인 동안 <<연약함>>을 가집니다.
 0/cdb/10/sheet/599/ArenaDisengageBonus/0/name/0/#text¬Diversion¬전환
@@ -11585,9 +11585,9 @@
 0/cdb/11/sheet/21/Inspiration/1/desc/0/#text¬<<기동력>> doubled.¬<<기동력>>이 두 배로 증가했습니다.
 0/cdb/11/sheet/22/Deftness/0/name/0/#text¬Deftness¬민첩
 0/cdb/11/sheet/22/Deftness/1/desc/0/#text¬Range of the next attack is doubled, and precision is enhanced.¬다음 공격의 사거리가 두 배로 증가하고 정밀도가 향상됩니다.
-0/cdb/11/sheet/23/Deflection/0/name/0/#text¬Deflection¬디플렉션
+0/cdb/11/sheet/23/Deflection/0/name/0/#text¬Deflection¬굴절
 0/cdb/11/sheet/23/Deflection/1/desc/0/#text¬피해 감소량 of the next attack reduced by 59.3%.¬다음 공격의 피해 감소량이 59.3% 감소했습니다.
-0/cdb/11/sheet/24/Riposte/0/name/0/#text¬Riposte¬리포스트
+0/cdb/11/sheet/24/Riposte/0/name/0/#text¬Riposte¬반격
 0/cdb/11/sheet/24/Riposte/1/desc/0/#text¬The next time 이 유닛 is attacked by their engaged opponent, they attack in return with an attack of opportunity.<br/>Cancelled if 유닛 moves.¬이 유닛이 다음에 교전 중인 상대에게 공격을 받으면 반격으로 기회 공격을 합니다.<br/>유닛이 이동하면 취소됩니다.
 0/cdb/11/sheet/25/Dodge/0/name/0/#text¬Dodge¬회피
 0/cdb/11/sheet/25/Dodge/1/desc/0/#text¬<br/>			Fully dodges the next attack.<br/>			Cancelled if 유닛 moves.<br/>            ¬<br/> 다음 공격을 완전히 회피합니다.<br/> 유닛이 이동하면 취소됩니다.<br/>
@@ -11670,11 +11670,11 @@
 0/cdb/11/sheet/66/ResistFire/1/desc/0/#text¬Fire damage is reduced to 0.¬화염 피해가 0으로 감소합니다.
 0/cdb/11/sheet/67/LoneWolf/0/name/0/#text¬Lone Wolf¬고독한 늑대
 0/cdb/11/sheet/67/LoneWolf/1/desc/0/#text¬<<피해량>> increased by 59.3%.<br/>피해 감소량 reduced by 68.4%.¬<<피해량>>이 59.3%만큼 증가했습니다.<br/>피해 감소량이 68.4%만큼 감소했습니다.
-0/cdb/11/sheet/68/MischiefMakerCritical/0/name/0/#text¬Looting Experience¬약탈 경험치
+0/cdb/11/sheet/68/MischiefMakerCritical/0/name/0/#text¬Looting Experience¬약탈 경험
 0/cdb/11/sheet/68/MischiefMakerCritical/1/desc/0/#text¬The troop's <<치명타 피해량 보너스 퍼센트>> is increased by 59.3%¬부대의 <<치명타 피해량 보너스 퍼센트>>가 59.3%만큼 증가합니다.
 0/cdb/11/sheet/69/Doped/0/name/0/#text¬Drugged Up¬약에 취한
 0/cdb/11/sheet/69/Doped/1/desc/0/#text¬The unit ignores their next injury.¬부대가 다음 부상을 무시합니다.
-0/cdb/11/sheet/70/Zeal/0/name/0/#text¬Zeal¬Zeal
+0/cdb/11/sheet/70/Zeal/0/name/0/#text¬Zeal¬열정
 0/cdb/11/sheet/70/Zeal/1/desc/0/#text¬<<치명타 적중률>> and <<치명타 피해량 보너스 퍼센트>> increased by 59.3%.¬<<치명타 적중률>>과 <<치명타 피해량 보너스 퍼센트>>가 59.3%만큼 증가합니다.
 0/cdb/11/sheet/71/Frenzy/0/name/0/#text¬Frenzy¬광란
 0/cdb/11/sheet/71/Frenzy/1/desc/0/#text¬This unit's damage increases as their health decreases, and their attacks always land critical hits.¬이 유닛의 공격력이 생명력이 감소할수록 증가하고, 공격은 항상 치명타를 적중시킵니다.
@@ -11706,7 +11706,7 @@
 0/cdb/11/sheet/84/Electrified/1/desc/0/#text¬Lightning damage is reduced to 0.<br/>When another unit uses a skill or ends their turn next to them, they are struck by lightning and lose 36.5% of their maximum <<생명력>><br/>(effect lessened on Elites).¬번개 피해가 0으로 감소합니다.<br/>다른 유닛이 옆에서 스킬을 사용하거나 턴이 끝나면 번개를 맞고 최대 <<생명력>><br/>(엘리트에게는 효과 감소)의 36.5%를 잃습니다.
 0/cdb/11/sheet/85/Enervate/0/name/0/#text¬Angry¬분노
 0/cdb/11/sheet/85/Enervate/1/desc/0/#text¬<<피해량>> increased by 59.3%.<br/>Stackable.¬<<피해량>>이 59.3% 증가했습니다.<br/>중첩 가능합니다.
-0/cdb/11/sheet/86/Executer/0/name/0/#text¬Enforcer¬엔포서
+0/cdb/11/sheet/86/Executer/0/name/0/#text¬Enforcer¬집행자
 0/cdb/11/sheet/86/Executer/1/desc/0/#text¬<<기동력>> increased by 59.3 and <<치명타 적중률>> increased by 68.4%.¬<<기동력>>이 59.3, <<치명타 적중률>>이 68.4% 증가했습니다.
 0/cdb/11/sheet/87/Weakening/0/name/0/#text¬Weakening¬약화
 0/cdb/11/sheet/87/Weakening/1/desc/0/#text¬<<피해량>> reduced by 59.3%.¬<<피해량>>이 59.3% 감소했습니다.
@@ -11721,7 +11721,7 @@
 0/cdb/11/sheet/92/Poison/0/name/0/#text¬Poison¬독
 0/cdb/11/sheet/92/Poison/1/namePlural/0/#text¬Poisons¬독
 0/cdb/11/sheet/92/Poison/2/desc/0/#text¬Loses 36.5% of their maximum <<생명력>> at the end of their turn.<br/>Stackable (current: 72.7%).<br/><b>Damage: <b>[VALUE%]</b></b>¬자신의 턴이 끝나면 최대 <<생명력>>의 36.5%를 잃습니다.<br/>중첩 가능(현재: 72.7%).<br/><b>피해: <b>[VALUE%]</b></b>
-0/cdb/11/sheet/93/PoisonCloud/0/name/0/#text¬Cloud of Poison¬독의 구름
+0/cdb/11/sheet/93/PoisonCloud/0/name/0/#text¬Cloud of Poison¬독 구름
 0/cdb/11/sheet/93/PoisonCloud/1/desc/0/#text¬Applies 36.5 <<독>>s to any unit that walks through the cloud or ends their turn within it.¬구름을 통과하거나 구름 안에서 턴을 끝내는 모든 유닛에게 36.5 <<독>>을 적용합니다.
 0/cdb/11/sheet/94/DustFog/0/name/0/#text¬Dust Cloud¬먼지 구름
 0/cdb/11/sheet/94/DustFog/1/desc/0/#text¬Units within the cloud are not visible.¬구름 안의 유닛은 보이지 않습니다.
@@ -11909,8 +11909,8 @@
 0/cdb/12/sheet/12/CritHitDamageBonusPercent/0/name/0/#text¬Critical Damage¬치명타 피해
 0/cdb/12/sheet/13/DistanceBonus/0/name/0/#text¬Range¬사거리
 0/cdb/12/sheet/14/PrecisionBonus/0/name/0/#text¬Precision¬정밀도
-0/cdb/12/sheet/15/DamageReducePercent/0/name/0/#text¬Damage taken¬받는 피해
-0/cdb/12/sheet/16/DamageTakenPercent/0/name/0/#text¬Damage taken¬받는 피해
+0/cdb/12/sheet/15/DamageReducePercent/0/name/0/#text¬Damage taken¬받는 피해량
+0/cdb/12/sheet/16/DamageTakenPercent/0/name/0/#text¬Damage taken¬받는 피해량
 0/cdb/12/sheet/17/DamageTypeBonus/0/name/0/#text¬Elemental damage taken¬받는 원소 피해
 0/cdb/12/sheet/18/DamageBonusOppAttack/0/name/0/#text¬Damage from attacks of opportunity¬기회 공격으로 받는 피해
 0/cdb/12/sheet/19/IgnoreGuard/0/name/0/#text¬Ignore Guard¬가드 무시

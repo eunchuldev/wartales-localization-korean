@@ -31613,7 +31613,7 @@
     </HaragConcoction>
     <ThrowingLegendaryArenaA1>
       <name>믿음 없는 도끼</name>
-      <desc>리스베스를 위해 맞춤 제작된 투척 도끼입니다. 다른 전사의 손에 그녀만큼 완벽하게 맞는 도끼는 없을 것입니다.</desc>
+      <desc>리스베스를 위해 맞춤 제작된 투척 도끼입니다. 다른 전사의 손에는 결코 그녀만큼 완벽하게 맞지 않을것입니다.</desc>
     </ThrowingLegendaryArenaA1>
     <ThrowingAxeLegendary01>
       <name>태양</name>
@@ -35533,7 +35533,7 @@
       <levels>
         <line0>
           <desc>
-            대상에게 [DMG]를 입히고 ::value1::라운드 동안 [Destabilization]가 적용됩니다.<br/>[Guard]이 없는 적에게는 항상 치명타가 적중합니다.
+            대상에게 [DMG]를 입히고 ::value1::라운드 동안 [Destabilization]이 적용됩니다.<br/>[Guard]이 없는 적에게는 항상 치명타가 적중합니다.
           </desc>
         </line0>
       </levels>
@@ -35838,10 +35838,10 @@
     </InspiringPresence>
     <SweetSpot>
       <name>스위트 스팟</name>
-      <desc>원거리 공격 시 ::value1::라운드 동안 [Destabilization]가 적용됩니다.</desc>
+      <desc>원거리 공격 시 ::value1::라운드 동안 [Destabilization]이 적용됩니다.</desc>
       <levels>
         <line0>
-          <desc>공격은 ::value1::라운드 동안 [Destabilization]가 적용되며, ::value2::%의 확률로 치명타가 됩니다.</desc>
+          <desc>공격은 ::value1::라운드 동안 [Destabilization]이 적용되며, ::value2::%의 확률로 치명타가 됩니다.</desc>
         </line0>
       </levels>
     </SweetSpot>
@@ -36420,7 +36420,7 @@
       </desc>
     </DisgustForTheWeak>
     <RaidExperience>
-      <name>약탈 경험치</name>
+      <name>약탈 경험</name>
       <desc>이 유닛과 아군은 [MischiefMakerCritical]가 있습니다.</desc>
     </RaidExperience>
     <RingleaderThreat>
@@ -36728,7 +36728,7 @@
     <FugitiveMace2HCompanions>
       <name>파괴적 일격</name>
       <desc>
-        해당 지역의 모든 유닛에게 [DMG]를 입힙니다.<br/>또한 [Guard]이 ::value2::% 이상인 유닛에게 ::value1::라운드 동안 [Destabilization]가 적용됩니다.
+        해당 지역의 모든 유닛에게 [DMG]를 입힙니다.<br/>또한 [Guard]이 ::value2::% 이상인 유닛에게 ::value1::라운드 동안 [Destabilization]이 적용됩니다.
       </desc>
     </FugitiveMace2HCompanions>
     <FugitiveAxeCompanions>
@@ -36893,7 +36893,7 @@
     <UnsettlingStrike>
       <name>불안정 타격</name>
       <desc>
-        대상에게 [DMG]를 줍니다.<br/><br/>[CapaCritical]: ::value1::라운드 동안 [Destabilization]가 적용됩니다.
+        대상에게 [DMG]를 줍니다.<br/><br/>[CapaCritical]: ::value1::라운드 동안 [Destabilization]이 적용됩니다.
       </desc>
     </UnsettlingStrike>
     <FortifyingStrike>
@@ -38133,7 +38133,7 @@
     </ArenaSupportBonus>
     <ArenaSurroundBonus>
       <name>협박</name>
-      <desc>적이 포위되어 있는 한, [Destabilization]가 발생합니다.</desc>
+      <desc>적이 포위되어 있는 한, [Destabilization]이 발생합니다.</desc>
     </ArenaSurroundBonus>
     <ArenaEngageBonus>
       <name>마상</name>
@@ -38399,11 +38399,11 @@
       <desc>다음 공격의 사거리가 두 배로 증가하고 정밀도가 향상됩니다.</desc>
     </Deftness>
     <Deflection>
-      <name>디플렉션</name>
+      <name>굴절</name>
       <desc>다음 공격의 [DamageReducePercent]이 [ATTR_0]% 감소했습니다.</desc>
     </Deflection>
     <Riposte>
-      <name>리포스트</name>
+      <name>반격</name>
       <desc>
         이 유닛이 다음에 교전 중인 상대에게 공격을 받으면 반격으로 기회 공격을 합니다.<br/>유닛이 이동하면 취소됩니다.
       </desc>
@@ -38587,7 +38587,7 @@
       </desc>
     </LoneWolf>
     <MischiefMakerCritical>
-      <name>약탈 경험치</name>
+      <name>약탈 경험</name>
       <desc>부대의 [CritHitDamageBonusPercent]가 [ATTR_0]%만큼 증가합니다.</desc>
     </MischiefMakerCritical>
     <Doped>
@@ -38595,7 +38595,7 @@
       <desc>부대가 다음 부상을 무시합니다.</desc>
     </Doped>
     <Zeal>
-      <name>Zeal</name>
+      <name>열정</name>
       <desc>[CritHitPercent]과 [CritHitDamageBonusPercent]가 [ATTR_0]%만큼 증가합니다.</desc>
     </Zeal>
     <Frenzy>
@@ -38671,7 +38671,7 @@
       </desc>
     </Enervate>
     <Executer>
-      <name>엔포서</name>
+      <name>집행자</name>
       <desc>[Movement]이 [ATTR_0], [CritHitPercent]이 [ATTR_1]% 증가했습니다.</desc>
     </Executer>
     <Weakening>
@@ -38702,7 +38702,7 @@
       </desc>
     </Poison>
     <PoisonCloud>
-      <name>독의 구름</name>
+      <name>독 구름</name>
       <desc>구름을 통과하거나 구름 안에서 턴을 끝내는 모든 유닛에게 [VALUE] [Poison]을 적용합니다.</desc>
     </PoisonCloud>
     <DustFog>
@@ -39126,10 +39126,10 @@
       <name>정밀도</name>
     </PrecisionBonus>
     <DamageReducePercent>
-      <name>받는 피해</name>
+      <name>받는 피해량</name>
     </DamageReducePercent>
     <DamageTakenPercent>
-      <name>받는 피해</name>
+      <name>받는 피해량</name>
     </DamageTakenPercent>
     <DamageTypeBonus>
       <name>받는 원소 피해</name>
