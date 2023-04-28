@@ -297,7 +297,7 @@
 0/cdb/0/sheet/253/NotifyUnitTitle/0/text/0/#text¬<<이름3>>'s feats have earned him the nickname <b><<새 이름>></b>. He earns an Aptitude Point.¬<<이름3>>은 이 업적으로 <b><<새 이름>></b>이라는 별명을 얻었습니다. 적성 점수를 얻습니다.
 0/cdb/0/sheet/254/NotifyUnitTitleWoman/0/text/0/#text¬<<이름3>>'s feats have earned her the nickname <b><<새 이름>></b>. She earns an Aptitude Point.¬<<이름3>>의 위업으로 <b><<새 이름>></b>이라는 별명을 얻었습니다. 적성 점수를 획득합니다.
 0/cdb/0/sheet/255/NotifyUnitTitleNeutral/0/text/0/#text¬<<이름3>>'s feats have earned him the nickname <b><<새 이름>></b>. He earns an Aptitude Point.¬<<이름3>>의 위업으로 <b><<새 이름>></b>이라는 별명을 얻었습니다. 적성 포인트를 획득합니다.
-0/cdb/0/sheet/256/NotifyFirstCaptain/0/text/0/#text¬Your Companions have become more experienced; you can now appoint one of them as <b>Captain</b>.¬동료의 경험이 많아졌으므로 이제 동료 중 한 명을 <b>캡틴</b>으로 임명할 수 있습니다.
+0/cdb/0/sheet/256/NotifyFirstCaptain/0/text/0/#text¬Your Companions have become more experienced; you can now appoint one of them as <b>Captain</b>.¬동료의 경험이 많아졌으므로 이제 동료 중 한 명을 <b>대장</b>으로 임명할 수 있습니다.
 0/cdb/0/sheet/257/NotifyNewCaptain/0/text/0/#text¬It is time to appoint a replacement for your previous <b>Captain</b>.¬이제 이전 <b>대장</b>의 후임자를 임명할 차례입니다.
 0/cdb/0/sheet/258/NotifyFirstLieutenant/0/text/0/#text¬Your troop is more structured; you can now appoint one of your Companions as a <b>Lieutenant</b>.¬이제 동료 중 한 명을 <b>부관</b>로 임명할 수 있습니다.
 0/cdb/0/sheet/259/NotifySecondLieutenant/0/text/0/#text¬Your troop is growing! You can now appoint one of your Companions as a second <b>Lieutenant</b>.¬부대가 성장하고 있습니다! 이제 동료 중 한 명을 두 번째 <b>부관</b>으로 임명할 수 있습니다.
@@ -804,9 +804,9 @@
 0/cdb/2/sheet/62/Ponies/0/name/0/#text¬Ponies¬조랑말
 0/cdb/3/sheet/0/A1Champion1/0/props.bountyDesc/0/#text¬It appears that smuggler Kristoff Kruppe was found in Drombach. Several kingdoms would gladly pay to see him gone.¬밀수업자 크리스토프 크루페가 드롬바흐에서 발견되었습니다. 여러 왕국이 기꺼이 돈을 주고 그를 잡으려 합니다.
 0/cdb/3/sheet/1/A1DesignedMission2/0/props.name/0/#text¬The Avengers¬어벤져스
-0/cdb/3/sheet/1/A1DesignedMission2/1/props.bountyDesc/0/#text¬Brotherhood Mercenaries seem to be looking for a company that took part in the kidnapping of a woman named Corene Winfel. Their investigation methods are scaring the locals.¬브라더후드 용병단이 코린 윈펠이라는 여성의 납치에 가담한 회사를 찾고 있는 것 같습니다. 그들의 수사 방식은 지역 주민들을 겁에 질리게 하고 있습니다.
+0/cdb/3/sheet/1/A1DesignedMission2/1/props.bountyDesc/0/#text¬Brotherhood Mercenaries seem to be looking for a company that took part in the kidnapping of a woman named Corene Winfel. Their investigation methods are scaring the locals.¬브라더후드 용병단이 코린 윈펠이라는 여성의 납치에 가담한 부대를 찾고 있는 것 같습니다. 그들의 수사 방식은 지역 주민들을 겁에 질리게 하고 있습니다.
 0/cdb/3/sheet/2/A1DesignedMission2Alt/0/props.name/0/#text¬The Avengers¬어벤져스
-0/cdb/3/sheet/2/A1DesignedMission2Alt/1/props.bountyDesc/0/#text¬Brotherhood Mercenaries seem to be looking for a company that killed Brunhilde Adr Alazar. While their goal is noble, their interrogation methods are endangering the locals.¬브라더후드 용병단은 브룬힐데 아드르 알라자르를 살해한 회사를 찾고 있는 것 같습니다. 그들의 목표는 고귀하지만, 그들의 심문 방식은 지역 주민들을 위험에 빠뜨리고 있습니다.
+0/cdb/3/sheet/2/A1DesignedMission2Alt/1/props.bountyDesc/0/#text¬Brotherhood Mercenaries seem to be looking for a company that killed Brunhilde Adr Alazar. While their goal is noble, their interrogation methods are endangering the locals.¬브라더후드 용병단은 브룬힐데 아드르 알라자르를 살해한 부대를 찾고 있는 것 같습니다. 그들의 목표는 고귀하지만, 그들의 심문 방식은 지역 주민들을 위험에 빠뜨리고 있습니다.
 0/cdb/3/sheet/3/A1DesignedMission1/0/props.name/0/#text¬Charlatans¬찰라탄
 0/cdb/3/sheet/3/A1DesignedMission1/1/props.bountyDesc/0/#text¬Charlatans are peddling a fake cure for the plague. They must be stopped before their deceit leads to unfortunate consequences.¬사기꾼들이 페스트에 대한 가짜 치료제를 팔고 있습니다. 그들의 속임수가 불행한 결과로 이어지기 전에 그들을 막아야 합니다.
 0/cdb/3/sheet/4/A1SlavesGuardsArmy/0/props.desc/0/#text¬Tasked with protecting the property of the good people of Drombach, these soldiers will not let slaves escape.¬드롬바흐의 선량한 주민들의 재산을 보호하는 임무를 맡은 이 병사들은 노예들의 탈출을 허용하지 않습니다.
@@ -4543,7 +4543,7 @@
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/8/Lyderic1/0/text/0/#text¬Hold on, Mercenaries! You can't take him away like that!¬꽉 잡아, 용병들! 그렇게 데려가면 안 돼!
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/9/Lyderic2/0/text/0/#text¬It's not just the Bandits that this son of a crocswine owes money to. He's got a hefty tab here, too. Who's going to settle up?¬이 개자식이 빚진 건 산적들뿐만이 아니야. 여기에도 엄청난 빚이 있어. 누가 해결하겠어?
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/10/Lyderic3/0/text/0/#text¬You can have him if you want, but it'll cost you.<br/>Otherwise, he'll be off to the Alazarian slave market tomorrow.¬원한다면 데려가도 되지만 대가를 치러야 해. <br/>그렇지 않으면 내일 알라자리아 노예 시장으로 보내버릴 거야.
-0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/10/Lyderic3/1/choices/0/line1/0/props.tipText/0/#text¬Lyderic will now be part of your company.¬리데릭은 이제 당신 회사의 일원이 될 겁니다.
+0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/10/Lyderic3/1/choices/0/line1/0/props.tipText/0/#text¬Lyderic will now be part of your company.¬리데릭은 이제 당신 부대의 일원이 될 겁니다.
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/11/Questioned4/0/text/0/#text¬How were we to know his mother would be murdered on the very night we planned to kidnap him? Not that it would have made a difference! She's refused to pay for him in the past.¬우리가 그를 납치하려던 바로 그날 밤 그의 어머니가 살해당할 줄 어떻게 알았겠어? 그렇다고 달라지진 않았을 거야! 그녀는 과거에 그를 위해 돈을 지불하지 않았어.
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/12/End/0/text/0/#text¬Good riddance.¬잘됐군.
 0/cdb/4/sheet/905/G2BrothelOwner/0/dialog/13/MissionDesc/0/text/0/#text¬Find out where the hideouts are located.¬은신처가 어디 있는지 알아봐.
@@ -4605,12 +4605,12 @@
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/1/Next0/0/text/0/#text¬A word of warning: this mission is not for the faint-hearted. The body of Broker Wylla Ald Hoevendorp was not the only one found in the alley: there were also around a dozen of our Brothers, who had been tasked with her protection.¬한 가지 경고하건대, 이 임무는 마음이 약한 사람을 위한 것이 아닙니다. 골목에서 발견된 시신은 브로커 윌라 알드 호벤도르프뿐 아니라 그녀를 보호하는 임무를 맡았던 우리 형제들 십여 명도 시신으로 발견되었습니다.
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/2/Next1/0/text/0/#text¬The assailants left without a trace, but we do know that they were well organised and outnumbered our men. They were probably Bandits, rebels... or Mercenaries, perhaps.¬공격자들은 흔적도 없이 사라졌지만, 조직적으로 잘 짜여져 있고 우리 대원들보다 수적으로 우세했다는 것은 확실합니다. 아마도 도적이나 반군, 또는 용병이었을 겁니다.
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/3/Next2/0/text/0/#text¬So? Are you still interested?¬그래서? 아직도 관심이 있나?
-0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/4/Accept1/0/text/0/#text¬Very well, your company is now registered. The residents of Gosenberg will answer any queries, so remember to question them.¬좋아, 자네 회사는 이제 등록됐네. 고센버그의 주민들은 어떤 질문에도 대답해줄 테니 꼭 물어보세요.
+0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/4/Accept1/0/text/0/#text¬Very well, your company is now registered. The residents of Gosenberg will answer any queries, so remember to question them.¬좋아, 자네 부대는 이제 등록됐네. 고센버그의 주민들은 어떤 질문에도 대답해줄 테니 꼭 물어보세요.
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/5/Accept2/0/text/0/#text¬Some may be reluctant to confide in you, but persevere and you will find a way to convince them. Good luck.¬어떤 사람들은 당신에게 털어놓기를 꺼릴 수도 있지만, 인내심을 가지고 설득할 방법을 찾을 수 있을 겁니다. 행운을 빕니다.
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/6/Advices/0/text/0/#text¬If you don't know where to start, speak to the Informant. He knows everyone in Grinmeer.¬어디서부터 시작해야 할지 모르겠다면 정보원에게 문의하세요. 그는 그린미어의 모든 사람을 알고 있습니다.
 0/cdb/4/sheet/922/G2CompanionHeadquarterFranny/1/dialog/7/SettingLog/0/text/0/#text¬<b>Broker Hoevendorp</b> was murdered in Gosenberg.¬<b>브로커 호벤도르프</b>가 고센버그에서 살해당했습니다.
 0/cdb/4/sheet/923/G2TrainingCenterLeader/0/npc.name/0/#text¬Hired goon <<범죄자>>¬고용된 깡패 <<범죄자>>
-0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/0/Start/0/text/0/#text¬It would be advisable for you to train more before taking on this investigation. Competition between the companies will be fierce.¬이 수사를 맡기 전에 더 많은 훈련을 하는 것이 좋을 것 같습니다. 회사들 간의 경쟁이 치열할 테니까요.
+0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/0/Start/0/text/0/#text¬It would be advisable for you to train more before taking on this investigation. Competition between the companies will be fierce.¬이 수사를 맡기 전에 더 많은 훈련을 하는 것이 좋을 것 같습니다. 부대들 간의 경쟁이 치열할 테니까요.
 0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/1/Respec/0/text/0/#text¬Not bad, eh? It's from Grinmeer.¬나쁘지 않죠? 그린미어에서 왔어요.
 0/cdb/4/sheet/923/G2TrainingCenterLeader/1/dialog/2/EndSetting/0/text/0/#text¬After all you've done, I'm not sure you need anything!¬이 정도면 더 이상 필요한 게 없을 것 같은데!
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/0/npc.name/0/#text¬Brother <<범죄자>>¬형제 <<범죄자>>
@@ -4620,7 +4620,7 @@
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/3/Next3/0/text/0/#text¬Good riddance!¬잘 가라!
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/4/Next4/0/text/0/#text¬Shut up! We can't hear anything!¬닥쳐! 아무 소리도 안 들려요!
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/5/Next5/0/text/0/#text¬All those who wish to be involved in this investigation are welcome. The reward will be commensurate with that of a mission offered by the Council itself.¬이 조사에 참여하고자 하는 모든 분들을 환영합니다. 보상은 협의회에서 제공하는 임무에 상응하는 보상이 주어질 것입니다.
-0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/6/Next6/0/text/0/#text¬Franny will register all companies who wish to take part.¬프래니가 참여를 희망하는 모든 회사를 등록할 것입니다.
+0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/6/Next6/0/text/0/#text¬Franny will register all companies who wish to take part.¬프래니가 참여를 희망하는 모든 부대를 등록할 것입니다.
 0/cdb/4/sheet/924/G2CompanionHeadquarterCaptain/1/dialog/7/MissionDesc/0/text/0/#text¬Take on Sister Franny's mission.¬프래니 자매의 임무를 수행하세요.
 0/cdb/4/sheet/925/G2CompanionHeadquarterMercenaryA/0/dialog/0/Start/0/text/0/#text¬These Mercenaries seem to be listening to the speech over and over.¬이 용병들은 연설을 계속 듣고 있는 것 같습니다.
 0/cdb/4/sheet/926/G2CompanionHeadquarterMercenaryB/0/dialog/0/Start/0/text/0/#text¬These Mercenaries seem to have come from far away.¬이 용병들은 멀리서 온 것 같습니다.
@@ -5168,7 +5168,7 @@
 0/cdb/4/sheet/1072/G2TheaterPlacePlay/0/dialog/3/Line3/0/text/0/#text¬The old Northern Kingdom has ceased to exist. Keep your mountains and your science, wicked king! We'll keep our plains and our Krowns.¬옛 북부 왕국은 이제 존재하지 않습니다. 산과 과학을 지켜라, 사악한 왕이여! 우리는 우리의 평원과 왕관을 지킬 것입니다.
 0/cdb/4/sheet/1073/G2TheaterPlaceTumbler1Clone/0/npc.name/0/#text¬The Brokers of Gosenberg¬고센버그의 브로커
 0/cdb/4/sheet/1074/G2TheaterPlaceTumbler2Clone/0/npc.name/0/#text¬The King of Alazar¬알라자르의 왕
-0/cdb/4/sheet/1075/G2TheaterPlaceAudience2/0/dialog/0/Start/0/text/0/#text¬Another company awaits their turn.¬다른 회사가 차례를 기다리고 있습니다.
+0/cdb/4/sheet/1075/G2TheaterPlaceAudience2/0/dialog/0/Start/0/text/0/#text¬Another company awaits their turn.¬다른 부대가 차례를 기다리고 있습니다.
 0/cdb/4/sheet/1076/G2TheaterPlaceTumbler1/0/dialog/0/Start/0/text/0/#text¬I hope you enjoyed the performance.¬공연이 즐거웠길 바랍니다.
 0/cdb/4/sheet/1076/G2TheaterPlaceTumbler1/0/dialog/1/Questioned/0/text/0/#text¬Wylla Ald Hoevendorp's death comes as no surprise. Rumour has it the <b>People's Fellowship</b> tried setting fire to her manor once before.¬윌라 알드 호벤도르프의 죽음은 놀라운 일이 아닙니다. 전에도 <b>인민 친목회</b>가 그녀의 저택에 불을 지르려 했다는 소문이 있었으니까요.
 0/cdb/4/sheet/1077/G2TheaterPlaceTumbler2/0/npc.name/0/#text¬Adelise¬아델리스
@@ -7738,7 +7738,7 @@
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/1/StartCompassionate_XX/1/choices/3/line3/0/props.tipText/0/#text¬<<조건3>>Complain of the risks taken by the group¬<<조건3>>그룹이 취한 위험에 대해 불평합니다.
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/1/StartCompassionate_XX/1/choices/3/line3/1/props.customTxt/0/#text¬Complain¬불평
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/2/StartPragmatic_XX/0/text/0/#text¬The more champion titles we win, the more our troop will become prestigious. This will only make our services more valuable and entitle us to better rewards.¬더 많은 챔피언 타이틀을 획득할수록 우리 부대의 명성은 높아질 것입니다. 이는 우리의 서비스를 더욱 가치 있게 만들고 더 나은 보상을 받을 수 있는 자격을 부여할 것입니다.
-0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/2/StartPragmatic_XX/1/choices/0/line0/0/props.tipText/0/#text¬<<조건3>>Take advantage of the champion title to increase the company's rates¬<<조건3>>챔피언 타이틀을 활용하여 회사의 요율을 높이세요.
+0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/2/StartPragmatic_XX/1/choices/0/line0/0/props.tipText/0/#text¬<<조건3>>Take advantage of the champion title to increase the company's rates¬<<조건3>>챔피언 타이틀을 활용하여 부대의 요율을 높이세요.
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/2/StartPragmatic_XX/1/choices/0/line0/1/props.customTxt/0/#text¬Plan¬Plan
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/3/Choices/0/choices/0/line0/0/props.tipText/0/#text¬<<조건3>>Celebrate this victory with the group¬<<조건3>>그룹과 함께 승리를 축하하세요.
 0/cdb/4/sheet/1505/ConfessionArenaWin/0/dialog/3/Choices/0/choices/0/line0/1/props.customTxt/0/#text¬Celebrate¬Celebrate

@@ -879,7 +879,7 @@
     </NotifyUnitTitleNeutral>
     <NotifyFirstCaptain>
       <text>
-        동료의 경험이 많아졌으므로 이제 동료 중 한 명을 <b>캡틴</b>으로 임명할 수 있습니다.
+        동료의 경험이 많아졌으므로 이제 동료 중 한 명을 <b>대장</b>으로 임명할 수 있습니다.
       </text>
     </NotifyFirstCaptain>
     <NotifyNewCaptain>
@@ -2455,11 +2455,11 @@
     </A1Champion1>
     <A1DesignedMission2>
       <props.name>어벤져스</props.name>
-      <props.bountyDesc>브라더후드 용병단이 코린 윈펠이라는 여성의 납치에 가담한 회사를 찾고 있는 것 같습니다. 그들의 수사 방식은 지역 주민들을 겁에 질리게 하고 있습니다.</props.bountyDesc>
+      <props.bountyDesc>브라더후드 용병단이 코린 윈펠이라는 여성의 납치에 가담한 부대를 찾고 있는 것 같습니다. 그들의 수사 방식은 지역 주민들을 겁에 질리게 하고 있습니다.</props.bountyDesc>
     </A1DesignedMission2>
     <A1DesignedMission2Alt>
       <props.name>어벤져스</props.name>
-      <props.bountyDesc>브라더후드 용병단은 브룬힐데 아드르 알라자르를 살해한 회사를 찾고 있는 것 같습니다. 그들의 목표는 고귀하지만, 그들의 심문 방식은 지역 주민들을 위험에 빠뜨리고 있습니다.</props.bountyDesc>
+      <props.bountyDesc>브라더후드 용병단은 브룬힐데 아드르 알라자르를 살해한 부대를 찾고 있는 것 같습니다. 그들의 목표는 고귀하지만, 그들의 심문 방식은 지역 주민들을 위험에 빠뜨리고 있습니다.</props.bountyDesc>
     </A1DesignedMission2Alt>
     <A1DesignedMission1>
       <props.name>찰라탄</props.name>
@@ -17764,7 +17764,7 @@
           </text>
           <choices>
             <line1>
-              <props.tipText>리데릭은 이제 당신 회사의 일원이 될 겁니다.</props.tipText>
+              <props.tipText>리데릭은 이제 당신 부대의 일원이 될 겁니다.</props.tipText>
             </line1>
           </choices>
         </Lyderic3>
@@ -18026,7 +18026,7 @@
           <text>그래서? 아직도 관심이 있나?</text>
         </Next2>
         <Accept1>
-          <text>좋아, 자네 회사는 이제 등록됐네. 고센버그의 주민들은 어떤 질문에도 대답해줄 테니 꼭 물어보세요.</text>
+          <text>좋아, 자네 부대는 이제 등록됐네. 고센버그의 주민들은 어떤 질문에도 대답해줄 테니 꼭 물어보세요.</text>
         </Accept1>
         <Accept2>
           <text>어떤 사람들은 당신에게 털어놓기를 꺼릴 수도 있지만, 인내심을 가지고 설득할 방법을 찾을 수 있을 겁니다. 행운을 빕니다.</text>
@@ -18045,7 +18045,7 @@
       <npc.name>고용된 깡패 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>이 수사를 맡기 전에 더 많은 훈련을 하는 것이 좋을 것 같습니다. 회사들 간의 경쟁이 치열할 테니까요.</text>
+          <text>이 수사를 맡기 전에 더 많은 훈련을 하는 것이 좋을 것 같습니다. 부대들 간의 경쟁이 치열할 테니까요.</text>
         </Start>
         <Respec>
           <text>나쁘지 않죠? 그린미어에서 왔어요.</text>
@@ -18081,7 +18081,7 @@
           <text>이 조사에 참여하고자 하는 모든 분들을 환영합니다. 보상은 협의회에서 제공하는 임무에 상응하는 보상이 주어질 것입니다.</text>
         </Next5>
         <Next6>
-          <text>프래니가 참여를 희망하는 모든 회사를 등록할 것입니다.</text>
+          <text>프래니가 참여를 희망하는 모든 부대를 등록할 것입니다.</text>
         </Next6>
         <MissionDesc>
           <text>프래니 자매의 임무를 수행하세요.</text>
@@ -20499,7 +20499,7 @@
     <G2TheaterPlaceAudience2>
       <dialog>
         <Start>
-          <text>다른 회사가 차례를 기다리고 있습니다.</text>
+          <text>다른 부대가 차례를 기다리고 있습니다.</text>
         </Start>
       </dialog>
     </G2TheaterPlaceAudience2>
@@ -29760,7 +29760,7 @@
           <text>더 많은 챔피언 타이틀을 획득할수록 우리 부대의 명성은 높아질 것입니다. 이는 우리의 서비스를 더욱 가치 있게 만들고 더 나은 보상을 받을 수 있는 자격을 부여할 것입니다.</text>
           <choices>
             <line0>
-              <props.tipText>[XX]챔피언 타이틀을 활용하여 회사의 요율을 높이세요.</props.tipText>
+              <props.tipText>[XX]챔피언 타이틀을 활용하여 부대의 요율을 높이세요.</props.tipText>
               <props.customTxt>Plan</props.customTxt>
             </line0>
           </choices>
