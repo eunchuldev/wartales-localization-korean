@@ -9732,8 +9732,8 @@
 0/cdb/8/sheet/800/BraisedChicken/1/desc/0/#text¬A lightly braised chicken, dripping with grease.¬기름이 뚝뚝 떨어지는 살짝 찐 닭고기.
 0/cdb/8/sheet/801/GrilledPork/0/name/0/#text¬Grilled Pork¬구운 돼지고기
 0/cdb/8/sheet/801/GrilledPork/1/desc/0/#text¬A few pieces of fine pork, grilled to perfection.¬완벽하게 구운 고급 돼지고기 몇 조각.
-0/cdb/8/sheet/802/WolfSausages/0/name/0/#text¬Wolf Sausage¬울프 소시지
-0/cdb/8/sheet/802/WolfSausages/1/desc/0/#text¬Wolf sausage links with a bold taste.¬대담한 맛의 울프 소시지 링크.
+0/cdb/8/sheet/802/WolfSausages/0/name/0/#text¬Wolf Sausage¬늑대 소시지
+0/cdb/8/sheet/802/WolfSausages/1/desc/0/#text¬Wolf sausage links with a bold taste.¬강한 풍미의 늑대 소시지 조각.
 0/cdb/8/sheet/803/MediumCookedSheep/0/name/0/#text¬Medium-rare Mutton¬미디엄 레어 양고기
 0/cdb/8/sheet/803/MediumCookedSheep/1/desc/0/#text¬The Edoran speciality of mutton cooked over charcoal.¬숯불에 구운 에도란 특산 양고기 요리.
 0/cdb/8/sheet/804/GameSkewers/0/name/0/#text¬Venison Skewers¬사슴고기 꼬치
