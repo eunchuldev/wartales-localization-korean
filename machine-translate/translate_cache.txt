@@ -2291,19 +2291,19 @@
 0/cdb/4/sheet/352/GosenbergBorderPostRefugee2/1/dialog/2/End/0/text/0/#text¬Oh, thank you! I'd given up hope. Come and see us in Gosenberg. My cousin will compensate you adequately.¬오, 고마워요! 난 희망을 포기했었어. 고센베르크로 오세요. 내 사촌이 충분한 보상을 해줄거야.
 0/cdb/4/sheet/353/GuardCampBandit/0/dialog/0/Start/0/text/0/#text¬I can't believe Rovand is dead, and we are free!¬로반드가 죽고 우린 자유라니 믿을 수가 없어!
 0/cdb/4/sheet/353/GuardCampBandit/0/dialog/1/Next/0/text/0/#text¬We really owe you one! Here, take this! You deserve it. I'll be sure to tell Fergas and the other Refugees in the Haven what you did.¬우리가 정말 신세졌어! 자, 이거 받아! 넌 받을 자격이 있어. 퍼가스와 피난처에 있는 다른 피난민들에게 네가 한 일을 꼭 전할게.
-0/cdb/4/sheet/353/GuardCampBandit/0/dialog/2/SettingLog/0/text/0/#text¬The Refugees no longer have to fear Captain Rovand.¬피난민들은 더 이상 로반드 선장을 두려워할 필요가 없어.
+0/cdb/4/sheet/353/GuardCampBandit/0/dialog/2/SettingLog/0/text/0/#text¬The Refugees no longer have to fear Captain Rovand.¬피난민들은 더 이상 로반드 대장을 두려워할 필요가 없어.
 0/cdb/4/sheet/354/GuardTowerTiredGuard1/0/dialog/0/Start/0/text/0/#text¬I will never help the Refugees after what happened! They are all just like Berthram... Lawless scoundrels, the lot of them!¬난 그런 일을 겪은 후로는 피난민들을 절대 돕지 않을 거야! 그들은 모두 버스람과 똑같아... 무법자 놈들이지!
 0/cdb/4/sheet/355/GuardTowerTiredGuard2/0/dialog/0/Start/0/text/0/#text¬Nothing is beneath him! Berthram stole two cows and a calf from my brother-in-law. In one night, his family lost everything.¬그 밑에는 아무것도 없어! 버스람은 내 매형에게서 소 두 마리와 송아지 한 마리를 훔쳤어. 하룻밤 사이에 그의 가족은 모든 걸 잃었어.
-0/cdb/4/sheet/356/GuardTowerGuardChief/0/npc.name/0/#text¬Captain Rovand¬로반드 선장
+0/cdb/4/sheet/356/GuardTowerGuardChief/0/npc.name/0/#text¬Captain Rovand¬로반드 대장
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/0/Start/0/text/0/#text¬To think that we have to camp out here because of some pig-headed bandit! That Berthram will stop at nothing to terrorise the yokels, but when it comes to facing the Guard, that's a whole other matter. You see that cave, to the north? He's holed up in there...¬돼지머리 산적 때문에 여기서 야영을 해야 한다고 생각하다니! 저 버스람은 야만인들을 위협하는 데는 아무렇지도 않을 테지만 경비대와 맞서는 건 전혀 다른 문제야. 북쪽에 저 동굴 보이지? 저 안에 숨어있어...
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/1/Next/0/text/0/#text¬It's been three days and still he won't surrender! Berthram knows he's done for... Yet he continues defending his lair with such doggedness that we have no choice but to starve him to death.¬사흘이 지났는데도 항복하지 않아요! 버스람은 이제 끝났다는 걸 알지만... 하지만 그는 여전히 자신의 은신처를 지키고 있어. 우리는 그를 굶겨 죽일 수 밖에 없어.
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/2/Next2/0/text/0/#text¬That's why I need Mercenaries! He doesn't know you... He might even let you in if he thinks he can convince you to help him. And once you've gained his trust, you can finish him off for us... We'll make it worth your while, I promise.¬그래서 용병이 필요해! 그는 널 몰라... 당신을 도와달라고 설득할 수 있다고 생각하면 들여보내줄지도 몰라요. 그리고 일단 신뢰를 얻으면 우리를 위해 그를 끝내주면 돼... 보답할게요, 약속해요.
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/3/Alt/0/text/0/#text¬Berthram hired you to kill us? No, wait, you don't understand! This man is not some poor Refugee! He's been terrorising the local farmers and stealing their crops. He must die. I will pay you to kill him!¬버스람이 우릴 죽이려고 널 고용한 거야? 아니, 잠깐만, 넌 이해 못 해! 이 자는 불쌍한 난민이 아니야! 지역 농부들을 괴롭히고 농작물을 훔쳐온 놈이야. 죽여야만 해. 죽여주면 돈을 주겠다!
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/3/Alt/1/choices/0/line0/0/props.tipText/0/#text¬Kill Captain Rovand for Berthram.¬버스람을 위해 로반드 대위를 죽여라.
 0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/4/MissionDesc/0/text/0/#text¬Kill Berthram for Captain Rovand.¬로반드 대위를 위해 버스람을 죽여라.
-0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/5/MissionDesc2/0/text/0/#text¬Talk to Captain Rovand.¬로반드 선장에게 말을 걸어라.
+0/cdb/4/sheet/356/GuardTowerGuardChief/1/dialog/5/MissionDesc2/0/text/0/#text¬Talk to Captain Rovand.¬로반드 대장에게 말을 걸어라.
 0/cdb/4/sheet/356/GuardTowerGuardChief/2/props.goals/0/line0/0/title/0/#text¬Manhunt¬Manhunt
-0/cdb/4/sheet/356/GuardTowerGuardChief/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Rovand's mission.¬로반드 선장의 임무를 수행하십시오.
+0/cdb/4/sheet/356/GuardTowerGuardChief/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Rovand's mission.¬로반드 대장의 임무를 수행하십시오.
 0/cdb/4/sheet/356/GuardTowerGuardChief/2/props.goals/0/line0/1/props.helpTips/1/line1/0/text/0/#text¬Follow mission instructions to complete this objective.¬임무 지시에 따라 이 목표를 완료하세요.
 0/cdb/4/sheet/357/GuardCaveGuard/0/dialog/0/Start/0/text/0/#text¬So Berthram is dead... My men and the good citizens of Tiltren will be glad to hear it.¬버스람이 죽었군... 내 부하들과 틸트렌의 선량한 시민들은 이 소식을 듣고 기뻐할 것이다.
 0/cdb/4/sheet/357/GuardCaveGuard/0/dialog/1/Next/0/text/0/#text¬I must commend you for your courage and your devotion to our cause. Here is the reward the Lady Mayoress promised me. You deserve it. Goodbye.¬자네의 용기와 대의를 위한 헌신을 칭찬하지 않을 수 없네. 여기 시장님께서 약속하신 상이 있다. 넌 받을 자격이 있어. 안녕히 계십시오
@@ -2315,14 +2315,14 @@
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/1/Next/0/text/0/#text¬He didn't? Dammit! ... Wait! Would you be willing to help us if we make it worth your while?¬안 보냈어? 젠장! ... 잠깐만요! 우릴 도와줄 수 있겠어요?
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/2/Third/0/text/0/#text¬You probably saw a campsite on your way here. That's Captain Rovand and his men. If you kill him, you will do much more than save our lives!¬여기 오는 길에 야영지를 봤을 거야. 로반드 대위와 그의 부하들이야. 그를 죽이면 우릴 구하는 것 이상의 일을 하게 될 거야!
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/3/Fourth/0/text/0/#text¬Without Captain Rovand to defend them, the good people of Tiltren would surely share their resources with us Refugees. We wouldn't have to steal or threaten them any more. Kill him for us.¬로반드 대위가 그들을 지켜주지 않았다면 틸트렌의 선량한 주민들은 그들의 자원을 우리 난민들에게 나눠줬을 거야. 우리는 더 이상 그들을 훔치거나 위협할 필요가 없겠지. 우리를 위해 그를 죽여라.
-0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/3/Fourth/1/choices/0/line0/0/props.tipText/0/#text¬Agree to kill Captain Rovand.¬로반드 선장을 죽이는 데 동의해라.
+0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/3/Fourth/1/choices/0/line0/0/props.tipText/0/#text¬Agree to kill Captain Rovand.¬로반드 대장을 죽이는 데 동의해라.
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/4/Alt/0/text/0/#text¬Ah! Mercenaries! Did Fergas send you to help us?¬아! 용병들! 퍼가스가 우릴 도우라고 보냈나?
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/5/Next2/0/text/0/#text¬…! Rovand hired you to kill me? I beg of you, don't do this! We do not enjoy bullying the farmers, you know! We have no choice if we want to survive!¬...! 로반드가 날 죽이라고 너희를 고용했나? 이렇게 빌게, 이러지 마! 우린 농부들을 괴롭히는 걸 좋아하지 않아! 우리가 살아남으려면 선택의 여지가 없어!
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/6/Next3/0/text/0/#text¬Rovand is the one who must die! I will match his offer! In fact, I can pay you more! And you would be doing a good deed.¬죽어야 할 사람은 로반드야! 그의 제안에 맞출게요! 사실, 더 많이 줄 수도 있어! 그리고 당신은 좋은 일을 하는거죠.
-0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/0/text/0/#text¬Once he is gone, the farmers of Tiltren will have no one to protect them. We won't have to force them to share their resources with us. Kill the captain. It's the only solution.¬그가 죽으면 틸트렌의 농부들은 아무도 보호해줄 사람이 없어져요. 우리에게 자원을 나눠달라고 강요할 필요도 없겠지. 선장을 죽여라. 그것만이 유일한 해결책입니다.
-0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/1/choices/0/line0/0/props.tipText/0/#text¬Kill Berthram the Bandit for Captain Rovand.¬로반드 선장을 위해 산적 버스람을 죽여라.
-0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/1/choices/1/line1/0/props.tipText/0/#text¬Agree to kill Captain Rovand for Berthram.¬버스람을 위해 로반드 선장을 죽이는 데 동의한다.
-0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/8/MissionDesc/0/text/0/#text¬Kill Captain Rovand.¬로반드 선장을 죽여라.
+0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/0/text/0/#text¬Once he is gone, the farmers of Tiltren will have no one to protect them. We won't have to force them to share their resources with us. Kill the captain. It's the only solution.¬그가 죽으면 틸트렌의 농부들은 아무도 보호해줄 사람이 없어져요. 우리에게 자원을 나눠달라고 강요할 필요도 없겠지. 대장을 죽여라. 그것만이 유일한 해결책입니다.
+0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/1/choices/0/line0/0/props.tipText/0/#text¬Kill Berthram the Bandit for Captain Rovand.¬로반드 대장을 위해 산적 버스람을 죽여라.
+0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/7/Next4/1/choices/1/line1/0/props.tipText/0/#text¬Agree to kill Captain Rovand for Berthram.¬버스람을 위해 로반드 대장을 죽이는 데 동의한다.
+0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/8/MissionDesc/0/text/0/#text¬Kill Captain Rovand.¬로반드 대장을 죽여라.
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/1/dialog/9/MissionDesc2/0/text/0/#text¬Talk to Berthram.¬버스람에게 말을 걸어라.
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/2/props.goals/0/line0/0/title/0/#text¬Hunter Hunted¬사냥꾼 사냥
 0/cdb/4/sheet/360/GuardCaveBanditBerthram/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Berthram's mission.¬버스람의 임무를 수행하십시오.
@@ -2957,7 +2957,7 @@
 0/cdb/4/sheet/495/CastelLaheartBlacksmith/0/dialog/1/Repair/0/text/0/#text¬Your armour is in a much better state now.¬이제 갑옷 상태가 훨씬 좋아졌어요.
 0/cdb/4/sheet/496/CommandantManagerBarrel/0/dialog/0/MissionDesc/0/text/0/#text¬Find and attack a black caravan.¬검은 캐러밴을 찾아서 공격하세요.
 0/cdb/4/sheet/496/CommandantManagerBarrel/1/props.goals/0/line0/0/title/0/#text¬The Black Caravans¬검은 캐러밴
-0/cdb/4/sheet/496/CommandantManagerBarrel/1/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Hostes' mission.¬호스트 선장의 임무를 수행하십시오.
+0/cdb/4/sheet/496/CommandantManagerBarrel/1/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Hostes' mission.¬호스트 대장의 임무를 수행하십시오.
 0/cdb/4/sheet/496/CommandantManagerBarrel/1/props.goals/0/line0/1/props.helpTips/1/line1/0/text/0/#text¬Follow mission instructions to complete this objective.¬임무 지침에 따라 이 목표를 완료하세요.
 0/cdb/4/sheet/496/CommandantManagerBarrel/1/props.goals/0/line0/1/props.helpTips/2/line2/0/text/0/#text¬Follow the Black Caravans to locate the concealed camp.¬검은 캐러밴을 따라 숨겨진 캠프를 찾으세요.
 0/cdb/4/sheet/497/LaheartCastelAbbot/0/dialog/0/Start/0/text/0/#text¬The enemy's castle?! Laheart hates our abbey, he could have me hung! Let's get out of here!¬적의 성?! 라하트가 우리 수도원을 싫어해서 날 교수형에 처할 수도 있어! 어서 여기서 나가자!
@@ -3239,8 +3239,8 @@
 0/cdb/4/sheet/565/HostesCommandantCamp/0/dialog/9/Steal/0/text/0/#text¬How dare you steal this gold in front of me? You have no honour.¬감히 내 앞에서 이 금을 훔쳐? 넌 명예가 없어.
 0/cdb/4/sheet/566/CampInquisitor/0/npc.name/0/#text¬Inquisitor Octavia¬인퀴지터 옥타비아
 0/cdb/4/sheet/566/CampInquisitor/1/dialog/0/Start/0/text/0/#text¬Where is your carriage? Are you here by chance? You should take your leave and be quick about it.¬마차는 어디 있나? 우연히 여기 왔나? 빨리 떠나는 게 좋을 거야.
-0/cdb/4/sheet/566/CampInquisitor/1/dialog/1/Next/0/text/0/#text¬Who...? Captain Hostes?¬누구...? 호스트 선장님?
-0/cdb/4/sheet/566/CampInquisitor/1/dialog/2/Next2/0/text/0/#text¬Silly me! Of course, Captain Hostes! Only you could hide amongst a group of Mercenaries, you old weasel!¬내가 바보였군! 당연하지, 호스티스 선장! 너만이 용병들 사이에 숨을 수 있겠지, 이 늙은 족제비야!
+0/cdb/4/sheet/566/CampInquisitor/1/dialog/1/Next/0/text/0/#text¬Who...? Captain Hostes?¬누구...? 호스트 대장님?
+0/cdb/4/sheet/566/CampInquisitor/1/dialog/2/Next2/0/text/0/#text¬Silly me! Of course, Captain Hostes! Only you could hide amongst a group of Mercenaries, you old weasel!¬내가 바보였군! 당연하지, 호스티스 대장! 너만이 용병들 사이에 숨을 수 있겠지, 이 늙은 족제비야!
 0/cdb/4/sheet/566/CampInquisitor/1/dialog/3/Next3/0/text/0/#text¬But your little charade ends here: your grubby Companions are no match for a professional army! Prepare to die!¬하지만 당신의 작은 가식은 여기서 끝이다. 당신의 지저분한 동료들은 전문 군대에 비할 바가 아니다! 죽을 준비를 해라!
 0/cdb/4/sheet/567/LegionCampCaporal/0/npc.name/0/#text¬Corporal <<범죄자>>¬상병 <<범죄자>>
 0/cdb/4/sheet/567/LegionCampCaporal/1/dialog/0/Start/0/text/0/#text¬I'm serving under Colonel Rhoveres’ orders for the first time. It’s an honour, everyone in the Legion knows his name.¬처음으로 로버스 대령의 명령을 받고 복무하게 됐다. 군단원 모두가 그의 이름을 알고 있으니 영광입니다.
@@ -4683,7 +4683,7 @@
 0/cdb/4/sheet/942/G2FriendHideout2Bandit2Clone/0/dialog/3/Questionned3/0/text/0/#text¬I don't know how he did it, but he disappeared!¬어떻게 했는지는 모르겠지만 사라졌어요!
 0/cdb/4/sheet/942/G2FriendHideout2Bandit2Clone/0/dialog/4/SettingLog/0/text/0/#text¬The <b>Hoevendorp son</b> owed Bandits a lot of Krowns.¬호벤도르프의 아들은 산적들에게 많은 크라운을 빚졌어요.
 0/cdb/4/sheet/943/G2FriendHideout2Bandit1/0/dialog/0/Start/0/text/0/#text¬Who goes there? What are you doing here?¬거기 누구야? 여기서 뭐하는 거야?
-0/cdb/4/sheet/944/G2HallGuard1/0/npc.name/0/#text¬Captain Arnoud¬아르누드 선장
+0/cdb/4/sheet/944/G2HallGuard1/0/npc.name/0/#text¬Captain Arnoud¬아르누드 대장
 0/cdb/4/sheet/944/G2HallGuard1/1/dialog/0/Start/0/text/0/#text¬Ah! I'm glad to see you! We've not managed to contact the Brotherhood. This manhunt has scattered them all across the city.¬아! 반가워요! 형제단과 연락이 안 돼서요. 이번 수색으로 놈들이 도시 곳곳에 흩어졌어요.
 0/cdb/4/sheet/944/G2HallGuard1/1/dialog/1/Next1/0/text/0/#text¬The Alazarian Embassy is surrounded by the mob, and there are fears of a riot breaking out. The people are accusing the ambassador of murdering the Broker.¬알라자리안 대사관은 폭도들에 둘러싸여 폭동이 일어날까 우려되고 있습니다. 사람들은 대사가 브로커를 살해했다고 비난하고 있습니다.
 0/cdb/4/sheet/944/G2HallGuard1/1/dialog/2/Next2/0/text/0/#text¬They might have a point, nobody would argue with that, but we cannot have plebs gutting him in the street. This kind of diplomatic incident would be damaging to the entire kingdom.¬일리가 있는 말이고 누구도 이의를 제기하지 않겠지만, 길거리에서 민중들이 대사의 내장을 도려내게 할 수는 없습니다. 이런 종류의 외교적 사건은 왕국 전체에 피해를 줄 수 있습니다.
@@ -4696,7 +4696,7 @@
 0/cdb/4/sheet/944/G2HallGuard1/1/dialog/8/Questioned/0/text/0/#text¬I won't lie, in the past, Alazar turned to the <b>Rooks</b> to take out troublesome Brokers. It could be the case here, too.¬과거에 알라자르는 골칫거리인 브로커들을 처리하기 위해 <b>루크족</b>을 이용했었죠. 여기에서도 그럴 수 있습니다.
 0/cdb/4/sheet/944/G2HallGuard1/1/dialog/9/SettingLog/0/text/0/#text¬The <b>Kingdom of Alazar</b> had Brokers killed by assassins called the Rooks.¬알라자르 왕국에서는 브로커들이 루크라는 암살단에 의해 살해된 적이 있습니다.
 0/cdb/4/sheet/944/G2HallGuard1/2/props.goals/0/line0/0/title/0/#text¬Keeping the Peace¬평화 지키기
-0/cdb/4/sheet/944/G2HallGuard1/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Arnoud's mission.¬아르누드 선장의 임무를 수행하십시오.
+0/cdb/4/sheet/944/G2HallGuard1/2/props.goals/0/line0/1/props.helpTips/0/line0/0/text/0/#text¬Take on Captain Arnoud's mission.¬아르누드 대장의 임무를 수행하십시오.
 0/cdb/4/sheet/944/G2HallGuard1/2/props.goals/0/line0/1/props.helpTips/1/line1/0/text/0/#text¬Exfiltrate the Alazarian Ambassador from his refuge.¬알라자르 대사를 피난처에서 탈출시키십시오.
 0/cdb/4/sheet/945/G2HallGuard3/0/dialog/0/Start/0/text/0/#text¬The people hated Broker Wylla Ald Hoevendorp, but they still want to see the murderer hang.¬사람들은 브로커 윌라 알드 호벤도르프를 싫어하지만, 그래도 살인자가 교수형에 처해지는 걸 보고 싶어 합니다.
 0/cdb/4/sheet/945/G2HallGuard3/0/dialog/1/Next1/0/text/0/#text¬Maybe they are angry they did get to kill her themselves?¬어쩌면 그들은 그녀를 직접 죽였다는 사실에 화가 난 걸까요?
@@ -6811,7 +6811,7 @@
 0/cdb/4/sheet/1425/Fugitive11Leader/1/dialog/0/Start/0/text/0/#text¬Why confront us? We are only doing what the Guard dares not do!¬왜 우리와 맞서지? 우린 경비병이 감히 하지 못하는 일을 하고 있을 뿐이야!
 0/cdb/4/sheet/1425/Fugitive11Leader/1/dialog/1/Next1/0/text/0/#text¬Trials, prison... It's all pointless! Look at what has become of this Province! Look! Honest folk can't live here in peace!¬시련, 감옥... 다 소용없어! 이 지방이 어떻게 됐는지 봐! 봐요! 정직한 사람들은 여기서 평화롭게 살 수 없어요!
 0/cdb/4/sheet/1425/Fugitive11Leader/1/dialog/2/Next2/0/text/0/#text¬It's high time someone rid us of the bandits, the raiders, the thieves... Pure and simple extermination... These parasites deserve nothing less!¬누군가 도적, 약탈자, 도둑들을 제거할 때가 됐어... 순수하고 간단한 박멸... 이 기생충들은 죽어도 싸!
-0/cdb/4/sheet/1426/Fugitive12Leader/0/npc.name/0/#text¬Captain Eleora¬엘레오라 선장
+0/cdb/4/sheet/1426/Fugitive12Leader/0/npc.name/0/#text¬Captain Eleora¬엘레오라 대장
 0/cdb/4/sheet/1426/Fugitive12Leader/1/dialog/0/Start/0/text/0/#text¬Go away, Mercenaries. This is no concern of yours. The Legion alone will deal with this matter.¬저리 가, 용병들아. 너희가 상관할 일이 아니다. 군단만이 이 문제를 해결할 것이다.
 0/cdb/4/sheet/1426/Fugitive12Leader/1/dialog/1/Next1/0/text/0/#text¬What? The Broker Council wants to drive us out? They have no right! The Legion can go wherever it pleases in Gosenberg! This land is theirs only because we allow it.¬뭐? 브로커 협의회가 우릴 쫓아내려고? 그들은 그럴 권리가 없어! 군단은 고센버그 어디든 마음대로 갈 수 있어! 우리가 허락했기 때문에 이 땅은 그들의 것이야!
 0/cdb/4/sheet/1426/Fugitive12Leader/1/dialog/2/Next2/0/text/0/#text¬Go on, then! Fight me! And they better not come crying when Alexa Grathan tries to take over their kingdom, too!¬그럼 가! 싸워라! 알렉사 그라탄이 그들의 왕국을 점령하려 할 때 울지 않는 게 좋을 거야!
@@ -6893,7 +6893,7 @@
 0/cdb/4/sheet/1442/Talk_Prison_GuardCulprit/0/dialog/1/Guard_Generic2/0/text/0/#text¬Did you come here to laugh at me?¬날 비웃으러 온 거야?
 0/cdb/4/sheet/1442/Talk_Prison_GuardCulprit/0/dialog/2/Inquisition_Generic1/0/text/0/#text¬Curse you! Curse you and all of your descendants!¬저주하노라! 너와 네 자손을 모두 저주한다!
 0/cdb/4/sheet/1442/Talk_Prison_GuardCulprit/0/dialog/3/Inquisition_Generic2/0/text/0/#text¬You may have deceived my weak-hearted colleagues with your lies, but the Eye sees you and knows the truth!¬넌 거짓말로 나약한 내 동료들을 속였을지 몰라도 '눈'은 널 보고 진실을 알고 있다!
-0/cdb/4/sheet/1443/PatrolGuardLeader/0/npc.name/0/#text¬Captain <<범죄자>>¬선장 <<범죄자>>
+0/cdb/4/sheet/1443/PatrolGuardLeader/0/npc.name/0/#text¬Captain <<범죄자>>¬대장 <<범죄자>>
 0/cdb/4/sheet/1443/PatrolGuardLeader/1/dialog/0/Start/0/text/0/#text¬Anything to declare? Keep your nose clean, and you won't hear from us.¬신고할 게 있나? 입 다물고 있으면 우리한테서 아무 소리도 못 들어.
 0/cdb/4/sheet/1443/PatrolGuardLeader/1/dialog/1/DontThrowItemsControl/0/text/0/#text¬Hey! Don't move! I saw you!¬이봐! 움직이지 마! 널 봤어!
 0/cdb/4/sheet/1443/PatrolGuardLeader/1/dialog/2/Control/0/text/0/#text¬You there! Show me what you've got in there!¬거기 있었구나! 안에 뭐가 있는지 보여줘!
@@ -7038,7 +7038,7 @@
 0/cdb/4/sheet/1450/SystemicRichCaravanNPC/0/dialog/1/Aggro/0/text/0/#text¬Help! Please!¬도와주세요! 제발!
 0/cdb/4/sheet/1450/SystemicRichCaravanNPC/0/dialog/2/WantedReason/0/text/0/#text¬Rich Merchant Caravan Attack¬부유한 상인 캐러밴 공격
 0/cdb/4/sheet/1451/A1ScholarGroupLeader/0/dialog/0/Start/0/text/0/#text¬Where we’re going is none of your business.¬우리가 어디로 가는지는 너희가 상관할 바가 아니다.
-0/cdb/4/sheet/1452/MilitiaGuardLeader/0/npc.name/0/#text¬Captain <<범죄자>>¬선장 <<범죄자>>
+0/cdb/4/sheet/1452/MilitiaGuardLeader/0/npc.name/0/#text¬Captain <<범죄자>>¬대장 <<범죄자>>
 0/cdb/4/sheet/1453/MilitiaInquisitor/0/npc.name/0/#text¬Inquisitor <<범죄자>>¬인퀴지터 <<범죄자>>
 0/cdb/4/sheet/1454/Afraid_1/0/dialog/0/Start/0/text/0/#text¬What are these monsters? Where do they come from?¬이 괴물들은 뭐지? 어디서 온 거지?
 0/cdb/4/sheet/1454/Afraid_1/0/dialog/0/Start/1/choices/0/line0/0/props.customTxt/0/#text¬Feed¬Feed
@@ -8420,7 +8420,7 @@
 0/cdb/8/sheet/129/PolearmRareLegion/0/name/0/#text¬Officer's Pilum¬장교 필룸
 0/cdb/8/sheet/129/PolearmRareLegion/1/desc/0/#text¬Legion officers' pilums can be recognised by their sturdiness and intricate details, but also because their owner's name is engraved on the shaft.¬군단 장교의 필룸은 견고하고 정교한 디테일이 돋보이는 것은 물론, 샤프트에 주인의 이름이 새겨져 있어 쉽게 알아볼 수 있습니다.
 0/cdb/8/sheet/130/PolearmRareFugitive04/0/name/0/#text¬Corseque of Remembrance¬기억의 코르세크
-0/cdb/8/sheet/130/PolearmRareFugitive04/1/desc/0/#text¬Obsessed with Edoran's glorious past, Captain Gacius had a corseque forged from an ancient model.¬에도란의 영광스러운 과거에 집착하는 가시우스 선장은 고대 모형으로 만든 코르세크를 가지고 있었습니다.
+0/cdb/8/sheet/130/PolearmRareFugitive04/1/desc/0/#text¬Obsessed with Edoran's glorious past, Captain Gacius had a corseque forged from an ancient model.¬에도란의 영광스러운 과거에 집착하는 가시우스 대장은 고대 모형으로 만든 코르세크를 가지고 있었습니다.
 0/cdb/8/sheet/131/PolearmRareFugitive14/0/name/0/#text¬Crocsting¬크로커스팅
 0/cdb/8/sheet/131/PolearmRareFugitive14/1/desc/0/#text¬Engraved on the tip of this halberd, the silhouette of a massive crocswine is revealed in all its fearsome beauty when dipped in blood.¬이 칼끝에 새겨진 거대한 악어의 실루엣은 피를 묻히면 그 무시무시한 아름다움을 드러냅니다.
 0/cdb/8/sheet/132/PolearmRareTrackers/0/name/0/#text¬Pursuer's Pike¬추격자의 파이크
@@ -8460,7 +8460,7 @@
 0/cdb/8/sheet/149/BowRareFugitive06/0/name/0/#text¬Liberator¬해방자
 0/cdb/8/sheet/149/BowRareFugitive06/1/desc/0/#text¬Unlike traditional Harag bows, no animal parts were used to craft the liberator.¬전통적인 하라그 활과 달리 동물의 부품을 사용하지 않은 해방자 활입니다.
 0/cdb/8/sheet/150/BowRareFugitive12/0/name/0/#text¬Avenger¬어벤저
-0/cdb/8/sheet/150/BowRareFugitive12/1/desc/0/#text¬Seething with hatred, Captain Eleora engraved the name of her enemy on her weapon.¬증오로 가득 찬 엘레오라 선장은 무기에 적의 이름을 새겼습니다.
+0/cdb/8/sheet/150/BowRareFugitive12/1/desc/0/#text¬Seething with hatred, Captain Eleora engraved the name of her enemy on her weapon.¬증오로 가득 찬 엘레오라 대장은 무기에 적의 이름을 새겼습니다.
 0/cdb/8/sheet/151/BowRareInquisition/0/name/0/#text¬Herald of the Eye¬눈의 전령
 0/cdb/8/sheet/151/BowRareInquisition/1/desc/0/#text¬Wielded by Inquisition messengers, these bows are laid out in bright sunlight for several days to receive the Eye's blessing.¬종교 재판소의 전령이 휘두르는 이 활은 눈의 축복을 받기 위해 며칠 동안 밝은 햇빛에 놔두었습니다.
 0/cdb/8/sheet/152/BowLegendaryEliteWorld/0/name/0/#text¬The Indomitable One¬불굴의 자
