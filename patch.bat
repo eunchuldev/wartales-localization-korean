@@ -2,6 +2,7 @@
 SETLOCAL enabledelayedexpansion
 CHCP 65001
 
+SET "BMS_SCRIPT_PATH=%~dp0dune_spice_wars_extract.bms"
 SET "WARTALE_HOME=%ProgramFiles(x86)%\Steam\steamapps\common\Wartales" || goto :error
 SET "psCommand="(new-object -COM 'Shell.Application')^
 .BrowseForFolder(0,'Wartales 디렉토리를 찾을수 없습니다. Wartales가 설치된 디렉토리를 직접 선택해주세요',0,0).self.path"" || goto :error
@@ -43,10 +44,10 @@ IF NOT EXIST quickbms (
 
 echo(
 echo Try to modify the assets.pak..
-quickbms\quickbms_4gb_files.exe -w -r dune_spice_wars_extract.bms "%WARTALE_HOME%\assets.pak" asset || goto :error
+quickbms\quickbms_4gb_files.exe -w -r "%BMS_SCRIPT_PATH%" "%WARTALE_HOME%\assets.pak" asset || goto :error
 echo(
 echo Try to modify the res.pak..
-quickbms\quickbms.exe -w -r dune_spice_wars_extract.bms "%WARTALE_HOME%\res.pak" res || goto :error
+quickbms\quickbms.exe -w -r "%BMS_SCRIPT_PATH%" "%WARTALE_HOME%\res.pak" res || goto :error
 
 echo(
 echo Touch the patch time tracker..
