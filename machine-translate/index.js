@@ -388,7 +388,7 @@ function decode(texts, originalTexts) {
     for(const entity of (text.match(entityPattern) || [])) {
       decodedText = decodedText.replaceAll(entity, entityReverseMap[entity]);
     }
-    decodedTexts[path] = decodedText;
+    decodedTexts[path] = escapeXML(decodedText);
   }
   return decodedTexts;
 }

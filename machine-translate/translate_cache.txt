@@ -12643,4 +12643,3 @@
 0/cdb/17/sheet/48/Banditlair/0/subtitle/0/#text¬BANDIT LAIR¬BANDIT LAIR
 0/cdb/17/sheet/49/Wartaleswasdeveloped/0/linesTrad/0/line0/0/text/0/#text¬Wartales was developed with the support of the 'Centre national du cinéma et de l'image animée' (CNC)¬워테일즈는 '프랑스 국립 시네마 및 애니메이션 센터'(CNC)의 지원으로 개발되었습니다.
 0/cdb/17/sheet/50/Copyright/0/linesTrad/0/line0/0/text/0/#text¬©Copyright 2021 Shiro Games. All rights reserved.¬저작권 2021 시로 게임즈. 모든 권리 보유.
-0/cdb/4/sheet/1330/H1GhostPackAlazarCloneLeader/0/dialog/3/Next3/1/choices/0/line0/1/props.customTxt/0/#text¬Take¬Take

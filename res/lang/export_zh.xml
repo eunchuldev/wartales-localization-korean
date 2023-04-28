@@ -289,20 +289,16 @@
       <text>새 ::rank:: 이름 지정</text>
     </GiveRank>
     <MissingResource>
-      <desc><b>비활성: 자원이 없습니다.</b>
-      </desc>
+      <desc>&lt;bad&gt;비활성: 자원이 없습니다.&lt;/bad&gt;</desc>
     </MissingResource>
     <MissingAssign>
-      <desc><b>비활성: 누락된 할당.</b>
-      </desc>
+      <desc>&lt;bad&gt;비활성: 누락된 할당.&lt;/bad&gt;</desc>
     </MissingAssign>
     <StakeWarning>
-      <desc><b>심하게 부패됨.</b>
-      </desc>
+      <desc>&lt;bad&gt;심하게 부패됨.&lt;/bad&gt;</desc>
     </StakeWarning>
     <ToolActive>
-      <desc><b>활성.</b>
-      </desc>
+      <desc>&lt;good&gt;활성.&lt;/good&gt;</desc>
     </ToolActive>
     <Expulse>
       <text>발차기</text>
@@ -383,8 +379,7 @@
     </Companions>
     <Companion>
       <text>동료</text>
-      <desc><b>동료</b>
-      </desc>
+      <desc>&lt;b&gt;동료&lt;/b&gt;</desc>
     </Companion>
     <TroopCount>
       <text>아군 유닛 수</text>
@@ -497,7 +492,7 @@
     <Retreat>
       <text>후퇴</text>
       <desc>
-        전투에서 도망칩니다!<br/><br/>동료의 방어력이 피해를 입고 자신도 부상을 입을 위험이 있습니다.<br/><br/>또한 <b>[VALUE]</b>를 잃게 됩니다.
+        전투에서 도망칩니다!<br/><br/>동료의 방어력이 피해를 입고 자신도 부상을 입을 위험이 있습니다.<br/><br/>또한 &lt;happy&gt;[VALUE]&lt;/happy&gt;를 잃게 됩니다.
       </desc>
     </Retreat>
     <BackToMainUnit>
@@ -556,30 +551,22 @@
     </Arena_GetGrit>
     <Camp>
       <text>캠프 [KEY_Camp]</text>
-      <desc>
-        <b>캠프</b>는 동료가 휴식을 취하고 식사를 하며 다양한 활동을 할 수 있는 장소입니다.
-      </desc>
+      <desc>&lt;b&gt;캠프&lt;/b&gt;는 동료가 휴식을 취하고 식사를 하며 다양한 활동을 할 수 있는 장소입니다.</desc>
     </Camp>
     <Search>
       <text>검색</text>
     </Search>
     <Inventory>
       <text>인벤토리 [KEY_Inventory]</text>
-      <desc>
-        모든 아이템은 <b>인벤토리</b>에 저장됩니다. 항상 충분한 휴대 용량을 준비하세요.
-      </desc>
+      <desc>모든 아이템은 &lt;b&gt;인벤토리&lt;/b&gt;에 저장됩니다. 항상 충분한 휴대 용량을 준비하세요.</desc>
     </Inventory>
     <MiniMap>
       <text>세계 지도 [KEY_Minimap]</text>
-      <desc>
-        <b>세계 지도</b>로 탐험한 장소와 아직 모르는 장소를 추적하세요.
-      </desc>
+      <desc>&lt;b&gt;세계 지도&lt;/b&gt;로 탐험한 장소와 아직 모르는 장소를 추적하세요.</desc>
     </MiniMap>
     <Grimoire>
       <text>개요서 [KEY_Grimoire]</text>
-      <desc>
-        <b>도감</b>은 부대가 배울 수 있는 모든 설계도, 패턴, 레시피를 모아놓은 자료집입니다.
-      </desc>
+      <desc>&lt;b&gt;도감&lt;/b&gt;은 부대가 배울 수 있는 모든 설계도, 패턴, 레시피를 모아놓은 자료집입니다.</desc>
     </Grimoire>
     <Chat>
       <text>채팅 [KEY_Chat]</text>
@@ -702,9 +689,7 @@
     </CampRotate>
     <AttributeUpgrade>
       <text>경력 계획</text>
-      <desc>
-        레벨을 올릴 때 영향력을 사용해 적성에 1<img src="icon/UnitInfoLevelUp"/>을 추가할 수 있습니다.
-      </desc>
+      <desc>레벨을 올릴 때 영향력을 사용해 적성에 1&lt;img src="icon/UnitInfoLevelUp"/&gt;을 추가할 수 있습니다.</desc>
     </AttributeUpgrade>
     <UnitStatusLightDamage>
       <text>손상된 갑옷</text>
@@ -723,9 +708,7 @@
     </UnitStatusAfraid>
     <AptitudePoint>
       <text>적성 포인트</text>
-      <desc>
-        <b>적성 포인트</b>는 동료의 능력치를 향상시키는 데 사용할 수 있습니다.
-      </desc>
+      <desc>&lt;b&gt;적성 포인트&lt;/b&gt;는 동료의 능력치를 향상시키는 데 사용할 수 있습니다.</desc>
     </AptitudePoint>
     <ActivityInjuredUnit>
       <text>부상자</text>
@@ -755,9 +738,7 @@
       <desc>전투당 한 번만 사용할 수 있습니다.</desc>
     </Extra>
     <NotifySalary>
-      <text>
-        다음 휴식 중에는 동료에게 <b>::due::</b>를 지불해야 합니다.
-      </text>
+      <text>다음 휴식 중에는 동료에게 &lt;gold&gt;::due::&lt;/gold&gt;를 지불해야 합니다.</text>
     </NotifySalary>
     <NotifyUnitExhausted>
       <text>::name::이 탈진하여 사망했습니다. 야영지를 설치하고 휴식을 취해야 합니다!</text>
@@ -766,12 +747,12 @@
       <text>::name::이 ::job::이 되었습니다.</text>
     </NotifyLearnTrait>
     <NotifyLearnTraitReason>
-      <text><br/> ::name::이 ::job::이 되었습니다.<br/> <b>::reason::</b><br/>
+      <text><br/> ::name::이 ::job::이 되었습니다.<br/> &lt;disable&gt;::reason::&lt;/disable&gt;<br/>
       </text>
     </NotifyLearnTraitReason>
     <NotifyLearnStrategy>
       <text>
-        새로운 전략을 배웠습니다 <b>::strategy::</b>.<br/><br/>::descStrategy::
+        새로운 전략을 배웠습니다 &lt;b&gt;::strategy::&lt;/b&gt;.<br/><br/>::descStrategy::
       </text>
     </NotifyLearnStrategy>
     <NotifyGroupReward>
@@ -791,24 +772,16 @@
       <text>임무 ::name::이 만료되었습니다.</text>
     </NotifyMissionExpired>
     <NotifyMissionRewards>
-      <text>
-        미션에서 <b>::gold::</b>를 획득했습니다.
-      </text>
+      <text>미션에서 &lt;gold&gt;::gold::&lt;/gold&gt;를 획득했습니다.</text>
     </NotifyMissionRewards>
     <NotifyMerchantInfluence>
-      <text>
-        최근 거래로 유명해졌습니다! <b>::count::</b>을 획득했습니다.
-      </text>
+      <text>최근 거래로 유명해졌습니다! &lt;influence&gt;::count::&lt;/influence&gt;을 획득했습니다.</text>
     </NotifyMerchantInfluence>
     <NotifyWantedStart>
-      <text>
-        최근의 행동이 근위병의 관심을 끌었습니다. 이제 당신은 <b>수배자</b>입니다!
-      </text>
+      <text>최근의 행동이 근위병의 관심을 끌었습니다. 이제 당신은 &lt;b&gt;수배자&lt;/b&gt;입니다!</text>
     </NotifyWantedStart>
     <NotifyWantedStop>
-      <text>
-        근위대는 현재 다른 범죄자들을 쫓느라 바쁘기 때문에 당신은 더 이상 <b>수배자</b>가 아닙니다.
-      </text>
+      <text>근위대는 현재 다른 범죄자들을 쫓느라 바쁘기 때문에 당신은 더 이상 &lt;b&gt;수배자&lt;/b&gt;가 아닙니다.</text>
     </NotifyWantedStop>
     <NotifyWantedAccumulated>
       <text>많은 범죄로 인해 수배자가 되었습니다!</text>
@@ -838,19 +811,13 @@
       <text>새로운 레시피를 얻었습니다!</text>
     </NotifyNewRecipes>
     <NotifyKnowledge>
-      <text>
-        발견에 대한 진전으로 <b>지식</b> 포인트를 획득했습니다.
-      </text>
+      <text>발견에 대한 진전으로 &lt;b&gt;지식&lt;/b&gt; 포인트를 획득했습니다.</text>
     </NotifyKnowledge>
     <NotifyRenamed>
-      <text>
-        ::prev::이 <b>::name::</b>로 변경되었으며 다른 동료가 승인했습니다.
-      </text>
+      <text>::prev::이 &lt;b&gt;::name::&lt;/b&gt;로 변경되었으며 다른 동료가 승인했습니다.</text>
     </NotifyRenamed>
     <NotifyRenamedBad>
-      <text>
-        ::prev::이 <b>::name::</b>이라는 별칭을 갖게 되었으며, 동료들은 <b>정말 싫어합니다</b>.
-      </text>
+      <text>::prev::이 &lt;bad&gt;::name::&lt;/bad&gt;이라는 별칭을 갖게 되었으며, 동료들은 &lt;b&gt;정말 싫어합니다&lt;/b&gt;.</text>
     </NotifyRenamedBad>
     <NotifyNewExigence>
       <text>
@@ -859,43 +826,29 @@
     </NotifyNewExigence>
     <NotifyExigenceSucceeded>
       <text>
-        군중을 행복하게 만들었습니다!<br/><b>::amount::</b>를 얻습니다.
+        군중을 행복하게 만들었습니다!<br/>&lt;ap&gt;::amount::&lt;/ap&gt;를 얻습니다.
       </text>
     </NotifyExigenceSucceeded>
     <NotifyUnitTitle>
-      <text>
-        ::name::은 이 업적으로 <b>::newName::</b>이라는 별명을 얻었습니다. 적성 점수를 얻습니다.
-      </text>
+      <text>::name::은 이 업적으로 &lt;b&gt;::newName::&lt;/b&gt;이라는 별명을 얻었습니다. 적성 점수를 얻습니다.</text>
     </NotifyUnitTitle>
     <NotifyUnitTitleWoman>
-      <text>
-        ::name::의 위업으로 <b>::newName::</b>이라는 별명을 얻었습니다. 적성 점수를 획득합니다.
-      </text>
+      <text>::name::의 위업으로 &lt;b&gt;::newName::&lt;/b&gt;이라는 별명을 얻었습니다. 적성 점수를 획득합니다.</text>
     </NotifyUnitTitleWoman>
     <NotifyUnitTitleNeutral>
-      <text>
-        ::name::의 위업으로 <b>::newName::</b>이라는 별명을 얻었습니다. 적성 포인트를 획득합니다.
-      </text>
+      <text>::name::의 위업으로 &lt;b&gt;::newName::&lt;/b&gt;이라는 별명을 얻었습니다. 적성 포인트를 획득합니다.</text>
     </NotifyUnitTitleNeutral>
     <NotifyFirstCaptain>
-      <text>
-        동료의 경험이 많아졌으므로 이제 동료 중 한 명을 <b>대장</b>으로 임명할 수 있습니다.
-      </text>
+      <text>동료의 경험이 많아졌으므로 이제 동료 중 한 명을 &lt;b&gt;대장&lt;/b&gt;으로 임명할 수 있습니다.</text>
     </NotifyFirstCaptain>
     <NotifyNewCaptain>
-      <text>
-        이제 이전 <b>대장</b>의 후임자를 임명할 차례입니다.
-      </text>
+      <text>이제 이전 &lt;b&gt;대장&lt;/b&gt;의 후임자를 임명할 차례입니다.</text>
     </NotifyNewCaptain>
     <NotifyFirstLieutenant>
-      <text>
-        이제 동료 중 한 명을 <b>부관</b>로 임명할 수 있습니다.
-      </text>
+      <text>이제 동료 중 한 명을 &lt;b&gt;부관&lt;/b&gt;로 임명할 수 있습니다.</text>
     </NotifyFirstLieutenant>
     <NotifySecondLieutenant>
-      <text>
-        부대가 성장하고 있습니다! 이제 동료 중 한 명을 두 번째 <b>부관</b>으로 임명할 수 있습니다.
-      </text>
+      <text>부대가 성장하고 있습니다! 이제 동료 중 한 명을 두 번째 &lt;b&gt;부관&lt;/b&gt;으로 임명할 수 있습니다.</text>
     </NotifySecondLieutenant>
     <NotifyRuneDiscovered>
       <text>룬 ::item::을 발견했습니다.</text>
@@ -904,19 +857,13 @@
       <text>::item::을 획득했습니다.</text>
     </NotifyNewAntiquity>
     <NotifyNegociationSuccess>
-      <text>
-        협상에 성공했습니다! 사절단이 임무 <b>::name::</b>에 대한 당신의 제안을 수락했습니다.
-      </text>
+      <text>협상에 성공했습니다! 사절단이 임무 &lt;b&gt;::name::&lt;/b&gt;에 대한 당신의 제안을 수락했습니다.</text>
     </NotifyNegociationSuccess>
     <NotifyNegociationFailFirst>
-      <text>
-        사절이 임무 <b>::name::</b>에 대한 당신의 제안을 거절했습니다.
-      </text>
+      <text>사절이 임무 &lt;b&gt;::name::&lt;/b&gt;에 대한 당신의 제안을 거절했습니다.</text>
     </NotifyNegociationFailFirst>
     <NotifyNegociationFail>
-      <text>
-        사절이 임무 <b>::name::</b>에 대한 당신의 제안을 거절하고 <b>::value::</b>라는 반대 제안을 했습니다.
-      </text>
+      <text>사절이 임무 &lt;gold&gt;::name::&lt;/gold&gt;에 대한 당신의 제안을 거절하고 &lt;b&gt;::value::&lt;/b&gt;라는 반대 제안을 했습니다.</text>
     </NotifyNegociationFail>
     <NotifyTrackDone>
       <text>사냥이 시작되었습니다!</text>
@@ -931,14 +878,10 @@
       <text>비밀을 발견했습니다!</text>
     </NotifySecretFound>
     <NotifyRegionCompleted>
-      <text>
-        지역 <b>::name::</b>을 완료했습니다!
-      </text>
+      <text>지역 &lt;inf&gt;::name::&lt;/inf&gt;을 완료했습니다!</text>
     </NotifyRegionCompleted>
     <NotifyReachFlee>
-      <text>
-        <b>::name::</b>가 전투에서 탈출에 성공했습니다!
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 전투에서 탈출에 성공했습니다!</text>
     </NotifyReachFlee>
     <NotifyForsakenAfterCombat>
       <text>
@@ -955,89 +898,58 @@
       <text>군중은 이런 불협화음을 받아들일 준비가 되어 있지 않았어요...</text>
     </NotifyLuteFail>
     <NotifySongUnlock>
-      <text>당신의 활약에 영감을 받아 새 노래를 작곡합니다: <b>::name::</b>
-      </text>
+      <text>당신의 활약에 영감을 받아 새 노래를 작곡합니다: &lt;b&gt;::name::&lt;/b&gt;</text>
     </NotifySongUnlock>
     <NotifyMasterAngler>
-      <text>
-        <b>::name::</b>가 방금 <img src="item/::item::"/>::itemName:: x::count::를 잡았습니다!
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 방금 &lt;img src="item/::item::"/&gt;::itemName:: x::count::를 잡았습니다!</text>
     </NotifyMasterAngler>
     <NotifySnooper>
-      <text>
-        <b>::name::</b>가 <img src="item/::item::"/>::itemName:: x::count::를 발견했습니다!
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 &lt;img src="item/::item::"/&gt;::itemName:: x::count::를 발견했습니다!</text>
     </NotifySnooper>
     <NotifyFatPork>
-      <text>
-        <b>::name::</b>가 충분히 살이 쪄서 이제 도살할 수 있습니다!
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 충분히 살이 쪄서 이제 도살할 수 있습니다!</text>
     </NotifyFatPork>
     <NotifyFleeRuins>
       <text>마지막 횃불이 꺼졌습니다... 당황한 나머지 무덤을 뛰쳐나온 동료들이 다쳤습니다!</text>
     </NotifyFleeRuins>
     <NotifyWhiplashDeath>
-      <text>
-        <b>::name::</b>가 채찍에서 살아남지 못했습니다.
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 채찍에서 살아남지 못했습니다.</text>
     </NotifyWhiplashDeath>
     <NotifyWhiplashDeathMultiple>
       <text>몇몇 동료가 채찍에서 살아남지 못했습니다: ::names::.</text>
     </NotifyWhiplashDeathMultiple>
     <NotifyWhiplashCompanion>
-      <text>
-        <b>::name::</b>가 동료를 채찍질했습니다.
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 동료를 채찍질했습니다.</text>
     </NotifyWhiplashCompanion>
     <NotifyWhiplashMissTarget>
-      <text>
-        갑작스러운 돌풍에 채찍이 <b>::name::</b>에게서 날아가 <b>::newTarget::</b>의 등에 맞았습니다!
-      </text>
+      <text>갑작스러운 돌풍에 채찍이 &lt;b&gt;::name::&lt;/b&gt;에게서 날아가 &lt;b&gt;::newTarget::&lt;/b&gt;의 등에 맞았습니다!</text>
     </NotifyWhiplashMissTarget>
     <NotifyPrisonerTrustRecruit>
-      <text>
-        죄수 <b>::name::</b>이 당신을 믿고 부대에 합류했습니다!
-      </text>
+      <text>죄수 &lt;b&gt;::name::&lt;/b&gt;이 당신을 믿고 부대에 합류했습니다!</text>
     </NotifyPrisonerTrustRecruit>
     <NotifyRelationShipImprove>
-      <text>
-        <b>::name1::</b>과 <b>::name2::</b>의 관계가 좋아졌습니다!
-      </text>
+      <text>&lt;b&gt;::name1::&lt;/b&gt;과 &lt;b&gt;::name2::&lt;/b&gt;의 관계가 좋아졌습니다!</text>
     </NotifyRelationShipImprove>
     <NotifyRelationShipBestFriend>
-      <text>
-        <b>::name1::</b>과 <b>::name2::</b>는 이제 가장 친한 친구가 되었습니다!
-      </text>
+      <text>&lt;b&gt;::name1::&lt;/b&gt;과 &lt;b&gt;::name2::&lt;/b&gt;는 이제 가장 친한 친구가 되었습니다!</text>
     </NotifyRelationShipBestFriend>
     <NotifyRelationShipDeteriorate>
-      <text>
-        <b>::name1::</b>과 <b>::name2::</b>의 관계가 악화되었습니다.
-      </text>
+      <text>&lt;b&gt;::name1::&lt;/b&gt;과 &lt;b&gt;::name2::&lt;/b&gt;의 관계가 악화되었습니다.</text>
     </NotifyRelationShipDeteriorate>
     <NotifyRelationShipSnoring>
-      <text>
-        <b>::name1::</b>의 코골이가 <b>::name2::</b>를 방해했습니다.
-      </text>
+      <text>&lt;b&gt;::name1::&lt;/b&gt;의 코골이가 &lt;b&gt;::name2::&lt;/b&gt;를 방해했습니다.</text>
     </NotifyRelationShipSnoring>
     <NotifyRelationShipHate>
-      <text>
-        <b>::name1::</b>과 <b>::name2::</b>는 서로를 싫어합니다.
-      </text>
+      <text>&lt;b&gt;::name1::&lt;/b&gt;과 &lt;b&gt;::name2::&lt;/b&gt;는 서로를 싫어합니다.</text>
     </NotifyRelationShipHate>
     <NotifyRelationShipBestFriendLeaveTroop>
-      <text>
-        <b>::name::</b>는 <b>::leaver::</b>이 떠난 후 우울해졌습니다.
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;는 &lt;b&gt;::leaver::&lt;/b&gt;이 떠난 후 우울해졌습니다.</text>
     </NotifyRelationShipBestFriendLeaveTroop>
     <NotifyLooseDepressedTrait>
-      <text>
-        <b>::name::</b>는 더 이상 우울하지 않습니다.
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;는 더 이상 우울하지 않습니다.</text>
     </NotifyLooseDepressedTrait>
     <NotifyTraitUnlock>
-      <text>
-        <b>::name::</b>가 ::trait:: 특성을 잠금 해제했습니다.
-      </text>
+      <text>&lt;b&gt;::name::&lt;/b&gt;가 ::trait:: 특성을 잠금 해제했습니다.</text>
     </NotifyTraitUnlock>
     <NotifyWealthFirstAnnounce>
       <text>부대의 부유함에 대한 소문이 온 땅에 퍼지기 시작했습니다.</text>
@@ -1062,9 +974,7 @@
       <text>종교 재판소가 ::name::의 존재를 없애려는 것을 제때 막지 못했군요.</text>
     </NotifyUnitBurnt>
     <NotifyStruckByLighting>
-      <text>
-        부대는 알라자르의 눈의 감동을 받았다. 행복을 잃었다: <b>::valeur::</b>.
-      </text>
+      <text>부대는 알라자르의 눈의 감동을 받았다. 행복을 잃었다: &lt;happy&gt;::valeur::&lt;/happy&gt;.</text>
     </NotifyStruckByLighting>
     <PlayerMapPosition>
       <text>현재 위치</text>
@@ -1191,150 +1101,130 @@
     <TutoForge>
       <text>단조하는 법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/forge1.jpg"/> 금속판이 가열되고 있습니다: 금속판이 붉게 달아오르면 [LMB]을 눌러 아이템을 위조하세요.<br/><br/><img src="ui/tuto/forge2.jpg"/> 금속판에 불꽃이 튀면 [LMB]을 눌러 우수한 품질의 아이템을 위조하세요!<br/><br/><img src="ui/tuto/forge3.jpg"/> 모든 판을 적절한 타이밍에 누르면 뛰어난 품질의 아이템을 위조할 수 있습니다!
+        &lt;img src="ui/tuto/forge1.jpg"/&gt; 금속판이 가열되고 있습니다: 금속판이 붉게 달아오르면 [LMB]을 눌러 아이템을 위조하세요.<br/><br/>&lt;img src="ui/tuto/forge2.jpg"/&gt; 금속판에 불꽃이 튀면 [LMB]을 눌러 우수한 품질의 아이템을 위조하세요!<br/><br/>&lt;img src="ui/tuto/forge3.jpg"/&gt; 모든 판을 적절한 타이밍에 누르면 뛰어난 품질의 아이템을 위조할 수 있습니다!
       </desc>
     </TutoForge>
     <TutoLockpick>
       <text>자물쇠 따는 법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/lockpick1.jpg"/> 픽을 돌리고 [LMB]을 눌러 자물쇠에 삽입합니다.<br/><br/><img src="ui/tuto/lockpick2.jpg"/> 픽이 구멍에 가까울수록 더 많이 들어 올려집니다. 하지만 너무 많이 흔들리면 부러질 수 있습니다.
+        &lt;img src="ui/tuto/lockpick1.jpg"/&gt; 픽을 돌리고 [LMB]을 눌러 자물쇠에 삽입합니다.<br/><br/>&lt;img src="ui/tuto/lockpick2.jpg"/&gt; 픽이 구멍에 가까울수록 더 많이 들어 올려집니다. 하지만 너무 많이 흔들리면 부러질 수 있습니다.
       </desc>
     </TutoLockpick>
     <TutoFishing>
       <text>낚시하는 법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/fishing1.jpg"/> [LMB]으로 낚싯줄을 물속에 던져 낚싯바늘을 사용하세요.<br/><br/><img src="ui/tuto/fishing2.jpg"/> 물고기가 낚였으면 [LMB]을 눌러 줄을 중앙에 단단히 고정합니다. 물고기가 도망가지 않도록 조심하세요!
+        &lt;img src="ui/tuto/fishing1.jpg"/&gt; [LMB]으로 낚싯줄을 물속에 던져 낚싯바늘을 사용하세요.<br/><br/>&lt;img src="ui/tuto/fishing2.jpg"/&gt; 물고기가 낚였으면 [LMB]을 눌러 줄을 중앙에 단단히 고정합니다. 물고기가 도망가지 않도록 조심하세요!
       </desc>
     </TutoFishing>
     <TutoMining>
       <text>채집 방법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/mining1.jpg"/> 채굴 원에 커서를 올려놓으세요.<br/><br/><img src="ui/tuto/mining2.jpg"/> 녹색 원이 회색 원과 겹칠 때 [LMB]을 눌러 최대한 많은 광석을 채집하세요!
+        &lt;img src="ui/tuto/mining1.jpg"/&gt; 채굴 원에 커서를 올려놓으세요.<br/><br/>&lt;img src="ui/tuto/mining2.jpg"/&gt; 녹색 원이 회색 원과 겹칠 때 [LMB]을 눌러 최대한 많은 광석을 채집하세요!
       </desc>
     </TutoMining>
     <TutoRetreat>
       <text>전투 및 후퇴</text>
-      <desc>
-        <img src="ui/tuto/retreat.jpg"/> 전투에서 지고 있다고 판단되면 후퇴 버튼을 눌러 전투를 종료할 수 있습니다. 동료들은 피해를 입지만 살아남을 수 있습니다!
-      </desc>
+      <desc>&lt;img src="ui/tuto/retreat.jpg"/&gt; 전투에서 지고 있다고 판단되면 후퇴 버튼을 눌러 전투를 종료할 수 있습니다. 동료들은 피해를 입지만 살아남을 수 있습니다!</desc>
     </TutoRetreat>
     <TutoTerror>
       <text>공포!</text>
-      <desc>
-        <img src="ui/tuto/terror.jpg"/> 공포 상태에서 유닛이 도망치면 전투에서 사라지지만 내 부대를 떠나지 않습니다. 전투가 끝나면 다시 나타납니다.
-      </desc>
+      <desc>&lt;img src="ui/tuto/terror.jpg"/&gt; 공포 상태에서 유닛이 도망치면 전투에서 사라지지만 내 부대를 떠나지 않습니다. 전투가 끝나면 다시 나타납니다.</desc>
     </TutoTerror>
     <TutoRats>
       <text>쥐의 습격!</text>
       <desc>
-        <img src="ui/tuto/rats1.jpg"/> 여왕을 처치하면 전투가 종료됩니다.<br/><br/><img src="ui/tuto/rats2.jpg"/> 매 라운드가 끝날 때마다 여왕은 수많은 쥐를 불러들여 자신을 도와줍니다.<br/><br/><img src="ui/tuto/rats3.jpg"/> 여왕을 처치하기 전에 전염병에 감염된 파생물을 최대한 많이 파괴하고 보상을 더 많이 획득하세요!
+        &lt;img src="ui/tuto/rats1.jpg"/&gt; 여왕을 처치하면 전투가 종료됩니다.<br/><br/>&lt;img src="ui/tuto/rats2.jpg"/&gt; 매 라운드가 끝날 때마다 여왕은 수많은 쥐를 불러들여 자신을 도와줍니다.<br/><br/>&lt;img src="ui/tuto/rats3.jpg"/&gt; 여왕을 처치하기 전에 전염병에 감염된 파생물을 최대한 많이 파괴하고 보상을 더 많이 획득하세요!
       </desc>
     </TutoRats>
     <TutoElite>
       <text>엘리트!</text>
-      <desc>
-        <img src="ui/tuto/elite.jpg"/> 정예는 라운드 중에 두 번 이상 행동할 수 있는 독특한 적입니다. 턴 순서를 주의 깊게 살펴서 전략을 준비하세요.
-      </desc>
+      <desc>&lt;img src="ui/tuto/elite.jpg"/&gt; 정예는 라운드 중에 두 번 이상 행동할 수 있는 독특한 적입니다. 턴 순서를 주의 깊게 살펴서 전략을 준비하세요.</desc>
     </TutoElite>
     <TutoImportantUnit>
       <text>중요한 캐릭터!</text>
-      <desc>
-        <img src="ui/tuto/accompany.jpg"/> 동행하는 캐릭터 중 일부는 중요합니다. 이들이 죽으면 전투를 다시 시작해야 합니다. 그들을 보호하세요!
-      </desc>
+      <desc>&lt;img src="ui/tuto/accompany.jpg"/&gt; 동행하는 캐릭터 중 일부는 중요합니다. 이들이 죽으면 전투를 다시 시작해야 합니다. 그들을 보호하세요!</desc>
     </TutoImportantUnit>
     <TutoHideout>
       <text>은신처!</text>
       <desc>
-        <img src="ui/tuto/hideout1.jpg"/> 은신처는 적으로 가득 찬 곳입니다. 활성화된 해골이 많을수록 은신처는 더 위험합니다.<br/><br/><img src="ui/tuto/hideout2.jpg"/> 은신처에 있는 적의 수를 줄이려면 해당 지역에 해골이 있는 무리를 찾아보세요. 먼저 해골을 제거하면 마지막 공격이 더 쉬워집니다.
+        &lt;img src="ui/tuto/hideout1.jpg"/&gt; 은신처는 적으로 가득 찬 곳입니다. 활성화된 해골이 많을수록 은신처는 더 위험합니다.<br/><br/>&lt;img src="ui/tuto/hideout2.jpg"/&gt; 은신처에 있는 적의 수를 줄이려면 해당 지역에 해골이 있는 무리를 찾아보세요. 먼저 해골을 제거하면 마지막 공격이 더 쉬워집니다.
       </desc>
     </TutoHideout>
     <TutoTired>
       <text>피로도!</text>
-      <desc>
-        <img src="ui/tuto/tired.jpg"/> 그룹이 너무 지쳤습니다. 계속 걷다가는 동료가 탈진해 죽을지도 모릅니다! 정말 쉬어야 합니다.
-      </desc>
+      <desc>&lt;img src="ui/tuto/tired.jpg"/&gt; 그룹이 너무 지쳤습니다. 계속 걷다가는 동료가 탈진해 죽을지도 모릅니다! 정말 쉬어야 합니다.</desc>
     </TutoTired>
     <TutoRest>
       <text>쉬세요!</text>
       <desc>
-        <img src="ui/tuto/rest1.jpg"/> 캠프에 있는 캠프파이어에서 휴식을 취할 수 있습니다. 부대원에게 먹이를 주고 임금을 지급하여 불안한 상황을 피하세요!<br/><br/><img src="ui/tuto/rest2.jpg"/> 휴식을 취하면 피로 미터가 충전되고 용맹 포인트가 회복되며 시간이 빨라집니다.
+        &lt;img src="ui/tuto/rest1.jpg"/&gt; 캠프에 있는 캠프파이어에서 휴식을 취할 수 있습니다. 부대원에게 먹이를 주고 임금을 지급하여 불안한 상황을 피하세요!<br/><br/>&lt;img src="ui/tuto/rest2.jpg"/&gt; 휴식을 취하면 피로 미터가 충전되고 용맹 포인트가 회복되며 시간이 빨라집니다.
       </desc>
     </TutoRest>
     <TutoCombatFirst>
       <text>전투!</text>
-      <desc><br/> <img src="ui/tuto/combatfirst1.jpg"/> 자신의 차례가 오면 라운드에서 아직 사용하지 않은 유닛을 플레이합니다.<br/><br/> <img src="ui/tuto/combatfirst2.jpg"/> 그러면 어떤 적이 등장할지 알 수 있습니다. 전략을 준비하세요!<br/>
+      <desc><br/> &lt;img src="ui/tuto/combatfirst1.jpg"/&gt; 자신의 차례가 오면 라운드에서 아직 사용하지 않은 유닛을 플레이합니다.<br/><br/> &lt;img src="ui/tuto/combatfirst2.jpg"/&gt; 그러면 어떤 적이 등장할지 알 수 있습니다. 전략을 준비하세요!<br/>
       </desc>
     </TutoCombatFirst>
     <TutoEngagement>
       <text>교전!</text>
       <desc>
-        <img src="ui/tuto/engagement1.jpg"/> 자유 상태의 적에게 근접 공격을 가하면 교전이 발생합니다.<br/><br/><img src="ui/tuto/engagement2.jpg"/> 교전 중인 유닛은 교전 중인 상대만 공격할 수 있으며, 치명타를 입을 확률이 높습니다. 다른 유닛과 함께 이 점을 활용하세요!<br/><br/><img src="ui/tuto/engagement3.jpg"/> 교전 중인 유닛이 등을 노출하고 있습니다. 뒤에서 공격하면 보너스를 받을 수 있습니다.
+        &lt;img src="ui/tuto/engagement1.jpg"/&gt; 자유 상태의 적에게 근접 공격을 가하면 교전이 발생합니다.<br/><br/>&lt;img src="ui/tuto/engagement2.jpg"/&gt; 교전 중인 유닛은 교전 중인 상대만 공격할 수 있으며, 치명타를 입을 확률이 높습니다. 다른 유닛과 함께 이 점을 활용하세요!<br/><br/>&lt;img src="ui/tuto/engagement3.jpg"/&gt; 교전 중인 유닛이 등을 노출하고 있습니다. 뒤에서 공격하면 보너스를 받을 수 있습니다.
       </desc>
     </TutoEngagement>
     <TutoEncircling>
       <text>포위당했습니다!</text>
-      <desc>
-        <img src="ui/tuto/encircling.jpg"/> 교전 중인 적 유닛을 두 명의 아군으로 포위하면 보너스를 받습니다!
-      </desc>
+      <desc>&lt;img src="ui/tuto/encircling.jpg"/&gt; 교전 중인 적 유닛을 두 명의 아군으로 포위하면 보너스를 받습니다!</desc>
     </TutoEncircling>
     <TutoSupport>
       <text>지원!</text>
-      <desc>
-        <img src="ui/tuto/support.jpg"/> 교전 중인 적 유닛을 두 명의 아군으로 포위하여 보너스를 획득하세요!
-      </desc>
+      <desc>&lt;img src="ui/tuto/support.jpg"/&gt; 교전 중인 적 유닛을 두 명의 아군으로 포위하여 보너스를 획득하세요!</desc>
     </TutoSupport>
     <TutoDying>
       <text>죽어가는 유닛!</text>
-      <desc>
-        <img src="ui/tuto/dying.jpg"/> 죽어가는 유닛은 이동만 할 수 있습니다. 피해를 입기 전에 치료하면 다시 싸울 수 있습니다. 그렇지 않으면 영구적으로 패배합니다.
-      </desc>
+      <desc>&lt;img src="ui/tuto/dying.jpg"/&gt; 죽어가는 유닛은 이동만 할 수 있습니다. 피해를 입기 전에 치료하면 다시 싸울 수 있습니다. 그렇지 않으면 영구적으로 패배합니다.</desc>
     </TutoDying>
     <TutoRuin>
       <text>빛!</text>
       <desc>
-        <img src="ui/tuto/ruin1.jpg"/> 무덤을 탐험할 때 길을 밝혀줄 횃불이 필요합니다.<br/><br/><img src="ui/tuto/ruin2.jpg"/> 빛이 소멸하면 부대는 당황하여 무덤에서 도망칩니다.
+        &lt;img src="ui/tuto/ruin1.jpg"/&gt; 무덤을 탐험할 때 길을 밝혀줄 횃불이 필요합니다.<br/><br/>&lt;img src="ui/tuto/ruin2.jpg"/&gt; 빛이 소멸하면 부대는 당황하여 무덤에서 도망칩니다.
       </desc>
     </TutoRuin>
     <TutoCapture>
       <text>점령하세요!</text>
       <desc>
-        <img src="ui/tuto/capture1.jpg"/> 적의 생명력이 절반 이하로 남았을 때 사슬이나 밧줄을 사용해 생포하세요!<br/><br/><img src="ui/tuto/capture2.jpg"/> 교전 중인 적 옆에 유닛 하나를 배치하여 생포를 시도하세요.
+        &lt;img src="ui/tuto/capture1.jpg"/&gt; 적의 생명력이 절반 이하로 남았을 때 사슬이나 밧줄을 사용해 생포하세요!<br/><br/>&lt;img src="ui/tuto/capture2.jpg"/&gt; 교전 중인 적 옆에 유닛 하나를 배치하여 생포를 시도하세요.
       </desc>
     </TutoCapture>
     <TutoPassiveFaction>
       <text>진영 패시브 기술</text>
-      <desc>
-        <img src="ui/tuto/factionpassive.jpg"/> 이 레벨에서는 적들이 더욱 복잡하고 특화된 전투 전략을 펼칩니다!
-      </desc>
+      <desc>&lt;img src="ui/tuto/factionpassive.jpg"/&gt; 이 레벨에서는 적들이 더욱 복잡하고 특화된 전투 전략을 펼칩니다!</desc>
     </TutoPassiveFaction>
     <TutoFlee>
       <text>탈출 모드</text>
       <desc>
-        <img src="ui/tuto/modereach1.jpg"/> 탈출 모드에서는 모든 캐릭터와 함께 탈출 구역에 도달해야 하며, 더 이상 후퇴할 수 없습니다!<br/><br/><img src="ui/tuto/modereach2.jpg"/> 목표 구역에 도착하면 도망 스킬을 사용합니다.
+        &lt;img src="ui/tuto/modereach1.jpg"/&gt; 탈출 모드에서는 모든 캐릭터와 함께 탈출 구역에 도달해야 하며, 더 이상 후퇴할 수 없습니다!<br/><br/>&lt;img src="ui/tuto/modereach2.jpg"/&gt; 목표 구역에 도착하면 도망 스킬을 사용합니다.
       </desc>
     </TutoFlee>
     <TutoForsakenWorld>
       <text>버려진 마을 (탐험)</text>
-      <desc>
-        <img src="ui/tuto/forsakenworld.jpg"/> 정찰대를 구성하여 역병에 걸린 자들의 관심을 끌지 않도록 최대한 조용히 마을을 탐험하세요.
-      </desc>
+      <desc>&lt;img src="ui/tuto/forsakenworld.jpg"/&gt; 정찰대를 구성하여 역병에 걸린 자들의 관심을 끌지 않도록 최대한 조용히 마을을 탐험하세요.</desc>
     </TutoForsakenWorld>
     <TutoForsakenFight>
       <text>버려진 마을 (전투)</text>
       <desc>
-        <img src="ui/tuto/forsakenfight1.jpg"/> 역병에 걸린 자들이 건물 안으로 들어와 몰려오는 것을 막기 위해 입구를 막으세요!<br/><br/><img src="ui/tuto/forsakenfight2.jpg"/> 탈출구 찾기 스킬을 사용해 게이지를 바꾸고 건물을 탈출하세요!
+        &lt;img src="ui/tuto/forsakenfight1.jpg"/&gt; 역병에 걸린 자들이 건물 안으로 들어와 몰려오는 것을 막기 위해 입구를 막으세요!<br/><br/>&lt;img src="ui/tuto/forsakenfight2.jpg"/&gt; 탈출구 찾기 스킬을 사용해 게이지를 바꾸고 건물을 탈출하세요!
       </desc>
     </TutoForsakenFight>
     <TutoLute>
       <text>류트를 연주하는 법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/lute1.jpg"/> 각 현의 음표에 맞춰 [LMB]을 눌러 악보를 연주하세요.<br/><br/><img src="ui/tuto/lute2.jpg"/> 연주의 질에 따라 보상이 달라집니다!
+        &lt;img src="ui/tuto/lute1.jpg"/&gt; 각 현의 음표에 맞춰 [LMB]을 눌러 악보를 연주하세요.<br/><br/>&lt;img src="ui/tuto/lute2.jpg"/&gt; 연주의 질에 따라 보상이 달라집니다!
       </desc>
     </TutoLute>
     <TutoWoodCut>
       <text>나무를 자르는 방법을 배워보세요!</text>
       <desc>
-        <img src="ui/tuto/woodcut1.jpg"/> 나무를 자르는 원에 커서를 놓으세요.<br/><br/><img src="ui/tuto/woodcut2.jpg"/> 녹색 원이 회색 원과 겹칠 때 [LMB]을 누르면 더 많은 나무를 모을 수 있어요!
+        &lt;img src="ui/tuto/woodcut1.jpg"/&gt; 나무를 자르는 원에 커서를 놓으세요.<br/><br/>&lt;img src="ui/tuto/woodcut2.jpg"/&gt; 녹색 원이 회색 원과 겹칠 때 [LMB]을 누르면 더 많은 나무를 모을 수 있어요!
       </desc>
     </TutoWoodCut>
     <TutoSteal>
@@ -1346,7 +1236,7 @@
     <TutoSport>
       <text>루스테 플레이하기</text>
       <desc>
-        <img src="ui/tuto/sport1.jpg"/> 공을 잡고 상대편 엔드존으로 가져가면 득점합니다. <br/>게임은 8라운드로 나뉩니다. 새로운 라운드가 시작될 때마다 지상에 있는 모든 유닛이 다시 일어서며, 이미 플레이한 유닛이 공을 잡으면 다시 플레이할 수 있습니다.
+        &lt;img src="ui/tuto/sport1.jpg"/&gt; 공을 잡고 상대편 엔드존으로 가져가면 득점합니다. <br/>게임은 8라운드로 나뉩니다. 새로운 라운드가 시작될 때마다 지상에 있는 모든 유닛이 다시 일어서며, 이미 플레이한 유닛이 공을 잡으면 다시 플레이할 수 있습니다.
       </desc>
     </TutoSport>
     <TutoUltimate>
@@ -2833,20 +2723,18 @@
       <npc.name>위대한 해결사 솔비우스</npc.name>
       <dialog>
         <Start>
-          <text>
-            어머나... 용병 여러분, 이 퍼즐을 <b>풀기 힘들어 보이네요</b>!
-          </text>
+          <text>어머나... 용병 여러분, 이 퍼즐을 &lt;narrator&gt;풀기 힘들어 보이네요&lt;/narrator&gt;!</text>
         </Start>
         <Next1>
           <text>
-            다행히도 <b>세계 최고의 해결사 솔비우스</b>가 기꺼이 도와주겠소. <br/>보잘것없는 돈으로 당신을 당황하게 만든 이 퍼즐을 해결해 주겠소!
+            다행히도 &lt;narrator&gt;세계 최고의 해결사 솔비우스&lt;/narrator&gt;가 기꺼이 도와주겠소. <br/>보잘것없는 돈으로 당신을 당황하게 만든 이 퍼즐을 해결해 주겠소!
           </text>
           <choices>
             <line0>
-              <props.tipText>솔비우스에게 돈을 주고 퍼즐을 &lt;i&gt;해결&lt;/i&gt;하세요.</props.tipText>
+              <props.tipText>솔비우스에게 돈을 주고 퍼즐을 &amp;lt;i&amp;gt;해결&amp;lt;/i&amp;gt;하세요.</props.tipText>
             </line0>
             <line1>
-              <props.tipText>솔비우스에게 돈을 지불하지 않고 퍼즐을 &lt;i&gt;해결&lt;/i&gt;하도록 설득하세요.</props.tipText>
+              <props.tipText>솔비우스에게 돈을 지불하지 않고 퍼즐을 &amp;lt;i&amp;gt;해결&amp;lt;/i&amp;gt;하도록 설득하세요.</props.tipText>
             </line1>
           </choices>
         </Next1>
@@ -2928,8 +2816,7 @@
     <MosquitoTrigger>
       <dialog>
         <MosquitoSting>
-          <text>::name::은 카디널 모기에 물렸어요: <b>::injury::</b>
-          </text>
+          <text>::name::은 카디널 모기에 물렸어요: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </MosquitoSting>
       </dialog>
     </MosquitoTrigger>
@@ -2999,7 +2886,7 @@
         </CompletedDiff2>
         <CompletedDiff3>
           <text>
-            <b>싸움을 사랑해서</b>라고 한 건 돈을 받지 않기 때문입니다. <br/>돈을 받을 자격이 없는 건 아니지만, 보상은 다 받으셨잖아요!
+            &lt;i&gt;싸움을 사랑해서&lt;/i&gt;라고 한 건 돈을 받지 않기 때문입니다. <br/>돈을 받을 자격이 없는 건 아니지만, 보상은 다 받으셨잖아요!
           </text>
         </CompletedDiff3>
         <ArenaAgain>
@@ -3057,13 +2944,11 @@
       <npc.name>국경 수비대 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>
-            정말 <b>진짜로</b> 알라자르에 들어가고 싶나? <b>눈의 심판</b>에도 불구하고?
-          </text>
+          <text>정말 &lt;i&gt;진짜로&lt;/i&gt; 알라자르에 들어가고 싶나? &lt;narrator&gt;눈의 심판&lt;/narrator&gt;에도 불구하고?</text>
         </Start>
         <Give>
           <text>
-            좋아, 마음대로 해...<br/><b>심문소</b>에 안부 전해줘.
+            좋아, 마음대로 해...<br/>&lt;narrator&gt;심문소&lt;/narrator&gt;에 안부 전해줘.
           </text>
         </Give>
         <End>
@@ -3075,7 +2960,7 @@
       <props.goals>
         <line0>
           <title>알라자르에게</title>
-          <props.helpTip>통행료(&lt;gold&gt;200&lt;/gold&gt; 또는 &lt;img src=&quot;item/Pass&quot;/&gt;&lt;b&gt;국경 통과권&lt;/b&gt;)를 지불하세요.</props.helpTip>
+          <props.helpTip>통행료(&amp;lt;gold&amp;gt;200&amp;lt;/gold&amp;gt; 또는 &amp;lt;img src=&quot;item/Pass&quot;/&amp;gt;&amp;lt;b&amp;gt;국경 통과권&amp;lt;/b&amp;gt;)를 지불하세요.</props.helpTip>
         </line0>
       </props.goals>
     </A1BorderPostGuard1>
@@ -3099,9 +2984,7 @@
           <text>며칠 후에 다시 오면 수리가 끝날 겁니다.</text>
         </Given2>
         <Notification>
-          <text>
-            <b>피타 다리</b>가 재건되었습니다.
-          </text>
+          <text>&lt;narrator&gt;피타 다리&lt;/narrator&gt;가 재건되었습니다.</text>
         </Notification>
       </dialog>
       <props.goals>
@@ -3109,9 +2992,7 @@
           <title>신성한 파열</title>
           <props.helpTips>
             <line0>
-              <text>
-                피타교를 재건하는 일꾼들에게 <b>20 <img src="item/Sandstone"/>모래돌</b>을 전해주자.
-              </text>
+              <text>피타교를 재건하는 일꾼들에게 &lt;b&gt;20 &lt;img src="item/Sandstone"/&gt;모래돌&lt;/b&gt;을 전해주자.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -3273,9 +3154,7 @@
     <A1CelestiumInquisitionEndPrince>
       <dialog>
         <Start>
-          <text>
-            드디어 <b>셀레스티움</b>을 발견했군요.
-          </text>
+          <text>드디어 &lt;narrator&gt;셀레스티움&lt;/narrator&gt;을 발견했군요.</text>
         </Start>
         <Next1>
           <text>잠긴 문이 호기심을 자극할 거라 생각했지. 열어둘 걸 그랬나...</text>
@@ -3291,9 +3170,7 @@
           <text>여긴 뭐죠, 에어랄드 왕자님? 대답해!</text>
         </Next1>
         <Next2>
-          <text>
-            말했듯이, <b>셀레스티움</b>이야. 알라자리아의 최첨단 기술과 고대인의 기술이 만나는 특별한 배움의 장소야. 지식의 보고죠.
-          </text>
+          <text>말했듯이, &lt;narrator&gt;셀레스티움&lt;/narrator&gt;이야. 알라자리아의 최첨단 기술과 고대인의 기술이 만나는 특별한 배움의 장소야. 지식의 보고죠.</text>
         </Next2>
         <Next3>
           <text>자세히 설명할 수 있지만 이해하실지 모르겠네요. 넌 농민들을 불태우는 데만 능하잖아.</text>
@@ -3434,9 +3311,7 @@
           <text>넌 네가 무슨 짓을 하는지도 몰라! 이 유물만이 눈의 심판을 막을 수 있는 유일한 기회야!</text>
         </Next1>
         <Next2>
-          <text>
-            유일한 기회라고? 뻔뻔한 거짓말쟁이, 에어랄드 왕자! 용병들에게도 그렇게 말했나? <BR/>학자들에게 물어볼 시간이 있었어. 그들은 빛의 신의 분노를 불러일으킨 게 바로 이 '물건'이라고 인정했어!
-          </text>
+          <text>유일한 기회라고? 뻔뻔한 거짓말쟁이, 에어랄드 왕자! 용병들에게도 그렇게 말했나? &lt;BR/&gt;학자들에게 물어볼 시간이 있었어. 그들은 빛의 신의 분노를 불러일으킨 게 바로 이 '물건'이라고 인정했어!</text>
         </Next2>
         <Next3>
           <text>
@@ -3452,7 +3327,8 @@
           <text>쯧쯧! 차라리 악어와 대화하는 게 낫겠어!</text>
         </Next5>
         <Next6>
-          <text>용병들! 광신도들은 너희가 처리해. <br/>나는 학자들을 지휘하겠다. <b>기둥을 무력화시킬 때까지 시간을 벌어라.</b>
+          <text>
+            용병들! 광신도들은 너희가 처리해. <br/>나는 학자들을 지휘하겠다. &lt;narrator&gt;기둥을 무력화시킬 때까지 시간을 벌어라.&lt;/narrator&gt;
           </text>
         </Next6>
       </dialog>
@@ -3541,9 +3417,7 @@
       <npc.name>베르틸드 교수</npc.name>
       <dialog>
         <Start>
-          <text>
-            국경을 넘어가는 길에 <b>눈의 심판</b>이 마구간을 강타하는 걸 봤어요.
-          </text>
+          <text>국경을 넘어가는 길에 &lt;narrator&gt;눈의 심판&lt;/narrator&gt;이 마구간을 강타하는 걸 봤어요.</text>
         </Start>
         <Next1>
           <text>동료 중 한 명을 뉴아스텔로 보내 도움을 요청했지만 시간이 촉박합니다. 아직 잔해 아래 있는 생존자들이 질식할지도 몰라요.</text>
@@ -3595,8 +3469,7 @@
       <npc.name>유치한 프레스코</npc.name>
       <dialog>
         <Start>
-          <text><b>이 프레스코화는 너무 오래되어서 시간이 지남에 따라 색이 바랬어요. </b>
-          </text>
+          <text>&lt;narrator&gt;이 프레스코화는 너무 오래되어서 시간이 지남에 따라 색이 바랬어요. &lt;/narrator&gt;</text>
         </Start>
       </dialog>
     </A1FarmFatherPortrait>
@@ -3617,9 +3490,7 @@
     <A1FarmFatherSettingManager>
       <dialog>
         <Notif>
-          <text>
-            <b>옛 글로리오의 양우리</b>에서 끔찍한 소리가 들린다는 보고가 있었습니다.
-          </text>
+          <text>&lt;narrator&gt;옛 글로리오의 양우리&lt;/narrator&gt;에서 끔찍한 소리가 들린다는 보고가 있었습니다.</text>
         </Notif>
       </dialog>
       <props.goals>
@@ -3805,7 +3676,7 @@
         </Start>
         <Next1>
           <text>
-            <b>도둑은 정직한 자를 섬기고, 패자는 승자를 섬겨야 한다!</b><br/>이것이 알라자리아의 방식이다. 언제나 그랬죠.
+            &lt;i&gt;도둑은 정직한 자를 섬기고, 패자는 승자를 섬겨야 한다!&lt;/i&gt;<br/>이것이 알라자리아의 방식이다. 언제나 그랬죠.
           </text>
         </Next1>
         <Next2>
@@ -3830,8 +3701,7 @@
       <npc.name>노예 세버트</npc.name>
       <dialog>
         <Start>
-          <text>우릴 풀어줄 수도 있겠지... 하지만 그럼 우린 어떻게 해야 하지? <b>어떻게 하라그에 돌아갈 수 있지? </b>
-          </text>
+          <text>우릴 풀어줄 수도 있겠지... 하지만 그럼 우린 어떻게 해야 하지? &lt;narrator&gt;어떻게 하라그에 돌아갈 수 있지? &lt;/narrator&gt;</text>
         </Start>
         <Next1>
           <text>
@@ -3924,9 +3794,7 @@
           <title>해방자</title>
           <props.helpTips>
             <line0>
-              <text>
-                밤에 <b>아이스 베이 어장</b>으로 가서 노예들을 해방시키자.
-              </text>
+              <text>밤에 &lt;narrator&gt;아이스 베이 어장&lt;/narrator&gt;으로 가서 노예들을 해방시키자.</text>
             </line0>
             <line1>
               <text>노예들을 해방시키세요.</text>
@@ -4082,9 +3950,7 @@
           </choices>
         </Next1>
         <Pay1>
-          <text>
-            이제 동료는 자유입니다. 하지만 <b>모든 것을 보는 눈</b>이 당신의 일거수일투족을 지켜보고 있다는 것을 기억하세요.
-          </text>
+          <text>이제 동료는 자유입니다. 하지만 &lt;b&gt;모든 것을 보는 눈&lt;/b&gt;이 당신의 일거수일투족을 지켜보고 있다는 것을 기억하세요.</text>
         </Pay1>
         <Give1>
           <text>그거... 정말 친절하군요! 이 질 좋은 나무는 환하게 타오를 거야!</text>
@@ -4152,7 +4018,7 @@
         </End1>
         <End2>
           <text>
-            왜냐하면 우리는 <b>전쟁</b>을 할 것이기 때문이다!<br/>빛의 신을 위한 전쟁이다.<br/>드롬바흐와 에어랄드 아드르 알라자르 왕자, 그가 우리에게 숨기려 하는 신성모독에 맞서는 전쟁이다!
+            왜냐하면 우리는 &lt;i&gt;전쟁&lt;/i&gt;을 할 것이기 때문이다!<br/>빛의 신을 위한 전쟁이다.<br/>드롬바흐와 에어랄드 아드르 알라자르 왕자, 그가 우리에게 숨기려 하는 신성모독에 맞서는 전쟁이다!
           </text>
         </End2>
         <End3>
@@ -4194,7 +4060,7 @@
         </Next2>
         <Next3>
           <text>
-            종교 재판소의 일반적인 방법으로는 빛의 신을 달래지 못할 것 같아. 드롬바흐의 눈의 심판은 <b>다르다</b>. 더 자주, 더 강력하게... 그 이유를 알고 싶어요! <br/>따라올 준비가 됐나요?
+            종교 재판소의 일반적인 방법으로는 빛의 신을 달래지 못할 것 같아. 드롬바흐의 눈의 심판은 &lt;i&gt;다르다&lt;/i&gt;. 더 자주, 더 강력하게... 그 이유를 알고 싶어요! <br/>따라올 준비가 됐나요?
           </text>
         </Next3>
         <Alt1>
@@ -4203,9 +4069,7 @@
           </text>
         </Alt1>
         <Alt2>
-          <text>
-            눈의 심판은 이 카운티에서 아주 <b>이상한 존재</b>입니다. 선술집과 마구간을 파괴하고 수십 명을 죽이고... 다른 곳에서는 빛의 신이 기껏해야 일 년에 한두 번, 그것도 소수의 이교도에게만 나타나죠.
-          </text>
+          <text>눈의 심판은 이 카운티에서 아주 &lt;i&gt;이상한 존재&lt;/i&gt;입니다. 선술집과 마구간을 파괴하고 수십 명을 죽이고... 다른 곳에서는 빛의 신이 기껏해야 일 년에 한두 번, 그것도 소수의 이교도에게만 나타나죠.</text>
         </Alt2>
         <Alt3>
           <text>
@@ -4233,16 +4097,14 @@
       <npc.name>소피 아드르 알라자르의 회고록 - I</npc.name>
       <dialog>
         <Start>
-          <text><b>역병이 처음 나타났을 때, 우리는 역병에 대해 아무것도 몰랐어요. 군단과 하라그 추적자에게 영향을 미치는 먼 나라의 재앙이었으며, 전시의 질병에 지나지 않는다고 생각했죠.</b>
-          </text>
+          <text>&lt;narrator&gt;역병이 처음 나타났을 때, 우리는 역병에 대해 아무것도 몰랐어요. 군단과 하라그 추적자에게 영향을 미치는 먼 나라의 재앙이었으며, 전시의 질병에 지나지 않는다고 생각했죠.&lt;/narrator&gt;</text>
         </Start>
         <Next1>
-          <text>
-            <b>그러나 전선에서 점점 더 놀라운 보고가 들어오기 시작했습니다. 연대 전체가 오염되었다는 것이었습니다. 처음엔 그저 병사들의 기분을 상하게 했던 이 질병은 이제 병사들끼리 서로를 잡아먹고 있었습니다</b>.
-          </text>
+          <text>&lt;narrator&gt;그러나 전선에서 점점 더 놀라운 보고가 들어오기 시작했습니다. 연대 전체가 오염되었다는 것이었습니다. 처음엔 그저 병사들의 기분을 상하게 했던 이 질병은 이제 병사들끼리 서로를 잡아먹고 있었습니다&lt;/narrator&gt;.</text>
         </Next1>
         <Next3>
-          <text><b>수많은 치료법과 학자들의 기발한 아이디어에도 불구하고 페스트는 막을 수 없는 것처럼 보였습니다. 군단은 전멸하고 말았습니다.<br/>알라자르를 정복하고 북왕국을 멸망시킨 군대는 하라그의 수도 성문에서 자연스레 몰살당했습니다.</b>
+          <text>
+            &lt;narrator&gt;수많은 치료법과 학자들의 기발한 아이디어에도 불구하고 페스트는 막을 수 없는 것처럼 보였습니다. 군단은 전멸하고 말았습니다.<br/>알라자르를 정복하고 북왕국을 멸망시킨 군대는 하라그의 수도 성문에서 자연스레 몰살당했습니다.&lt;/narrator&gt;
           </text>
         </Next3>
       </dialog>
@@ -4251,12 +4113,10 @@
       <npc.name>소피 아드르 알라자르의 회고록 - II</npc.name>
       <dialog>
         <Start>
-          <text><b>전쟁이 끝난 후에도 중요한 시기가 이어졌다. 역병이 후퇴하는 군단과 함께 하라그의 국경을 넘었습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;전쟁이 끝난 후에도 중요한 시기가 이어졌다. 역병이 후퇴하는 군단과 함께 하라그의 국경을 넘었습니다.&lt;/narrator&gt;</text>
         </Start>
         <Next1>
-          <text><b>학자들은 치료법을 찾으려 했지만 헛수고였습니다. 이 고통이 어디에서 비롯되었는지 이해할 수 없었죠. 참전 용사들의 이야기는 뒤죽박죽이고 단편적이며 미신으로 가득했습니다. 절망에 빠진 저는 드롬바흐를 떠나 루덴으로 향했습니다...</b>
-          </text>
+          <text>&lt;narrator&gt;학자들은 치료법을 찾으려 했지만 헛수고였습니다. 이 고통이 어디에서 비롯되었는지 이해할 수 없었죠. 참전 용사들의 이야기는 뒤죽박죽이고 단편적이며 미신으로 가득했습니다. 절망에 빠진 저는 드롬바흐를 떠나 루덴으로 향했습니다...&lt;/narrator&gt;</text>
         </Next1>
         <Next3>
           <text>여러 페이지가 찢어졌다.</text>
@@ -4270,9 +4130,7 @@
           <text>저명한 소피 아드르 알라자르가 페스트를 물리친 곳이 바로 이 벽 사이입니다. 그 이후로 우리는 그녀의 발자취를 따라가며 독창적인 치료법을 개선하기 위해 노력해 왔습니다.</text>
         </Start>
         <Next1>
-          <text>
-            에어랄드 아드르 알라자르 왕자의 무조건적인 지원 덕분에 우리는 이제 <b>지식</b>의 길로 한 걸음 더 나아갈 준비가 되었습니다. 단 한 가지, <b>인퀴지션</b>이 여전히 우리를 가로막고 있습니다.
-          </text>
+          <text>에어랄드 아드르 알라자르 왕자의 무조건적인 지원 덕분에 우리는 이제 &lt;i&gt;지식&lt;/i&gt;의 길로 한 걸음 더 나아갈 준비가 되었습니다. 단 한 가지, &lt;narrator&gt;인퀴지션&lt;/narrator&gt;이 여전히 우리를 가로막고 있습니다.</text>
         </Next1>
         <Next2>
           <text>그들이 드롬바흐에 있는 한 우리는 제대로 된 계획을 세울 수 없습니다! 우리 군대도 감시를 받고 있습니다! 우리의 요청이 조금이라도 평범하지 않다면, 아무도 그 요청을 들어줄 수 없습니다...</text>
@@ -4282,7 +4140,7 @@
         </Next3>
         <Next4>
           <text>
-            네 눈에서 반짝이는 게 <b>지식</b>에 대한 갈증인가? <br/>우리는 <b>살아있는 역병 걸린 자 3명</b>이 필요해. <br/>여기서 북쪽으로 몇 마일 떨어진 저주받은 마을 아스텔에서 많이 찾을 수 있을 거야.
+            네 눈에서 반짝이는 게 &lt;i&gt;지식&lt;/i&gt;에 대한 갈증인가? <br/>우리는 &lt;narrator&gt;살아있는 역병 걸린 자 3명&lt;/narrator&gt;이 필요해. <br/>여기서 북쪽으로 몇 마일 떨어진 저주받은 마을 아스텔에서 많이 찾을 수 있을 거야.
           </text>
         </Next4>
         <Wait>
@@ -4291,8 +4149,8 @@
           </text>
           <choices>
             <line0>
-              <props.tipText>&lt;narrator&gt;역병 걸린 자 3명&lt;/narrator&gt;을 넘겨라.</props.tipText>
-              <props.disableReason>&lt;narrator&gt;역병에 걸린 자 3명&lt;/narrator&gt;을 넘겨라.</props.disableReason>
+              <props.tipText>&amp;lt;narrator&amp;gt;역병 걸린 자 3명&amp;lt;/narrator&amp;gt;을 넘겨라.</props.tipText>
+              <props.disableReason>&amp;lt;narrator&amp;gt;역병에 걸린 자 3명&amp;lt;/narrator&amp;gt;을 넘겨라.</props.disableReason>
             </line0>
           </choices>
         </Wait>
@@ -4402,9 +4260,7 @@
           <text>저주받은 자들이 산 안으로 들어가면 전쟁이 일어날 수도 있어!</text>
         </Next2>
         <Next3>
-          <text>
-            무슨 수를 써서라도 저들이 <b>게이트</b>에 도달하지 못하도록 막아야 해요. 날 따라와!
-          </text>
+          <text>무슨 수를 써서라도 저들이 &lt;narrator&gt;게이트&lt;/narrator&gt;에 도달하지 못하도록 막아야 해요. 날 따라와!</text>
         </Next3>
         <Wait1>
           <text>누가 들여보냈어? 저리 가, 용병들아!</text>
@@ -4586,9 +4442,7 @@
           <text>너 때문에 내 인생의 5년을 낭비했다니 믿을 수가 없어!</text>
         </Start>
         <Next1>
-          <text>
-            낭비했다고? <b>낭비라고? </b> 우린 지붕도 없던 시절이 있었어!
-          </text>
+          <text>낭비했다고? &lt;i&gt;낭비라고? &lt;/i&gt; 우린 지붕도 없던 시절이 있었어!</text>
         </Next1>
         <Next2>
           <text>하지만 적어도 감옥에 갇히진 않았잖아!</text>
@@ -4877,8 +4731,7 @@
           <text>이 상자는 도난당하거나 망가진 것이 아니니 보기보다 잘 보호되어 있을 텐데....</text>
         </Start>
         <NotifWrong>
-          <text>::name::이 부상을 입었습니다: <b>::injury::</b>
-          </text>
+          <text>::name::이 부상을 입었습니다: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </NotifWrong>
       </dialog>
     </A1RuinsRoom5BoardPuzzle>
@@ -4904,8 +4757,7 @@
       <npc.name>인퀴지터 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>비비안이 어둠에 사로잡혔어요! <b>먹혔다!</b>
-          </text>
+          <text>비비안이 어둠에 사로잡혔어요! &lt;i&gt;먹혔다!&lt;/i&gt;</text>
         </Start>
       </dialog>
     </A1RuinsRoom2Inquisitor3>
@@ -4920,9 +4772,7 @@
     <A1RuinsRoom2Hurted>
       <dialog>
         <Start>
-          <text>
-            이 인퀴지터는 내가 <b>레버</b>에 닿아 문을 닫을 수 있도록 자신을 희생했다. 그가 없었다면 우리 중 누구도 살아남지 못했을 것이다.
-          </text>
+          <text>이 인퀴지터는 내가 &lt;narrator&gt;레버&lt;/narrator&gt;에 닿아 문을 닫을 수 있도록 자신을 희생했다. 그가 없었다면 우리 중 누구도 살아남지 못했을 것이다.</text>
         </Start>
         <Next1>
           <text>그에게 치료제를 줬지만 회복할 시간이 필요해.</text>
@@ -5052,7 +4902,7 @@
         </Next1>
         <Next2>
           <text>
-            <b>눈</b>이군요. <br/>우리는 고대인들이 빛의 신을 이렇게 묘사했다고 믿습니다.
+            &lt;i&gt;눈&lt;/i&gt;이군요. <br/>우리는 고대인들이 빛의 신을 이렇게 묘사했다고 믿습니다.
           </text>
         </Next2>
         <Next3>
@@ -5062,9 +4912,7 @@
           <text>잠깐만, 방금 뭐라고 했어?</text>
         </Next4>
         <Next4bis>
-          <text>
-            이 유물이 신과 소통할 수 있다면 그건 <b>신성한 유물</b>이라고요! 에도라니아 교회의 소유라는 뜻이죠. 이리 내놔!
-          </text>
+          <text>이 유물이 신과 소통할 수 있다면 그건 &lt;i&gt;신성한 유물&lt;/i&gt;이라고요! 에도라니아 교회의 소유라는 뜻이죠. 이리 내놔!</text>
         </Next4bis>
         <Next5>
           <text>
@@ -5172,9 +5020,7 @@
     <A1RuinsRoom8Statue>
       <dialog>
         <Start>
-          <text>
-            비문에는 <b>메히트 장군</b>이라고 적혀 있습니다.
-          </text>
+          <text>비문에는 &lt;i&gt;메히트 장군&lt;/i&gt;이라고 적혀 있습니다.</text>
         </Start>
       </dialog>
     </A1RuinsRoom8Statue>
@@ -5214,9 +5060,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/A1TrackerMap"/><b>드롬바흐 사냥</b> 아이템의 지시에 따라 유령 무리를 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/A1TrackerMap"/&gt;&lt;b&gt;드롬바흐 사냥&lt;/b&gt; 아이템의 지시에 따라 유령 무리를 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>하드위게 교수님께 승리를 보고하세요.</text>
@@ -5360,7 +5204,7 @@
         </Start>
         <Next1>
           <text>
-            비문은 이렇게 적혀 있다: <b>술에 취한 자가 당신을 죽였다</b> <br/>어리둥절해하던 동료가 흙 속에서 작은 물체를 발견합니다.
+            비문은 이렇게 적혀 있다: &lt;i&gt;술에 취한 자가 당신을 죽였다&lt;/i&gt; <br/>어리둥절해하던 동료가 흙 속에서 작은 물체를 발견합니다.
           </text>
         </Next1>
       </dialog>
@@ -5441,9 +5285,7 @@
               <text>드롬바흐의 루스트 피치에 있는 묘비를 조사하세요.</text>
             </line0>
             <line1>
-              <text>
-                루스트 피치 묘비 근처에 있는 <b><img src="item/CommonFakeAntiquity1"/>고대인의 보물</b>을 조사하세요.
-              </text>
+              <text>루스트 피치 묘비 근처에 있는 &lt;b&gt;&lt;img src="item/CommonFakeAntiquity1"/&gt;고대인의 보물&lt;/b&gt;을 조사하세요.</text>
             </line1>
             <line2>
               <text>마라 교수와 대화하세요.</text>
@@ -5517,9 +5359,7 @@
           <title>납치</title>
           <props.helpTips>
             <line0>
-              <text>
-                <b>소피 아드르 알라자르 연구소</b>로 가는 길목에 숨어 있는 도적들을 찾아내세요.
-              </text>
+              <text>&lt;narrator&gt;소피 아드르 알라자르 연구소&lt;/narrator&gt;로 가는 길목에 숨어 있는 도적들을 찾아내세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -5608,11 +5448,11 @@
           </text>
           <choices>
             <line0>
-              <props.tipText>여관 주인을 설득해서 &lt;narrator&gt;뉴-아스텔&lt;/narrator&gt;로 돌아가자.</props.tipText>
+              <props.tipText>여관 주인을 설득해서 &amp;lt;narrator&amp;gt;뉴-아스텔&amp;lt;/narrator&amp;gt;로 돌아가자.</props.tipText>
               <props.customTxt>이유</props.customTxt>
             </line0>
             <line1>
-              <props.tipText>여관 주인을 &lt;narrator&gt;인퀴지션&lt;/narrator&gt;으로 데려가 처형할 것을 제안하자.</props.tipText>
+              <props.tipText>여관 주인을 &amp;lt;narrator&amp;gt;인퀴지션&amp;lt;/narrator&amp;gt;으로 데려가 처형할 것을 제안하자.</props.tipText>
             </line1>
           </choices>
         </Next2>
@@ -5622,7 +5462,8 @@
           </text>
         </Convinced1>
         <Convinced2>
-          <text>그래! 내 잘못이 아니라 그놈 잘못이야! <br/>나는 그 이단자를 위해 희생할 수 없어. <b>뉴아스텔의 여시장에게 데려다줘! </b>
+          <text>
+            그래! 내 잘못이 아니라 그놈 잘못이야! <br/>나는 그 이단자를 위해 희생할 수 없어. &lt;narrator&gt;뉴아스텔의 여시장에게 데려다줘! &lt;/narrator&gt;
           </text>
         </Convinced2>
         <Suggest1>
@@ -5663,14 +5504,10 @@
           </text>
         </Start>
         <Next1>
-          <text>
-            제 전 동료들이 피타 다리를 건너다가 <b>눈의 심판</b>에 맞아 쓰러졌어요. 그게 제게 경각심을 불러일으켰죠.
-          </text>
+          <text>제 전 동료들이 피타 다리를 건너다가 &lt;narrator&gt;눈의 심판&lt;/narrator&gt;에 맞아 쓰러졌어요. 그게 제게 경각심을 불러일으켰죠.</text>
         </Next1>
         <Next2>
-          <text>
-            도와주고 싶으면 <b>뉴-아스텔</b>에 있는 <b>성 세린 교회</b>로 데려가 주세요. 여사제에게 죄를 고해하고 직접 천을 가져가고 싶어요.
-          </text>
+          <text>도와주고 싶으면 &lt;narrator&gt;뉴-아스텔&lt;/narrator&gt;에 있는 &lt;narrator&gt;성 세린 교회&lt;/narrator&gt;로 데려가 주세요. 여사제에게 죄를 고해하고 직접 천을 가져가고 싶어요.</text>
           <choices>
             <line0>
               <props.tipText>산적을 데리고 뉴-아스텔의 성 세린 교회로 가자.</props.tipText>
@@ -5688,9 +5525,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/A1TrackerMap"/><b>드롬바흐 사냥</b> 아이템의 지시에 따라 유령 무리를 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/A1TrackerMap"/&gt;&lt;b&gt;드롬바흐 사냥&lt;/b&gt; 아이템의 지시에 따라 유령 무리를 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>마스터 트래커 벨레코스에게 승리를 보고하세요.</text>
@@ -5709,14 +5544,10 @@
       <npc.name>드루이드 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>워페인트</b>에는 외부의 눈으로는 알 수 없는 의미가 있습니다.
-          </text>
+          <text>&lt;b&gt;워페인트&lt;/b&gt;에는 외부의 눈으로는 알 수 없는 의미가 있습니다.</text>
         </Start>
         <Next1>
-          <text>
-            루데른의 <b>툴레스의 숲</b>에 가서 드루이드의 가르침을 따랐던 자만이 착용할 수 있습니다.
-          </text>
+          <text>루데른의 &lt;b&gt;툴레스의 숲&lt;/b&gt;에 가서 드루이드의 가르침을 따랐던 자만이 착용할 수 있습니다.</text>
         </Next1>
         <Tatoo1>
           <text>
@@ -5773,7 +5604,7 @@
       <dialog>
         <Start>
           <text>
-            당신들? <br/>용병들! 우리를 기억하나? <b>루데른 무덤</b>에서 학자들을 쓰러뜨리는 걸 도와줬잖아! 적진 깊숙한 곳에서 말이야.
+            당신들? <br/>용병들! 우리를 기억하나? &lt;narrator&gt;루데른 무덤&lt;/narrator&gt;에서 학자들을 쓰러뜨리는 걸 도와줬잖아! 적진 깊숙한 곳에서 말이야.
           </text>
         </Start>
         <Next1>
@@ -5886,9 +5717,7 @@
       <npc.name>형제 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>
-            싫다고 했잖아! 난 <b>위험 보너스</b> 받기 전까진 어떤 임무도 맡지 않을 거야.
-          </text>
+          <text>싫다고 했잖아! 난 &lt;i&gt;위험 보너스&lt;/i&gt; 받기 전까진 어떤 임무도 맡지 않을 거야.</text>
         </Start>
         <Next1>
           <text>난 도적과 싸우고 영주를 섬기기 위해 용병이 되었어. 신에게 맞고 쓰러지는 건 계획에 없던 일이야!</text>
@@ -5986,8 +5815,7 @@
       <npc.name>드래곤 스켈레톤</npc.name>
       <dialog>
         <Start>
-          <text><b>이 용의 해골은 당신이 상상한 것과는 다르군요. </b>
-          </text>
+          <text>&lt;narrator&gt;이 용의 해골은 당신이 상상한 것과는 다르군요. &lt;/narrator&gt;</text>
         </Start>
       </dialog>
     </A1UniversitySkeleton>
@@ -6060,7 +5888,7 @@
         </Truth1>
         <Truth2>
           <text>
-            당신과 당신의 부하들을 체포한다, <b>교수</b>.<br/>당신의 불경한 실험은 에도라니아 교회에 의해 파괴되거나 압수될 것이다.
+            당신과 당신의 부하들을 체포한다, &lt;i&gt;교수&lt;/i&gt;.<br/>당신의 불경한 실험은 에도라니아 교회에 의해 파괴되거나 압수될 것이다.
           </text>
         </Truth2>
         <Truth3>
@@ -6175,9 +6003,7 @@
           <text>내 이름은 백 년 후에도 기억될 거야.</text>
         </Wait>
         <Notif>
-          <text>
-            천문학자의 편지를 획득했습니다. <img src="item/A1AstronomerLetter"/> <b>천문학자의 편지</b>.
-          </text>
+          <text>천문학자의 편지를 획득했습니다. &lt;img src="item/A1AstronomerLetter"/&gt; &lt;b&gt;천문학자의 편지&lt;/b&gt;.</text>
         </Notif>
       </dialog>
       <props.goals>
@@ -6198,14 +6024,10 @@
       <npc.name>모리스 교수</npc.name>
       <dialog>
         <Start>
-          <text>
-            학장이 내 탐험에 자금을 지원하지 않겠다고 합니다.<b>"모리스 교수님, 차라리 그로틀을 사냥하는 게 낫습니다."</b>라고 말합니다.
-          </text>
+          <text>학장이 내 탐험에 자금을 지원하지 않겠다고 합니다.&lt;i&gt;"모리스 교수님, 차라리 그로틀을 사냥하는 게 낫습니다."&lt;/i&gt;라고 말합니다.</text>
         </Start>
         <Next1>
-          <text>
-            하지만 난 그루틀을 사냥하는 게 아니야! <b>드래곤</b>이 존재하긴 했어!
-          </text>
+          <text>하지만 난 그루틀을 사냥하는 게 아니야! &lt;narrator&gt;드래곤&lt;/narrator&gt;이 존재하긴 했어!</text>
         </Next1>
         <Next3>
           <text>
@@ -6218,9 +6040,7 @@
           </text>
         </Next4>
         <Accept>
-          <text>
-            아르테스의 <b>그레이트 그로울러 동굴</b>, 그린미어의 <b>그레이트 그로울러 동굴</b>, 루데른의 <b>팻클로 동굴</b>를 탐험하세요.
-          </text>
+          <text>아르테스의 &lt;narrator&gt;그레이트 그로울러 동굴&lt;/narrator&gt;, 그린미어의 &lt;narrator&gt;그레이트 그로울러 동굴&lt;/narrator&gt;, 루데른의 &lt;narrator&gt;팻클로 동굴&lt;/narrator&gt;를 탐험하세요.</text>
         </Accept>
         <Bones1>
           <text>이 뼈들은 정말 멋지다, 용병 여러분!</text>
@@ -6272,9 +6092,7 @@
           <title>전설 생물</title>
           <props.helpTips>
             <line0>
-              <text>
-                아르테스의 <b>그레이트 그로울러 동굴</b>, 그린미어의 <b>그레이트 그로울러 동굴</b>, 루데른의 <b>팻클로 동굴</b>를 파서 발견한 것을 모리스 교수에게 가져가세요.
-              </text>
+              <text>아르테스의 &lt;narrator&gt;그레이트 그로울러 동굴&lt;/narrator&gt;, 그린미어의 &lt;narrator&gt;그레이트 그로울러 동굴&lt;/narrator&gt;, 루데른의 &lt;narrator&gt;팻클로 동굴&lt;/narrator&gt;를 파서 발견한 것을 모리스 교수에게 가져가세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -6298,9 +6116,7 @@
           <text>그라인드 교수님의 실험에 참여하겠다고 지원했지만 지원서가 거절당했어요.</text>
         </Start>
         <Next1>
-          <text>
-            이제 나는 단순한 마을 약장수처럼 <b>의학</b>을 공부해야 할 운명이다.
-          </text>
+          <text>이제 나는 단순한 마을 약장수처럼 &lt;i&gt;의학&lt;/i&gt;을 공부해야 할 운명이다.</text>
         </Next1>
       </dialog>
     </A1UniversityAllumni1>
@@ -6308,17 +6124,13 @@
       <npc.name>스트롬캅의 재프리, 틸트렌의 역사</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>이 책의 유일한 목적은 우리의 아름다운 틸트렌 군을 다섯 왕국 중 정당한 자리로 돌려놓는 것이다</b>.
-          </text>
+          <text>&lt;narrator&gt;이 책의 유일한 목적은 우리의 아름다운 틸트렌 군을 다섯 왕국 중 정당한 자리로 돌려놓는 것이다&lt;/narrator&gt;.</text>
         </Start>
         <Next1>
-          <text><b>내 글의 사본을 만들어 알라자르, 에도란, 고센베르크의 대학과 연구소에 즉시 보내야 하는데, 소위 학자들이 우리 땅에 대한 언급을 역사에 조금도 추가하지 않고 있습니다!</b>
-          </text>
+          <text>&lt;narrator&gt;내 글의 사본을 만들어 알라자르, 에도란, 고센베르크의 대학과 연구소에 즉시 보내야 하는데, 소위 학자들이 우리 땅에 대한 언급을 역사에 조금도 추가하지 않고 있습니다!&lt;/narrator&gt;</text>
         </Next1>
         <Next2>
-          <text><b>그러나 에도르 장군의 군대가 틸트렌을 침공한 것은 다른 모든 것들로 이어졌고, 비록 며칠 밖에 지속되지 않았지만 우리 카운티는 50년 넘게 외국 왕국에 의해 점령당했습니다.... </b>
-          </text>
+          <text>&lt;narrator&gt;그러나 에도르 장군의 군대가 틸트렌을 침공한 것은 다른 모든 것들로 이어졌고, 비록 며칠 밖에 지속되지 않았지만 우리 카운티는 50년 넘게 외국 왕국에 의해 점령당했습니다.... &lt;/narrator&gt;</text>
         </Next2>
       </dialog>
     </A1UniversityBookshelf>
@@ -6599,9 +6411,7 @@
           <text>종교 재판소가 점점 더 단호해지고 있어.</text>
         </Start>
         <EndInquisition>
-          <text>
-            종교 재판소가 정말 왕자를 화형에 처할 거라고 생각해? 그는 <b>왕자</b>잖아요!
-          </text>
+          <text>종교 재판소가 정말 왕자를 화형에 처할 거라고 생각해? 그는 &lt;i&gt;왕자&lt;/i&gt;잖아요!</text>
         </EndInquisition>
         <EndPrince>
           <text>
@@ -6766,13 +6576,11 @@
         </Start>
         <Next1>
           <text>
-            <b>여긴 종교 재판소가 지배하고 있다</b><br/>근위대가 무자비하다고 생각했다면 종교 재판소가 준비해둔 것을 상상도 못할 것이다!
+            &lt;narrator&gt;여긴 종교 재판소가 지배하고 있다&lt;/narrator&gt;<br/>근위대가 무자비하다고 생각했다면 종교 재판소가 준비해둔 것을 상상도 못할 것이다!
           </text>
         </Next1>
         <Next2>
-          <text>
-            <b>감옥은 잊으세요. 여기서는 도둑과 살인자가 화형에 처해집니다!</b> 그들이 당신을 발견하기 전에 도망치세요!
-          </text>
+          <text>&lt;narrator&gt;감옥은 잊으세요. 여기서는 도둑과 살인자가 화형에 처해집니다!&lt;/narrator&gt; 그들이 당신을 발견하기 전에 도망치세요!</text>
           <choices>
             <line0>
               <props.tipText>도적들을 사로잡아 종교 재판소에 넘기세요.</props.tipText>
@@ -6866,13 +6674,11 @@
         </Start>
         <Next1>
           <text>
-            <b>윈펠스</b>가 여기선 널 찾지 않을 줄 알았나? <br/>잘못 생각했어!
+            &lt;narrator&gt;윈펠스&lt;/narrator&gt;가 여기선 널 찾지 않을 줄 알았나? <br/>잘못 생각했어!
           </text>
         </Next1>
         <Next2>
-          <text>
-            그들의 조건은 분명하다. 우리는 그들의 사랑하는 <b>코렌</b>이나 그녀의 납치범들의 목을 가져오라는 것이다. 그녀는 어디 있지?
-          </text>
+          <text>그들의 조건은 분명하다. 우리는 그들의 사랑하는 &lt;narrator&gt;코렌&lt;/narrator&gt;이나 그녀의 납치범들의 목을 가져오라는 것이다. 그녀는 어디 있지?</text>
           <choices>
             <line0>
               <props.tipText>형제단에게 코린이 에어랄드 아드르 알라자르 왕자와 결혼했다고 전해라.</props.tipText>
@@ -6885,9 +6691,7 @@
           </text>
         </Corene1>
         <Corene2>
-          <text>
-            코린이 알라자르 왕자와 결혼했다고? /> 예상치 못한 일이군...
-          </text>
+          <text>코린이 알라자르 왕자와 결혼했다고? /&gt; 예상치 못한 일이군...</text>
         </Corene2>
         <Corene3>
           <text>
@@ -7074,7 +6878,7 @@
         </Peasants2>
         <Wolves1>
           <text>
-            저거... <b>늑대들</b>인가요? <br/> 왜 <b>눈</b>은 늑대들을 벌하죠?
+            저거... &lt;narrator&gt;늑대들&lt;/narrator&gt;인가요? <br/> 왜 &lt;b&gt;눈&lt;/b&gt;은 늑대들을 벌하죠?
           </text>
         </Wolves1>
         <Wolves2>
@@ -7087,7 +6891,7 @@
         </Wolves2>
         <Soldiers1>
           <text>
-            <b>알라자리아 병사들</b>, 놀랍지도 않군. <br/>그들은 아마 디 아이에게 불경죄를 저질렀거나 어떤 종류의 범죄를 저질렀을 거야.
+            &lt;narrator&gt;알라자리아 병사들&lt;/narrator&gt;, 놀랍지도 않군. <br/>그들은 아마 디 아이에게 불경죄를 저질렀거나 어떤 종류의 범죄를 저질렀을 거야.
           </text>
           <choices>
             <line0>
@@ -7096,9 +6900,7 @@
           </choices>
         </Soldiers1>
         <Merchants1>
-          <text>
-            이 <b>상인들의</b> 물건은 아무것도 남아있지 않아요. 우리가 알기로는 노예상이나 모피 상인이었을지도 모르죠...
-          </text>
+          <text>이 &lt;narrator&gt;상인들의&lt;/narrator&gt; 물건은 아무것도 남아있지 않아요. 우리가 알기로는 노예상이나 모피 상인이었을지도 모르죠...</text>
         </Merchants1>
         <Merchants2>
           <text>하지만 노예제도는 디 아이'의 가르침에 어긋나기 때문에 그들이 죽은 이유일 수도 있겠지.</text>
@@ -7176,9 +6978,7 @@
           <text>됐어! 진정해! 얘기하자.</text>
         </Start>
         <Next1>
-          <text>
-            여관 주인은 곧장 산으로 올라가 <b>발리언트 타워</b>로 향했다. 모피도 망토도 없으니 아마 가는 도중에 죽었을 거예요.
-          </text>
+          <text>여관 주인은 곧장 산으로 올라가 &lt;narrator&gt;발리언트 타워&lt;/narrator&gt;로 향했다. 모피도 망토도 없으니 아마 가는 도중에 죽었을 거예요.</text>
         </Next1>
         <Next2>
           <text>이교도 여러분도 그의 운명을 함께 하길 바랍니다!</text>
@@ -7191,13 +6991,11 @@
           <text>여기까지 오게 해서 미안하다, 용병들아. 종교 재판은 조심할 수밖에 없지.</text>
         </Start>
         <Next1>
-          <text>
-            드롬바흐에 <b>눈의 심판</b>이 내려진 이후로, 이 광신도들은 우리의 일거수일투족을 감시하고 있습니다. 누구든 의심스러운 사람이 있으면 화를 당하겠지.
-          </text>
+          <text>드롬바흐에 &lt;narrator&gt;눈의 심판&lt;/narrator&gt;이 내려진 이후로, 이 광신도들은 우리의 일거수일투족을 감시하고 있습니다. 누구든 의심스러운 사람이 있으면 화를 당하겠지.</text>
         </Next1>
         <Next2>
           <text>
-            우리 선술집 주인이 그들 때문에 도망쳤는데, 선술집이 디 아이에게 습격당했을 때 운 좋게 살아남았어요. <br/> 그는 좋은 사람이니 도와주고 싶으니 <b>우리는 기꺼이 돈을 주고 그를 찾아주겠어요</b>.
+            우리 선술집 주인이 그들 때문에 도망쳤는데, 선술집이 디 아이에게 습격당했을 때 운 좋게 살아남았어요. <br/> 그는 좋은 사람이니 도와주고 싶으니 &lt;narrator&gt;우리는 기꺼이 돈을 주고 그를 찾아주겠어요&lt;/narrator&gt;.
           </text>
         </Next2>
         <Accept1>
@@ -7277,9 +7075,7 @@
           <text>군대가 혼자 온 게 아니군. 어쩔 수 없이 따라왔군요!</text>
         </Start>
         <Next1>
-          <text>
-            <b>눈의 심판</b>이 이 마구간들을 강타했어. 우린 이곳을 조사해서 이교도들이 살아남았는지 확인해야 할 의무가 있습니다.
-          </text>
+          <text>&lt;narrator&gt;눈의 심판&lt;/narrator&gt;이 이 마구간들을 강타했어. 우린 이곳을 조사해서 이교도들이 살아남았는지 확인해야 할 의무가 있습니다.</text>
         </Next1>
         <Next2>
           <text>가자, 다 죽었어.</text>
@@ -7291,7 +7087,7 @@
         </Next3>
         <Next4>
           <text>
-            이 사람들은 부상당한 사람들을 구하러 온 거야. <b>이단자!</b><br/><b>빛의 신</b>은 이유 없이 벌하지 않는다는 걸 잘 알잖소. 저들을 살려두면 <b>눈의 심판</b>이 다시 내릴 것이다!
+            이 사람들은 부상당한 사람들을 구하러 온 거야. &lt;i&gt;이단자!&lt;/i&gt;<br/>&lt;narrator&gt;빛의 신&lt;/narrator&gt;은 이유 없이 벌하지 않는다는 걸 잘 알잖소. 저들을 살려두면 &lt;narrator&gt;눈의 심판&lt;/narrator&gt;이 다시 내릴 것이다!
           </text>
         </Next4>
         <Next5>
@@ -7368,9 +7164,7 @@
           <text>천공의 산으로 들어가 병사 다멘에게 말을 걸어라.</text>
         </MissionDescSoldier>
         <InquisitionEnd>
-          <text>
-            대심문관이 당신을 <b>심문소</b>로 소환했다.
-          </text>
+          <text>대심문관이 당신을 &lt;narrator&gt;심문소&lt;/narrator&gt;로 소환했다.</text>
         </InquisitionEnd>
         <PrinceEnd>
           <text>에어랄드 아드르 알라자르 왕자가 당신을 자신의 성으로 소환했다.</text>
@@ -7382,9 +7176,7 @@
           <text>에어랄드 왕자를 만나서 무슨 말을 하는지 들어보자.</text>
         </MissionDescPrinceEnd>
         <NotifRebuiltBridge>
-          <text>
-            <b>피타의 다리</b>가 재건되었다.
-          </text>
+          <text>&lt;narrator&gt;피타의 다리&lt;/narrator&gt;가 재건되었다.</text>
         </NotifRebuiltBridge>
       </dialog>
     </A1SettingManager>
@@ -7672,9 +7464,7 @@
       <npc.name>약제사 살키</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>치료제</b>를 개선하려고 하는데, 종교 재판소가 이리저리 기웃거리고 있으니 고발당할까 봐 걱정이 된다. 너희들 중에 부상자가 5명만 있으면 의심받지 않고 새 치료법을 시험할 수 있을 텐데....
-          </text>
+          <text>&lt;narrator&gt;치료제&lt;/narrator&gt;를 개선하려고 하는데, 종교 재판소가 이리저리 기웃거리고 있으니 고발당할까 봐 걱정이 된다. 너희들 중에 부상자가 5명만 있으면 의심받지 않고 새 치료법을 시험할 수 있을 텐데....</text>
           <choices>
             <line1>
               <props.tipText>부상당한 동료 5명을 준비하라.</props.tipText>
@@ -7802,9 +7592,7 @@
     <T5ChurchPeople3>
       <dialog>
         <Start>
-          <text>
-            빛의 신이 우리를 쫓고 있어요! 우리가 <b>툴레의 푸른 밤</b>을 공연한 이후로 그분의 시선이 끊임없이 우리를 주시하고 있는 것 같아요!
-          </text>
+          <text>빛의 신이 우리를 쫓고 있어요! 우리가 &lt;i&gt;툴레의 푸른 밤&lt;/i&gt;을 공연한 이후로 그분의 시선이 끊임없이 우리를 주시하고 있는 것 같아요!</text>
           <choices>
             <line0>
               <props.tipText>저글러들에게 빛의 신께 그들의 예술을 바치자고 설득해 보세요.</props.tipText>
@@ -8023,7 +7811,7 @@
         </Prince>
         <DeliverMission1>
           <text>
-            <b>정보원이 기분이 안 좋아 보이는군. </b><br/>더 오래 걸릴 줄 알았어. 어쨌든 고마워요.
+            &lt;narrator&gt;정보원이 기분이 안 좋아 보이는군. &lt;/narrator&gt;<br/>더 오래 걸릴 줄 알았어. 어쨌든 고마워요.
           </text>
         </DeliverMission1>
         <End>
@@ -8352,9 +8140,7 @@
               <text>미션 지침에 따라 이 목표를 완료하세요.</text>
             </line1>
             <line2>
-              <text>
-                <img src="item/E1KnowledgePath1"/> <b>심문관 랑데부 지점</b> 아이템을 사용해 그들이 만날 장소를 찾으세요.
-              </text>
+              <text>&lt;img src="item/E1KnowledgePath1"/&gt; &lt;b&gt;심문관 랑데부 지점&lt;/b&gt; 아이템을 사용해 그들이 만날 장소를 찾으세요.</text>
             </line2>
             <line3>
               <text>흔적을 따라가면 인퀴지터를 찾을 수 있습니다.</text>
@@ -8394,7 +8180,7 @@
       <props.goals>
         <line0>
           <title>에도란행</title>
-          <props.helpTip>통행료를 지불하세요(&lt;gold&gt;200&lt;/gold&gt; 또는 &lt;img src=&quot;item/Pass&quot;/&gt;&lt;b&gt;국경 통과권&lt;/b&gt;).</props.helpTip>
+          <props.helpTip>통행료를 지불하세요(&amp;lt;gold&amp;gt;200&amp;lt;/gold&amp;gt; 또는 &amp;lt;img src=&quot;item/Pass&quot;/&amp;gt;&amp;lt;b&amp;gt;국경 통과권&amp;lt;/b&amp;gt;).</props.helpTip>
         </line0>
       </props.goals>
     </EdoranBorderPostGuard1>
@@ -8482,9 +8268,7 @@
           <text>이봐! 너! 이쪽이야! 평범한 상인처럼 행동해. 무슨 짓을 하든 경비병의 주의를 끌지 마세요.</text>
         </Start>
         <Next1>
-          <text>
-            <b>바론</b>으로부터 임무를 받았어. 임무에 성공하면, 그가 너를 받아줄 거야.
-          </text>
+          <text>&lt;b&gt;바론&lt;/b&gt;으로부터 임무를 받았어. 임무에 성공하면, 그가 너를 받아줄 거야.</text>
         </Next1>
         <Next2>
           <text>틸트렌 감옥으로 가서 다른 용병들처럼 셉텔이라는 여자를 고용한 다음, 그녀를 이곳으로 데려와 보상을 받아오세요. 쉽죠?</text>
@@ -8535,7 +8319,7 @@
       <props.goals>
         <line0>
           <title>고센베르크로</title>
-          <props.helpTip>통행료(&lt;gold&gt;200&lt;/gold&gt; 또는 &lt;img src=&quot;item/Pass&quot;/&gt;&lt;b&gt;국경 통과권&lt;/b&gt;)를 지불하세요.</props.helpTip>
+          <props.helpTip>통행료(&amp;lt;gold&amp;gt;200&amp;lt;/gold&amp;gt; 또는 &amp;lt;img src=&quot;item/Pass&quot;/&amp;gt;&amp;lt;b&amp;gt;국경 통과권&amp;lt;/b&amp;gt;)를 지불하세요.</props.helpTip>
         </line0>
       </props.goals>
     </GosenbergBorderPostGuard>
@@ -9226,9 +9010,7 @@
           </text>
         </Start>
         <Next1>
-          <text>
-            페로 부관이 날 2류 사기꾼처럼 감옥에 넣었어....... 그 멍청이는 <b>바론의</b> 딸도 못 알아봤어!
-          </text>
+          <text>페로 부관이 날 2류 사기꾼처럼 감옥에 넣었어....... 그 멍청이는 &lt;b&gt;바론의&lt;/b&gt; 딸도 못 알아봤어!</text>
         </Next1>
         <Next2>
           <text>오왕국에서 가장 강력한 무법자를 협박할 수도 있었지만, 아니었어! 그는 나를 낡은 빵과 물만 있는 허름한 감방에 넣었어.... 더 이상 이런 치욕을 당할 수 없다! 이 돼지우리 같은 지방에서 내가 누군지 알게 될 거다! 그들이 나를 보기만 해도 공포에 떨기 전까진 틸트렌을 떠나지 않을 거야!</text>
@@ -9809,14 +9591,10 @@
           <text>책장에 뭔가 적혀 있습니다.</text>
         </Start>
         <Next1>
-          <text>
-            <b>아티스트의</b> 작품이 파괴에서 살아남을 수 있게 해달라는 기도문입니다.
-          </text>
+          <text>&lt;i&gt;아티스트의&lt;/i&gt; 작품이 파괴에서 살아남을 수 있게 해달라는 기도문입니다.</text>
         </Next1>
         <Next2>
-          <text>
-            <b>아티스트의</b> 작품이 파괴에서 살아남을 수 있게 해달라는 기도문입니다.
-          </text>
+          <text>&lt;i&gt;아티스트의&lt;/i&gt; 작품이 파괴에서 살아남을 수 있게 해달라는 기도문입니다.</text>
         </Next2>
       </dialog>
     </S1RuinsBookcase1>
@@ -9834,8 +9612,7 @@
           </choices>
         </Start>
         <NotifRun>
-          <text>사과만한 돌멩이가 ::name::의 머리 위로 떨어진다 : <b>::injury::</b>
-          </text>
+          <text>사과만한 돌멩이가 ::name::의 머리 위로 떨어진다 : &lt;status&gt;::injury::&lt;/status&gt;</text>
         </NotifRun>
         <NotifMove>
           <text>느리지만 확실하게 반대편에 도착합니다.</text>
@@ -9846,7 +9623,7 @@
       <dialog>
         <Start>
           <text>
-            조각상에는 <b>다간</b>이라는 남자가 그려져 있습니다.<br/>그의 자세가 왠지 노래를 부르고 싶게 만듭니다.
+            조각상에는 &lt;i&gt;다간&lt;/i&gt;이라는 남자가 그려져 있습니다.<br/>그의 자세가 왠지 노래를 부르고 싶게 만듭니다.
           </text>
         </Start>
         <SingSuccess>
@@ -9872,9 +9649,7 @@
           </choices>
         </Start>
         <MoveNotif>
-          <text>
-            좁은 틈새가 신경을 곤두세우게 합니다. ::name::이 당황하여 부상을 입습니다: (<b>::injury::</b>).
-          </text>
+          <text>좁은 틈새가 신경을 곤두세우게 합니다. ::name::이 당황하여 부상을 입습니다: (&lt;status&gt;::injury::&lt;/status&gt;).</text>
         </MoveNotif>
         <ActionName>
           <text>검사</text>
@@ -10317,7 +10092,7 @@
       <props.goals>
         <line0>
           <title>다시 시작하기</title>
-          <props.helpTip>난민들에게 집을 재건할 수 있도록 &lt;b&gt;10 &lt;img src=&quot;item/Wood&quot;/&gt;나무&lt;/b&gt;를 주세요.</props.helpTip>
+          <props.helpTip>난민들에게 집을 재건할 수 있도록 &amp;lt;b&amp;gt;10 &amp;lt;img src=&quot;item/Wood&quot;/&amp;gt;나무&amp;lt;/b&amp;gt;를 주세요.</props.helpTip>
         </line0>
       </props.goals>
     </SheepfoldWoman>
@@ -10439,9 +10214,7 @@
               <text>사냥에 참여하기로 동의하세요.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/S1TrackerMap"/><b>틸트렌 사냥</b> 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/S1TrackerMap"/&gt;&lt;b&gt;틸트렌 사냥&lt;/b&gt; 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>마스터 트래커 브레넌에게 승리를 보고하세요.</text>
@@ -10463,16 +10236,14 @@
       <dialog>
         <Start>
           <text>
-            우리의 <b>워페인트</b>가 부럽지? <br/>하하! 네가 처음이 아니야!
+            우리의 &lt;b&gt;워페인트&lt;/b&gt;가 부럽지? <br/>하하! 네가 처음이 아니야!
           </text>
         </Start>
         <Next1>
           <text>미안하다, 용병들아! 우리 방식에 입문한 자만이 이걸 자랑할 수 있습니다.</text>
         </Next1>
         <Next2>
-          <text>
-            이 행운의 소수의 일원이 되려면 <b>루데른</b>으로 가서 <b>툴레스의 숲</b>에 있는 드루이드에게 부탁해야 합니다. 하지만 그곳으로 가는 길은 위험으로 가득 차 있으니 주의하세요.
-          </text>
+          <text>이 행운의 소수의 일원이 되려면 &lt;b&gt;루데른&lt;/b&gt;으로 가서 &lt;b&gt;툴레스의 숲&lt;/b&gt;에 있는 드루이드에게 부탁해야 합니다. 하지만 그곳으로 가는 길은 위험으로 가득 차 있으니 주의하세요.</text>
         </Next2>
         <Tatoo1>
           <text>
@@ -10742,9 +10513,7 @@
           <text>돈 많이 줘서 고마워 잘 쓸게요!</text>
         </Done>
         <Notify>
-          <text>
-            레나르트가 <b>::count::</b>를 훔쳐서 달아났다.
-          </text>
+          <text>레나르트가 &lt;gold&gt;::count::&lt;/gold&gt;를 훔쳐서 달아났다.</text>
         </Notify>
       </dialog>
     </Hobo>
@@ -10752,9 +10521,7 @@
       <npc.name>알데베르트</npc.name>
       <dialog>
         <Start>
-          <text>
-            제 이름은 알데베스입니다. 저는 브로커 협의회에 가입하려는 한 가문의 장남입니다. 하지만 상인이 탐내는 <b>브로커</b> 칭호를 얻으려면 공급 라인이 효율적이고 비즈니스 파트너가 신뢰할 만하다는 것을 증명해야 합니다.
-          </text>
+          <text>제 이름은 알데베스입니다. 저는 브로커 협의회에 가입하려는 한 가문의 장남입니다. 하지만 상인이 탐내는 &lt;i&gt;브로커&lt;/i&gt; 칭호를 얻으려면 공급 라인이 효율적이고 비즈니스 파트너가 신뢰할 만하다는 것을 증명해야 합니다.</text>
         </Start>
         <Next1>
           <text>안타깝게도 저는 후자가 부족합니다. 빛나는 왕관과 날카로운 칼의 가치를 모두 아는 당신 같은 용병이 도움이 될 수 있다고 믿습니다.</text>
@@ -10835,7 +10602,7 @@
         </Rovand>
         <DeliverMessage1>
           <text>
-            <b>정보원은 편지의 도장을 확인한 후 옷 속에 편지를 집어넣었습니다</b><br/>기밀 정보이므로 신중하게 처리해 주시면 감사하겠습니다.
+            &lt;i&gt;정보원은 편지의 도장을 확인한 후 옷 속에 편지를 집어넣었습니다&lt;/i&gt;<br/>기밀 정보이므로 신중하게 처리해 주시면 감사하겠습니다.
           </text>
         </DeliverMessage1>
         <End>
@@ -11074,9 +10841,7 @@
           <title>복구 불가능한 다리 수리하기</title>
           <props.helpTips>
             <line0>
-              <text>
-                불안정한 다리를 재건하는 상인에게 <b>20 <img src="item/Sandstone"/>샌드스톤</b>을 전달하세요.
-              </text>
+              <text>불안정한 다리를 재건하는 상인에게 &lt;b&gt;20 &lt;img src="item/Sandstone"/&gt;샌드스톤&lt;/b&gt;을 전달하세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -11260,9 +11025,7 @@
               <text>오드린 병장의 임무를 수행하라.</text>
             </line0>
             <line1>
-              <text>
-                지도에 표시된 탈영병 집단 중 <b>2</b>를 매수하여 라하트 백작의 군대에 합류하도록 하세요.
-              </text>
+              <text>지도에 표시된 탈영병 집단 중 &lt;b&gt;2&lt;/b&gt;를 매수하여 라하트 백작의 군대에 합류하도록 하세요.</text>
             </line1>
             <line2>
               <text>오드린 병장에게 보고해야 합니다.</text>
@@ -11526,9 +11289,7 @@
               <text>프리스트 병장의 임무를 수행하라.</text>
             </line0>
             <line1>
-              <text>
-                지도에 표시된 탈영병 집단 <b>2</b>를 매수하여 베르날리스 경의 군대에 합류하도록 하자.
-              </text>
+              <text>지도에 표시된 탈영병 집단 &lt;b&gt;2&lt;/b&gt;를 매수하여 베르날리스 경의 군대에 합류하도록 하자.</text>
             </line1>
             <line2>
               <text>프리스트 병장에게 보고해야 한다.</text>
@@ -11880,9 +11641,7 @@
               <text>군단 장교를 찾아서 서명을 받으십시오.</text>
             </line1>
             <line2>
-              <text>
-                <b>루스테 경기장</b>에 있는 심판에게 돌아가세요.
-              </text>
+              <text>&lt;narrator&gt;루스테 경기장&lt;/narrator&gt;에 있는 심판에게 돌아가세요.</text>
             </line2>
           </props.helpTips>
         </line0>
@@ -12015,9 +11774,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/E1TrackerMap"/><b>아르테스 사냥</b> 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/E1TrackerMap"/&gt;&lt;b&gt;아르테스 사냥&lt;/b&gt; 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>마스터 추적자 브로니스에게 승리를 보고하세요.</text>
@@ -12041,9 +11798,7 @@
           <text>고스트 팩을 쫓는 추적자의 기능을 강화하는 것이 제 영광입니다.</text>
         </Start>
         <Next1>
-          <text>
-            <b>워페인트</b>를 자랑하려면 먼저 <b>루데른의 툴레스의 숲</b>의 중심부에 있는 드루이드에게 우리의 방법을 배워야 합니다.
-          </text>
+          <text>&lt;b&gt;워페인트&lt;/b&gt;를 자랑하려면 먼저 &lt;b&gt;루데른의 툴레스의 숲&lt;/b&gt;의 중심부에 있는 드루이드에게 우리의 방법을 배워야 합니다.</text>
         </Next1>
         <Tatoo1>
           <text>
@@ -12158,7 +11913,7 @@
       <props.goals>
         <line0>
           <title>응급처치</title>
-          <props.helpTip>약제사에게 &lt;b&gt;10&lt;img src=&quot;item/SnowIris&quot;/&gt; 스노우 아이리스&lt;/b&gt;를 주세요.</props.helpTip>
+          <props.helpTip>약제사에게 &amp;lt;b&amp;gt;10&amp;lt;img src=&quot;item/SnowIris&quot;/&amp;gt; 스노우 아이리스&amp;lt;/b&amp;gt;를 주세요.</props.helpTip>
         </line0>
       </props.goals>
     </ApothicaireEleorAbbey>
@@ -12399,7 +12154,7 @@
         </Convinced>
         <Wrong1>
           <text>
-            이게 맞나요? 여기 <b>도난당한 조랑말 신고서</b>라고 적혀있어요...<br/> 루스테 필드 심판이 서류에 대해 잘 알 테니 물어보시죠.
+            이게 맞나요? 여기 &lt;i&gt;도난당한 조랑말 신고서&lt;/i&gt;라고 적혀있어요...<br/> 루스테 필드 심판이 서류에 대해 잘 알 테니 물어보시죠.
           </text>
         </Wrong1>
         <Wrong2>
@@ -12537,9 +12292,7 @@
               <text>군단 상사의 임무를 수행하십시오.</text>
             </line0>
             <line1>
-              <text>
-                지도에 표시된 탈영병 그룹 중 <b>2</b>를 처치해야 합니다.
-              </text>
+              <text>지도에 표시된 탈영병 그룹 중 &lt;b&gt;2&lt;/b&gt;를 처치해야 합니다.</text>
             </line1>
             <line2>
               <text>군단 상사에게 보고하십시오.</text>
@@ -12570,9 +12323,7 @@
     <ChestPaviiCave>
       <dialog>
         <Start>
-          <text>
-            <b>에도르 군사학교 다나에 파비</b>라고 적혀 있다.
-          </text>
+          <text>&lt;i&gt;에도르 군사학교 다나에 파비&lt;/i&gt;라고 적혀 있다.</text>
         </Start>
       </dialog>
     </ChestPaviiCave>
@@ -12863,9 +12614,7 @@
           <text>우리를 도와줄 장교 두 명을 찾아야 합니다. 그들은 선서서를 수도로 보내야 합니다.</text>
         </Next2>
         <Next3>
-          <text>
-            <b>상병</b>의 경우 양식 6.B로 충분하지만, <b>부관</b>는 최소한 진술서 5.7.90.G에 서명해야 합니다.
-          </text>
+          <text>&lt;narrator&gt;상병&lt;/narrator&gt;의 경우 양식 6.B로 충분하지만, &lt;narrator&gt;부관&lt;/narrator&gt;는 최소한 진술서 5.7.90.G에 서명해야 합니다.</text>
         </Next3>
         <End1>
           <text>완벽해, 용병들! 모든 것이 제자리에 있습니다. 우리 친구 상병은 매우 협조적이었어. 다음은 부관...</text>
@@ -13454,9 +13203,7 @@
     <E1RuinsRoom2Statue>
       <dialog>
         <Start>
-          <text>
-            비문에는 <b>건설자로 알려진 에르케셋</b>이라고 적혀 있습니다.
-          </text>
+          <text>비문에는 &lt;i&gt;건설자로 알려진 에르케셋&lt;/i&gt;이라고 적혀 있습니다.</text>
         </Start>
       </dialog>
     </E1RuinsRoom2Statue>
@@ -13475,7 +13222,7 @@
           </choices>
         </Start>
         <Injured>
-          <text><br/> ::name::이 어색하게 착지했습니다.<br/> ::name::이 부상을 입었습니다: <b>::injury::</b><br/>
+          <text><br/> ::name::이 어색하게 착지했습니다.<br/> ::name::이 부상을 입었습니다: &lt;status&gt;::injury::&lt;/status&gt;<br/>
           </text>
         </Injured>
       </dialog>
@@ -13514,8 +13261,7 @@
           </choices>
         </Start>
         <Injured>
-          <text>::name::이 문을 부수려다 부상을 입었습니다: <b>::injury::</b>
-          </text>
+          <text>::name::이 문을 부수려다 부상을 입었습니다: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </Injured>
         <NotificationBarricade>
           <text>길은 분명해요.</text>
@@ -13543,8 +13289,7 @@
           </choices>
         </Start>
         <Injured>
-          <text>::name::은 어둠 속에서 다쳤습니다: <b>::injury::</b>
-          </text>
+          <text>::name::은 어둠 속에서 다쳤습니다: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </Injured>
         <NotifySlow>
           <text>부대가 무사히 통과했습니다.</text>
@@ -13806,9 +13551,7 @@
           <title>우리는 괴물이 아니다</title>
           <props.helpTips>
             <line0>
-              <text>
-                종교 재판관을 처치하거나 <b>15 <img src="item/Wood"/>나무</b>를 주어 희생자를 태우세요.
-              </text>
+              <text>종교 재판관을 처치하거나 &lt;b&gt;15 &lt;img src="item/Wood"/&gt;나무&lt;/b&gt;를 주어 희생자를 태우세요.</text>
             </line0>
             <line1>
               <text>여자와 대화하세요.</text>
@@ -13911,16 +13654,13 @@
       <npc.name>성 제루의 사가</npc.name>
       <dialog>
         <Start>
-          <text><b>... 야수가 눈앞에 나타났을 때 제루의 동료들은 두려움에 휩싸였어요. 세상의 어떤 무기로도 그 무시무시한 괴물을 물리칠 수 없다는 것을 모두 알고 있었기 때문에 그들은 싸울 생각조차 하지 않았습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;... 야수가 눈앞에 나타났을 때 제루의 동료들은 두려움에 휩싸였어요. 세상의 어떤 무기로도 그 무시무시한 괴물을 물리칠 수 없다는 것을 모두 알고 있었기 때문에 그들은 싸울 생각조차 하지 않았습니다.&lt;/narrator&gt;</text>
         </Start>
         <Next1>
-          <text><b>그런 다음 제루는 지팡이 하나만 들고 괴물과 마주보며 앞으로 나갔다. 그는 하늘을 향해 두 팔을 치켜들고 만물을 보는 눈에게 세 번 불렀다.</b>
-          </text>
+          <text>&lt;narrator&gt;그런 다음 제루는 지팡이 하나만 들고 괴물과 마주보며 앞으로 나갔다. 그는 하늘을 향해 두 팔을 치켜들고 만물을 보는 눈에게 세 번 불렀다.&lt;/narrator&gt;</text>
         </Next1>
         <Next2>
-          <text><b>빛의 신은 세 번째 부름에 응답하여 야수에게 심판을 내렸습니다. 전능하신 신의 힘에 압도당한 비참한 짐승은 어둠 속으로 물러났고, 안내자는 계속 길을 떠났다...</b>
-          </text>
+          <text>&lt;narrator&gt;빛의 신은 세 번째 부름에 응답하여 야수에게 심판을 내렸습니다. 전능하신 신의 힘에 압도당한 비참한 짐승은 어둠 속으로 물러났고, 안내자는 계속 길을 떠났다...&lt;/narrator&gt;</text>
         </Next2>
       </dialog>
     </T2ChurchHolyBook>
@@ -14099,7 +13839,7 @@
         </Wreckers>
         <DeliverMessage1>
           <text>
-            <b>정보원이 편지가 탁자에 닿자마자 낚아챘어요. </b><br/>열지 않으셨길 바라요.
+            &lt;narrator&gt;정보원이 편지가 탁자에 닿자마자 낚아챘어요. &lt;/narrator&gt;<br/>열지 않으셨길 바라요.
           </text>
         </DeliverMessage1>
         <End>
@@ -14282,9 +14022,7 @@
           <text>가끔 경기장의 분위기가 그리울 때도 있지만 사소한 실수로 팔다리를 잃을 위험은 그리워하지 않아요.</text>
         </Next1>
         <Next2>
-          <text>
-            제가 <b>단검</b> 기술을 몇 가지 가르쳐 드릴 수 있어요. 하지만 먼저 <b>스모트의 투기장</b>에서 실력을 증명해야 해요.
-          </text>
+          <text>제가 &lt;b&gt;단검&lt;/b&gt; 기술을 몇 가지 가르쳐 드릴 수 있어요. 하지만 먼저 &lt;b&gt;스모트의 투기장&lt;/b&gt;에서 실력을 증명해야 해요.</text>
         </Next2>
         <Next3>
           <text>투기장이 너한테는 골칫거리였다고 들었어? 아! 그렇다면 저 같은 베테랑에게 작은 보상을 받을 자격이 충분합니다!</text>
@@ -14468,8 +14206,7 @@
           <text>날 내버려둬! 날 놔줘!</text>
         </Next1>
         <Next2>
-          <text><b>젊은 남자가 흐느끼며 말을 하려고 애쓰고 있다.</b>
-          </text>
+          <text>&lt;i&gt;젊은 남자가 흐느끼며 말을 하려고 애쓰고 있다.&lt;/i&gt;</text>
         </Next2>
       </dialog>
     </G1BeastChildrenCampChild1>
@@ -15189,8 +14926,7 @@
           <text>그릇에 뭔가 적혀 있습니다.</text>
         </Start>
         <Read>
-          <text>이렇게 새겨져 있습니다: <b>숙련된 협상가 또는 부유한 여행자, 환영합니다! </b>
-          </text>
+          <text>이렇게 새겨져 있습니다: &lt;i&gt;숙련된 협상가 또는 부유한 여행자, 환영합니다! &lt;/i&gt;</text>
         </Read>
         <Pay>
           <text>그릇에 크라운을 넣으시겠습니까?</text>
@@ -15345,9 +15081,7 @@
           </choices>
         </Start>
         <Take>
-          <text>
-            <b>::count::</b>을 획득했습니다.
-          </text>
+          <text>&lt;gold&gt;::count::&lt;/gold&gt;을 획득했습니다.</text>
         </Take>
       </dialog>
     </G1RuinsRoom9Treasure>
@@ -15606,7 +15340,7 @@
       <props.goals>
         <line0>
           <title>빈 술통</title>
-          <props.helpTip>&lt;b&gt;30&lt;img src=&quot;item/GosenbergWine&quot;/&gt; 고센버그 와인&lt;/b&gt;을 가져오거나 그린미어 국경 근처에서 캐러밴을 찾으세요.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;30&amp;lt;img src=&quot;item/GosenbergWine&quot;/&amp;gt; 고센버그 와인&amp;lt;/b&amp;gt;을 가져오거나 그린미어 국경 근처에서 캐러밴을 찾으세요.</props.helpTip>
         </line0>
         <line1>
           <title>루스테</title>
@@ -15799,9 +15533,7 @@
           <text>괜찮은 녀석들이긴 하지만 날카로운 도구는 아니죠. 음유시인의 이야기를 너무 심각하게 받아들인 건 아닌지 걱정돼요.</text>
         </Next1>
         <Next2>
-          <text>
-            그리고 저는 그들에게 <b>브라운록 광산</b>의 위험성을 경고했죠.
-          </text>
+          <text>그리고 저는 그들에게 &lt;b&gt;브라운록 광산&lt;/b&gt;의 위험성을 경고했죠.</text>
         </Next2>
         <End>
           <text>내 마구간 친구들이 돌아와서 정말 기뻐요. 이 어리석은 녀석들을 무사히 데려와줘서 고마워요.</text>
@@ -15978,9 +15710,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/G1TrackerMap"/><b>버트루스 사냥</b> 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/G1TrackerMap"/&gt;&lt;b&gt;버트루스 사냥&lt;/b&gt; 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>마스터 트래커 이스토스에게 승리를 보고하세요.</text>
@@ -16029,14 +15759,10 @@
       <npc.name>드루이드 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>전쟁 페인트</b>는 단순한 장식 그 이상이지만, 외국인들은 그 진정한 의미를 이해하지 못합니다.
-          </text>
+          <text>&lt;b&gt;전쟁 페인트&lt;/b&gt;는 단순한 장식 그 이상이지만, 외국인들은 그 진정한 의미를 이해하지 못합니다.</text>
         </Start>
         <Next1>
-          <text>
-            이 모든 추적자들은 루데른의 <b>툴레스의 숲</b>에 있는 드루이드에 의해 우리 방식으로 입문했습니다.
-          </text>
+          <text>이 모든 추적자들은 루데른의 &lt;b&gt;툴레스의 숲&lt;/b&gt;에 있는 드루이드에 의해 우리 방식으로 입문했습니다.</text>
         </Next1>
         <Tatoo1>
           <text>툴레스의 숲에서 수련을 받으셨습니까? 그렇다면, 동료 중 워페인트로 장식하고 싶은 사람은 누구입니까?</text>
@@ -16115,22 +15841,16 @@
       </dialog>
     </G1TreasureFisherySister>
     <G1HeillmarCastelBookshelf>
-      <npc.name>
-        <b>노예</b>, 제나 알드 베르나 작
-      </npc.name>
+      <npc.name>&lt;i&gt;노예&lt;/i&gt;, 제나 알드 베르나 작</npc.name>
       <dialog>
         <Start>
-          <text><b>북부 왕국이 빛의 숭배로 개종한 것은 정치적 위선에 지나지 않는다.</b>
-          </text>
+          <text>&lt;narrator&gt;북부 왕국이 빛의 숭배로 개종한 것은 정치적 위선에 지나지 않는다.&lt;/narrator&gt;</text>
         </Start>
         <Next1>
-          <text><b><b>성 예루살렘 이야기</b> 27절에 나오는 <b>길 잃은 종</b> 비유는 이 문제에 대해 매우 분명합니다: 노예 주인은 살인자처럼 가혹한 처벌을 받아야 합니다.</b>
-          </text>
+          <text>&lt;narrator&gt;&lt;i&gt;성 예루살렘 이야기&lt;/i&gt; 27절에 나오는 &lt;i&gt;길 잃은 종&lt;/i&gt; 비유는 이 문제에 대해 매우 분명합니다: 노예 주인은 살인자처럼 가혹한 처벌을 받아야 합니다.&lt;/narrator&gt;</text>
         </Next1>
         <Next2>
-          <text>
-            <b>이 사악한 관행을 옹호하는 사람들은 전통에 의해 또는 자신의 범죄에 상응하는 빚을 갚는 범죄자라고 불리는 노예 자체의 성격에 의해 용인된다고 주장합니다. 하지만 어떤 범죄가 노예제도를 정당화할 수 있을까요...</b>?
-          </text>
+          <text>&lt;narrator&gt;이 사악한 관행을 옹호하는 사람들은 전통에 의해 또는 자신의 범죄에 상응하는 빚을 갚는 범죄자라고 불리는 노예 자체의 성격에 의해 용인된다고 주장합니다. 하지만 어떤 범죄가 노예제도를 정당화할 수 있을까요...&lt;/narrator&gt;?</text>
         </Next2>
       </dialog>
     </G1HeillmarCastelBookshelf>
@@ -16203,9 +15923,7 @@
           <text>근위대나 형제단에게 이 임무를 맡길 수 없어 용병 여러분을 불렀습니다. 알라자리아 공주를 체포하는 것은 위험하고 전례가 없는 일입니다.</text>
         </End1>
         <End2>
-          <text>
-            추적자, 로젤, 요렌에게 배운 모든 것이 <b>브룬힐데 아드르 알라자르</b>에 관한 것입니다. 그녀는 내가 치료제에 대한 대가를 치르게 하려고 버트루스를 독살했어.
-          </text>
+          <text>추적자, 로젤, 요렌에게 배운 모든 것이 &lt;b&gt;브룬힐데 아드르 알라자르&lt;/b&gt;에 관한 것입니다. 그녀는 내가 치료제에 대한 대가를 치르게 하려고 버트루스를 독살했어.</text>
         </End2>
         <End3>
           <text>코렌의 납치가 이 모든 혼란의 핵심입니다. 그녀가 사라졌으니 이제 나는 '만인의 눈'의 법칙에 따라 브룬힐데의 딸인 다른 여자와 자유롭게 결혼할 수 있겠지. 베르트루세와 알라자르의 연합은 북부 왕국 복원의 꿈을 이루기 위한 첫걸음입니다.</text>
@@ -16275,7 +15993,7 @@
           <text>죄송하지만 이곳은 지식의 원정대원만 출입할 수 있습니다.</text>
           <choices>
             <line0>
-              <props.disableReason>당신의 부대는 아직 &lt;narrator&gt;신비와 지혜&lt;/narrator&gt; 길의 티어 4에 도달하지 못했습니다.</props.disableReason>
+              <props.disableReason>당신의 부대는 아직 &amp;lt;narrator&amp;gt;신비와 지혜&amp;lt;/narrator&amp;gt; 길의 티어 4에 도달하지 못했습니다.</props.disableReason>
             </line0>
           </choices>
         </Start>
@@ -16296,9 +16014,7 @@
           <text>때마침 이곳에 온 걸 다행으로 여겨라! 이 와인이 얼마나 비싼데... 그런 돈을 환불할 여유가 없었어요.</text>
         </Start>
         <Next1>
-          <text>
-            이제 <b>베르트루제의 루스트 피치</b>로 넘어가죠. 플레이어들이 기다리고 있습니다.
-          </text>
+          <text>이제 &lt;narrator&gt;베르트루제의 루스트 피치&lt;/narrator&gt;로 넘어가죠. 플레이어들이 기다리고 있습니다.</text>
         </Next1>
       </dialog>
     </G1SportMerchantsRewardLeader>
@@ -16445,8 +16161,7 @@
       <npc.name>버디</npc.name>
       <dialog>
         <Start>
-          <text><b>늑대는 그리 크지는 않지만, 너무 많이 먹어서 배부르게 먹은 것 같습니다. 목에는 <b>버디</b>라고 적힌 작은 꼬리표가 달려 있습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;늑대는 그리 크지는 않지만, 너무 많이 먹어서 배부르게 먹은 것 같습니다. 목에는 &lt;i&gt;버디&lt;/i&gt;라고 적힌 작은 꼬리표가 달려 있습니다.&lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.tipText>버디를 포획해 보세요.</props.tipText>
@@ -16539,9 +16254,7 @@
     <G1Root3Leader>
       <dialog>
         <Start>
-          <text>
-            이 마른 나뭇가지들... 이게 덩이줄기의 전부인가? 성 셉티무스의 두개골 옆에서! 우리 <b>부인</b>이 기뻐하지 않으실 거야.
-          </text>
+          <text>이 마른 나뭇가지들... 이게 덩이줄기의 전부인가? 성 셉티무스의 두개골 옆에서! 우리 &lt;i&gt;부인&lt;/i&gt;이 기뻐하지 않으실 거야.</text>
         </Start>
       </dialog>
     </G1Root3Leader>
@@ -16586,9 +16299,7 @@
           <text>우선, 저들이 들고 다니던 이상한 식물이 있어요. 고센버그에서 그런 건 처음 봐요.</text>
         </Next3>
         <Next4>
-          <text>
-            <b>추적자</b>가 도움을 줄 수 있습니다. 그들은 야생에 서식하며 여러 지방을 돌아다니는데... 저 식물이 뭔지 아는 사람이 있다면 알아낼 거야!
-          </text>
+          <text>&lt;b&gt;추적자&lt;/b&gt;가 도움을 줄 수 있습니다. 그들은 야생에 서식하며 여러 지방을 돌아다니는데... 저 식물이 뭔지 아는 사람이 있다면 알아낼 거야!</text>
         </Next4>
       </dialog>
     </G1LoopFamilyLeader>
@@ -16894,9 +16605,7 @@
           <text>더 구해오면 기꺼이 사줄게요. 내가 이걸로 뭘 만들 수 있을지 누가 알겠어!</text>
         </Ask2>
         <Accept2>
-          <text>
-            완벽해! 여기가 <b>만남의 장소</b>입니다! 물약이 필요하면 언제든 날 여기로 데려오면 내가 준비해줄게.
-          </text>
+          <text>완벽해! 여기가 &lt;b&gt;만남의 장소&lt;/b&gt;입니다! 물약이 필요하면 언제든 날 여기로 데려오면 내가 준비해줄게.</text>
         </Accept2>
       </dialog>
     </T3ApothecaryApprentice>
@@ -16935,9 +16644,7 @@
               <text>조렌 토버드랭크의 임무를 수행하세요.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/G1ApothecaryMap"/> <b>약제사의 만남 장소</b> 아이템을 사용해 그들이 만날 장소를 찾으세요.
-              </text>
+              <text>&lt;img src="item/G1ApothecaryMap"/&gt; &lt;b&gt;약제사의 만남 장소&lt;/b&gt; 아이템을 사용해 그들이 만날 장소를 찾으세요.</text>
             </line1>
             <line2>
               <text>임무 지시에 따라 이 목표를 완료하세요.</text>
@@ -17004,19 +16711,21 @@
       <npc.name>마르하임의 장부</npc.name>
       <dialog>
         <Start>
-          <text><b>빛의 축제를 위한 마르헤임 시의 지출 - 지도자 제루의 강림 990년째 <br/> 수탉 35마리, 닭, 거위...<br/>돼지, 양 11마리</b>
+          <text>
+            &lt;narrator&gt;빛의 축제를 위한 마르헤임 시의 지출 - 지도자 제루의 강림 990년째 <br/> 수탉 35마리, 닭, 거위...<br/>돼지, 양 11마리&lt;/narrator&gt;
           </text>
         </Start>
         <Next1>
-          <text><b>양배추 47포기,<br/>콩 16봉지,<br/>하우스 루프와 몰렌의 와인 106통,<br/>...</b>
+          <text>
+            &lt;narrator&gt;양배추 47포기,<br/>콩 16봉지,<br/>하우스 루프와 몰렌의 와인 106통,<br/>...&lt;/narrator&gt;
           </text>
         </Next1>
         <Next2>
-          <text><b>기록되지 않은 것은 난투극과 종교적 열정의 과시로 인한 모든 종류의 피해와 관련된 비용입니다.</b>
-          </text>
+          <text>&lt;narrator&gt;기록되지 않은 것은 난투극과 종교적 열정의 과시로 인한 모든 종류의 피해와 관련된 비용입니다.&lt;/narrator&gt;</text>
         </Next2>
         <Next3>
-          <text><b>브로커 클레멘스 알드 마르하임의 자선단체에 비용의 일부를 요청하는 것이 좋겠고, 다음 빛의 축제를 준비하는 동안 자제를 촉구합니다.<br/><b>재무관 니마</b></b>
+          <text>
+            &lt;narrator&gt;브로커 클레멘스 알드 마르하임의 자선단체에 비용의 일부를 요청하는 것이 좋겠고, 다음 빛의 축제를 준비하는 동안 자제를 촉구합니다.<br/>&lt;i&gt;재무관 니마&lt;/i&gt;&lt;/narrator&gt;
           </text>
         </Next3>
       </dialog>
@@ -17099,9 +16808,7 @@
           <text>어서, 어서, 마르헤임의 선량한 백성들아! 위대한 학자 퀵윗의 최신 발명품을 보세요!</text>
         </Start>
         <Next>
-          <text>
-            <b>발모 로션</b>입니다!
-          </text>
+          <text>&lt;b&gt;발모 로션&lt;/b&gt;입니다!</text>
           <choices>
             <line0>
               <props.tipText>사기꾼에게 이 사태에 대한 대가를 치르게 하세요.</props.tipText>
@@ -17301,7 +17008,7 @@
         </AttackVictim>
         <DeliverMission1>
           <text>
-            <b>정보원은 편지를 소매 속에 숨겨두었습니다. </b><br/>고맙습니다. 가도 돼요.
+            &lt;narrator&gt;정보원은 편지를 소매 속에 숨겨두었습니다. &lt;/narrator&gt;<br/>고맙습니다. 가도 돼요.
           </text>
         </DeliverMission1>
         <End>
@@ -17355,8 +17062,7 @@
     <G2AmbassyChest>
       <dialog>
         <Unlock>
-          <text>알라자리안 대사에게 보내는 서명되지 않은 편지를 발견합니다: <b>루크족의 연락책이 상인 행세를 하고 있습니다. 그들의 정체를 밝히려면 장어 수프를 팔아라. </b>
-          </text>
+          <text>알라자리안 대사에게 보내는 서명되지 않은 편지를 발견합니다: &lt;i&gt;루크족의 연락책이 상인 행세를 하고 있습니다. 그들의 정체를 밝히려면 장어 수프를 팔아라. &lt;/i&gt;</text>
         </Unlock>
       </dialog>
     </G2AmbassyChest>
@@ -17372,9 +17078,7 @@
           <text>알라자리안 대사는 조약에 브로커 호벤도르프의 서명이 필요했습니다.</text>
         </SettingLog>
         <Alt>
-          <text>
-            무엇을 찾아야 할지 모릅니다. <b>형제단의 조사</b>에 참여하셨다면 이 문서들이 더 이해가 되시겠죠?
-          </text>
+          <text>무엇을 찾아야 할지 모릅니다. &lt;narrator&gt;형제단의 조사&lt;/narrator&gt;에 참여하셨다면 이 문서들이 더 이해가 되시겠죠?</text>
         </Alt>
       </dialog>
     </G2AmbassyDesk>
@@ -17431,9 +17135,7 @@
           <text>봤지? 내 물약은 기적을 일으켜요! 모두에게 말해줘요. 이 도시에는 경쟁자가 많아요.</text>
         </Next>
         <Questioned>
-          <text>
-            브로커가 공격받은 건 이번이 처음이 아니야. 지난 달에는 <b>인민 친목회</b>가 그녀의 저택에 불을 지르려고 했어요.
-          </text>
+          <text>브로커가 공격받은 건 이번이 처음이 아니야. 지난 달에는 &lt;narrator&gt;인민 친목회&lt;/narrator&gt;가 그녀의 저택에 불을 지르려고 했어요.</text>
         </Questioned>
       </dialog>
     </G2Apothecary>
@@ -17466,9 +17168,7 @@
           <text>이렇게 멋지게 내 챔피언을 물리친 사람은 처음 봤어요! 대단한 쇼였어요!</text>
         </Next1>
         <Next2>
-          <text>
-            <b>아레나 클래시</b>는 더 많은 관중 앞에서 싸울 수 있는 특별한 기회가 될 것입니다! 운이 좋게도 참가할 수 있을 만큼 강한 사람을 찾고 있어요.
-          </text>
+          <text>&lt;narrator&gt;아레나 클래시&lt;/narrator&gt;는 더 많은 관중 앞에서 싸울 수 있는 특별한 기회가 될 것입니다! 운이 좋게도 참가할 수 있을 만큼 강한 사람을 찾고 있어요.</text>
         </Next2>
         <Next3>
           <text>당신이 우리를 대표할 수 있어요! 고센버그에서 열리는 최고의 쇼에 참가하고, 치열한 호벤도르프 경쟁자들과 맞붙고, 4년 만에 베르나스 아레나의 타이틀을 확보하는 것... 생각해보지 않겠습니까?</text>
@@ -17529,14 +17229,10 @@
           </choices>
         </Start>
         <Questionned1>
-          <text>
-            이 경기장은 예전에는 잠재적 챔피언들이 문 앞에서 줄을 설 정도로 인기가 높았지만, <b>브로커 고드릭 알드 베르나</b>가 재정적으로 어려움을 겪으면서 선수들의 급여가 줄어들었습니다. 브로커는 절망적이었습니다. 이 경기장은 그의 가족의 자부심이자 기쁨입니다.
-          </text>
+          <text>이 경기장은 예전에는 잠재적 챔피언들이 문 앞에서 줄을 설 정도로 인기가 높았지만, &lt;narrator&gt;브로커 고드릭 알드 베르나&lt;/narrator&gt;가 재정적으로 어려움을 겪으면서 선수들의 급여가 줄어들었습니다. 브로커는 절망적이었습니다. 이 경기장은 그의 가족의 자부심이자 기쁨입니다.</text>
         </Questionned1>
         <SettingLog>
-          <text>
-            <b>브로커 베르나</b>는 자신의 경기장에 매우 애착을 가지고 있습니다.
-          </text>
+          <text>&lt;narrator&gt;브로커 베르나&lt;/narrator&gt;는 자신의 경기장에 매우 애착을 가지고 있습니다.</text>
         </SettingLog>
         <NoBeginArena>
           <text>정말?... 잠깐만요, 돌아와요!</text>
@@ -17548,9 +17244,7 @@
           <text>잘했어! 네가 이겼어! 경기장이 꽉 찼어, 오랜만에 보는 관중들이야, 장사가 호황이야!</text>
         </Completed>
         <Completed2>
-          <text>
-            그 얘기가 나온 김에... 호벤도르프와의 <b>아레나 클래시</b>에 우리 대표로 출전하는 기분이 어떤가요? 곧 대회가 시작됩니다. 여러분과 같은 챔피언이 있으니 드디어 기회가 생겼습니다.
-          </text>
+          <text>그 얘기가 나온 김에... 호벤도르프와의 &lt;narrator&gt;아레나 클래시&lt;/narrator&gt;에 우리 대표로 출전하는 기분이 어떤가요? 곧 대회가 시작됩니다. 여러분과 같은 챔피언이 있으니 드디어 기회가 생겼습니다.</text>
         </Completed2>
         <ArenaLost>
           <text>다음 경기는 우리가 이길 수 있어요. 제발, 포기하면 안 돼요! 우릴 포기하지 마세요!</text>
@@ -17659,9 +17353,7 @@
           <title>문 뒤</title>
           <props.helpTips>
             <line0>
-              <text>
-                <img src="item/GoldenKey"/> <b>황금 열쇠</b>를 사용해 문 뒤에 무엇이 있는지 확인하세요.
-              </text>
+              <text>&lt;img src="item/GoldenKey"/&gt; &lt;b&gt;황금 열쇠&lt;/b&gt;를 사용해 문 뒤에 무엇이 있는지 확인하세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -17875,9 +17567,7 @@
           <title>빛의 자선</title>
           <props.helpTips>
             <line0>
-              <text>
-                빛의 여사제에게 <b>10 <img src="item/Wood"/>나무</b> 또는 <b>10 <img src="item/Sandstone"/>모래돌</b>를 가져가세요.
-              </text>
+              <text>빛의 여사제에게 &lt;b&gt;10 &lt;img src="item/Wood"/&gt;나무&lt;/b&gt; 또는 &lt;b&gt;10 &lt;img src="item/Sandstone"/&gt;모래돌&lt;/b&gt;를 가져가세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -17920,17 +17610,13 @@
           <text>용병 여러분, 정말 너그럽군요! 정말 감사하게 생각합니다.</text>
         </Next1>
         <Questioned1>
-          <text>
-            이 끔찍한 살인 사건의 배후에 <b>인민친목회</b>가 있다고 확신합니다. 노예제 폐지에 반대했던 윌라 알드 호벤도르프를 평민들은 혐오해왔어요.
-          </text>
+          <text>이 끔찍한 살인 사건의 배후에 &lt;narrator&gt;인민친목회&lt;/narrator&gt;가 있다고 확신합니다. 노예제 폐지에 반대했던 윌라 알드 호벤도르프를 평민들은 혐오해왔어요.</text>
         </Questioned1>
         <Questioned2>
           <text>이 빈민들은 노동의 실제 비용을 이해하지 못합니다. 유급 노동자에게 의존했다면 이 성당의 건축 비용이 얼마나 들었을지 상상해 보세요!</text>
         </Questioned2>
         <SettingLog>
-          <text>
-            브로커 호벤도르프는 <b>인민 친목회</b>가 싸우고 있던 노예제 폐지에 반대했습니다.
-          </text>
+          <text>브로커 호벤도르프는 &lt;narrator&gt;인민 친목회&lt;/narrator&gt;가 싸우고 있던 노예제 폐지에 반대했습니다.</text>
         </SettingLog>
       </dialog>
     </G2CathedralPriest1>
@@ -18035,9 +17721,7 @@
           <text>어디서부터 시작해야 할지 모르겠다면 정보원에게 문의하세요. 그는 그린미어의 모든 사람을 알고 있습니다.</text>
         </Advices>
         <SettingLog>
-          <text>
-            <b>브로커 호벤도르프</b>가 고센버그에서 살해당했습니다.
-          </text>
+          <text>&lt;narrator&gt;브로커 호벤도르프&lt;/narrator&gt;가 고센버그에서 살해당했습니다.</text>
         </SettingLog>
       </dialog>
     </G2CompanionHeadquarterFranny>
@@ -18060,13 +17744,11 @@
       <dialog>
         <Start>
           <text>
-            용병 여러분, 형제단의 일원 여러분, 이렇게 많은 수가 우리의 부름에 귀 기울여 주셔서 감사합니다. <br/>이 <b>임무</b>를 수행하기 위해서는 가능한 모든 도움이 필요합니다.
+            용병 여러분, 형제단의 일원 여러분, 이렇게 많은 수가 우리의 부름에 귀 기울여 주셔서 감사합니다. <br/>이 &lt;narrator&gt;임무&lt;/narrator&gt;를 수행하기 위해서는 가능한 모든 도움이 필요합니다.
           </text>
         </Start>
         <Next1>
-          <text>
-            <b>브로커 협의회</b>가 자기들 중 한 명을 죽인 자를 추적해달라고 요청했습니다: <b>윌라 알드 호벤도르프</b>.
-          </text>
+          <text>&lt;narrator&gt;브로커 협의회&lt;/narrator&gt;가 자기들 중 한 명을 죽인 자를 추적해달라고 요청했습니다: &lt;narrator&gt;윌라 알드 호벤도르프&lt;/narrator&gt;.</text>
         </Next1>
         <Next2>
           <text>브로커가 죽었다고요?</text>
@@ -18118,9 +17800,7 @@
           <text>압박하려는 건 아니지만 이름이 필요합니다. 브로커 협의회는 날이 갈수록 불안해하고 있습니다. 이제 여러분의 노력을 강화해야 할 때입니다.</text>
         </Next1>
         <Next2>
-          <text>
-            더 이상 의문을 품지 마세요. 의심스러운 사람이 있다면 <b>고발</b>하여 법의 심판을 받게 하세요.
-          </text>
+          <text>더 이상 의문을 품지 마세요. 의심스러운 사람이 있다면 &lt;narrator&gt;고발&lt;/narrator&gt;하여 법의 심판을 받게 하세요.</text>
         </Next2>
         <Accusation>
           <text>바로 그거야! 그러면 피고인과 함께 법정으로 끌려가 재판이 시작될 것입니다.</text>
@@ -18382,9 +18062,7 @@
           <text>대사를 심문해 윌라의 살해에 대해 묻겠습니다. 그가 결백하다면 알라자르로 돌아갈 수 있도록 도와주겠다.</text>
         </Given2>
         <Questioned>
-          <text>
-            과거에 알라자르는 골칫거리인 브로커들을 처리하기 위해 <b>루크족</b>을 이용했었죠. 여기에서도 그럴 수 있습니다.
-          </text>
+          <text>과거에 알라자르는 골칫거리인 브로커들을 처리하기 위해 &lt;narrator&gt;루크족&lt;/narrator&gt;을 이용했었죠. 여기에서도 그럴 수 있습니다.</text>
         </Questioned>
         <SettingLog>
           <text>알라자르 왕국에서는 브로커들이 루크라는 암살단에 의해 살해된 적이 있습니다.</text>
@@ -18475,9 +18153,7 @@
           <text>봉기 이후 처음으로 안전하다고 느꼈어요.</text>
         </Start>
         <Questioned>
-          <text>
-            아, <b>모든 것을 보는 눈</b>이 무슨 뜻인지 알고 싶어요? 기도 제목인 것 같은데, 우리를 구출한 사람들이 구호로 사용했어요. 그들이 보낸 것 같아서 혹시나 해서 반복해 봤는데...
-          </text>
+          <text>아, &lt;narrator&gt;모든 것을 보는 눈&lt;/narrator&gt;이 무슨 뜻인지 알고 싶어요? 기도 제목인 것 같은데, 우리를 구출한 사람들이 구호로 사용했어요. 그들이 보낸 것 같아서 혹시나 해서 반복해 봤는데...</text>
         </Questioned>
       </dialog>
     </G2HillTowerSlaveEndSlave2>
@@ -18504,9 +18180,7 @@
           <text>다리가 아파요. 구더기한테 물렸어요.</text>
         </Start>
         <Questioned>
-          <text>
-            <b>모든 것을 보는 눈이 우릴 인도한다</b>? 기도의 이름이지만, 입술에서는 집결의 외침처럼 들립니다. 구조대원들에게서 배운 걸까요?
-          </text>
+          <text>&lt;narrator&gt;모든 것을 보는 눈이 우릴 인도한다&lt;/narrator&gt;? 기도의 이름이지만, 입술에서는 집결의 외침처럼 들립니다. 구조대원들에게서 배운 걸까요?</text>
         </Questioned>
       </dialog>
     </G2HillTowerGuardEndGuard2>
@@ -18635,9 +18309,7 @@
           <text>이 작은 돈 상자는 퍼즐 메커니즘으로 봉인되어 있습니다.</text>
         </Start>
         <PuzzleSolved>
-          <text>
-            상자 안에는 리데릭 알 호벤도르프와 아델리제라는 요술쟁이 사이에 오간 서툰 편지가 여러 통 들어 있습니다. 마지막 편지는 <b>예술가 광장</b>에서의 공연에 관한 내용입니다.
-          </text>
+          <text>상자 안에는 리데릭 알 호벤도르프와 아델리제라는 요술쟁이 사이에 오간 서툰 편지가 여러 통 들어 있습니다. 마지막 편지는 &lt;narrator&gt;예술가 광장&lt;/narrator&gt;에서의 공연에 관한 내용입니다.</text>
         </PuzzleSolved>
       </dialog>
     </G2HoevendorpAbodeSonRoomCrate>
@@ -18671,9 +18343,7 @@
           <title>마지막 공물</title>
           <props.helpTips>
             <line0>
-              <text>
-                알레타에게 <b>5 <img src="item/Comfrey"/>콤프리</b>를 가져가세요.
-              </text>
+              <text>알레타에게 &lt;b&gt;5 &lt;img src="item/Comfrey"/&gt;콤프리&lt;/b&gt;를 가져가세요.</text>
             </line0>
           </props.helpTips>
         </line1>
@@ -18705,7 +18375,7 @@
       <dialog>
         <Start>
           <text>
-            <b>투사가 눈물을 참느라 애쓰고 있다</b><br/>브로커 호벤도르프가 없으면 우리는 어떻게 될까?
+            &lt;narrator&gt;투사가 눈물을 참느라 애쓰고 있다&lt;/narrator&gt;<br/>브로커 호벤도르프가 없으면 우리는 어떻게 될까?
           </text>
           <choices>
             <line0>
@@ -18720,9 +18390,7 @@
           <text>오! 그거... 정말 사려깊으시네요. 고마워요!</text>
         </Give>
         <SettingLog>
-          <text>
-            <b>브로커 베르나</b>가 라이벌인 브로커 호벤도르프에게 파이터들을 잃었습니다.
-          </text>
+          <text>&lt;narrator&gt;브로커 베르나&lt;/narrator&gt;가 라이벌인 브로커 호벤도르프에게 파이터들을 잃었습니다.</text>
         </SettingLog>
       </dialog>
     </G2HoevendorpArenaGladiator1>
@@ -18743,9 +18411,7 @@
           <text>용병 여러분, 나처럼 되지 마세요. 무엇보다도 도박은 절대 하지 마세요!</text>
         </Start>
         <Next1>
-          <text>
-            손실을 감당할 만큼 돈이 없거나 너무 많이 이기면 <b>그들이</b> 당신을 쫓아올 겁니다.
-          </text>
+          <text>손실을 감당할 만큼 돈이 없거나 너무 많이 이기면 &lt;i&gt;그들이&lt;/i&gt; 당신을 쫓아올 겁니다.</text>
         </Next1>
       </dialog>
     </G2HoevendorpArenaCitizen>
@@ -18765,7 +18431,8 @@
           <text>당신이 이겼어요! 해냈어요!</text>
         </Start>
         <Next1>
-          <text><b>버나는 절대 혼자 걷지 않는다!<br/>버나는 절대 혼자 걷지 않는다! </b>
+          <text>
+            &lt;i&gt;버나는 절대 혼자 걷지 않는다!<br/>버나는 절대 혼자 걷지 않는다! &lt;/i&gt;
           </text>
           <choices>
             <line0>
@@ -18791,18 +18458,14 @@
           <text>하지만 마지막 순간에 윌라가 의회를 등 돌렸어요! 그들은 노예제를 유지하기로 투표했어요. 내 모든 투자가 사라졌어... 내 가족은 거의 파멸할 뻔했어</text>
         </Questioned3>
         <SettingLog>
-          <text>
-            브로커 호벤도르프가 <b>브로커 베르나</b>를 망쳤어요.
-          </text>
+          <text>브로커 호벤도르프가 &lt;narrator&gt;브로커 베르나&lt;/narrator&gt;를 망쳤어요.</text>
         </SettingLog>
       </dialog>
     </G2HoevendorpArenaBernna>
     <G2HoevendorpArenaArenaMerchant>
       <dialog>
         <Start>
-          <text>
-            이 가게는 <b>우리</b> 전사들만을 위한 곳입니다. 맥주가 필요하면 관중석에 노점상이 있습니다.
-          </text>
+          <text>이 가게는 &lt;i&gt;우리&lt;/i&gt; 전사들만을 위한 곳입니다. 맥주가 필요하면 관중석에 노점상이 있습니다.</text>
         </Start>
         <Alt>
           <text>글쎄요... 내 최고급 상품을 거절할 순 없지...</text>
@@ -18813,7 +18476,7 @@
       <dialog>
         <Start>
           <text>
-            <b>아레나 클래시</b>에 오신 것을 환영합니다, 용병 여러분! 빛의 축제를 제외하면 일년 중 가장 중요한 이벤트!<br/>누구에게 내기를 하시겠습니까? 올해는 누가 우승할까요?
+            &lt;narrator&gt;아레나 클래시&lt;/narrator&gt;에 오신 것을 환영합니다, 용병 여러분! 빛의 축제를 제외하면 일년 중 가장 중요한 이벤트!<br/>누구에게 내기를 하시겠습니까? 올해는 누가 우승할까요?
           </text>
         </Start>
         <Next1>
@@ -18956,9 +18619,7 @@
     <G2MarketplaceFishMerchant2>
       <dialog>
         <Start>
-          <text>
-            <b>인민 친목회</b>가 옳습니다: 이 도시는 부유한 자들만 돌볼 뿐, 서민들은 안중에도 없습니다.
-          </text>
+          <text>&lt;narrator&gt;인민 친목회&lt;/narrator&gt;가 옳습니다: 이 도시는 부유한 자들만 돌볼 뿐, 서민들은 안중에도 없습니다.</text>
         </Start>
         <Questionned>
           <text>주위를 둘러보세요! 브로커가 죽으면 사방에서 용병들이 몰려오지만, 가난한 사람이 죽으면 근위대는 손가락 하나 까딱하지 않아요!</text>
@@ -18990,9 +18651,7 @@
           </choices>
         </Next1>
         <Questionned>
-          <text>
-            <b>인민 친목회</b>이 윌라를 죽였는지는 모르겠지만, 죽였다면 정말 기쁠 것 같아요. 불쌍한 녀석들, 저번에 도망쳤을 때 너무 당황한 표정이었어!
-          </text>
+          <text>&lt;narrator&gt;인민 친목회&lt;/narrator&gt;이 윌라를 죽였는지는 모르겠지만, 죽였다면 정말 기쁠 것 같아요. 불쌍한 녀석들, 저번에 도망쳤을 때 너무 당황한 표정이었어!</text>
         </Questionned>
         <GiveClothes1>
           <text>아! 잘됐네!</text>
@@ -19007,9 +18666,7 @@
           <text>석상을 장작불 위에 올려놨어. 잘 봐요, 곧 연기가 피어오를 거예요!</text>
         </End2>
         <SettingLog>
-          <text>
-            과거에 <b>인민 친목회</b>가 브로커 호벤도르프를 암살하려 했어요.
-          </text>
+          <text>과거에 &lt;narrator&gt;인민 친목회&lt;/narrator&gt;가 브로커 호벤도르프를 암살하려 했어요.</text>
         </SettingLog>
       </dialog>
       <props.goals>
@@ -19017,19 +18674,13 @@
           <title>인민의 복수</title>
           <props.helpTips>
             <line0>
-              <text>
-                레너트에게 <b>10 <img src="item/Wood"/>나무</b>와 <b>10 <img src="item/Cloth"/>천</b>을 줍니다.
-              </text>
+              <text>레너트에게 &lt;b&gt;10 &lt;img src="item/Wood"/&gt;나무&lt;/b&gt;와 &lt;b&gt;10 &lt;img src="item/Cloth"/&gt;천&lt;/b&gt;을 줍니다.</text>
             </line0>
             <line1>
-              <text>
-                레너트에게 <b>10 <img src="item/Wood"/>나무</b>를 줍니다.
-              </text>
+              <text>레너트에게 &lt;b&gt;10 &lt;img src="item/Wood"/&gt;나무&lt;/b&gt;를 줍니다.</text>
             </line1>
             <line2>
-              <text>
-                <b>10 <img src="item/Cloth"/>천</b>을 레너트에게 준다.
-              </text>
+              <text>&lt;b&gt;10 &lt;img src="item/Cloth"/&gt;천&lt;/b&gt;을 레너트에게 준다.</text>
             </line2>
           </props.helpTips>
         </line0>
@@ -19041,9 +18692,7 @@
           <text>브로커의 형상이 준비되는 대로 장작불에 불을 붙이면 축제를 시작할 수 있습니다! 이건 반란의 시작일 뿐이지만 반드시 기념해야 합니다!</text>
         </Start>
         <DollReceived>
-          <text>
-            이 조각상을 만드는 데 필요한 재료를 주셨으니 불을 붙이는 영광을 얻으셨어요! 아, <b>인민 친목회</b> 신사 숙녀분들이 정말 자랑스러워할 겁니다!
-          </text>
+          <text>이 조각상을 만드는 데 필요한 재료를 주셨으니 불을 붙이는 영광을 얻으셨어요! 아, &lt;narrator&gt;인민 친목회&lt;/narrator&gt; 신사 숙녀분들이 정말 자랑스러워할 겁니다!</text>
           <choices>
             <line0>
               <props.customTxt>불붙이기</props.customTxt>
@@ -19059,9 +18708,7 @@
           <title>불을 피워주세요.</title>
           <props.helpTips>
             <line0>
-              <text>
-                <b>1 <img src="item/Torch"/>횃불</b>을 사용해 장작더미에 불을 붙입니다.
-              </text>
+              <text>&lt;b&gt;1 &lt;img src="item/Torch"/&gt;횃불&lt;/b&gt;을 사용해 장작더미에 불을 붙입니다.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -19107,7 +18754,7 @@
         </Next2>
         <Next3>
           <text>
-            최악의 상황을 알고 싶나, 용병들? <br/>어느 손님이 도둑들이 강 건너편, <b>도시</b>와 <b>루스트 필드</b> 사이에 있다고 하더군요.
+            최악의 상황을 알고 싶나, 용병들? <br/>어느 손님이 도둑들이 강 건너편, &lt;narrator&gt;도시&lt;/narrator&gt;와 &lt;narrator&gt;루스트 필드&lt;/narrator&gt; 사이에 있다고 하더군요.
           </text>
           <choices>
             <line0>
@@ -19297,7 +18944,7 @@
       <dialog>
         <Start>
           <text>
-            <b>장어 수프? </b> 아, <b>루크의 코드</b>에 익숙하구나! 난 너희가 점잖은 사람들인 줄 알았는데...<br/>살인할 사람이 필요해? 아니면 그냥 불법적인 물건을 노리는 거야?
+            &lt;narrator&gt;장어 수프? &lt;/narrator&gt; 아, &lt;narrator&gt;루크의 코드&lt;/narrator&gt;에 익숙하구나! 난 너희가 점잖은 사람들인 줄 알았는데...<br/>살인할 사람이 필요해? 아니면 그냥 불법적인 물건을 노리는 거야?
           </text>
         </Start>
         <Next1>
@@ -19333,9 +18980,7 @@
           <text>당신 부대가 중요한 것을 찾았다.</text>
         </Notify>
         <SettingLog>
-          <text>
-            브로커 호벤도르프는 <b>베르나의 투기장</b>을 구입한 직후 살해당했다.
-          </text>
+          <text>브로커 호벤도르프는 &lt;narrator&gt;베르나의 투기장&lt;/narrator&gt;을 구입한 직후 살해당했다.</text>
         </SettingLog>
       </dialog>
     </G2TradePalaceBag>
@@ -19361,8 +19006,7 @@
           </choices>
         </Start>
         <NotifLadder>
-          <text>::name::의 무게로 인해 사다리 중 하나가 부러졌습니다 : <b>::injury::</b>
-          </text>
+          <text>::name::의 무게로 인해 사다리 중 하나가 부러졌습니다 : &lt;status&gt;::injury::&lt;/status&gt;</text>
         </NotifLadder>
         <NotifPiton>
           <text>그룹은 무사히 탈출했습니다.</text>
@@ -19403,9 +19047,7 @@
     <G2RuinsRoom3MaleStatue>
       <dialog>
         <Start>
-          <text>
-            비문에 따르면 이 남자는 <b>베헤다이트</b>라고 한다.
-          </text>
+          <text>비문에 따르면 이 남자는 &lt;i&gt;베헤다이트&lt;/i&gt;라고 한다.</text>
         </Start>
       </dialog>
     </G2RuinsRoom3MaleStatue>
@@ -19500,9 +19142,7 @@
           <text>::name::이 정상에 도착하면 부대가 따라갑니다.</text>
         </Success>
         <Fail>
-          <text>
-            밧줄이 ::name::의 손가락 사이로 빠져나가 ::name::이 떨어지면서 바닥에 세게 부딪힙니다(<b>::injury::</b>).
-          </text>
+          <text>밧줄이 ::name::의 손가락 사이로 빠져나가 ::name::이 떨어지면서 바닥에 세게 부딪힙니다(&lt;status&gt;::injury::&lt;/status&gt;).</text>
         </Fail>
         <ActionName>
           <text>Climb</text>
@@ -19542,8 +19182,7 @@
           <text>조각상은 손이 닿지 않는 곳에 있다. 조각상으로 가려면 이 판석을 밟아야 합니다.</text>
         </Start>
         <NotifWrong>
-          <text>::name::이 부상을 입었습니다: <b>::injury::</b>
-          </text>
+          <text>::name::이 부상을 입었습니다: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </NotifWrong>
       </dialog>
     </G2RuinsBoardPuzzle>
@@ -19581,9 +19220,7 @@
     <G2RuinsRoom13Chest>
       <dialog>
         <Failure>
-          <text>
-            ::name::이 다트에 어깨를 맞았습니다(<b>::injury::</b>).
-          </text>
+          <text>::name::이 다트에 어깨를 맞았습니다(&lt;status&gt;::injury::&lt;/status&gt;).</text>
         </Failure>
         <Success>
           <text>상자의 메커니즘을 열었습니다.</text>
@@ -19774,9 +19411,7 @@
           <title>암호</title>
           <props.helpTips>
             <line0>
-              <text>
-                지하실에 필요한 <img src="item/WroughtKey"/> <b>오르네이트 열쇠</b>를 구할 방법을 찾아야 한다.
-              </text>
+              <text>지하실에 필요한 &lt;img src="item/WroughtKey"/&gt; &lt;b&gt;오르네이트 열쇠&lt;/b&gt;를 구할 방법을 찾아야 한다.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -19800,7 +19435,7 @@
         </Start>
         <Questioned1>
           <text>
-            어? 뭐야? <b>인민 친목회</b>? ... 난...<br/>들어본 적도 없는데...<br/>나 가봐야겠어!
+            어? 뭐야? &lt;narrator&gt;인민 친목회&lt;/narrator&gt;? ... 난...<br/>들어본 적도 없는데...<br/>나 가봐야겠어!
           </text>
         </Questioned1>
       </dialog>
@@ -19823,15 +19458,15 @@
           <text>눈의 빛으로 예배하러 왔나? 여러분의 마음이 부르는 기도를 선택한다면 제가 여러분과 함께 노래하겠습니다.</text>
           <choices>
             <line0>
-              <props.tipText>사제와 함께 &lt;i&gt;예루를 찬양하라&lt;/i&gt;를 부르세요.</props.tipText>
+              <props.tipText>사제와 함께 &amp;lt;i&amp;gt;예루를 찬양하라&amp;lt;/i&amp;gt;를 부르세요.</props.tipText>
               <props.customTxt>노래</props.customTxt>
             </line0>
             <line1>
-              <props.tipText>사제와 함께 &lt;i&gt;오 엘레오르&lt;/i&gt;를 부릅니다.</props.tipText>
+              <props.tipText>사제와 함께 &amp;lt;i&amp;gt;오 엘레오르&amp;lt;/i&amp;gt;를 부릅니다.</props.tipText>
               <props.customTxt>노래</props.customTxt>
             </line1>
             <line2>
-              <props.tipText>사제와 함께 &lt;i&gt;모든 것을 보는 눈이 우리를 인도하네&lt;/i&gt;를 부릅니다.</props.tipText>
+              <props.tipText>사제와 함께 &amp;lt;i&amp;gt;모든 것을 보는 눈이 우리를 인도하네&amp;lt;/i&amp;gt;를 부릅니다.</props.tipText>
               <props.customTxt>노래</props.customTxt>
             </line2>
           </choices>
@@ -19860,7 +19495,7 @@
           <text>몇 시간 동안 숨고 싶습니까?</text>
           <choices>
             <line0>
-              <props.tipText>경고한다: &lt;narrator&gt;8시간&lt;/narrator&gt;이 지날 것입니다.</props.tipText>
+              <props.tipText>경고한다: &amp;lt;narrator&amp;gt;8시간&amp;lt;/narrator&amp;gt;이 지날 것입니다.</props.tipText>
             </line0>
           </choices>
         </Start>
@@ -19906,9 +19541,7 @@
           </choices>
         </Next3>
         <Next4>
-          <text>
-            요르번은 <b>감옥</b>에 갇혀 있으며, 이 임무를 위해 특별히 고용된 형제들이 하루 종일 감시하고 있습니다. 그들을 물리치고 우리 친구를 여기로 데려와야 합니다.
-          </text>
+          <text>요르번은 &lt;narrator&gt;감옥&lt;/narrator&gt;에 갇혀 있으며, 이 임무를 위해 특별히 고용된 형제들이 하루 종일 감시하고 있습니다. 그들을 물리치고 우리 친구를 여기로 데려와야 합니다.</text>
         </Next4>
         <Next5>
           <text>이곳의 사람들과 이야기하면 기꺼이 당신과 함께 요르번의 자유를 위해 목숨을 바칠 것입니다.</text>
@@ -19931,33 +19564,27 @@
         </End2>
         <End3>
           <text>
-            연맹은 당신이 한 일을 잊지 않을 겁니다. <br/>피난처가 필요하거나 경비병이 찾아올 경우, 필요한 기간 동안 <b>짚 매트리스</b>에서 지내실 수 있습니다.
+            연맹은 당신이 한 일을 잊지 않을 겁니다. <br/>피난처가 필요하거나 경비병이 찾아올 경우, 필요한 기간 동안 &lt;narrator&gt;짚 매트리스&lt;/narrator&gt;에서 지내실 수 있습니다.
           </text>
         </End3>
         <Final>
           <text>
-            연맹은 당신이 한 일을 잊지 않을 것입니다. <br/>피난처가 필요하거나 근위대의 수배를 받는다면 필요한 기간 동안 우리의 <b>짚 매트리스</b>에서 지내십시오.
+            연맹은 당신이 한 일을 잊지 않을 것입니다. <br/>피난처가 필요하거나 근위대의 수배를 받는다면 필요한 기간 동안 우리의 &lt;narrator&gt;짚 매트리스&lt;/narrator&gt;에서 지내십시오.
           </text>
         </Final>
         <Questioned1>
-          <text>
-            요르번은 <b>호벤도르프 광산</b>에서 노예들을 풀어주다가 붙잡혔습니다. 윌라가 죽던 날 밤에 <b>우리 모두</b>가 있었던 곳입니다.
-          </text>
+          <text>요르번은 &lt;narrator&gt;호벤도르프 광산&lt;/narrator&gt;에서 노예들을 풀어주다가 붙잡혔습니다. 윌라가 죽던 날 밤에 &lt;i&gt;우리 모두&lt;/i&gt;가 있었던 곳입니다.</text>
         </Questioned1>
         <SettingLog>
-          <text>
-            <b>인민 친목회</b>는 광산 주인인 브로커 호벤도르프가 살해당했을 때 광산에서 노예들을 해방시키고 있었습니다.
-          </text>
+          <text>&lt;narrator&gt;인민 친목회&lt;/narrator&gt;는 광산 주인인 브로커 호벤도르프가 살해당했을 때 광산에서 노예들을 해방시키고 있었습니다.</text>
         </SettingLog>
         <Final2>
           <text>
-            연맹은 여러분이 한 일을 잊지 않을 것입니다. <br/>피난처가 필요하거나 경비병의 수배를 받는다면, 필요한 기간 동안 <b>짚 매트리스</b>에서 지내실 수 있습니다.
+            연맹은 여러분이 한 일을 잊지 않을 것입니다. <br/>피난처가 필요하거나 경비병의 수배를 받는다면, 필요한 기간 동안 &lt;narrator&gt;짚 매트리스&lt;/narrator&gt;에서 지내실 수 있습니다.
           </text>
         </Final2>
         <Questioned2>
-          <text>
-            요르번은 <b>호벤도르프 광산</b>에서 노예들을 풀어주다가 붙잡혔습니다. 윌라가 죽던 날 밤 우리 모두는 그곳에 있었어요.
-          </text>
+          <text>요르번은 &lt;narrator&gt;호벤도르프 광산&lt;/narrator&gt;에서 노예들을 풀어주다가 붙잡혔습니다. 윌라가 죽던 날 밤 우리 모두는 그곳에 있었어요.</text>
         </Questioned2>
       </dialog>
     </G2SmallChurchCryptLeader>
@@ -20048,9 +19675,7 @@
     <G2SportChampion>
       <dialog>
         <Start>
-          <text>
-            내가 너무 늙었나 봐... <b>너무 늙었다고! </b> 난 베르나 투기장의 그랜드 챔피언이자 투기장 결투에서 세 번이나 우승했어! 그런데 이 양아치들이 날 팀에 넣지 않겠다고?
-          </text>
+          <text>내가 너무 늙었나 봐... &lt;i&gt;너무 늙었다고! &lt;/i&gt; 난 베르나 투기장의 그랜드 챔피언이자 투기장 결투에서 세 번이나 우승했어! 그런데 이 양아치들이 날 팀에 넣지 않겠다고?</text>
         </Start>
         <Next1>
           <text>내 최고의 기술을 가르쳐주려고 했는데... 이제 그런 일은 없을 거야! 난 이제 루스테 선수들을 믿지 않아. 내 지식은 베르나의 아레나의 다음 챔피언에게 넘겨주겠어. 그리고 그게 마지막이야.</text>
@@ -20153,9 +19778,7 @@
           <text>브로커 베르나가 최근 크라운이 부족해 보였는데... 조랑말 한 마리를 기부했네요! 우승자에게 당근 한 다발을 수여할 뻔했는데, 그가 다시 돌아와서 다행이네요.</text>
         </Questioned>
         <SettingLog>
-          <text>
-            <b>브로커 베르나</b>가 갑자기 설명할 수 없이 부자가 되었습니다.
-          </text>
+          <text>&lt;narrator&gt;브로커 베르나&lt;/narrator&gt;가 갑자기 설명할 수 없이 부자가 되었습니다.</text>
         </SettingLog>
         <NotifRouste>
           <text>다른 지역의 루스테 피치를 잠금 해제했습니다.</text>
@@ -20212,7 +19835,7 @@
         </Next1>
         <Next2>
           <text>
-            관심 있으신가요? 흠...<br/>내 지식을 전수받을 자격이 있다는 걸 증명해봐요. <b>아레나 클래시</b>에서 승리하면 내 유산의 후계자가 되게 해주지.
+            관심 있으신가요? 흠...<br/>내 지식을 전수받을 자격이 있다는 걸 증명해봐요. &lt;narrator&gt;아레나 클래시&lt;/narrator&gt;에서 승리하면 내 유산의 후계자가 되게 해주지.
           </text>
         </Next2>
         <Next3>
@@ -20289,26 +19912,22 @@
       <npc.name>천문학자 $NAME</npc.name>
       <dialog>
         <Start>
-          <text>
-            대학 다니는 애들은 믿지 마...! <b>힉!</b> 지구는... <b>둥글다!</b>.
-          </text>
+          <text>대학 다니는 애들은 믿지 마...! &lt;i&gt;힉!&lt;/i&gt; 지구는... &lt;i&gt;둥글다!&lt;/i&gt;.</text>
         </Start>
         <Questioned>
-          <text>
-            브로커 호벤도르프 - <b>힉!</b> - 내 연구에 자금을 대고 싶지 않았어! <b>힉!</b> 난 그 여자가 싫어!
-          </text>
+          <text>브로커 호벤도르프 - &lt;i&gt;힉!&lt;/i&gt; - 내 연구에 자금을 대고 싶지 않았어! &lt;i&gt;힉!&lt;/i&gt; 난 그 여자가 싫어!</text>
         </Questioned>
         <Astronomer1>
           <text>응? 뭐? 드롬바흐의 천문학자? 나한테 뭘 원하는 거지?</text>
         </Astronomer1>
         <Astronomer2>
           <text>
-            <b>왜? </b><br/>그한테서 이 편지를 받았어? <br/><b>힉! </b> 눈의 심판이 그의 머리를 때렸나?
+            &lt;i&gt;왜? &lt;/i&gt;<br/>그한테서 이 편지를 받았어? <br/>&lt;i&gt;힉! &lt;/i&gt; 눈의 심판이 그의 머리를 때렸나?
           </text>
         </Astronomer2>
         <Astronomer3>
           <text>
-            <b>지구는 평평하지도 둥글지도 않고 둥근 모루 모양을 하고 있다</b>...<br/>그런 헛소리 때문에 여기까지 온 건 아니겠지!<br/>이 보상은 그만한 가치가 없소.
+            &lt;i&gt;지구는 평평하지도 둥글지도 않고 둥근 모루 모양을 하고 있다&lt;/i&gt;...<br/>그런 헛소리 때문에 여기까지 온 건 아니겠지!<br/>이 보상은 그만한 가치가 없소.
           </text>
         </Astronomer3>
         <Wait>
@@ -20330,9 +19949,7 @@
       <npc.name>정보원</npc.name>
       <dialog>
         <Start>
-          <text>
-            호벤도르프 브로커의 죽음을 조사 중이시죠? 당신을 도와줄 수 있는 사람들을 알고 있지만, <b>인민 친목회</b>에 연락하는 방법을 몰라서 안타깝습니다.
-          </text>
+          <text>호벤도르프 브로커의 죽음을 조사 중이시죠? 당신을 도와줄 수 있는 사람들을 알고 있지만, &lt;narrator&gt;인민 친목회&lt;/narrator&gt;에 연락하는 방법을 몰라서 안타깝습니다.</text>
         </Start>
         <Done>
           <text>도움이 되길 바랍니다.</text>
@@ -20362,7 +19979,7 @@
         </Arena>
         <DeliverMission1>
           <text>
-            <b>정보원은 편지를 집어 들기 전에 망설입니다. </b><br/>나는... 고맙습니다.
+            &lt;narrator&gt;정보원은 편지를 집어 들기 전에 망설입니다. &lt;/narrator&gt;<br/>나는... 고맙습니다.
           </text>
         </DeliverMission1>
         <End>
@@ -20421,7 +20038,7 @@
         </line0>
         <line1>
           <title>조회 수당 지불</title>
-          <props.helpTip>&lt;b&gt;5 &lt;img src=&quot;item/Gold&quot;/&gt;크라운&lt;/b&gt;을 주세요.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;5 &amp;lt;img src=&quot;item/Gold&quot;/&amp;gt;크라운&amp;lt;/b&amp;gt;을 주세요.</props.helpTip>
         </line1>
       </props.goals>
     </G2TheaterPlaceSettingManager>
@@ -20454,8 +20071,7 @@
     <G2TheaterPlacePlay>
       <dialog>
         <Start>
-          <text><b>공연자들이 고센버그의 역사를 재연하고 있습니다</b>
-          </text>
+          <text>&lt;narrator&gt;공연자들이 고센버그의 역사를 재연하고 있습니다&lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.tipText>공연 보기</props.tipText>
@@ -20509,9 +20125,7 @@
           <text>공연이 즐거웠길 바랍니다.</text>
         </Start>
         <Questioned>
-          <text>
-            윌라 알드 호벤도르프의 죽음은 놀라운 일이 아닙니다. 전에도 <b>인민 친목회</b>가 그녀의 저택에 불을 지르려 했다는 소문이 있었으니까요.
-          </text>
+          <text>윌라 알드 호벤도르프의 죽음은 놀라운 일이 아닙니다. 전에도 &lt;narrator&gt;인민 친목회&lt;/narrator&gt;가 그녀의 저택에 불을 지르려 했다는 소문이 있었으니까요.</text>
         </Questioned>
       </dialog>
     </G2TheaterPlaceTumbler1>
@@ -20626,8 +20240,7 @@
     <G2TheaterPlaceAltPlayDone>
       <dialog>
         <Start>
-          <text><b>제루의 생애에 등장하는 이 장면은 많은 투자가 필요했습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;제루의 생애에 등장하는 이 장면은 많은 투자가 필요했습니다.&lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.tipText>공연 보기</props.tipText>
@@ -20732,9 +20345,7 @@
           <text>중개인 협의회에서 다른 상인이 내 영지를 공격하면 곧장 감옥에 간다고 했어요!</text>
         </Next1>
         <Next2>
-          <text>
-            정당한 보상을 받고 늑대 몇 마리를 제거해 주시겠습니까? <b>그레이트 그로울러 동굴</b>에 한 무리가 숨어 있습니다. 그들은 특히 캐러밴에게 공격적입니다.
-          </text>
+          <text>정당한 보상을 받고 늑대 몇 마리를 제거해 주시겠습니까? &lt;narrator&gt;그레이트 그로울러 동굴&lt;/narrator&gt;에 한 무리가 숨어 있습니다. 그들은 특히 캐러밴에게 공격적입니다.</text>
           <choices>
             <line0>
               <props.disableReason>이 무리는 당신에게서 무언가를 원하는 것 같습니다.</props.disableReason>
@@ -20793,9 +20404,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/G2TrackerMap"/><b>그린미어 사냥</b> 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.
-              </text>
+              <text>&lt;img src="item/G2TrackerMap"/&gt;&lt;b&gt;그린미어 사냥&lt;/b&gt; 아이템의 지시에 따라 고스트 팩을 찾아 쓰러뜨리세요.</text>
             </line1>
             <line2>
               <text>마스터 트래커 프리토나에게 승리를 보고하세요.</text>
@@ -20816,9 +20425,7 @@
       <npc.name>드루이드 이모나</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>전쟁 페인트</b>는 단순한 장식 그 이상이지만, 외국인들은 그 진정한 의미를 이해하지 못합니다.
-          </text>
+          <text>&lt;b&gt;전쟁 페인트&lt;/b&gt;는 단순한 장식 그 이상이지만, 외국인들은 그 진정한 의미를 이해하지 못합니다.</text>
         </Start>
         <Next1>
           <text>이 모든 추적자들은 루데른의 툴레스의 숲에 있는 한 드루이드에 의해 우리 방식으로 입문했습니다.</text>
@@ -20850,8 +20457,7 @@
       <npc.name>고센베르크 프레스코</npc.name>
       <dialog>
         <Start>
-          <text><b>이 프레스코화는 고센버그의 브로커(왼쪽)가 에도란(오른쪽)을 대신해 알라자르 왕국을 배신했던 때를 묘사하고 있습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;이 프레스코화는 고센버그의 브로커(왼쪽)가 에도란(오른쪽)을 대신해 알라자르 왕국을 배신했던 때를 묘사하고 있습니다.&lt;/narrator&gt;</text>
         </Start>
       </dialog>
     </G2TradePalacePainting>
@@ -20918,9 +20524,7 @@
           <text>다시 만나서 반가워요!</text>
         </Start>
         <Questioned>
-          <text>
-            <b>호벤도르프 저택</b>으로 가보세요. 브로커의 딸이 거기서 수색을 하고 있거든.
-          </text>
+          <text>&lt;narrator&gt;호벤도르프 저택&lt;/narrator&gt;으로 가보세요. 브로커의 딸이 거기서 수색을 하고 있거든.</text>
         </Questioned>
         <BrunhildeAlive>
           <text>여기서 뭐하는 거죠?</text>
@@ -20983,9 +20587,7 @@
           <text>이 계약서는 브로커 베르나가 유죄라는 것을 증명합니다. 그는 루크에게 어머니를 암살하고 어머니와 연결되는 문서를 가져가라고 지시한 장본인이에요.</text>
         </Next6>
         <Notify>
-          <text>
-            말비나가 군중들에게 <img src="item/G2Hoevendorp"/> <b>매매 계약서</b>를 보여줍니다.
-          </text>
+          <text>말비나가 군중들에게 &lt;img src="item/G2Hoevendorp"/&gt; &lt;b&gt;매매 계약서&lt;/b&gt;를 보여줍니다.</text>
         </Notify>
       </dialog>
     </G2TrialPalaceMalvina>
@@ -21030,7 +20632,8 @@
       <npc.name>브로커 협의회</npc.name>
       <dialog>
         <Start>
-          <text><b>방이 꽉 찼습니다. 많은 지역 주민들이 이 재판에 참석하러 왔습니다. <br/>브로커 협의회는 불안해 보입니다.</b>
+          <text>
+            &lt;narrator&gt;방이 꽉 찼습니다. 많은 지역 주민들이 이 재판에 참석하러 왔습니다. <br/>브로커 협의회는 불안해 보입니다.&lt;/narrator&gt;
           </text>
         </Start>
         <Next0>
@@ -21040,16 +20643,13 @@
           <text>당신을 고발한 용병들은 당신의 유죄를 입증할 증거를 가지고 있다고 주장합니다.</text>
         </Next1>
         <Next3>
-          <text>
-            눈의 은총으로 그들이 이를 증명한다면, 그들은 브로커 협의회가 약속한 금액을 받게 될 것입니다. 만약 실패한다면, 이 의회에서 그들이 당신을 비방한 것이 밝혀지면, 그들은 우리 위대한 도시에 <b>300</b>을 지불하라는 명령을 받게 될 것입니다.
-          </text>
+          <text>눈의 은총으로 그들이 이를 증명한다면, 그들은 브로커 협의회가 약속한 금액을 받게 될 것입니다. 만약 실패한다면, 이 의회에서 그들이 당신을 비방한 것이 밝혀지면, 그들은 우리 위대한 도시에 &lt;gold&gt;300&lt;/gold&gt;을 지불하라는 명령을 받게 될 것입니다.</text>
         </Next3>
         <Next4>
           <text>이제 이 법정의 규칙을 검토했으니 시작하겠습니다.</text>
         </Next4>
         <Start_F>
-          <text><b>방이 꽉 찼습니다. 많은 지역 주민들이 재판에 참석하러 왔습니다. 브로커 협의회가 불안해하는 것 같군요. </b>
-          </text>
+          <text>&lt;narrator&gt;방이 꽉 찼습니다. 많은 지역 주민들이 재판에 참석하러 왔습니다. 브로커 협의회가 불안해하는 것 같군요. &lt;/narrator&gt;</text>
         </Start_F>
         <Next0_F>
           <text>::G2TrialPalaceAccused::, 당신은 우리 동료인 브로커 윌라 알드 호벤도르프를 살해한 혐의로 기소되었습니다.</text>
@@ -21058,9 +20658,7 @@
           <text>당신을 고발한 용병들은 당신의 유죄를 입증할 증거를 가지고 있다고 주장합니다.</text>
         </Next1_F>
         <Next3_F>
-          <text>
-            눈의 은총으로 그들이 이를 증명한다면, 그들은 브로커 협의회가 약속한 금액을 받게 될 것입니다. 만약 실패한다면, 이 의회에서 그들이 당신을 비방한 것이 밝혀지면, 그들은 우리 위대한 도시에 <b>300</b>을 지불하라는 명령을 받게 될 것입니다.
-          </text>
+          <text>눈의 은총으로 그들이 이를 증명한다면, 그들은 브로커 협의회가 약속한 금액을 받게 될 것입니다. 만약 실패한다면, 이 의회에서 그들이 당신을 비방한 것이 밝혀지면, 그들은 우리 위대한 도시에 &lt;gold&gt;300&lt;/gold&gt;을 지불하라는 명령을 받게 될 것입니다.</text>
         </Next3_F>
         <Next4_F>
           <text>이제 이 법정의 규칙을 검토했으니 시작하겠습니다.</text>
@@ -21218,9 +20816,7 @@
           <text>브로커 위원회는 아무 때나 모일 수 없습니다. 이 법정은 보상에 굶주린 용병의 조작을 들어줄 곳이 아닙니다.</text>
         </BadEnd2>
         <BadEnd3>
-          <text>
-            이에 브로커 평의회는 피고인 ::G2TrialPalaceAccused::에게 무죄를 선고하며, 용병 여러분은 고센버그 시에 <b>300</b>을 벌금으로 납부할 것을 선고합니다.
-          </text>
+          <text>이에 브로커 평의회는 피고인 ::G2TrialPalaceAccused::에게 무죄를 선고하며, 용병 여러분은 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt;을 벌금으로 납부할 것을 선고합니다.</text>
         </BadEnd3>
         <Start_F>
           <text>먼저 용병 여러분, 우리의 존경하는 동료인 윌라 알드 호벤도르프가 사망하게 된 상황을 다시 한 번 살펴보겠습니다.</text>
@@ -21317,9 +20913,7 @@
           <text>브로커 위원회는 아무 때나 모일 수 없습니다. 이 법정은 보상에 굶주린 용병의 조작을 들어줄 곳이 아닙니다.</text>
         </BadEnd2_F>
         <BadEnd3_F>
-          <text>
-            이에 브로커 평의회는 피고인 ::G2TrialPalaceAccused::에게 무죄를 선고하며, 용병 여러분은 고센버그 시에 <b>300</b>을 벌금으로 납부할 것을 선고합니다.
-          </text>
+          <text>이에 브로커 평의회는 피고인 ::G2TrialPalaceAccused::에게 무죄를 선고하며, 용병 여러분은 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt;을 벌금으로 납부할 것을 선고합니다.</text>
         </BadEnd3_F>
       </dialog>
     </G2TrialPalaceClemens>
@@ -21855,16 +21449,14 @@
           <text>이번 재판에서 용병들이 제출한 답변이 불충분한 것으로 밝혀졌으므로 브로커 평의회는 ::G2TrialPalaceAccused::에게 와이일라 알드 호벤도르프의 살인죄를 적용할 수 없다.</text>
         </BadEnding1>
         <BadEnding2>
-          <text>
-            ::G2TrialPalaceAccused::는 자유의 몸으로 돌아갈 수 있습니다. 고소인들에 대해서는 명예훼손죄로 고센버그 시에 <b>300</b>을 지불하라는 판결을 선고합니다.
-          </text>
+          <text>::G2TrialPalaceAccused::는 자유의 몸으로 돌아갈 수 있습니다. 고소인들에 대해서는 명예훼손죄로 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt;을 지불하라는 판결을 선고합니다.</text>
         </BadEnding2>
         <GoodEndAlazar1>
           <text>근위대의 신속한 지원 덕분에 브로커 재판소는 대사와 브로커 알드 호벤도르프가 서명하려던 조약을 확보할 수 있었습니다.</text>
         </GoodEndAlazar1>
         <GoodEndAlazar2>
           <text>
-            <b>대사의 말은 사실입니다</b><br/>더 이상 추가할 말이 없다면 용병 여러분, 이 법정은 판결을 내릴 준비가 되었습니다.
+            &lt;narrator&gt;대사의 말은 사실입니다&lt;/narrator&gt;<br/>더 이상 추가할 말이 없다면 용병 여러분, 이 법정은 판결을 내릴 준비가 되었습니다.
           </text>
         </GoodEndAlazar2>
         <GoodEndAlazar3>
@@ -21874,9 +21466,7 @@
           <text>이러한 이유와 결정적인 증거가 없는 상황에서 우리는 피고 ::G2TrialPalaceAccused::에게 무죄를 선고합니다.</text>
         </GoodEndAlazar4>
         <GoodEndAlazar5>
-          <text>
-            용병인 당신에 대해서는 고센버그 시에 <b>300</b> 벌금을 납부하라는 판결을 선고합니다.
-          </text>
+          <text>용병인 당신에 대해서는 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt; 벌금을 납부하라는 판결을 선고합니다.</text>
         </GoodEndAlazar5>
         <GoodEndSon1>
           <text>자네들의 철저한 조사에도 불구하고 리데릭 알드 호벤도르프가 어머니를 살해할 수단이 있었을 가능성은 매우 희박해 보인다.</text>
@@ -21886,7 +21476,7 @@
         </GoodEndSon2>
         <GoodEndSon3>
           <text>
-            따라서 리데릭 알드 호벤도르프는 이 법정에서 나가도 좋다. <br/>당신들 용병들은 고센버그 시에 <b>300</b> 벌금을 납부하라는 판결을 선고한다.
+            따라서 리데릭 알드 호벤도르프는 이 법정에서 나가도 좋다. <br/>당신들 용병들은 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt; 벌금을 납부하라는 판결을 선고한다.
           </text>
         </GoodEndSon3>
         <GoodEndRival1>
@@ -21914,9 +21504,7 @@
           <text>용병 여러분, 비록 인민 친목회의 일원을 체포하는 데 도움을 주긴 했지만, 그들의 범죄에 대해 잘못 알고 있었습니다.</text>
         </GoodEndLeague4>
         <GoodEndLeague5>
-          <text>
-            따라서 이 법정을 떠나기 전에 <b>300</b> 벌금을 납부해야 합니다.
-          </text>
+          <text>따라서 이 법정을 떠나기 전에 &lt;gold&gt;300&lt;/gold&gt; 벌금을 납부해야 합니다.</text>
         </GoodEndLeague5>
         <Notify>
           <text>이제 그린미어의 운명을 끝마쳤습니다. 이제 다른 지역을 탐험할 차례입니다.</text>
@@ -21925,9 +21513,7 @@
           <text>이번 재판에서 용병들이 제출한 답변이 불충분한 것으로 밝혀져 브로커 위원회는 ::G2TrialPalaceAccused::에게 윌라 알드 호벤도르프의 살인죄를 유죄로 인정할 수 없습니다.</text>
         </BadEnding1_F>
         <BadEnding2_F>
-          <text>
-            ::G2TrialPalaceAccused::는 자유의 몸이 되어 돌아갈 수 있습니다. 고소인들에 대해서는 비방죄로 고센버그 시에 <b>300</b>을 지불하라는 판결을 선고한다.
-          </text>
+          <text>::G2TrialPalaceAccused::는 자유의 몸이 되어 돌아갈 수 있습니다. 고소인들에 대해서는 비방죄로 고센버그 시에 &lt;gold&gt;300&lt;/gold&gt;을 지불하라는 판결을 선고한다.</text>
         </BadEnding2_F>
         <GoodEndLeague2_F>
           <text>탈환된 노예 중 한 명은 피고인을 알아본다고 맹세하기도 했습니다. 따라서 ::G2TrialPalaceAccused::가 이 범죄를 저질렀다는 것은 불가능합니다.</text>
@@ -21944,18 +21530,13 @@
       <npc.name>고센버그 왕국의 역사 - 1</npc.name>
       <dialog>
         <Start>
-          <text>
-            <b>북부 왕국은 알려진 세계에서 가장 크고 강력한 왕국이었어요. 태고 적부터 알라자르 가문이 통치한 이 왕국은 이웃들에게 두려움과 존경을 동시에 불러일으켰죠</b>.
-          </text>
+          <text>&lt;narrator&gt;북부 왕국은 알려진 세계에서 가장 크고 강력한 왕국이었어요. 태고 적부터 알라자르 가문이 통치한 이 왕국은 이웃들에게 두려움과 존경을 동시에 불러일으켰죠&lt;/narrator&gt;.</text>
         </Start>
         <Next1>
-          <text><b>그러나 백성들 사이에서는 불만이 고조되고 있었습니다. 왕국의 부를 축적한 상인과 부르주아들은 무거운 세금에 시달려 힘들게 번 왕관을 거의 손에 넣지 못했습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;그러나 백성들 사이에서는 불만이 고조되고 있었습니다. 왕국의 부를 축적한 상인과 부르주아들은 무거운 세금에 시달려 힘들게 번 왕관을 거의 손에 넣지 못했습니다.&lt;/narrator&gt;</text>
         </Next1>
         <Next2>
-          <text>
-            <b>그래서 에도르 장군이 이 노후한 왕국에 눈을 돌렸을 때 상인들은 그 기회에 뛰어들었습니다</b>.
-          </text>
+          <text>&lt;narrator&gt;그래서 에도르 장군이 이 노후한 왕국에 눈을 돌렸을 때 상인들은 그 기회에 뛰어들었습니다&lt;/narrator&gt;.</text>
         </Next2>
       </dialog>
     </G2UniversityBookshelf1>
@@ -21963,18 +21544,13 @@
       <npc.name>고센버그 왕국의 역사 - 2편</npc.name>
       <dialog>
         <Start>
-          <text><b>그린미어와 베르트루스를 빼앗긴 알라자르 족이 겨우 붙잡고 있던 작은 영토는 에도르 장군에게 빼앗길 수밖에 없었다. 대왕국은 멸망했습니다. </b>
-          </text>
+          <text>&lt;narrator&gt;그린미어와 베르트루스를 빼앗긴 알라자르 족이 겨우 붙잡고 있던 작은 영토는 에도르 장군에게 빼앗길 수밖에 없었다. 대왕국은 멸망했습니다. &lt;/narrator&gt;</text>
         </Start>
         <Next1>
-          <text>
-            <b>오늘날 알라자르 왕국은 예전의 그림자에 불과하며, 통치자들은 과거의 영광을 슬퍼할 뿐입니다</b>.
-          </text>
+          <text>&lt;narrator&gt;오늘날 알라자르 왕국은 예전의 그림자에 불과하며, 통치자들은 과거의 영광을 슬퍼할 뿐입니다&lt;/narrator&gt;.</text>
         </Next1>
         <Next2>
-          <text>
-            <b>알라자르가 북왕국을 통일하려 해도 놀랄 일이 아닙니다</b>.
-          </text>
+          <text>&lt;narrator&gt;알라자르가 북왕국을 통일하려 해도 놀랄 일이 아닙니다&lt;/narrator&gt;.</text>
         </Next2>
       </dialog>
     </G2UniversityBookshelf2>
@@ -21983,7 +21559,7 @@
       <dialog>
         <Start>
           <text>
-            <b>이것은 버질 교수의 초상화입니다.<br/>그는 실종된 지 10년이 넘었지만, 많은 학자들은 여전히 그가 살아있다고 믿고 있습니다.</b>.
+            &lt;narrator&gt;이것은 버질 교수의 초상화입니다.<br/>그는 실종된 지 10년이 넘었지만, 많은 학자들은 여전히 그가 살아있다고 믿고 있습니다.&lt;/narrator&gt;.
           </text>
         </Start>
       </dialog>
@@ -22043,9 +21619,7 @@
           <text>호벤도르프 브로커에 대해 더 알고 싶으세요?</text>
         </Given2>
         <Questioned>
-          <text>
-            윌라 알드 호벤도르프의 몸에 난 상처는 모두 중요 부위를 노린 것으로, 범인의 손재주가 대단하다는 증거입니다. 제 생각에는 누군가 이 일을 위해 <b>룩스</b>를 고용한 것 같습니다.
-          </text>
+          <text>윌라 알드 호벤도르프의 몸에 난 상처는 모두 중요 부위를 노린 것으로, 범인의 손재주가 대단하다는 증거입니다. 제 생각에는 누군가 이 일을 위해 &lt;narrator&gt;룩스&lt;/narrator&gt;를 고용한 것 같습니다.</text>
         </Questioned>
         <SettingLog>
           <text>누군가 브로커 호벤도르프를 죽이기 위해 루크를 고용했을지도 모르죠.</text>
@@ -22056,9 +21630,7 @@
           <title>과학 제공자</title>
           <props.helpTips>
             <line0>
-              <text>
-                메렌 교수에게 <b>시체 5<img src="item/Corpse"/>구</b>를 전달하세요.
-              </text>
+              <text>메렌 교수에게 &lt;b&gt;시체 5&lt;img src="item/Corpse"/&gt;구&lt;/b&gt;를 전달하세요.</text>
             </line0>
           </props.helpTips>
         </line0>
@@ -22071,9 +21643,7 @@
           <text>아무리 노력해도 하라그 야만인들이 습지 멧돼지의 이름을 바꾸게 할 수가 없네요.</text>
         </Start>
         <Next>
-          <text>
-            <b>악어와인</b>! 어떻게 내 시집을 진지하게 받아들일 수 있겠어?
-          </text>
+          <text>&lt;i&gt;악어와인&lt;/i&gt;! 어떻게 내 시집을 진지하게 받아들일 수 있겠어?</text>
         </Next>
       </dialog>
     </G2UniversityScholar2>
@@ -22091,7 +21661,8 @@
     <G2WindMillDead1>
       <dialog>
         <Start>
-          <text>시신에 메시지가 남아있었다. <br/><b>매그니피센트에 접근하지 마라, 여긴 루크족의 영역이다! 그들을 자극하고 싶지 않아! <br/>너희들 중 누구라도 거기서 돌아다니는 걸 보면 가문의 보석을 잘라버릴 거야!</b>
+          <text>
+            시신에 메시지가 남아있었다. <br/>&lt;i&gt;매그니피센트에 접근하지 마라, 여긴 루크족의 영역이다! 그들을 자극하고 싶지 않아! <br/>너희들 중 누구라도 거기서 돌아다니는 걸 보면 가문의 보석을 잘라버릴 거야!&lt;/i&gt;
           </text>
         </Start>
       </dialog>
@@ -22416,9 +21987,7 @@
           <text>도와줘! 용병들아, 도와줘! 이교도들! 놈들이 우릴 공격한다!</text>
         </Start>
         <Next1>
-          <text>
-            <b>엠블럼</b>을 넘겨라, 인퀴지터들! 이 알라자르에 대한 모욕은 반드시 파괴되어야 한다!
-          </text>
+          <text>&lt;narrator&gt;엠블럼&lt;/narrator&gt;을 넘겨라, 인퀴지터들! 이 알라자르에 대한 모욕은 반드시 파괴되어야 한다!</text>
         </Next1>
         <Next2>
           <text>신성한 '만물을 보는 눈'의 성스러운 그림을 부수겠다고? 신성 모독이다! 용병들! 도와줘!</text>
@@ -22441,9 +22010,7 @@
           </text>
         </Start>
         <Next1>
-          <text>
-            우리가 들고 있는 <b>엠블럼</b>은 미래의 고센버그 대성당을 장식하기 위한 것입니다. 브로커 호벤도르프가 에도라니아 교회에서 의뢰한 것입니다.
-          </text>
+          <text>우리가 들고 있는 &lt;narrator&gt;엠블럼&lt;/narrator&gt;은 미래의 고센버그 대성당을 장식하기 위한 것입니다. 브로커 호벤도르프가 에도라니아 교회에서 의뢰한 것입니다.</text>
         </Next1>
         <Next2>
           <text>사실 이것은 단순한 영적 제스처가 아니라 에도란과 고센베르크의 유대를 강화하는 동시에 알라자르와의 유대를 느슨하게 하는 역할을 할 것입니다. 그 병사들이 한 일은 왕이 이 사태에 분노하고 있다는 증거입니다. 하지만 자네 덕분에 믿음이 승리했어. 이제 도시에 도착하기만 하면 돼요.</text>
@@ -22476,7 +22043,8 @@
           <text>투기장 격돌을 보러 오셨나요?</text>
         </Start>
         <Next1>
-          <text>완벽하군! 그럼 날 대표해 줄 거지?...<br/><b>그렇죠? </b>
+          <text>
+            완벽하군! 그럼 날 대표해 줄 거지?...<br/>&lt;i&gt;그렇죠? &lt;/i&gt;
           </text>
         </Next1>
         <Next2>
@@ -22529,8 +22097,7 @@
       <npc.name>에도르</npc.name>
       <dialog>
         <Start>
-          <text><b>이 돼지는 아마도 지금까지 본 것 중 가장 웅장한 동물이며, 돼지의 아름다움의 전형일 것입니다. 매우 귀중한 동물이겠지. </b>
-          </text>
+          <text>&lt;narrator&gt;이 돼지는 아마도 지금까지 본 것 중 가장 웅장한 동물이며, 돼지의 아름다움의 전형일 것입니다. 매우 귀중한 동물이겠지. &lt;/narrator&gt;</text>
         </Start>
         <CampDialog>
           <text>윙크.</text>
@@ -22576,16 +22143,13 @@
           <text>그게 정말 당신이 원하는 거라면...</text>
         </Next1>
         <Next2>
-          <text>용병이다! 이쪽이다! <b>모든 것을 보는 눈이 우릴 인도한다! 만물을 보는 눈이 우릴 인도한다!</b>
-          </text>
+          <text>용병이다! 이쪽이다! &lt;narrator&gt;모든 것을 보는 눈이 우릴 인도한다! 만물을 보는 눈이 우릴 인도한다!&lt;/narrator&gt;</text>
         </Next2>
         <Next3>
           <text>또 그 소리야?! 너 미쳤구나! 용병들이다! 이 광신도들을 막도록 도와주시오. 큰 보상을 주겠다!</text>
         </Next3>
         <Next4>
-          <text>
-            용병들, 대기하라! <b>모든 것을 보는 눈이 우릴 인도한다! </b> 우린 이제 막 자유를 되찾은 것이다!
-          </text>
+          <text>용병들, 대기하라! &lt;narrator&gt;모든 것을 보는 눈이 우릴 인도한다! &lt;/narrator&gt; 우린 이제 막 자유를 되찾은 것이다!</text>
         </Next4>
       </dialog>
     </G2SlaveGuardLeader>
@@ -22598,9 +22162,7 @@
           <text>덕분에 오늘 밤 아무도 감옥에 가지 않을 겁니다. 우리 사람들은 도망칠 시간이 있었어.</text>
         </Next1>
         <Next2>
-          <text>
-            <b>인민 친목회</b>에서 당신을 만나고 싶어 할 겁니다. 어떻게 연락해야할지 모르겠지만, 그들은 종종 <b>구원의 눈</b> 교회 주위를 맴돌아요.
-          </text>
+          <text>&lt;narrator&gt;인민 친목회&lt;/narrator&gt;에서 당신을 만나고 싶어 할 겁니다. 어떻게 연락해야할지 모르겠지만, 그들은 종종 &lt;narrator&gt;구원의 눈&lt;/narrator&gt; 교회 주위를 맴돌아요.</text>
         </Next2>
       </dialog>
     </G2MarketPlaceCiviliansLeader>
@@ -22627,14 +22189,10 @@
           <text>용병 여러분, 성급하게 고발한 것을 용서해 주십시오.</text>
         </Convinced1>
         <Convinced2>
-          <text>
-            하지만 <b>인민 친목회</b>라는 선동 단체가 이 동네를 돌아다니며 서민들의 원초적 본능을 자극하고 있으니 경계를 늦추지 말아야 합니다.
-          </text>
+          <text>하지만 &lt;narrator&gt;인민 친목회&lt;/narrator&gt;라는 선동 단체가 이 동네를 돌아다니며 서민들의 원초적 본능을 자극하고 있으니 경계를 늦추지 말아야 합니다.</text>
         </Convinced2>
         <Convinced3>
-          <text>
-            충고 하나 드리자면 이 근처에는 얼씬거리지 마세요. 이곳은 <b>구원의 눈 교회</b>의 사제들조차 의심스러워합니다.
-          </text>
+          <text>충고 하나 드리자면 이 근처에는 얼씬거리지 마세요. 이곳은 &lt;narrator&gt;구원의 눈 교회&lt;/narrator&gt;의 사제들조차 의심스러워합니다.</text>
         </Convinced3>
         <Wanted>
           <text>근위병과 싸웠군요.</text>
@@ -22715,7 +22273,7 @@
         <Accusation>
           <choices>
             <line1>
-              <props.tipText>&lt;br/&gt; 피고인들과 함께 중개인의 법정으로 끌려가게 될 것이다. &lt;br/&gt;유죄를 입증하지 못하면 &lt;narrator&gt;&lt;gold&gt;300&lt;/gold&gt;을 잃게 됩니다&lt;/narrator&gt;.&lt;br/&gt;</props.tipText>
+              <props.tipText>&lt;br/&gt; 피고인들과 함께 중개인의 법정으로 끌려가게 될 것이다. &lt;br/&gt;유죄를 입증하지 못하면 &amp;lt;narrator&amp;gt;&amp;lt;gold&amp;gt;300&amp;lt;/gold&amp;gt;을 잃게 됩니다&amp;lt;/narrator&amp;gt;.&lt;br/&gt;</props.tipText>
             </line1>
           </choices>
         </Accusation>
@@ -22950,9 +22508,7 @@
               <text>사냥에 참여하기로 동의합니다.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/H1TrackerMap"/><b>루데른 사냥</b> 아이템의 지시에 따라 고스트 무리를 찾아 처치하세요.
-              </text>
+              <text>&lt;img src="item/H1TrackerMap"/&gt;&lt;b&gt;루데른 사냥&lt;/b&gt; 아이템의 지시에 따라 고스트 무리를 찾아 처치하세요.</text>
             </line1>
             <line2>
               <text>마스터 트래커 테네본에게 승리를 보고하세요.</text>
@@ -23312,7 +22868,7 @@
       <props.goals>
         <line0>
           <title>친구 애도하기</title>
-          <props.helpTip>머웬에게 &lt;b&gt;5 &lt;img src=&quot;item/Comfrey&quot;/&gt;컴프리&lt;/b&gt;를 전달하세요.</props.helpTip>
+          <props.helpTip>머웬에게 &amp;lt;b&amp;gt;5 &amp;lt;img src=&quot;item/Comfrey&quot;/&amp;gt;컴프리&amp;lt;/b&amp;gt;를 전달하세요.</props.helpTip>
         </line0>
         <line1>
           <title>새 생명</title>
@@ -23486,9 +23042,7 @@
           <text>우리의 많은 경고에도 불구하고 우리 병사 중 한 명이 국경을 넘는 끔찍한 실수를 저질렀어요.</text>
         </Next3>
         <Next4>
-          <text>
-            그의 가족은 그가 죽었을지도 모른다고 매우 걱정하고 두려워하고 있지만, 우리의 소식통에 따르면 그는 <b>스톤 코트</b>에서 재판을 기다리고 있다고 합니다. 이 남자를 우리에게 데려와라.
-          </text>
+          <text>그의 가족은 그가 죽었을지도 모른다고 매우 걱정하고 두려워하고 있지만, 우리의 소식통에 따르면 그는 &lt;b&gt;스톤 코트&lt;/b&gt;에서 재판을 기다리고 있다고 합니다. 이 남자를 우리에게 데려와라.</text>
         </Next4>
         <End1>
           <text>우리 병사를 구출했나?</text>
@@ -23559,7 +23113,7 @@
       <props.goals>
         <line0>
           <title>하라그 행</title>
-          <props.helpTip>통행료(&lt;gold&gt;200&lt;/gold&gt; 또는 &lt;img src=&quot;item/Pass&quot;/&gt;&lt;b&gt;국경 통과권&lt;/b&gt;)를 지불하세요.</props.helpTip>
+          <props.helpTip>통행료(&amp;lt;gold&amp;gt;200&amp;lt;/gold&amp;gt; 또는 &amp;lt;img src=&quot;item/Pass&quot;/&amp;gt;&amp;lt;b&amp;gt;국경 통과권&amp;lt;/b&amp;gt;)를 지불하세요.</props.helpTip>
         </line0>
       </props.goals>
     </H1HaragBorderPostGuard1>
@@ -23637,9 +23191,7 @@
               <text>윈프리스 교수의 임무를 수행하세요.</text>
             </line0>
             <line1>
-              <text>
-                <img src="item/H1GhostPackMap"/> <b>윈프리스의 지도</b>를 사용해 그들이 만날 장소를 찾으세요.
-              </text>
+              <text>&lt;img src="item/H1GhostPackMap"/&gt; &lt;b&gt;윈프리스의 지도&lt;/b&gt;를 사용해 그들이 만날 장소를 찾으세요.</text>
             </line1>
             <line2>
               <text>흔적을 따라 고스트 팩으로 가세요.</text>
@@ -23672,8 +23224,7 @@
           <text>자네들은 잘 모르겠지만, 자네들은 우리에게 큰 도움이 되었고, 신뢰할 수 있고 유능하다는 것을 보여줬어.</text>
         </Next1>
         <Next2>
-          <text>그것이 바로 내가 아주 특별한 임무를 위해 요구하는 것입니다. <b>고스트 팩을 사냥해본 적이 있나요?</b>
-          </text>
+          <text>그것이 바로 내가 아주 특별한 임무를 위해 요구하는 것입니다. &lt;b&gt;고스트 팩을 사냥해본 적이 있나요?&lt;/b&gt;</text>
         </Next2>
         <NextAccept1>
           <text>우선, 트레일 시작 지점까지 나를 안내해줘야 해.</text>
@@ -23711,18 +23262,14 @@
         </Next1>
         <Next2>
           <text>
-            본론으로 들어가자고... <br/>자네 덕분에 비스트가 루데른에 나타났고, 그 <b>설명할 수 없는</b> 등장으로 지역 전체가 혼란에 빠졌어.
+            본론으로 들어가자고... <br/>자네 덕분에 비스트가 루데른에 나타났고, 그 &lt;i&gt;설명할 수 없는&lt;/i&gt; 등장으로 지역 전체가 혼란에 빠졌어.
           </text>
         </Next2>
         <Next3>
-          <text>
-            추적자들과 경비병들이 이 <b>재앙</b>에 전념하는 동안, 그들의 소중한 <b>무덤</b>은 무방비 상태로 방치되어 있습니다.
-          </text>
+          <text>추적자들과 경비병들이 이 &lt;b&gt;재앙&lt;/b&gt;에 전념하는 동안, 그들의 소중한 &lt;b&gt;무덤&lt;/b&gt;은 무방비 상태로 방치되어 있습니다.</text>
         </Next3>
         <Next4>
-          <text>
-            용병 여러분, 이게 무슨 뜻인지 이해하시겠습니까? 역사상 처음으로 루데른 무덤이 우리의 손아귀에 들어왔다. 그 안의 보물과 지혜, 비밀이 곧 우리에게 <b>알려질 것입니다</b>!
-          </text>
+          <text>용병 여러분, 이게 무슨 뜻인지 이해하시겠습니까? 역사상 처음으로 루데른 무덤이 우리의 손아귀에 들어왔다. 그 안의 보물과 지혜, 비밀이 곧 우리에게 &lt;i&gt;알려질 것입니다&lt;/i&gt;!</text>
         </Next4>
         <Next5>
           <text>저희와 함께 공개하는 영광을 함께 하시겠습니까? 저희를 믿으시니 칼날 몇 개를 더 주셔도 거절하지 않겠습니다.</text>
@@ -23899,9 +23446,7 @@
       <npc.name>날리드</npc.name>
       <dialog>
         <Start>
-          <text>
-            내 무기? 오! 이건 <b>습지 천둥</b>이라는 무기야. 전설에 따르면 우리 가문이 툴레족으로부터 물려받았다고 하더군.
-          </text>
+          <text>내 무기? 오! 이건 &lt;b&gt;습지 천둥&lt;/b&gt;이라는 무기야. 전설에 따르면 우리 가문이 툴레족으로부터 물려받았다고 하더군.</text>
         </Start>
         <Next1>
           <text>이 무기는 늪을 여행하는 모든 이들에게 필수적인 무기야.... 내가 줄 수 있지만 그 대가로 내게 뭔가를 해줘야 해.</text>
@@ -23929,7 +23474,7 @@
       <props.goals>
         <line0>
           <title>역사적 비밀</title>
-          <props.helpTip>&lt;b&gt;1 &lt;img src=&quot;item/GoldenKey&quot;/&gt;황금 열쇠&lt;/b&gt;를 사용하여 함정문을 열어야 합니다.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;1 &amp;lt;img src=&quot;item/GoldenKey&quot;/&amp;gt;황금 열쇠&amp;lt;/b&amp;gt;를 사용하여 함정문을 열어야 합니다.</props.helpTip>
         </line0>
       </props.goals>
     </H1OldAbodeTrapdoor>
@@ -23951,8 +23496,7 @@
       <npc.name>데테오레 대령의 일기 - 906</npc.name>
       <dialog>
         <Start>
-          <text><b>하라그 정복은 어린애 장난이었다. 습지대에 흩어져 있는 부족들은 전장에서 거의 저항하지 않았고, 우리 군단의 진군 속도도 거의 늦추지 않았습니다.</b>
-          </text>
+          <text>&lt;narrator&gt;하라그 정복은 어린애 장난이었다. 습지대에 흩어져 있는 부족들은 전장에서 거의 저항하지 않았고, 우리 군단의 진군 속도도 거의 늦추지 않았습니다.&lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.tipText>일지를 계속 읽으세요.</props.tipText>
@@ -23961,8 +23505,7 @@
           </choices>
         </Start>
         <Next1>
-          <text><b>우리의 힘이 아니라 적의 약점 때문에 승리했으니 루던의 총독으로 임명된 것이 부끄럽기 짝이 없군요</b>
-          </text>
+          <text>&lt;narrator&gt;우리의 힘이 아니라 적의 약점 때문에 승리했으니 루던의 총독으로 임명된 것이 부끄럽기 짝이 없군요&lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.tipText>일기를 계속 읽으세요.</props.tipText>
@@ -23971,9 +23514,7 @@
           </choices>
         </Next1>
         <Next2>
-          <text>
-            <b>그럼에도 불구하고 저는 이 직책을 품위 있게 수행할 것을 약속드립니다. 저는 이 낙후된 지역을 다른 문명국들과 어깨를 나란히 할 마을을 건설하여 현대의 시대로 이끌겠습니다. 그 이름을 <b>레시어</b>라고 부르겠습니다</b>.
-          </text>
+          <text>&lt;narrator&gt;그럼에도 불구하고 저는 이 직책을 품위 있게 수행할 것을 약속드립니다. 저는 이 낙후된 지역을 다른 문명국들과 어깨를 나란히 할 마을을 건설하여 현대의 시대로 이끌겠습니다. 그 이름을 &lt;i&gt;레시어&lt;/i&gt;라고 부르겠습니다&lt;/narrator&gt;.</text>
         </Next2>
         <ActionName>
           <text>읽기</text>
@@ -23984,8 +23525,7 @@
       <npc.name>데테오레 대령의 일지 - 937</npc.name>
       <dialog>
         <Start>
-          <text><b>신병들이 아르테스에서 막 도착했다. 얼굴 표정을 보니 우리에게 별 감흥이 없나 봐. </b>
-          </text>
+          <text>&lt;narrator&gt;신병들이 아르테스에서 막 도착했다. 얼굴 표정을 보니 우리에게 별 감흥이 없나 봐. &lt;/narrator&gt;</text>
           <choices>
             <line0>
               <props.customTxt>계속</props.customTxt>
@@ -23993,9 +23533,7 @@
           </choices>
         </Start>
         <Next1>
-          <text>
-            <b>역병이 레시어를 휩쓸고 간 이후로 병사들의 사기는 바닥을 치고 있다. 루데른 저항군의 공격은 더욱 거세지고, 카디널 모기는 끊임없이 우리를 괴롭히며, 악어마저 대담해져서 우리 부대를 물어뜯고 있소</b>.
-          </text>
+          <text>&lt;narrator&gt;역병이 레시어를 휩쓸고 간 이후로 병사들의 사기는 바닥을 치고 있다. 루데른 저항군의 공격은 더욱 거세지고, 카디널 모기는 끊임없이 우리를 괴롭히며, 악어마저 대담해져서 우리 부대를 물어뜯고 있소&lt;/narrator&gt;.</text>
           <choices>
             <line0>
               <props.customTxt>계속</props.customTxt>
@@ -24003,8 +23541,7 @@
           </choices>
         </Next1>
         <Next2>
-          <text><b>나는 예전만큼 강하지 않고 에도르 장군도 마찬가지일 것 같아 걱정이다. 휴전을 선언할 수밖에 없소</b>
-          </text>
+          <text>&lt;narrator&gt;나는 예전만큼 강하지 않고 에도르 장군도 마찬가지일 것 같아 걱정이다. 휴전을 선언할 수밖에 없소&lt;/narrator&gt;</text>
         </Next2>
         <ActionName>
           <text>Read</text>
@@ -24038,7 +23575,7 @@
       <props.goals>
         <line0>
           <title>잠긴 우리</title>
-          <props.helpTip>&lt;b&gt;1&lt;img src=&quot;item/WroughtKey&quot;/&gt;오르네이트 열쇠&lt;/b&gt;를 사용하여 죄수들을 풀어주세요.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;1&amp;lt;img src=&quot;item/WroughtKey&quot;/&amp;gt;오르네이트 열쇠&amp;lt;/b&amp;gt;를 사용하여 죄수들을 풀어주세요.</props.helpTip>
         </line0>
       </props.goals>
     </H1OutlawHideoutCageGroup>
@@ -24108,18 +23645,14 @@
     <H1RuinsRoom2MaleStatue>
       <dialog>
         <Start>
-          <text>
-            비문에는 <b>나르세스</b>라고 적혀 있습니다. 이 조각상의 남자 이름이 아닐까요?
-          </text>
+          <text>비문에는 &lt;i&gt;나르세스&lt;/i&gt;라고 적혀 있습니다. 이 조각상의 남자 이름이 아닐까요?</text>
         </Start>
       </dialog>
     </H1RuinsRoom2MaleStatue>
     <H1RuinsRoom2FemaleStatue>
       <dialog>
         <Start>
-          <text>
-            이 비문에는 <b>호룬</b>이라고 적혀 있습니다. 이 조각상은 여자의 이름일까요?
-          </text>
+          <text>이 비문에는 &lt;i&gt;호룬&lt;/i&gt;이라고 적혀 있습니다. 이 조각상은 여자의 이름일까요?</text>
         </Start>
       </dialog>
     </H1RuinsRoom2FemaleStatue>
@@ -24132,9 +23665,7 @@
           <text>밀수꾼이나 알라자르인이 안으로 몰래 들어오는 걸 막기 위해 밖에서 보초를 서고 있었는데 이 사악한 괴물이 저를 공격했어요.</text>
         </Next1>
         <Next2>
-          <text>
-            쥐였어요! <b>역병에 걸린 쥐</b>! 쥐는 내게 달려들어 나를 쓰러뜨린 다음 무덤 안으로 뛰어들어갔어요. 물론 잡으려고 했지만 쥐는 가까스로 도망쳤어요. 그리고 나서... 날 물었다는 걸 깨달았어.
-          </text>
+          <text>쥐였어요! &lt;b&gt;역병에 걸린 쥐&lt;/b&gt;! 쥐는 내게 달려들어 나를 쓰러뜨린 다음 무덤 안으로 뛰어들어갔어요. 물론 잡으려고 했지만 쥐는 가까스로 도망쳤어요. 그리고 나서... 날 물었다는 걸 깨달았어.</text>
         </Next2>
         <Next3>
           <text>치료제를 주면 도와주겠다고 약속할게요. 아니면 밀수꾼한테서 약이라도 사게 해줘요</text>
@@ -24167,8 +23698,7 @@
           </choices>
         </Start>
         <Move>
-          <text>::name::이 장애물에 발을 걸었습니다: <b>::injury::</b>
-          </text>
+          <text>::name::이 장애물에 발을 걸었습니다: &lt;status&gt;::injury::&lt;/status&gt;</text>
         </Move>
         <FireNotif>
           <text>거미줄이 불길에 휩싸였습니다: 길은 깨끗해졌습니다.</text>
@@ -24188,9 +23718,7 @@
           <text>학자 동료라면 이 비석의 비문을 해독할 수 있을지도 모릅니다.</text>
         </Start>
         <Next1>
-          <text>
-            비문은 다음과 같습니다: <b>호룬, 먼저 별의 길을 걸었던 그대... 곧 재회하여... 함께</b> 나머지는 읽을 수 없습니다.
-          </text>
+          <text>비문은 다음과 같습니다: &lt;i&gt;호룬, 먼저 별의 길을 걸었던 그대... 곧 재회하여... 함께&lt;/i&gt; 나머지는 읽을 수 없습니다.</text>
         </Next1>
       </dialog>
     </H1RuinsRoom5Tomb>
@@ -24254,13 +23782,10 @@
     <H1RuinsRoom8Tomb>
       <dialog>
         <Start>
-          <text>
-            <b>학자</b> 동료라면 이 비석의 비문을 해독할 수 있을지도 모른다.
-          </text>
+          <text>&lt;b&gt;학자&lt;/b&gt; 동료라면 이 비석의 비문을 해독할 수 있을지도 모른다.</text>
         </Start>
         <Next1>
-          <text>비문은 다음과 같습니다: <b>침입자, 누구에게 도전하는지 조심하라! 나르세스는 결코 범죄를 용서하지 않음을 명심하라. </b>
-          </text>
+          <text>비문은 다음과 같습니다: &lt;i&gt;침입자, 누구에게 도전하는지 조심하라! 나르세스는 결코 범죄를 용서하지 않음을 명심하라. &lt;/i&gt;</text>
         </Next1>
       </dialog>
     </H1RuinsRoom8Tomb>
@@ -24268,9 +23793,7 @@
       <items.desc>무덤</items.desc>
       <dialog>
         <Notify>
-          <text>
-            석관은 부비트랩이 설치되어 있었습니다: ::name::이 부상을 입었습니다 (<b>::injury::</b>).
-          </text>
+          <text>석관은 부비트랩이 설치되어 있었습니다: ::name::이 부상을 입었습니다 (&lt;status&gt;::injury::&lt;/status&gt;).</text>
         </Notify>
         <ActionName>
           <text>Break</text>
@@ -24567,9 +24090,7 @@
           <text>보상으로 고대인들의 유물은 어떻습니까? 아름답긴 하지만 우리에겐 별로 흥미롭지 않죠.</text>
         </Next3>
         <Next4>
-          <text>
-            이제 헤어질 시간이 왔다, 용병들아. 떠나기 전에 우리 왕국과 대학을 대표해 <b>알라자르의 기사단</b> 칭호를 수여하고 싶다. 자부심을 가져라.
-          </text>
+          <text>이제 헤어질 시간이 왔다, 용병들아. 떠나기 전에 우리 왕국과 대학을 대표해 &lt;i&gt;알라자르의 기사단&lt;/i&gt; 칭호를 수여하고 싶다. 자부심을 가져라.</text>
         </Next4>
         <Notify>
           <text>이제 여러분은 루덴의 운명을 끝마쳤습니다. 이제 다른 지역을 탐험할 차례입니다.</text>
@@ -24598,9 +24119,7 @@
     <H1RuinsEntranceBrighidEnd>
       <dialog>
         <Start>
-          <text>
-            우리가 해냈어! <b>너</b>가 해냈어!
-          </text>
+          <text>우리가 해냈어! &lt;i&gt;너&lt;/i&gt;가 해냈어!</text>
         </Start>
         <Next1>
           <text>이 승리를 축하하는 성대한 잔치에 여러분을 초대하고 싶지만 아직 해야 할 일이 많습니다. 학자들이 훔쳐간 유물과 시체를 제자리로 돌려보내야 합니다.</text>
@@ -24628,9 +24147,7 @@
           <text>오, 전지전능의 눈! 또 너구나!</text>
         </Next2>
         <Next3>
-          <text>
-            꼬리를 숨기고 도망치고 있나, <b>학자</b>?
-          </text>
+          <text>꼬리를 숨기고 도망치고 있나, &lt;i&gt;학자&lt;/i&gt;?</text>
         </Next3>
         <Next4>
           <text>루던에 야수를 풀어 무덤을 더럽히고 신들의 시신을 훔쳐놓고 도둑놈처럼 도망칠 뻔뻔함이 있나?</text>
@@ -24663,9 +24180,7 @@
           <text>아, 죄송해요, 좀 예민해서요. 우리 작은 마을에 불행이 닥쳤어요. 우린 신념과 마음을 담아 새로운 사람들을 환영하곤 했어요,</text>
         </Next1>
         <Next2>
-          <text>
-            하지만 이번 납치 사건은 우리를 경계하게 만들었습니다. <b>산적</b>들은 제재소를 떠나는 모든 사람을 공격합니다. 이번 달에만 우리 신자 두 명이 납치당했습니다. 용병 여러분, 그들을 찾으면 우리에게 데려와 주십시오.
-          </text>
+          <text>하지만 이번 납치 사건은 우리를 경계하게 만들었습니다. &lt;b&gt;산적&lt;/b&gt;들은 제재소를 떠나는 모든 사람을 공격합니다. 이번 달에만 우리 신자 두 명이 납치당했습니다. 용병 여러분, 그들을 찾으면 우리에게 데려와 주십시오.</text>
         </Next2>
         <End1>
           <text>무사히 데려왔잖아! 그 도적들을 어떻게 물리쳤는지 들었습니다. 얼마나 용감했는지 아직도 믿기지 않아요.</text>
@@ -24742,7 +24257,7 @@
         </line0>
         <line1>
           <title>닫힌 함정 문</title>
-          <props.helpTip>&lt;b&gt;1 &lt;img src=&quot;item/Lockpick&quot;/&gt;자물쇠 따기&lt;/b&gt;를 사용해 농장의 지하실로 들어가세요.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;1 &amp;lt;img src=&quot;item/Lockpick&quot;/&amp;gt;자물쇠 따기&amp;lt;/b&amp;gt;를 사용해 농장의 지하실로 들어가세요.</props.helpTip>
         </line1>
       </props.goals>
     </H1SmugglerLairSettingManager>
@@ -25056,7 +24571,7 @@
       <props.goals>
         <line0>
           <title>뼈 검은색</title>
-          <props.helpTip>&lt;b&gt;20 &lt;img src=&quot;item/AnimalCorpse&quot;/&gt; 동물 사체&lt;/b&gt;를 가져와라.</props.helpTip>
+          <props.helpTip>&amp;lt;b&amp;gt;20 &amp;lt;img src=&quot;item/AnimalCorpse&quot;/&amp;gt; 동물 사체&amp;lt;/b&amp;gt;를 가져와라.</props.helpTip>
         </line0>
       </props.goals>
     </H1TatooMakerLeader>
@@ -25431,9 +24946,7 @@
           <text>이 고스트 팩은 용병단, 자네가 하려는 일에 이상적이야.</text>
         </Start>
         <Next1>
-          <text>
-            이 몬스터 세 마리가 필요해... <b>살아있는 채</b>로.
-          </text>
+          <text>이 몬스터 세 마리가 필요해... &lt;i&gt;살아있는 채&lt;/i&gt;로.</text>
         </Next1>
         <Next2>
           <text>그런 표정 짓지 마! 이 혐오스러운 괴물들은 다른 동물들처럼 잡을 수 있습니다! 적절한 도구만 있다면 말이죠.</text>
@@ -25962,9 +25475,7 @@
           <text>안타깝게도 ::name::이 충분히 강하지 않습니다. 천둥소리와 함께 기둥과 천장이 무너져 내립니다.</text>
         </Failure>
         <Injury>
-          <text>
-            ::name::은 붕괴로 인해 부상을 입었습니다(<b>::injury::</b>).
-          </text>
+          <text>::name::은 붕괴로 인해 부상을 입었습니다(&lt;status&gt;::injury::&lt;/status&gt;).</text>
         </Injury>
       </dialog>
     </FV2HallBeam>
@@ -25973,7 +25484,7 @@
       <dialog>
         <Start>
           <text>
-            <b>가까워질수록 속삭이는 목소리가 들려옵니다</b><br/>당신... 역병에 걸린 게 아니군요? <br/>제발 여기서 꺼내줘요!
+            &lt;narrator&gt;가까워질수록 속삭이는 목소리가 들려옵니다&lt;/narrator&gt;<br/>당신... 역병에 걸린 게 아니군요? <br/>제발 여기서 꺼내줘요!
           </text>
           <choices>
             <line0>
@@ -26076,9 +25587,7 @@
       <npc.name>$NAME 대장</npc.name>
       <dialog>
         <Start>
-          <text>
-            밀수꾼들이 사용하는 <b>은신처를 찾고 있습니다</b>.
-          </text>
+          <text>밀수꾼들이 사용하는 &lt;b&gt;은신처를 찾고 있습니다&lt;/b&gt;.</text>
         </Start>
         <Next1>
           <text>보통은 눈감아주지만 이놈들은 도를 넘었습니다.</text>
@@ -26111,9 +25620,7 @@
     <T4bisTavernLostSoldier>
       <dialog>
         <Start>
-          <text>
-            학자들은 우리가 해낼 수 있다고 했어... 하지만 불가능했어! 괴물들이 너무 많았어! ... 그들은 우리가 지식을 추구한다고 했어! ... <b>지식</b>!
-          </text>
+          <text>학자들은 우리가 해낼 수 있다고 했어... 하지만 불가능했어! 괴물들이 너무 많았어! ... 그들은 우리가 지식을 추구한다고 했어! ... &lt;i&gt;지식&lt;/i&gt;!</text>
           <choices>
             <line0>
               <props.tipText>너무 어렵지 않을 거야.</props.tipText>
@@ -26137,9 +25644,7 @@
           <text>네가 본 비스트, 그 무적의 괴물... 이제 알라자르가 왜 그 괴물을 여기로 유인했는지 알겠어.</text>
         </Next2>
         <Next3>
-          <text>
-            그들의 목적은 간단했다. 우리의 주의를 분산시켜서 그들의 학자들이 수 세기 동안 주시해 온 것을 손에 넣으려는 것이었다... <b>고대인의 무덤</b>.
-          </text>
+          <text>그들의 목적은 간단했다. 우리의 주의를 분산시켜서 그들의 학자들이 수 세기 동안 주시해 온 것을 손에 넣으려는 것이었다... &lt;b&gt;고대인의 무덤&lt;/b&gt;.</text>
         </Next3>
         <Next4>
           <text>전투 중에 도망친 여자는 자신의 목표를 달성하기 위해 아무것도 멈추지 않을 것입니다. 우린 확신한다.</text>
@@ -26188,9 +25693,7 @@
     <T4MarketplaceConclusionTracker5>
       <dialog>
         <Start>
-          <text>
-            <b>교란</b>. 알라자르는 왕국의 살인자 비스트가 <b>교란물</b>이라고 생각해요.
-          </text>
+          <text>&lt;i&gt;교란&lt;/i&gt;. 알라자르는 왕국의 살인자 비스트가 &lt;i&gt;교란물&lt;/i&gt;이라고 생각해요.</text>
         </Start>
       </dialog>
     </T4MarketplaceConclusionTracker5>
@@ -26249,7 +25752,7 @@
         </LostSoldier>
         <DeliverMission1>
           <text>
-            <b>편지를 받아든 정보원의 얼굴에 이상한 미소가 번집니다</b><br/>이렇게 빨리 연락을 받을 줄은 몰랐어요.
+            &lt;narrator&gt;편지를 받아든 정보원의 얼굴에 이상한 미소가 번집니다&lt;/narrator&gt;<br/>이렇게 빨리 연락을 받을 줄은 몰랐어요.
           </text>
         </DeliverMission1>
         <End>
@@ -26407,7 +25910,7 @@
       <dialog>
         <Start>
           <text>
-            <b>상인이 불안해 보이는데...</b><br/>아! 고센버그에서는 저런 생명체를 볼 수 없잖아!
+            &lt;narrator&gt;상인이 불안해 보이는데...&lt;/narrator&gt;<br/>아! 고센버그에서는 저런 생명체를 볼 수 없잖아!
           </text>
         </Start>
         <Help>
@@ -26420,9 +25923,7 @@
           <text>좋아, 인정할게! 다 내 잘못이야! 내가 실수했어! 사고였다고! 이 실험은 위험하지 않고 시약도 안전하다고 생각했는데... 하지만 내 측정은 틀렸어.</text>
         </Wood2>
         <Wood3>
-          <text>
-            저는 <b>알라자리안 학자</b>입니다. 대학 교수직을 맡고 있다고요! 하지만 이 야만인들은 신경도 안 써요. 내가 자기들 문제에 책임이 있다는 걸 알면 날 교수형에 처할 거야!
-          </text>
+          <text>저는 &lt;b&gt;알라자리안 학자&lt;/b&gt;입니다. 대학 교수직을 맡고 있다고요! 하지만 이 야만인들은 신경도 안 써요. 내가 자기들 문제에 책임이 있다는 걸 알면 날 교수형에 처할 거야!</text>
         </Wood3>
         <Wood4>
           <text>그들이 질문하기 전에 조용히 도망쳐야 해요. 지원군이 도착할 때까지 주의를 분산시켜주세요! 난 가족이 있어요! 제가 가진 모든 왕관을 드릴게요.</text>
@@ -26630,9 +26131,7 @@
           </choices>
         </Start>
         <Hurt>
-          <text>
-            악어가 ::name:: (<b>::injury::</b>)을 물었습니다.
-          </text>
+          <text>악어가 ::name:: (&lt;status&gt;::injury::&lt;/status&gt;)을 물었습니다.</text>
         </Hurt>
       </dialog>
     </IR1BanditBorderPostCrocopork>
@@ -26764,33 +26263,25 @@
           <text>이제 아르테스에서 무역과 장인의 길 특별 건물에 입장할 수 있습니다.</text>
         </TradePathBuilding>
         <TradePathMission>
-          <text>
-            아르테스의 <b>무역항</b>으로 가세요.
-          </text>
+          <text>아르테스의 &lt;narrator&gt;무역항&lt;/narrator&gt;으로 가세요.</text>
         </TradePathMission>
         <KnowledgePathBuilding>
           <text>이제 베르트루세에서 신비와 지혜 경로의 특별 건물에 입장할 수 있습니다.</text>
         </KnowledgePathBuilding>
         <KnowledgePathMission>
-          <text>
-            이제 베르트루세에서 <b>지식의 친교회</b>를 방문하세요.
-          </text>
+          <text>이제 베르트루세에서 &lt;narrator&gt;지식의 친교회&lt;/narrator&gt;를 방문하세요.</text>
         </KnowledgePathMission>
         <CrimePathBuilding>
           <text>이제 틸트렌에서 범죄와 혼돈의 길 특별 건물에 입장할 수 있습니다.</text>
         </CrimePathBuilding>
         <CrimePathMission>
-          <text>
-            틸트렌의 <b>암흑시장</b>을 방문하세요.
-          </text>
+          <text>틸트렌의 &lt;narrator&gt;암흑시장&lt;/narrator&gt;을 방문하세요.</text>
         </CrimePathMission>
         <MightPathBuilding>
           <text>이제 그린미어에서 힘과 영광의 길 특별 건물에 입장할 수 있습니다.</text>
         </MightPathBuilding>
         <MightPathMission>
-          <text>
-            그린미어의 <b>무기고</b>로 가세요.
-          </text>
+          <text>그린미어의 &lt;narrator&gt;무기고&lt;/narrator&gt;로 가세요.</text>
         </MightPathMission>
         <DragonBonesMission>
           <text>용의 뼈를 모리스 교수에게 가져가세요.</text>
@@ -26870,9 +26361,7 @@
       <npc.name>주정뱅이 바르테스</npc.name>
       <dialog>
         <Start>
-          <text>
-            이 멍청한 놈들의 끊임없는 신음소리를 참을 수가 없어. <b>선술집을 불태웠잖아! </b>, <b>바르테스는 주정뱅이야! </b>, <b>그놈은 형제단에 불명예를 안겨줬어</b>....
-          </text>
+          <text>이 멍청한 놈들의 끊임없는 신음소리를 참을 수가 없어. &lt;i&gt;선술집을 불태웠잖아! &lt;/i&gt;, &lt;i&gt;바르테스는 주정뱅이야! &lt;/i&gt;, &lt;i&gt;그놈은 형제단에 불명예를 안겨줬어&lt;/i&gt;....</text>
         </Start>
         <Next1>
           <text>금방 오두막을 재건할 거야!</text>
@@ -27430,9 +26919,7 @@
           </text>
         </TaxPaid>
         <Accused1>
-          <text>
-            3일 동안 <b>심문소</b>에서 벌금을 납부해야 합니다. 그 이후에는 동료가 당신의 구원을 위해 불타오를 것입니다!
-          </text>
+          <text>3일 동안 &lt;narrator&gt;심문소&lt;/narrator&gt;에서 벌금을 납부해야 합니다. 그 이후에는 동료가 당신의 구원을 위해 불타오를 것입니다!</text>
         </Accused1>
         <WantedReason>
           <text>종교 재판소 순찰대 공격</text>
@@ -27690,7 +27177,7 @@
         </CoachDriver2>
         <HostesCommandant2>
           <text>
-            <br/> 그런 눈으로 보지 마세요! 무서워할 거 없어, 죽이지 않을 테니까! <br/> 라하트 백작의 잔인함은 베르날리스가 이 전쟁을 일으킨 장본인이 <b>그</b>라는 걸 잊게 하려고 꾸민 거짓말에 불과해.
+            <br/> 그런 눈으로 보지 마세요! 무서워할 거 없어, 죽이지 않을 테니까! <br/> 라하트 백작의 잔인함은 베르날리스가 이 전쟁을 일으킨 장본인이 &lt;i&gt;그&lt;/i&gt;라는 걸 잊게 하려고 꾸민 거짓말에 불과해.
           </text>
         </HostesCommandant2>
         <HostesCommandant3>
@@ -30064,15 +29551,11 @@
   <sheet name="trait">
     <Glouton>
       <name>대식가</name>
-      <desc>
-        대식가는 매일 <b>+[VALUE]</b>를 먹습니다. 식욕이 대단하군요!
-      </desc>
+      <desc>대식가는 매일 &lt;food&gt;+[VALUE]&lt;/food&gt;를 먹습니다. 식욕이 대단하군요!</desc>
     </Glouton>
     <Pickpocket>
       <name>소매치기</name>
-      <desc>
-        임금으로 <b>+[VALUE]</b>가 소모됩니다.
-      </desc>
+      <desc>임금으로 &lt;gold&gt;+[VALUE]&lt;/gold&gt;가 소모됩니다.</desc>
     </Pickpocket>
     <Pretending>
       <name>게으른</name>
@@ -30172,15 +29655,11 @@
     </EyesBack>
     <LeaderSoul>
       <name>타고난 지도자</name>
-      <desc>
-        부대의 최대 용맹 점수가 <b>[VALUE]</b>만큼 증가했습니다.
-      </desc>
+      <desc>부대의 최대 용맹 점수가 &lt;ap&gt;[VALUE]&lt;/ap&gt;만큼 증가했습니다.</desc>
     </LeaderSoul>
     <Ascetic>
       <name>고행자</name>
-      <desc>
-        소모량이 <b>[VALUE]</b> 감소합니다.
-      </desc>
+      <desc>소모량이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </Ascetic>
     <Resilient>
       <name>회복력</name>
@@ -30224,9 +29703,7 @@
     </Tyrannical>
     <Masochist>
       <name>마조히스트</name>
-      <desc>
-        채찍에 맞아 부대가 부상을 입었을 경우, 휴식 중 부대의 행복지수가 <b>[VALUE]</b> 증가합니다.
-      </desc>
+      <desc>채찍에 맞아 부대가 부상을 입었을 경우, 휴식 중 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 증가합니다.</desc>
     </Masochist>
     <Squinting>
       <name>크로스 아이드</name>
@@ -30282,9 +29759,7 @@
     </ImaginativeTinker>
     <Addict>
       <name>중독</name>
-      <desc>
-        이 부대는 약에 중독되어 들것에서 잠을 자거나 휴식 시 <b>[VALUE]</b>를 잃어야 합니다.
-      </desc>
+      <desc>이 부대는 약에 중독되어 들것에서 잠을 자거나 휴식 시 &lt;happy&gt;[VALUE]&lt;/happy&gt;를 잃어야 합니다.</desc>
     </Addict>
     <HeavySleep>
       <name>헤비 슬리퍼</name>
@@ -30393,7 +29868,7 @@
     <Depressed>
       <name>낙담</name>
       <desc>
-        매일 밤 <b>[VALUE]</b> 생성됩니다.<br/>시간이 모든 상처를 치유해주길...
+        매일 밤 &lt;happy&gt;[VALUE]&lt;/happy&gt; 생성됩니다.<br/>시간이 모든 상처를 치유해주길...
       </desc>
     </Depressed>
     <Watching>
@@ -30748,13 +30223,12 @@
     </Influence>
     <ActionPoint>
       <name>용맹 포인트</name>
-      <desc>
-        전투에서 획득한 <b>용맹 포인트</b>로 특정 기술을 사용할 수 있습니다. 휴식할 때마다 일부가 회복됩니다.
-      </desc>
+      <desc>전투에서 획득한 &lt;b&gt;용맹 포인트&lt;/b&gt;로 특정 기술을 사용할 수 있습니다. 휴식할 때마다 일부가 회복됩니다.</desc>
     </ActionPoint>
     <Setting>
       <name>? ? ? ? ?</name>
-      <desc>각 지역마다 고유한 시나리오가 있으며 여기에서 진행 상황을 확인할 수 있습니다.<br/><br/><b>이 지역에 대한 시나리오를 아직 시작하지 않았습니다.</b>
+      <desc>
+        각 지역마다 고유한 시나리오가 있으며 여기에서 진행 상황을 확인할 수 있습니다.<br/><br/>&lt;bad&gt;이 지역에 대한 시나리오를 아직 시작하지 않았습니다.&lt;/bad&gt;
       </desc>
     </Setting>
     <Dummy>
@@ -31625,147 +31099,99 @@
     </ThrowingAxeLegendary02>
     <BundleOneHandedSwordAxeMaceT1>
       <name>견습 대장장이 세트 - I</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleOneHandedSwordAxeMaceT1>
     <BundleTwoHandedSwordAxeMaceT1>
       <name>견습 대장장이 세트 - II</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleTwoHandedSwordAxeMaceT1>
     <BundleBowDaggerPolearmT1>
       <name>견습 대장장이 세트 - III</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleBowDaggerPolearmT1>
     <BundleArmorT1>
       <name>견습 대장장이 세트 - IV</name>
-      <desc>
-        다음 <b>갑옷</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;갑옷&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleArmorT1>
     <BundleThrowingLeftHandT1>
       <name>견습 대장장이 세트 - V</name>
-      <desc>
-        다음 <b>투척무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;투척무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleThrowingLeftHandT1>
     <BundleThrowingLeftHandSpecialT1>
       <name>견습 연금술사 세트 - I</name>
-      <desc>
-        다음 <b>특수 투척무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;특수 투척무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleThrowingLeftHandSpecialT1>
     <BundleOneHandedSwordAxeMaceT2>
       <name>숙련된 대장장이 세트 - I</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleOneHandedSwordAxeMaceT2>
     <BundleTwoHandedSwordAxeMaceT2>
       <name>숙련된 대장장이 세트 - II</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleTwoHandedSwordAxeMaceT2>
     <BundleBowDaggerPolearmT2>
       <name>숙련된 대장장이 세트 - III</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleBowDaggerPolearmT2>
     <BundleArmorT2>
       <name>숙련된 대장장이 세트 - IV</name>
-      <desc>
-        다음 <b>갑옷</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;갑옷&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleArmorT2>
     <BundleThrowingLeftHandT2>
       <name>숙련된 대장장이 세트 - V</name>
-      <desc>
-        다음 <b>투척무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;투척무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleThrowingLeftHandT2>
     <BundleThrowingLeftHandSpecialT2>
       <name>숙련된 연금술사 세트 - I</name>
-      <desc>
-        다음 <b>특수 투척무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;특수 투척무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleThrowingLeftHandSpecialT2>
     <BundleOneHandedSwordAxeMaceT3>
       <name>여행자 대장장이 세트 - I</name>
-      <desc>
-        다음 <b>무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleOneHandedSwordAxeMaceT3>
     <BundleTwoHandedSwordAxeMaceT3>
       <name>여행자 대장장이 세트 - II</name>
-      <desc>
-        다음 <b>무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleTwoHandedSwordAxeMaceT3>
     <BundleBowDaggerPolearmT3>
       <name>여행자 대장장이 세트 - III</name>
-      <desc>
-        다음 <b>무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleBowDaggerPolearmT3>
     <BundleArmorT3>
       <name>여행자 대장장이 세트 - IV</name>
-      <desc>
-        다음 <b>갑옷</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;갑옷&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleArmorT3>
     <BundleThrowingLeftHandT3>
       <name>여행자 대장장이 세트 - V</name>
-      <desc>
-        다음 <b>투척무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;투척무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleThrowingLeftHandT3>
     <BundleThrowingLeftHandSpecialT3>
       <name>여행자 연금술사 세트 - I</name>
-      <desc>
-        다음 <b>특수 투척무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;특수 투척무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleThrowingLeftHandSpecialT3>
     <BundleOneHandedSwordAxeMaceT4>
       <name>마스터 대장장이 세트 - I</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleOneHandedSwordAxeMaceT4>
     <BundleTwoHandedSwordAxeMaceT4>
       <name>마스터 대장장이 세트 - II</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleTwoHandedSwordAxeMaceT4>
     <BundleBowDaggerPolearmT4>
       <name>마스터 대장장이 세트 - III</name>
-      <desc>
-        다음 <b>무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleBowDaggerPolearmT4>
     <BundleArmorT4>
       <name>마스터 대장장이 세트 - IV</name>
-      <desc>
-        다음 <b>갑옷</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;갑옷&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleArmorT4>
     <BundleThrowingLeftHandT4>
       <name>마스터 대장장이 세트 - V</name>
-      <desc>
-        다음 <b>투척무기</b> 제작법을 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;투척무기&lt;/narrator&gt; 제작법을 배웁니다:</desc>
     </BundleThrowingLeftHandT4>
     <BundleThrowingLeftHandSpecialT4>
       <name>마스터 연금술사 세트 - I</name>
-      <desc>
-        다음 <b>특수 투척무기</b> 설계도를 배웁니다:
-      </desc>
+      <desc>다음 &lt;narrator&gt;특수 투척무기&lt;/narrator&gt; 설계도를 배웁니다:</desc>
     </BundleThrowingLeftHandSpecialT4>
     <HeavyArmorCommonGeneric>
       <name>전투판</name>
@@ -32973,9 +32399,7 @@
     </A1TrackerMap>
     <HideoutMap>
       <name>은신처 위치</name>
-      <desc>
-        <b>::name::</b> 일당을 처치한 후, 그들의 은신처 위치가 표시된 지도를 획득했습니다.
-      </desc>
+      <desc>&lt;b&gt;::name::&lt;/b&gt; 일당을 처치한 후, 그들의 은신처 위치가 표시된 지도를 획득했습니다.</desc>
     </HideoutMap>
     <E1TreasureMap>
       <name>용병의 보물</name>
@@ -33039,8 +32463,7 @@
     </G2Letter>
     <G2Mountain>
       <name>정보</name>
-      <desc>이 쪽지는 며칠 전에 쓰여졌어요. 이렇게 적혀 있네요: <b>오늘 밤 호벤도르프 광산에서 만나자. 가위를 가져와. 그리고 이 메모를 태우는 것을 잊지 마세요!</b>
-      </desc>
+      <desc>이 쪽지는 며칠 전에 쓰여졌어요. 이렇게 적혀 있네요: &lt;i&gt;오늘 밤 호벤도르프 광산에서 만나자. 가위를 가져와. 그리고 이 메모를 태우는 것을 잊지 마세요!&lt;/i&gt;</desc>
     </G2Mountain>
     <G2Hoevendorp>
       <name>판매 계약서</name>
@@ -33248,9 +32671,7 @@
     </OilPlague1>
     <RatBait>
       <name>쥐 미끼</name>
-      <desc>
-        이 기름을 쥐의 둥지에 부으면 <b>[VALUE]시간</b> 만에 쥐의 둥지를 재건할 수 있습니다. 하지만 누가 그런 일을 할까요?
-      </desc>
+      <desc>이 기름을 쥐의 둥지에 부으면 &lt;narrator&gt;[VALUE]시간&lt;/narrator&gt; 만에 쥐의 둥지를 재건할 수 있습니다. 하지만 누가 그런 일을 할까요?</desc>
     </RatBait>
     <Charcoal>
       <name>석탄</name>
@@ -33791,9 +33212,7 @@
     </GeneralCodex3>
     <MerchantCodex1>
       <name>상인의 사본 - 제1장</name>
-      <desc>
-        <b>넵티처럼 부유한</b>, <b>넵티의 아들</b>... 오늘날 상인왕은 구어체 표현을 제외하고는 거의 언급되지 않습니다. 동시대 사람들은 넵티가 자신의 아들에게 살해당하기 전에는 세계에서 가장 부유한 사람이었을 뿐만 아니라 선각자였다는 사실을 잊고 있는 것 같습니다.
-      </desc>
+      <desc>&lt;i&gt;넵티처럼 부유한&lt;/i&gt;, &lt;i&gt;넵티의 아들&lt;/i&gt;... 오늘날 상인왕은 구어체 표현을 제외하고는 거의 언급되지 않습니다. 동시대 사람들은 넵티가 자신의 아들에게 살해당하기 전에는 세계에서 가장 부유한 사람이었을 뿐만 아니라 선각자였다는 사실을 잊고 있는 것 같습니다.</desc>
     </MerchantCodex1>
     <MerchantCodex2>
       <name>상인의 코덱스 - 제2장</name>
@@ -34139,62 +33558,56 @@
     <Firecamp>
       <name>캠프파이어</name>
       <desc>
-        캠프파이어를 사용해 부대를 지불하고 먹이를 줄 수 있습니다.<br/><br/>[ASSIGN]은 휴식할 때마다 <b><b>+[VALUE]</b></b>를 생성합니다.
+        캠프파이어를 사용해 부대를 지불하고 먹이를 줄 수 있습니다.<br/><br/>[ASSIGN]은 휴식할 때마다 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;를 생성합니다.
       </desc>
       <tool.preventRemove>불이 없으면 동료는 밤새 살아남지 못합니다.</tool.preventRemove>
     </Firecamp>
     <FirecampT2>
       <name>캠프파이어</name>
       <desc>
-        캠프파이어를 사용하여 부대를 지불하고 먹일 수 있습니다.<br/><br/>[ASSIGN]은 매 휴식마다 <b><b>+[VALUE]</b></b>를 생성합니다.
+        캠프파이어를 사용하여 부대를 지불하고 먹일 수 있습니다.<br/><br/>[ASSIGN]은 매 휴식마다 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;를 생성합니다.
       </desc>
       <tool.preventRemove>불이 없으면 동료는 밤새 살아남지 못합니다.</tool.preventRemove>
     </FirecampT2>
     <FirecampT3>
       <name>캠프파이어</name>
       <desc>
-        캠프파이어를 사용하여 부대를 지불하고 먹일 수 있습니다.<br/><br/>[ASSIGN]은 매 휴식마다 <b><b>+[VALUE]</b></b>를 생성합니다.
+        캠프파이어를 사용하여 부대를 지불하고 먹일 수 있습니다.<br/><br/>[ASSIGN]은 매 휴식마다 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;를 생성합니다.
       </desc>
       <tool.preventRemove>불이 없으면 동료는 밤을 버티지 못합니다.</tool.preventRemove>
     </FirecampT3>
     <Workshop>
       <name>작업장</name>
       <desc>
-        동료가 유용한 아이템을 만드는 데 사용할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN]가 휴식할 때마다 <img src="item/RawMaterials"/>[VALUE]를 생산합니다.
+        동료가 유용한 아이템을 만드는 데 사용할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN]가 휴식할 때마다 &lt;img src="item/RawMaterials"/&gt;[VALUE]를 생산합니다.
       </desc>
       <tool.preventRemove>동료들은 작업장을 매우 좋아하며 캠프에서 작업장을 제거하기를 거부합니다.</tool.preventRemove>
     </Workshop>
     <WorkshopT2>
       <name>작업장</name>
       <desc>
-        동료가 유용한 아이템을 제작할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN] : 휴식 시마다 <img src="item/RawMaterials"/>[VALUE]를 생산합니다.
+        동료가 유용한 아이템을 제작할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN] : 휴식 시마다 &lt;img src="item/RawMaterials"/&gt;[VALUE]를 생산합니다.
       </desc>
       <tool.preventRemove>동료들은 작업장을 매우 좋아하며 캠프에서 작업장을 제거하기를 거부합니다.</tool.preventRemove>
     </WorkshopT2>
     <WorkshopT3>
       <name>작업장</name>
       <desc>
-        동료가 유용한 아이템을 제작할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN] : 휴식 시마다 <img src="item/RawMaterials"/>[VALUE]를 생산합니다.
+        동료가 유용한 아이템을 제작할 수 있는 작은 임시 작업장입니다.<br/><br/>[JOBASSIGN] : 휴식 시마다 &lt;img src="item/RawMaterials"/&gt;[VALUE]를 생산합니다.
       </desc>
       <tool.preventRemove>동료들은 이 작업장을 매우 좋아하며 캠프에서 제거하기를 거부합니다.</tool.preventRemove>
     </WorkshopT3>
     <Tent>
       <name>텐트</name>
-      <desc>
-        [ASSIGN]이 휴식할 때마다 <b><b>+[VALUE]</b></b>를 생성합니다.
-      </desc>
+      <desc>[ASSIGN]이 휴식할 때마다 &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt;를 생성합니다.</desc>
     </Tent>
     <TentT2>
       <name>텐트</name>
-      <desc>
-        [ASSIGN]은 휴식할 때마다 <b><b>+[VALUE]</b></b>를 생성합니다.
-      </desc>
+      <desc>[ASSIGN]은 휴식할 때마다 &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt;를 생성합니다.</desc>
     </TentT2>
     <TentT3>
       <name>텐트</name>
-      <desc>
-        [ASSIGN]이 휴식할 때마다 <b><b>+[VALUE]</b></b>를 생성합니다.
-      </desc>
+      <desc>[ASSIGN]이 휴식할 때마다 &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt;를 생성합니다.</desc>
     </TentT3>
     <PonyAuge>
       <name>히칭 포스트</name>
@@ -34211,19 +33624,19 @@
     <CookingPot>
       <name>요리 냄비</name>
       <desc>
-        부대에 보너스를 주는 영양가 있는 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN] 부대의 일일 식량 소비량이 <img src="icon/Food"/>[VALUE]만큼 감소합니다.
+        부대에 보너스를 주는 영양가 있는 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN] 부대의 일일 식량 소비량이 &lt;img src="icon/Food"/&gt;[VALUE]만큼 감소합니다.
       </desc>
     </CookingPot>
     <CookingPotT2>
       <name>요리 냄비</name>
       <desc>
-        부대에 보너스를 주는 영양가 높은 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN]는 부대의 일일 식량 소비량을 <img src="icon/Food"/>[VALUE]만큼 감소시킵니다.
+        부대에 보너스를 주는 영양가 높은 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN]는 부대의 일일 식량 소비량을 &lt;img src="icon/Food"/&gt;[VALUE]만큼 감소시킵니다.
       </desc>
     </CookingPotT2>
     <CookingPotT3>
       <name>요리 냄비</name>
       <desc>
-        부대에 보너스를 주는 영양가 높은 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN]는 부대의 일일 식량 소비량을 <img src="icon/Food"/>[VALUE]만큼 감소시킵니다.
+        부대에 보너스를 주는 영양가 높은 식사를 요리할 수 있습니다.<br/><br/>[JOBASSIGN]는 부대의 일일 식량 소비량을 &lt;img src="icon/Food"/&gt;[VALUE]만큼 감소시킵니다.
       </desc>
     </CookingPotT3>
     <Stretcher>
@@ -34295,19 +33708,19 @@
     <StrategyTable>
       <name>전략 테이블</name>
       <desc>
-        적을 물리치기 위한 전투 전략을 세웁니다.<br/><br/>[RANKEDASSIGN]: 휴식할 때마다 <b>[VALUE]</b>를 추가로 생성합니다.
+        적을 물리치기 위한 전투 전략을 세웁니다.<br/><br/>[RANKEDASSIGN]: 휴식할 때마다 &lt;ap&gt;[VALUE]&lt;/ap&gt;를 추가로 생성합니다.
       </desc>
     </StrategyTable>
     <StrategyTableT2>
       <name>전략 테이블</name>
       <desc>
-        상대를 이기기 위한 전투 전략을 세웁니다. <br/><br/>[RANKEDASSIGN]: 휴식할 때마다 <b>[VALUE]</b>를 추가로 생성합니다.
+        상대를 이기기 위한 전투 전략을 세웁니다. <br/><br/>[RANKEDASSIGN]: 휴식할 때마다 &lt;ap&gt;[VALUE]&lt;/ap&gt;를 추가로 생성합니다.
       </desc>
     </StrategyTableT2>
     <StrategyTableT3>
       <name>전략 테이블</name>
       <desc>
-        상대를 이기기 위한 전투 전략을 세웁니다. <br/><br/>[RANKEDASSIGN]: 휴식할 때마다 <b>[VALUE]</b>를 추가로 생성합니다.
+        상대를 이기기 위한 전투 전략을 세웁니다. <br/><br/>[RANKEDASSIGN]: 휴식할 때마다 &lt;ap&gt;[VALUE]&lt;/ap&gt;를 추가로 생성합니다.
       </desc>
     </StrategyTableT3>
     <Pillory>
@@ -34372,9 +33785,7 @@
     </WatchStool>
     <DiceGame>
       <name>주사위</name>
-      <desc>
-        [ASSIGN]이 두 명의 동료를 지정하면 휴식 시간마다 <b><b>+[VALUE]</b></b>가 생성됩니다.
-      </desc>
+      <desc>[ASSIGN]이 두 명의 동료를 지정하면 휴식 시간마다 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;가 생성됩니다.</desc>
     </DiceGame>
     <Lute>
       <name>류트</name>
@@ -35218,37 +34629,27 @@
     </KnockOut>
     <BraveVictory>
       <name>용맹한 승리</name>
-      <desc>
-        이 유닛이 적을 처치할 때마다 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>이 유닛이 적을 처치할 때마다 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </BraveVictory>
     <BraveSupport>
       <name>용맹한 지원</name>
-      <desc>
-        이 유닛이 아군 옆에서 교전에 참여하지 않고 턴을 끝낼 때마다, 당신은 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>이 유닛이 아군 옆에서 교전에 참여하지 않고 턴을 끝낼 때마다, 당신은 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </BraveSupport>
     <BraveDuel>
       <name>용맹한 결투</name>
-      <desc>
-        이 유닛이 교전에 참여할 때마다, 당신은 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>이 유닛이 교전에 참여할 때마다, 당신은 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </BraveDuel>
     <BraveCleave>
       <name>용맹한 연쇄</name>
-      <desc>
-        공격이 여러 적에게 적중할 때마다 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>공격이 여러 적에게 적중할 때마다 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </BraveCleave>
     <BraveBoldness>
       <name>용맹한 대담</name>
-      <desc>
-        이 유닛이 적 옆에서 교전에 참여하지 않고 턴을 끝낼 때마다, 당신은 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>이 유닛이 적 옆에서 교전에 참여하지 않고 턴을 끝낼 때마다, 당신은 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </BraveBoldness>
     <CaptainSkill>
       <name>고무된 부대</name>
-      <desc><br/> 당신은 해당 지역에 있는 아군 한 명당 <b>::value1::</b>를 얻습니다.<br/><br/> 전투당 한 번만 사용할 수 있습니다.<br/>
+      <desc><br/> 당신은 해당 지역에 있는 아군 한 명당 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.<br/><br/> 전투당 한 번만 사용할 수 있습니다.<br/>
       </desc>
     </CaptainSkill>
     <LieutenantSkill>
@@ -35349,9 +34750,7 @@
     </Punch>
     <DefensivePosture>
       <name>방어 자세</name>
-      <desc>
-        유닛이 [Deflection]을 얻습니다. 유닛이 교전 중이면 <b>::value1::</b>를 얻습니다.
-      </desc>
+      <desc>유닛이 [Deflection]을 얻습니다. 유닛이 교전 중이면 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.</desc>
     </DefensivePosture>
     <OpportunityStrategy>
       <name>기회주의</name>
@@ -35395,9 +34794,7 @@
     </Regroup>
     <Repositioning>
       <name>위치 변경</name>
-      <desc>
-        각 동료가 <b>스킬 재배치</b> 스킬을 습득합니다.
-      </desc>
+      <desc>각 동료가 &lt;skill&gt;스킬 재배치&lt;/skill&gt; 스킬을 습득합니다.</desc>
     </Repositioning>
     <SkillRepositioning>
       <name>위치 변경</name>
@@ -35595,7 +34992,7 @@
     <EternalGloryStrike>
       <name>이터널 글로리 스트라이크</name>
       <desc>
-        대상에게 [DMG]를 입힙니다.<br/><br/>[DeadlyBlow]: <b>::value1::</b> 증가합니다.
+        대상에게 [DMG]를 입힙니다.<br/><br/>[DeadlyBlow]: &lt;apt&gt;::value1::&lt;/apt&gt; 증가합니다.
       </desc>
     </EternalGloryStrike>
     <EvolandStrike>
@@ -36670,7 +36067,7 @@
     <FugitiveMace2HGuard>
       <name>계산된 이동</name>
       <desc>
-        일정 지역을 목표로 삼고 조준하는 동안 [Unwavering]을 얻습니다.<br/>다음 라운드 시작 시 또는 적이 교전을 해제하면 해당 지역의 모든 유닛에게 [DMG]를 입힙니다.<br/>적중시킨 유닛당 <b>::value1::</b>를 얻습니다.
+        일정 지역을 목표로 삼고 조준하는 동안 [Unwavering]을 얻습니다.<br/>다음 라운드 시작 시 또는 적이 교전을 해제하면 해당 지역의 모든 유닛에게 [DMG]를 입힙니다.<br/>적중시킨 유닛당 &lt;apt&gt;::value1::&lt;/apt&gt;를 얻습니다.
       </desc>
     </FugitiveMace2HGuard>
     <Bladestorm>
@@ -36861,7 +36258,7 @@
     <FugitiveTrackersBow>
       <name>퍼스트 샷</name>
       <desc>
-        대상에게 [DMG]를 입힙니다. 대상이 아직 피해를 입지 않았다면 치명타가 보장됩니다.<br/>그렇지 않으면 이 공격은 치명타를 적중시킬 수 없습니다.<br/><br/>[CapaCritical] : <b>::value1::</b> 부여합니다.
+        대상에게 [DMG]를 입힙니다. 대상이 아직 피해를 입지 않았다면 치명타가 보장됩니다.<br/>그렇지 않으면 이 공격은 치명타를 적중시킬 수 없습니다.<br/><br/>[CapaCritical] : &lt;apt&gt;::value1::&lt;/apt&gt; 부여합니다.
       </desc>
     </FugitiveTrackersBow>
     <FugitivePolearmTrackers>
@@ -37331,7 +36728,7 @@
     <ComfortableFur>
       <name>포근한 가죽</name>
       <desc>
-        이 유닛 옆에서 휴식을 소비하는 모든 동료가 <b>::value1::</b>만큼 추가로 생성됩니다.<br/><br/>곰 한 마리당 ::value2:: 동료로 제한됩니다.
+        이 유닛 옆에서 휴식을 소비하는 모든 동료가 &lt;ap&gt;::value1::&lt;/ap&gt;만큼 추가로 생성됩니다.<br/><br/>곰 한 마리당 ::value2:: 동료로 제한됩니다.
       </desc>
     </ComfortableFur>
     <MasterAngler>
@@ -37484,9 +36881,7 @@
     </ValiantAssault>
     <ForGlory>
       <name>영광을 위하여!</name>
-      <desc>
-        <b>파워 존</b>을 생성합니다.
-      </desc>
+      <desc>&lt;skill&gt;파워 존&lt;/skill&gt;을 생성합니다.</desc>
     </ForGlory>
     <PowerZone>
       <name>파워 영역</name>
@@ -37702,9 +37097,7 @@
       <desc>스킬이 피해를 줄 때마다 ::value1::% 확률로 [Fever]이 적용됩니다.</desc>
     </OilProcFever>
     <OilBrave>
-      <desc>
-        유닛이 용맹 기반 스킬을 사용하면 ::value1::% 확률로 <b>::value2::</b>를 회복합니다.
-      </desc>
+      <desc>유닛이 용맹 기반 스킬을 사용하면 ::value1::% 확률로 &lt;apt&gt;::value2::&lt;/apt&gt;를 회복합니다.</desc>
     </OilBrave>
     <OilProcSlowReflexes>
       <desc>스킬로 피해를 줄 때마다 ::value1::% 확률로 [NoReflexes]이 적용됩니다.</desc>
@@ -38059,9 +37452,7 @@
     </SpearWeapon>
     <FleeArea>
       <name>탈출 구역</name>
-      <desc>
-        동료가 이 영역에 도달하면 <b>도주</b> 스킬을 사용해 전장을 벗어납니다.
-      </desc>
+      <desc>동료가 이 영역에 도달하면 &lt;iskill&gt;도주&lt;/iskill&gt; 스킬을 사용해 전장을 벗어납니다.</desc>
     </FleeArea>
     <EquipTorch>
       <name>횃불 장비</name>
@@ -38097,15 +37488,11 @@
     </ArenaCriticalDamage>
     <ArenaGritBonusOnKill>
       <name>죽어라!</name>
-      <desc>
-        적 한 마리가 죽으면 <b>::value1::</b>가 생성됩니다.
-      </desc>
+      <desc>적 한 마리가 죽으면 &lt;ap&gt;::value1::&lt;/ap&gt;가 생성됩니다.</desc>
     </ArenaGritBonusOnKill>
     <ArenaExigenceGritBonus>
       <name>광란의 군중</name>
-      <desc>
-        요구 조건을 충족하면 추가 <b>::value1::</b>를 획득합니다.
-      </desc>
+      <desc>요구 조건을 충족하면 추가 &lt;ap&gt;::value1::&lt;/ap&gt;를 획득합니다.</desc>
     </ArenaExigenceGritBonus>
     <ArenaVengeanceBonus>
       <name>복수심에 불타는 영혼</name>
@@ -38234,7 +37621,8 @@
     </SportTeamLeader>
     <SportRun>
       <name>Run</name>
-      <desc>유닛이 일직선으로 돌진합니다.<br/><br/><b>스포츠태클</b> <br/><b>스포츠닷지</b>
+      <desc>
+        유닛이 일직선으로 돌진합니다.<br/><br/>&lt;idesc&gt;스포츠태클&lt;/idesc&gt; <br/>&lt;idesc&gt;스포츠닷지&lt;/idesc&gt;
       </desc>
     </SportRun>
     <SportPass>
@@ -38692,13 +38080,15 @@
     </Slowdown>
     <Bleeding>
       <name>출혈</name>
-      <desc>대상은 자신의 턴이 끝날 때 최대 [Health]의 [VALUE]%만큼 피해를 입습니다.<br/><b>피해: <b>[VALUE%]</b></b>
+      <desc>
+        대상은 자신의 턴이 끝날 때 최대 [Health]의 [VALUE]%만큼 피해를 입습니다.<br/>&lt;extra&gt;피해: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;
       </desc>
     </Bleeding>
     <Poison>
       <name>독</name>
       <namePlural>독</namePlural>
-      <desc>자신의 턴이 끝나면 최대 [Health]의 [VALUE]%를 잃습니다.<br/>중첩 가능(현재: [VALUE_STACK]%).<br/><b>피해: <b>[VALUE%]</b></b>
+      <desc>
+        자신의 턴이 끝나면 최대 [Health]의 [VALUE]%를 잃습니다.<br/>중첩 가능(현재: [VALUE_STACK]%).<br/>&lt;extra&gt;피해: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;
       </desc>
     </Poison>
     <PoisonCloud>
@@ -38835,9 +38225,7 @@
     </NarsesMark>
     <HorounMark>
       <name>호룬의 표식</name>
-      <desc>
-        이 상태를 소모하면 공격자가 <b>[VALUE]</b> 용맹 점수를 생성합니다.
-      </desc>
+      <desc>이 상태를 소모하면 공격자가 &lt;apt&gt;[VALUE]&lt;/apt&gt; 용맹 점수를 생성합니다.</desc>
     </HorounMark>
     <Noisy>
       <name>시끄러운</name>
@@ -38875,9 +38263,7 @@
     </LatentTerror>
     <SlowReflexes>
       <name>느린 반사 신경</name>
-      <desc>
-        이 유닛의 <b>기회 공격</b>으로 주는 피해가 절반으로 감소합니다.
-      </desc>
+      <desc>이 유닛의 &lt;b&gt;기회 공격&lt;/b&gt;으로 주는 피해가 절반으로 감소합니다.</desc>
     </SlowReflexes>
     <NoReflexes>
       <name>멍한</name>
@@ -38911,9 +38297,7 @@
     </Corrosion>
     <Condemn>
       <name>정죄</name>
-      <desc>
-        이 유닛이 죽으면, 용맹 점수를 <b>[VALUE]</b> 획득합니다.
-      </desc>
+      <desc>이 유닛이 죽으면, 용맹 점수를 &lt;apt&gt;[VALUE]&lt;/apt&gt; 획득합니다.</desc>
     </Condemn>
     <Immobile>
       <name>이동 불가</name>
@@ -39152,8 +38536,7 @@
   </sheet>
   <sheet name="bonus">
     <AA_DefaultBonus>
-      <desc><b> 이 보너스는 교체해야 합니다. </b>
-      </desc>
+      <desc>&lt;WARNING&gt; 이 보너스는 교체해야 합니다. &lt;/WARNING&gt;</desc>
     </AA_DefaultBonus>
     <Tiredness>
       <desc>부대의 피로가 중첩되는 속도가 [VALUE]%만큼 감소합니다.</desc>
@@ -39180,9 +38563,7 @@
       <desc>[Willpower]이 [VALUE]만큼 감소했습니다.</desc>
     </WillpowerReduced>
     <Happy>
-      <desc>
-        부대의 행복지수가 <b>[VALUE]</b> 증가합니다.
-      </desc>
+      <desc>부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 증가합니다.</desc>
     </Happy>
     <Movement>
       <desc>[Movement]이 [VALUE]만큼 증가합니다.</desc>
@@ -39197,14 +38578,10 @@
       <desc>달리기 지속시간이 [VALUE]%만큼 증가했습니다.</desc>
     </RunStamina>
     <ActionPoint>
-      <desc>
-        최대 용맹 점수가 <b>[VALUE]</b> 증가했습니다.
-      </desc>
+      <desc>최대 용맹 점수가 &lt;ap&gt;[VALUE]&lt;/ap&gt; 증가했습니다.</desc>
     </ActionPoint>
     <UnitSalaryNeg>
-      <desc>
-        동료에게 지급하는 임금이 <b>[VALUE]</b>만큼 증가했습니다.
-      </desc>
+      <desc>동료에게 지급하는 임금이 &lt;gold&gt;[VALUE]&lt;/gold&gt;만큼 증가했습니다.</desc>
     </UnitSalaryNeg>
     <Cannibalism>
       <desc>이제 인간 시체를 삼킬 수 있습니다.</desc>
@@ -39249,22 +38626,16 @@
       <desc>각 동료의 [Transport]이 [VALUE]만큼 감소했습니다.</desc>
     </TransportUnitMalus>
     <RestForest>
-      <desc>
-        부대가 숲에서 휴식을 취하면 부대의 행복지수가 <b>[VALUE]</b> 증가합니다.
-      </desc>
+      <desc>부대가 숲에서 휴식을 취하면 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 증가합니다.</desc>
     </RestForest>
     <CritHitMalus>
       <desc>[CritHitPercent]이 [VALUE]% 감소합니다.</desc>
     </CritHitMalus>
     <HappinessMalus>
-      <desc>
-        휴식할 때마다 부대의 행복지수가 <b>[VALUE]</b> 감소합니다.
-      </desc>
+      <desc>휴식할 때마다 부대의 행복지수가 &lt;happy&gt;[VALUE]&lt;/happy&gt; 감소합니다.</desc>
     </HappinessMalus>
     <FoodReduction>
-      <desc>
-        부대가 먹는 식량이 <b>[VALUE]</b> 감소합니다.
-      </desc>
+      <desc>부대가 먹는 식량이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </FoodReduction>
     <UnitSalaryReduction>
       <desc>동료에게 지급하는 임금이 [VALUE]% 감소했습니다.</desc>
@@ -39318,9 +38689,7 @@
       <desc>이 부대는 이제 갑옷을 착용할 수 있습니다.</desc>
     </CanEquipArmor>
     <StrategyTableUnlocked>
-      <desc>
-        <b>전략 테이블</b>를 제작할 수 있습니다.
-      </desc>
+      <desc>&lt;b&gt;전략 테이블&lt;/b&gt;를 제작할 수 있습니다.</desc>
     </StrategyTableUnlocked>
     <StrategyTableT2>
       <desc>새로운 전략 세트를 잠금 해제합니다. 동시에 최대 2개의 전략을 활성화할 수 있습니다.</desc>
@@ -39329,17 +38698,13 @@
       <desc>새로운 전략 세트를 잠금 해제합니다. 동시에 최대 3개의 활성화 전략을 보유할 수 있습니다.</desc>
     </StrategyTableT3>
     <BannerUnlocked>
-      <desc>
-        <b>배너</b> 제작이 가능합니다.
-      </desc>
+      <desc>&lt;b&gt;배너&lt;/b&gt; 제작이 가능합니다.</desc>
     </BannerUnlocked>
     <WhipDeath>
       <desc>유닛이 채찍을 맞고 사망하면 지정된 모든 유닛도 채찍을 맞은 것처럼 작동합니다.</desc>
     </WhipDeath>
     <CareerPlan>
-      <desc>
-        레벨을 올릴 때 영향력을 사용해 적성에 1<img src="icon/UnitInfoLevelUp"/>을 추가할 수 있습니다.
-      </desc>
+      <desc>레벨을 올릴 때 영향력을 사용해 적성에 1&lt;img src="icon/UnitInfoLevelUp"/&gt;을 추가할 수 있습니다.</desc>
     </CareerPlan>
     <LightUsageBonus>
       <desc>횃불이 느리게 타오릅니다.</desc>
@@ -39354,9 +38719,7 @@
       <desc>동물의 공격 범위가 감소합니다.</desc>
     </AnimalAggroRangeFactor>
     <ToolCapacityIncreased>
-      <desc>
-        수용 능력이 향상되었습니다: ::total:: (<b>+[VALUE]</b>)
-      </desc>
+      <desc>수용 능력이 향상되었습니다: ::total:: (&lt;good&gt;+[VALUE]&lt;/good&gt;)</desc>
     </ToolCapacityIncreased>
     <ToolProductionIncreased>
       <desc>휴식 중에 활성화된 모든 야영지 도구의 생산량이 [VALUE] 증가합니다.</desc>
@@ -39368,14 +38731,10 @@
       <desc>보너스를 주는 요리법이 [VALUE]% 확률로 맛있습니다.</desc>
     </PerfectRecipe>
     <CookingPotMoreAssign>
-      <desc>
-        동반자를 지정하면 일일 식량 소비량이 <b>[VALUE]</b> 감소합니다.
-      </desc>
+      <desc>동반자를 지정하면 일일 식량 소비량이 &lt;food&gt;[VALUE]&lt;/food&gt; 감소합니다.</desc>
     </CookingPotMoreAssign>
     <FirecampFirstAssign>
-      <desc>
-        동료가 1명 이상 지정되어 있으면 휴식할 때마다 <b><b>+[VALUE]</b></b>가 추가로 생성됩니다.
-      </desc>
+      <desc>동료가 1명 이상 지정되어 있으면 휴식할 때마다 &lt;happy&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/happy&gt;가 추가로 생성됩니다.</desc>
     </FirecampFirstAssign>
     <FirecampUpgrade1>
       <desc>행복 관련 보너스가 향상됩니다.</desc>
@@ -39399,14 +38758,10 @@
       <desc>휴식 중에 나무를 태워 석탄을 만들 수 있습니다.</desc>
     </FirecampCharcoalUpgrade>
     <TentFirstAssign_Rest>
-      <desc>
-        동료가 1명 이상 지정되어 있으면 휴식 중에 <b><b>+[VALUE]</b></b>가 추가로 생성됩니다.
-      </desc>
+      <desc>동료가 1명 이상 지정되어 있으면 휴식 중에 &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt;가 추가로 생성됩니다.</desc>
     </TentFirstAssign_Rest>
     <TentFirstAssign_Fight>
-      <desc>
-        동료가 1명 이상 지정되어 있으면 매 전투 시작 시 <b><b>+[VALUE]</b></b>를 얻습니다.
-      </desc>
+      <desc>동료가 1명 이상 지정되어 있으면 매 전투 시작 시 &lt;ap&gt;&lt;good&gt;+[VALUE]&lt;/good&gt;&lt;/ap&gt;를 얻습니다.</desc>
     </TentFirstAssign_Fight>
     <LecternDayDiscount>
       <desc>유물 연구에 소요되는 시간이 [VALUE]일 감소합니다(최소 2일).</desc>
@@ -39433,14 +38788,10 @@
       <desc>유령 동물 사체에서 흰색 가죽을 생산할 수 있습니다.</desc>
     </SkinDryingRack_WhiteLeather>
     <Workshop_Dismantle_Common_T2>
-      <desc>
-        가치가 낮은 무기, 방어구, 장신구를 해체하여 최대 [VALUE] <img src="item/RawMaterials"/>와 자원을 획득할 수 있습니다.
-      </desc>
+      <desc>가치가 낮은 무기, 방어구, 장신구를 해체하여 최대 [VALUE] &lt;img src="item/RawMaterials"/&gt;와 자원을 획득할 수 있습니다.</desc>
     </Workshop_Dismantle_Common_T2>
     <Workshop_Dismantle_Common_T3>
-      <desc>
-        무기, 방어구, 장신구를 해체하여 최대 [VALUE] <img src="item/RawMaterials"/>와 자원을 획득할 수 있습니다.
-      </desc>
+      <desc>무기, 방어구, 장신구를 해체하여 최대 [VALUE] &lt;img src="item/RawMaterials"/&gt;와 자원을 획득할 수 있습니다.</desc>
     </Workshop_Dismantle_Common_T3>
     <TrainingDummyExperienceBonus>
       <desc>인간 동료는 전투에서 [VALUE]%의 경험치를 더 얻습니다.</desc>
@@ -39452,14 +38803,10 @@
       <desc>주유소에 배치된 조랑말의 운반 능력이 [VALUE]배 증가합니다.</desc>
     </PonyAugeTransport>
     <PonyAugeTransportTrait>
-      <desc>
-        연결 지점에 배치된 작업용 조랑말의 운반 능력이 <b>[VALUE]</b> 증가합니다.
-      </desc>
+      <desc>연결 지점에 배치된 작업용 조랑말의 운반 능력이 &lt;good&gt;[VALUE]&lt;/good&gt; 증가합니다.</desc>
     </PonyAugeTransportTrait>
     <PonyAugeExperienceCombat>
-      <desc>
-        주유소에 배치된 전투용 조랑말은 경험치를 <b>[VALUE]%</b> 더 획득합니다.
-      </desc>
+      <desc>주유소에 배치된 전투용 조랑말은 경험치를 &lt;good&gt;[VALUE]%&lt;/good&gt; 더 획득합니다.</desc>
     </PonyAugeExperienceCombat>
     <StretcherDoped>
       <desc>들것에 배치된 건강한 유닛은 [Doped] 상태를 얻습니다.</desc>
@@ -39534,27 +38881,19 @@
       <desc>... 신뢰를 불러 일으키지 않는 태도</desc>
     </SMalus9>
     <ArenaUnitToEngage>
-      <desc>
-        <b>[TARGET]</b>는 라운드가 끝날 때 반드시 교전에 참여해야 합니다.
-      </desc>
+      <desc>&lt;b&gt;[TARGET]&lt;/b&gt;는 라운드가 끝날 때 반드시 교전에 참여해야 합니다.</desc>
     </ArenaUnitToEngage>
     <ArenaTwoCrits>
       <desc>서로 다른 두 유닛으로 치명타를 날려야 합니다: [PROGRESS] / [VALUE]</desc>
     </ArenaTwoCrits>
     <ArenaUnitToDamage>
-      <desc>
-        <b>[TARGET]</b>이 피해를 입어야 합니다.
-      </desc>
+      <desc>&lt;b&gt;[TARGET]&lt;/b&gt;이 피해를 입어야 합니다.</desc>
     </ArenaUnitToDamage>
     <ArenaUnitToKill>
-      <desc>
-        <b>[TARGET]</b>은 반드시 죽습니다.
-      </desc>
+      <desc>&lt;b&gt;[TARGET]&lt;/b&gt;은 반드시 죽습니다.</desc>
     </ArenaUnitToKill>
     <ArenaUnitNoDamage>
-      <desc>
-        <b>[TARGET]</b>는 피해를 받지 않아야 합니다.
-      </desc>
+      <desc>&lt;b&gt;[TARGET]&lt;/b&gt;는 피해를 받지 않아야 합니다.</desc>
     </ArenaUnitNoDamage>
     <ArenaAllyContact>
       <desc>각 동료는 아군 옆에서 자신의 턴을 끝내야 합니다.</desc>
@@ -39566,9 +38905,7 @@
       <desc>모든 적이 피해를 입어야 합니다.</desc>
     </ArenaEveryDamage>
     <ArenaNoMovement>
-      <desc>
-        <b>[TARGET]</b>는 움직이면 안 됩니다.
-      </desc>
+      <desc>&lt;b&gt;[TARGET]&lt;/b&gt;는 움직이면 안 됩니다.</desc>
     </ArenaNoMovement>
     <ArenaNoFocus>
       <desc>같은 유닛을 두 번 공격할 수 없습니다.</desc>
@@ -39577,9 +38914,7 @@
       <desc>모든 동료가 움직여야 합니다.</desc>
     </ArenaEveryMovement>
     <ResolutionMight>
-      <desc>
-        새로운 해상도를 사용할 수 있습니다: "<b>ResolutionMoreLoot</b>"
-      </desc>
+      <desc>새로운 해상도를 사용할 수 있습니다: "&lt;item&gt;ResolutionMoreLoot&lt;/item&gt;"</desc>
     </ResolutionMight>
     <CanRespecialize>
       <desc>재 전문화가 잠금 해제되었습니다.</desc>
@@ -39587,7 +38922,7 @@
     </CanRespecialize>
     <CanBuySkillMastery>
       <desc>기술 업그레이드가 잠금 해제되었습니다.</desc>
-      <props.additionalText>이제 훈련장과 투기장에서 &lt;b&gt;스킬 숙달&lt;/b&gt;이 가능합니다.</props.additionalText>
+      <props.additionalText>이제 훈련장과 투기장에서 &amp;lt;b&amp;gt;스킬 숙달&amp;lt;/b&amp;gt;이 가능합니다.</props.additionalText>
     </CanBuySkillMastery>
     <MoraleMotivation>
       <desc>전투 자극이 잠금 해제되었습니다.</desc>
@@ -39598,14 +38933,10 @@
       <props.additionalText>각 지역의 주요 마을에 여행 초소를 건설할 수 있습니다. 한 여행 초소에서 다른 여행 초소로 빠르게 이동할 수 있습니다.</props.additionalText>
     </ComptoirUnlock>
     <ResolutionTrade>
-      <desc>
-        새로운 해상도를 사용할 수 있습니다: "<b>해결방법판매가격제작아이템</b>"
-      </desc>
+      <desc>새로운 해상도를 사용할 수 있습니다: "&lt;item&gt;해결방법판매가격제작아이템&lt;/item&gt;"</desc>
     </ResolutionTrade>
     <ResolutionCrime>
-      <desc>
-        새로운 해상도를 사용할 수 있습니다: "<b>ResolutionNoWanted</b>"
-      </desc>
+      <desc>새로운 해상도를 사용할 수 있습니다: "&lt;item&gt;ResolutionNoWanted&lt;/item&gt;"</desc>
     </ResolutionCrime>
     <BlackMarketUnlocked>
       <desc>암시장과 암시장 요원에게 접근합니다.</desc>
@@ -39615,28 +38946,25 @@
       <props.additionalText>뒤에서 공격할 때 받는 피해가 의심 별 하나당 [VALUE]% 증가했습니다.</props.additionalText>
     </BackstabDmgWanted>
     <ResolutionMystery>
-      <desc>
-        새로운 해상도를 사용할 수 있습니다: "<b>ResolutionForcedMarch</b>"
-      </desc>
+      <desc>새로운 해상도를 사용할 수 있습니다: "&lt;item&gt;ResolutionForcedMarch&lt;/item&gt;"</desc>
     </ResolutionMystery>
     <RatBaitRecipe>
-      <desc>새로운 연금술 레시피가 추가되었습니다: <b>쥐미끼</b>
-      </desc>
+      <desc>새로운 연금술 레시피가 추가되었습니다: &lt;item&gt;쥐미끼&lt;/item&gt;</desc>
     </RatBaitRecipe>
     <SecondaryOil>
       <desc>무기에 두 번째 기름을 적용할 수 있습니다.</desc>
     </SecondaryOil>
     <TraitMightUnlock>
       <desc>매주 가장 많은 피해를 입힌 동료가 워몽거 특성을 획득합니다.</desc>
-      <props.additionalText>가장 많은 피해를 입힌 동료: &lt;img src=&quot;icon/DamageAmount&quot;/&gt;[VALUE]</props.additionalText>
+      <props.additionalText>가장 많은 피해를 입힌 동료: &amp;lt;img src=&quot;icon/DamageAmount&quot;/&amp;gt;[VALUE]</props.additionalText>
     </TraitMightUnlock>
     <TraitTradeUnlock>
       <desc>매주 가장 높은 임금을 받은 동료는 브로커 특성을 획득합니다.</desc>
-      <props.additionalText>가장 높은 임금을 받은 동료: &lt;gold&gt;[VALUE]&lt;/gold&gt;</props.additionalText>
+      <props.additionalText>가장 높은 임금을 받은 동료: &amp;lt;gold&amp;gt;[VALUE]&amp;lt;/gold&amp;gt;</props.additionalText>
     </TraitTradeUnlock>
     <TraitCrimeUnlock>
       <desc>매주 가장 많은 적을 처치한 동료가 악당 특성을 획득합니다.</desc>
-      <props.additionalText>가장 많은 적을 처치한 동료: &lt;img src=&quot;icon/DamageKill&quot;/&gt;[VALUE]</props.additionalText>
+      <props.additionalText>가장 많은 적을 처치한 동료: &amp;lt;img src=&quot;icon/DamageKill&quot;/&amp;gt;[VALUE]</props.additionalText>
     </TraitCrimeUnlock>
     <TraitKnowledgeUnlock>
       <desc>매주 가장 많은 직업 경험치를 획득한 동료가 지식인 특성을 획득합니다.</desc>
@@ -39661,9 +38989,7 @@
       <desc>영향력을 사용해 경비병과 협상할 수 있습니다.</desc>
     </GuardInquisitionParley>
     <UnlockLectern>
-      <desc>
-        <b>성단</b>을 제작할 수 있습니다.
-      </desc>
+      <desc>&lt;b&gt;성단&lt;/b&gt;을 제작할 수 있습니다.</desc>
     </UnlockLectern>
     <BetterTorch>
       <desc>횃불은 전투에서 더 오래 지속되고 더 넓은 지역을 밝힙니다.</desc>
@@ -39890,17 +39216,13 @@
       <desc>착용자는 [VALUE]%의 확률로 부상을 회복할 수 있습니다.</desc>
     </SleepingInjury>
     <BeltAccSongSkill>
-      <desc>
-        이 부대는 전투 중에 <b>벨트 악송</b> 스킬을 사용할 수 있습니다.
-      </desc>
+      <desc>이 부대는 전투 중에 &lt;skill&gt;벨트 악송&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
     </BeltAccSongSkill>
     <RankedUnitInspiration>
       <desc>이 유닛이 대위 또는 부관 스킬을 사용하면, 적중한 모든 아군에게 [VALUE]라운드 동안 [Inspiration]을 적용합니다.</desc>
     </RankedUnitInspiration>
     <BeltAccHuntSkill>
-      <desc>
-        이 유닛은 전투 중에 <b>벨트사냥스킬</b> 스킬을 사용할 수 있습니다.
-      </desc>
+      <desc>이 유닛은 전투 중에 &lt;skill&gt;벨트사냥스킬&lt;/skill&gt; 스킬을 사용할 수 있습니다.</desc>
     </BeltAccHuntSkill>
     <TradeGoodBuyInfluence>
       <desc>무역 상품을 구매하면 약간의 영향력도 생성됩니다.</desc>
@@ -39972,9 +39294,7 @@
       <desc>한 끼 식사 후 부대의 피로도 증가 속도가 [VALUE]% 감소합니다.</desc>
     </CookCompanion>
     <CookMaster>
-      <desc>
-        부대가 <b>[VALUE]</b> 적은 양의 음식을 먹습니다.
-      </desc>
+      <desc>부대가 &lt;food&gt;[VALUE]&lt;/food&gt; 적은 양의 음식을 먹습니다.</desc>
     </CookMaster>
     <TinkererApprentice>
       <desc>청사진을 배우고 견습생 야영 장비를 제작 및 개선할 수 있습니다.</desc>
@@ -40003,14 +39323,10 @@
       <desc>낚시를 할 때 항상 물고기와 함께 무작위 구성 요소를 감을 수 있습니다.</desc>
     </FishermanMaster>
     <ScholarApprentice>
-      <desc>
-        고대인의 무덤에서 퍼즐을 풀면 <img src="item/Knowledge"/>1을 획득합니다.
-      </desc>
+      <desc>고대인의 무덤에서 퍼즐을 풀면 &lt;img src="item/Knowledge"/&gt;1을 획득합니다.</desc>
     </ScholarApprentice>
     <ScholarConfirme>
-      <desc>
-        전설 보물을 복원하면 <img src="item/Knowledge"/>1을 획득합니다.
-      </desc>
+      <desc>전설 보물을 복원하면 &lt;img src="item/Knowledge"/&gt;1을 획득합니다.</desc>
     </ScholarConfirme>
     <ScholarCompanion>
       <desc>귀중한 아이템을 복원하는 데 필요한 휴식의 수가 1 감소합니다.</desc>
@@ -40698,29 +40014,19 @@
       <title>정복</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>는 이 지역에서 수많은 가축 도둑질을 저지르고 있습니다. 분노한 농부들은 이러한 범죄를 근절하기 위해 모금을 하기로 결정했습니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;는 이 지역에서 수많은 가축 도둑질을 저지르고 있습니다. 분노한 농부들은 이러한 범죄를 근절하기 위해 모금을 하기로 결정했습니다.</t>
         </line0>
         <line1>
-          <t>
-            최근 캐러밴 습격이 증가한 것은 <b>::roaming::</b> 때문이라고 합니다. 이 골칫거리를 근절할 수 있는 사람에게 현상금을 지급합니다.
-          </t>
+          <t>최근 캐러밴 습격이 증가한 것은 &lt;b&gt;::roaming::&lt;/b&gt; 때문이라고 합니다. 이 골칫거리를 근절할 수 있는 사람에게 현상금을 지급합니다.</t>
         </line1>
         <line2>
-          <t>
-            <b>::roaming::</b>를 반드시 막아야 합니다. 경비병 혼자서는 이 문제를 해결할 수 없을 것 같습니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;를 반드시 막아야 합니다. 경비병 혼자서는 이 문제를 해결할 수 없을 것 같습니다.</t>
         </line2>
         <line3>
-          <t>
-            <b>::roaming::</b>가 엉뚱한 사람을 불편하게 한 모양인데, 이제 누군가가 기꺼이 돈을 주고 제거해 주겠답니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;가 엉뚱한 사람을 불편하게 한 모양인데, 이제 누군가가 기꺼이 돈을 주고 제거해 주겠답니다.</t>
         </line3>
         <line4>
-          <t>
-            형제단은 <b>::roaming::</b>가 죽는 걸 보고 싶어 합니다. 이 도적들은 상인에게 너무 많은 피해를 입혔으니까요.
-          </t>
+          <t>형제단은 &lt;b&gt;::roaming::&lt;/b&gt;가 죽는 걸 보고 싶어 합니다. 이 도적들은 상인에게 너무 많은 피해를 입혔으니까요.</t>
         </line4>
       </description>
     </Bounty>
@@ -40728,9 +40034,7 @@
       <title>정복</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>는 버림받은 추적자 무리입니다. 반드시 처치해야 합니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;는 버림받은 추적자 무리입니다. 반드시 처치해야 합니다.</t>
         </line0>
         <line1>
           <t>트래커의 교리를 외면한 이 무리는 하라그에게 위험한 존재가 되었다.</t>
@@ -40741,9 +40045,7 @@
       <title>정복</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>는 '눈'의 계율을 외면한 심문관 집단입니다. 그들은 반드시 죽어야 합니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;는 '눈'의 계율을 외면한 심문관 집단입니다. 그들은 반드시 죽어야 합니다.</t>
         </line0>
         <line1>
           <t>이 광신도 집단은 무고한 사람들을 사냥하고 불태웁니다. 그들은 지역 전체에 위협이 되고 있습니다.</t>
@@ -40754,9 +40056,7 @@
       <title>정복</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>는 형제단이 가혹하게 처벌하는 반역죄를 구현합니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;는 형제단이 가혹하게 처벌하는 반역죄를 구현합니다.</t>
         </line0>
         <line1>
           <t>맹세를 어긴 전직 형제보다 더 나쁜 것은 없습니다. 그들을 사냥하여 처단하세요.</t>
@@ -40767,24 +40067,16 @@
       <title>암살</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>의 지나친 행동은 사업에 좋지 않았고, 밀수꾼들은 그들을 영원히 사라지게 하고 싶어 합니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;의 지나친 행동은 사업에 좋지 않았고, 밀수꾼들은 그들을 영원히 사라지게 하고 싶어 합니다.</t>
         </line0>
         <line1>
-          <t>
-            도적단의 우두머리는 자신을 감옥에 가둔 자들에게 복수를 하려 합니다: <b>::roaming::</b>.
-          </t>
+          <t>도적단의 우두머리는 자신을 감옥에 가둔 자들에게 복수를 하려 합니다: &lt;b&gt;::roaming::&lt;/b&gt;.</t>
         </line1>
         <line2>
-          <t>
-            <b>::roaming::</b>가 도로를 감시하는 데 너무 열심이라서 이 지역 산적들의 거래에는 매우 불행한 일입니다. 이제 그만둬야 합니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;가 도로를 감시하는 데 너무 열심이라서 이 지역 산적들의 거래에는 매우 불행한 일입니다. 이제 그만둬야 합니다.</t>
         </line2>
         <line3>
-          <t>
-            탈영병들은 <b>::roaming::</b>의 옛 동료들이 자신들을 잊어버리길 원합니다. 영원히.
-          </t>
+          <t>탈영병들은 &lt;b&gt;::roaming::&lt;/b&gt;의 옛 동료들이 자신들을 잊어버리길 원합니다. 영원히.</t>
         </line3>
       </description>
     </Assassinate>
@@ -40792,14 +40084,10 @@
       <title>Loot</title>
       <description>
         <line0>
-          <t>
-            <b>::place::</b>는 경비가 잘 되어 있지만, 이곳을 파괴하면 엄청난 보상을 받을 수 있습니다.
-          </t>
+          <t>&lt;b&gt;::place::&lt;/b&gt;는 경비가 잘 되어 있지만, 이곳을 파괴하면 엄청난 보상을 받을 수 있습니다.</t>
         </line0>
         <line1>
-          <t>
-            경비병은 <b>::place::</b>에 불량배들이 숨어 있다고 확신하고 있습니다. 그곳을 파괴하는 자에게는 엄청난 보상이 주어질 것이라고 합니다.
-          </t>
+          <t>경비병은 &lt;b&gt;::place::&lt;/b&gt;에 불량배들이 숨어 있다고 확신하고 있습니다. 그곳을 파괴하는 자에게는 엄청난 보상이 주어질 것이라고 합니다.</t>
         </line1>
       </description>
     </Hideout>
@@ -40810,14 +40098,10 @@
       <title>공격</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>의 화물이 매우 의심스럽다며 형제단에서 이들의 체포를 요구하고 있습니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;의 화물이 매우 의심스럽다며 형제단에서 이들의 체포를 요구하고 있습니다.</t>
         </line0>
         <line1>
-          <t>
-            <b>::roaming::</b>가 국경 통제를 피해 도망쳤으니 그들을 찾아서 체포하세요.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;가 국경 통제를 피해 도망쳤으니 그들을 찾아서 체포하세요.</t>
         </line1>
       </description>
     </AttackCaravan>
@@ -40825,14 +40109,10 @@
       <title>방어</title>
       <description>
         <line0>
-          <t>
-            <b>::roaming::</b>와 만나 목적지에 도착할 때까지 그들을 보호하세요. 그들은 안전에 도달하기 위해 돈을 지불할 준비가 되어 있습니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;와 만나 목적지에 도착할 때까지 그들을 보호하세요. 그들은 안전에 도달하기 위해 돈을 지불할 준비가 되어 있습니다.</t>
         </line0>
         <line1>
-          <t>
-            <b>::roaming::</b>가 그들의 여정을 호위해 줄 용병을 찾고 있습니다.
-          </t>
+          <t>&lt;b&gt;::roaming::&lt;/b&gt;가 그들의 여정을 호위해 줄 용병을 찾고 있습니다.</t>
         </line1>
       </description>
     </DefendCaravan>
@@ -40851,45 +40131,31 @@
       <title>거래</title>
       <description>
         <line0>
-          <t>
-            <b>::place::</b>에 <b>::item::</b> x::amount::를 공급하면 푸짐한 보상을 받을 수 있습니다.
-          </t>
+          <t>&lt;b&gt;::place::&lt;/b&gt;에 &lt;b&gt;::item::&lt;/b&gt; x::amount::를 공급하면 푸짐한 보상을 받을 수 있습니다.</t>
         </line0>
         <line1>
-          <t>
-            <b>::place::</b>가 필사적으로 <b>::item::</b> x::amount::를 찾고 있으며, 대가를 지불할 준비가 되었습니다.
-          </t>
+          <t>&lt;b&gt;::place::&lt;/b&gt;가 필사적으로 &lt;b&gt;::item::&lt;/b&gt; x::amount::를 찾고 있으며, 대가를 지불할 준비가 되었습니다.</t>
         </line1>
       </description>
-      <mapDescription>
-        <b>::place::</b>에서 ::amount:: <b>::item::</b>을 판매하세요.
-      </mapDescription>
+      <mapDescription>&lt;b&gt;::place::&lt;/b&gt;에서 ::amount:: &lt;b&gt;::item::&lt;/b&gt;을 판매하세요.</mapDescription>
     </SellCommodity>
     <DeliverMessage>
       <title>알리다</title>
       <description>
         <line0>
-          <t>
-            이 메시지를 <b>::place::</b>에 있는 정보원에게 가져가세요.
-          </t>
+          <t>이 메시지를 &lt;b&gt;::place::&lt;/b&gt;에 있는 정보원에게 가져가세요.</t>
         </line0>
       </description>
-      <mapDescription>
-        이 메시지를 <b>::place::</b>로 가져가세요.
-      </mapDescription>
+      <mapDescription>이 메시지를 &lt;b&gt;::place::&lt;/b&gt;로 가져가세요.</mapDescription>
     </DeliverMessage>
     <KillDefender>
       <title>Free</title>
       <description>
         <line0>
-          <t>
-            <b>::groupType::</b>이 <b>::place::</b>에 침입하여 그들의 은신처로 삼았습니다. 의뢰인은 그곳에서 찾은 것은 무엇이든 가져가도록 허락할 것입니다.
-          </t>
+          <t>&lt;b&gt;::groupType::&lt;/b&gt;이 &lt;b&gt;::place::&lt;/b&gt;에 침입하여 그들의 은신처로 삼았습니다. 의뢰인은 그곳에서 찾은 것은 무엇이든 가져가도록 허락할 것입니다.</t>
         </line0>
         <line1>
-          <t>
-            <b>::place::</b>에 <b>::groupType::</b>이 거주하고 있어 더 이상 안전하지 않습니다: 그들을 쫓아내야 할 때입니다.
-          </t>
+          <t>&lt;b&gt;::place::&lt;/b&gt;에 &lt;b&gt;::groupType::&lt;/b&gt;이 거주하고 있어 더 이상 안전하지 않습니다: 그들을 쫓아내야 할 때입니다.</t>
         </line1>
       </description>
     </KillDefender>
@@ -40900,9 +40166,7 @@
       <title>퇴치</title>
       <description>
         <line0>
-          <t>
-            <b>쥐떼</b>가 우리 땅을 파괴하고 있습니다. 밤이면 쥐떼가 우글거리는 곳에서 날카로운 비명 소리가 들립니다.
-          </t>
+          <t>&lt;b&gt;쥐떼&lt;/b&gt;가 우리 땅을 파괴하고 있습니다. 밤이면 쥐떼가 우글거리는 곳에서 날카로운 비명 소리가 들립니다.</t>
         </line0>
       </description>
     </RatInvasion>
@@ -40910,9 +40174,7 @@
       <title>위치 찾기</title>
       <description>
         <line0>
-          <t>
-            이 지역에 미개척 <b>고대인의 무덤</b>이 있다는 소문이 있다.
-          </t>
+          <t>이 지역에 미개척 &lt;b&gt;고대인의 무덤&lt;/b&gt;이 있다는 소문이 있다.</t>
         </line0>
       </description>
     </Ruin>
