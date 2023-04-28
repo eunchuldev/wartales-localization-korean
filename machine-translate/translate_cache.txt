@@ -259,7 +259,7 @@
 0/cdb/0/sheet/220/Backstab/1/desc/0/#text¬Triggered when 이 유닛 attacks an engaged enemy from behind.¬이 유닛이 교전 중인 적을 뒤에서 공격할 때 발동합니다.
 0/cdb/0/sheet/221/DeadlyBlow/0/text/0/#text¬Fatal Blow¬치명타
 0/cdb/0/sheet/221/DeadlyBlow/1/desc/0/#text¬Triggered if this ability kills the target.¬이 능력이 대상에게 치명타를 가하면 발동합니다.
-0/cdb/0/sheet/222/CapaCritical/0/text/0/#text¬Critical Hit¬크리티컬 히트
+0/cdb/0/sheet/222/CapaCritical/0/text/0/#text¬Critical Hit¬치명타
 0/cdb/0/sheet/222/CapaCritical/1/desc/0/#text¬Triggered if this ability lands a critical hit.¬이 능력이 치명타에 적중하면 발동합니다.
 0/cdb/0/sheet/223/Duel/0/text/0/#text¬Duel¬결투
 0/cdb/0/sheet/223/Duel/1/desc/0/#text¬Can only be used if 이 유닛 is engaged in combat.¬이 유닛이 교전 중일 때만 사용할 수 있습니다.
@@ -647,7 +647,7 @@
 0/cdb/1/sheet/205/G2HoevendorpArena/0/world.name/0/#text¬Hoevendorp's Arena¬호벤도르프의 투기장
 0/cdb/1/sheet/206/G2Tavern/0/world.name/0/#text¬Tavern of Fortunes Made¬행운의 선술집
 0/cdb/1/sheet/207/G2RookBoad/0/world.name/0/#text¬The Magnificent¬웅장한
-0/cdb/1/sheet/208/G2RookCabin/0/world.name/0/#text¬Rooks' Cabin¬루크의 오두막
+0/cdb/1/sheet/208/G2RookCabin/0/world.name/0/#text¬Rooks' Cabin¬루크족의 오두막
 0/cdb/1/sheet/209/G2CryptMerchantStart/0/world.name/0/#text¬Sepulchre Door¬무덤 문
 0/cdb/1/sheet/210/G2CryptMerchant/0/world.name/0/#text¬Sepulchre of the Trader¬상인의 무덤
 0/cdb/1/sheet/211/G2RuinsEntrance/0/world.name/0/#text¬Grinmeer Tomb¬그린미어 무덤
@@ -796,7 +796,7 @@
 0/cdb/2/sheet/54/HaragHunter/0/name/0/#text¬Harag Hunters¬하라그 사냥꾼
 0/cdb/2/sheet/55/BelerionSmugglers/0/name/0/#text¬Belerion Smugglers¬벨레리온 밀수꾼
 0/cdb/2/sheet/56/FugitiveSlaves/0/name/0/#text¬Runaway Slaves¬도망친 노예
-0/cdb/2/sheet/57/Rook/0/name/0/#text¬Rooks¬Rooks
+0/cdb/2/sheet/57/Rook/0/name/0/#text¬Rooks¬루크족
 0/cdb/2/sheet/58/Tumblers/0/name/0/#text¬Jugglers¬저글러
 0/cdb/2/sheet/59/Brigands/0/name/0/#text¬Marauders¬약탈자
 0/cdb/2/sheet/60/FarmAnimal/0/name/0/#text¬Farm Animals¬농장 동물
@@ -11545,7 +11545,7 @@
 0/cdb/11/sheet/1/Targeting/1/desc/0/#text¬This unit is readying a skill. They cannot start any other action or become engaged in combat.¬이 유닛은 스킬을 준비 중입니다. 다른 행동을 시작하거나 교전에 참여할 수 없습니다.
 0/cdb/11/sheet/2/Engaged/0/name/0/#text¬Engaged¬교전 중
 0/cdb/11/sheet/2/Engaged/1/desc/0/#text¬This unit can only target the engaged opponent and has a 36.5% chance of taking a critical hit from other units (+20% from behind).¬이 유닛은 교전 중인 상대만 목표로 삼을 수 있으며, 다른 유닛으로부터 치명타를 받을 확률이 36.5%입니다(후방에서 +20%).
-0/cdb/11/sheet/3/CriticalHit/0/name/0/#text¬Critical Hit¬크리티컬 히트
+0/cdb/11/sheet/3/CriticalHit/0/name/0/#text¬Critical Hit¬치명타
 0/cdb/11/sheet/3/CriticalHit/1/desc/0/#text¬<<피해량>> of the attack increased by 36.5%.¬공격의 <<피해량>>이 36.5% 증가합니다.
 0/cdb/11/sheet/4/OpportunityAttack/0/name/0/#text¬Attack of Opportunity¬기회의 공격
 0/cdb/11/sheet/4/OpportunityAttack/1/desc/0/#text¬An attack that deals 36.5% of the main aptitude, <<힘>> or <<민첩>>.¬주특기인 <<힘>> 또는 <<민첩>>에 36.5%의 피해를 주는 공격입니다.
@@ -11883,15 +11883,15 @@
 0/cdb/11/sheet/174/Repositioning/0/name/0/#text¬Repositioning¬리포지셔닝
 0/cdb/11/sheet/174/Repositioning/1/desc/0/#text¬This unit is repositioning. They cannot use skills or base actions until the end of their turn.¬이 유닛이 위치를 변경합니다. 자신의 턴이 끝날 때까지 스킬이나 기본 행동을 사용할 수 없습니다.
 0/cdb/12/sheet/0/Strength/0/name/0/#text¬Strength¬힘
-0/cdb/12/sheet/0/Strength/1/desc/0/#text¬Increases the skill damage based on <<힘>> and <<치명타 피해량 보너스 퍼센트>>.¬<<힘>>과 <<치명타 피해량 보너스 퍼센트>>에 따라 스킬 공격력이 증가합니다.
+0/cdb/12/sheet/0/Strength/1/desc/0/#text¬Increases the skill damage based on <<힘>> and <<치명타 피해량 보너스 퍼센트>>.¬<<힘>>에 기반을 둔 스킬 데미지와 <<치명타 피해량 보너스 퍼센트>>가 증가합니다.
 0/cdb/12/sheet/1/Dexterity/0/name/0/#text¬Dexterity¬민첩
-0/cdb/12/sheet/1/Dexterity/1/desc/0/#text¬Increases the skill damage based on <<민첩>> and <<치명타 적중률>>.¬<<민첩>>과 <<치명타 적중률>>에 따라 스킬 대미지가 증가합니다.
+0/cdb/12/sheet/1/Dexterity/1/desc/0/#text¬Increases the skill damage based on <<민첩>> and <<치명타 적중률>>.¬<<민첩>>에 기반을 둔 스킬 데미지와 <<치명타 적중률>>이 증가합니다.
 0/cdb/12/sheet/2/Constitution/0/name/0/#text¬Constitution¬체질
 0/cdb/12/sheet/2/Constitution/1/desc/0/#text¬Determines how much <<생명력>> 유닛 has and increases their <<수송 능력>>.¬유닛의 <<생명력>> 보유량을 결정하고 <<수송 능력>>을 증가시킵니다.
 0/cdb/12/sheet/2/Constitution/2/descAnimal/0/#text¬Determines how much <<생명력>> 유닛 has.¬유닛의 <<생명력>> 보유량을 결정합니다.
 0/cdb/12/sheet/3/Willpower/0/name/0/#text¬Willpower¬의지력
 0/cdb/12/sheet/3/Willpower/1/desc/0/#text¬Used to boost the troop's Morale in combat. Also increases the <<치명타 적중률>>.¬전투 시 부대의 사기를 높이는 데 사용됩니다. 또한 <<치명타 적중률>>이 증가합니다.
-0/cdb/12/sheet/4/CritHitPercent/0/name/0/#text¬Critical Hit¬크리티컬 히트
+0/cdb/12/sheet/4/CritHitPercent/0/name/0/#text¬Critical Hit¬치명타 확률
 0/cdb/12/sheet/4/CritHitPercent/1/desc/0/#text¬Determines the % of chance an attack will land a critical hit and deal additional damage.¬공격이 치명타로 적중하여 추가 피해를 입힐 확률을 결정합니다.
 0/cdb/12/sheet/5/Movement/0/name/0/#text¬Movement¬이동
 0/cdb/12/sheet/5/Movement/1/desc/0/#text¬Allows 유닛 to move around in combat.¬유닛이 전투 중 이동할 수 있습니다.
@@ -11906,7 +11906,7 @@
 0/cdb/12/sheet/10/Guard/0/name/0/#text¬Guard¬가드
 0/cdb/12/sheet/10/Guard/1/desc/0/#text¬<<방어막>> reduces the damage of incoming attacks as long as 유닛 has <<방어력>>. Attacks from behind ignore 50% of this reduction.¬<<방어막>>은 유닛이 <<방어력>>을 가지고 있는 한 들어오는 공격의 피해를 줄여줍니다. 뒤에서 공격하면 이 감소량의 50%가 무시됩니다.
 0/cdb/12/sheet/11/DamageBonusPercent/0/name/0/#text¬Damage¬피해
-0/cdb/12/sheet/12/CritHitDamageBonusPercent/0/name/0/#text¬Critical Damage¬크리티컬 피해
+0/cdb/12/sheet/12/CritHitDamageBonusPercent/0/name/0/#text¬Critical Damage¬치명타 피해
 0/cdb/12/sheet/13/DistanceBonus/0/name/0/#text¬Range¬사거리
 0/cdb/12/sheet/14/PrecisionBonus/0/name/0/#text¬Precision¬정밀도
 0/cdb/12/sheet/15/DamageReducePercent/0/name/0/#text¬Damage taken¬받는 피해

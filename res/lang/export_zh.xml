@@ -739,7 +739,7 @@
       <desc>이 능력이 대상에게 치명타를 가하면 발동합니다.</desc>
     </DeadlyBlow>
     <CapaCritical>
-      <text>크리티컬 히트</text>
+      <text>치명타</text>
       <desc>이 능력이 치명타에 적중하면 발동합니다.</desc>
     </CapaCritical>
     <Duel>
@@ -1988,7 +1988,7 @@
       <world.name>웅장한</world.name>
     </G2RookBoad>
     <G2RookCabin>
-      <world.name>루크의 오두막</world.name>
+      <world.name>루크족의 오두막</world.name>
     </G2RookCabin>
     <G2CryptMerchantStart>
       <world.name>무덤 문</world.name>
@@ -2431,7 +2431,7 @@
       <name>도망친 노예</name>
     </FugitiveSlaves>
     <Rook>
-      <name>Rooks</name>
+      <name>루크족</name>
     </Rook>
     <Tumblers>
       <name>저글러</name>
@@ -38313,7 +38313,7 @@
       <desc>이 유닛은 교전 중인 상대만 목표로 삼을 수 있으며, 다른 유닛으로부터 치명타를 받을 확률이 [VALUE]%입니다(후방에서 +20%).</desc>
     </Engaged>
     <CriticalHit>
-      <name>크리티컬 히트</name>
+      <name>치명타</name>
       <desc>공격의 [DamageBonusPercent]이 [VALUE]% 증가합니다.</desc>
     </CriticalHit>
     <OpportunityAttack>
@@ -39070,11 +39070,11 @@
   <sheet name="attribute">
     <Strength>
       <name>힘</name>
-      <desc>[Strength]과 [CritHitDamageBonusPercent]에 따라 스킬 공격력이 증가합니다.</desc>
+      <desc>[Strength]에 기반을 둔 스킬 데미지와 [CritHitDamageBonusPercent]가 증가합니다.</desc>
     </Strength>
     <Dexterity>
       <name>민첩</name>
-      <desc>[Dexterity]과 [CritHitPercent]에 따라 스킬 대미지가 증가합니다.</desc>
+      <desc>[Dexterity]에 기반을 둔 스킬 데미지와 [CritHitPercent]이 증가합니다.</desc>
     </Dexterity>
     <Constitution>
       <name>체질</name>
@@ -39086,7 +39086,7 @@
       <desc>전투 시 부대의 사기를 높이는 데 사용됩니다. 또한 [CritHitPercent]이 증가합니다.</desc>
     </Willpower>
     <CritHitPercent>
-      <name>크리티컬 히트</name>
+      <name>치명타 확률</name>
       <desc>공격이 치명타로 적중하여 추가 피해를 입힐 확률을 결정합니다.</desc>
     </CritHitPercent>
     <Movement>
@@ -39117,7 +39117,7 @@
       <name>피해</name>
     </DamageBonusPercent>
     <CritHitDamageBonusPercent>
-      <name>크리티컬 피해</name>
+      <name>치명타 피해</name>
     </CritHitDamageBonusPercent>
     <DistanceBonus>
       <name>사거리</name>
